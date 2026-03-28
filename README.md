@@ -27,7 +27,7 @@ Does filtering input to high-salience events reduce noise and improve generation
 lol2text/
 ├── data/           # Data collection, alignment, and linearization pipeline
 ├── baseline/       # T5-base seq2seq training and evaluation
-├── qwen2.5/           # Qwen2.5-7/13B LoRA fine-tuning and evaluation
+└── qwen2.5/           # Qwen2.5-7/13B LoRA fine-tuning and evaluation
 ```
 
 ## Guides
