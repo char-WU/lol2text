@@ -1,0 +1,525 @@
+[
+  {
+    "timestamp": 283000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Ryze",
+      "Rakan"
+    ],
+    "victim": "Neeko",
+    "target": "Faker"
+  },
+  {
+    "timestamp": 285000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Faker",
+    "participants": [
+      "Neeko"
+    ],
+    "victim": "Rakan",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 306000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Effort",
+    "participants": [
+      "Leona",
+      "Neeko"
+    ],
+    "victim": "Ryze",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 402000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "Kaisa",
+      "Gragas",
+      "Leona"
+    ],
+    "victim": "Ryze",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 631000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 672000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 747000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 885000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 919000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 938000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "RekSai",
+      "Ryze",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Renekton",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 949000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 954000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1058000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1115000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Kled"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1281000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "Kaisa",
+      "Neeko",
+      "Leona"
+    ],
+    "victim": "Xayah",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1323000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1345000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": "Renekton",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1437000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1557000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1563000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1567000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1569000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1637000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1688000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Effort",
+    "participants": [
+      "Leona",
+      "Gragas",
+      "Neeko",
+      "Kaisa"
+    ],
+    "victim": "Kled",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1694000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1703000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1709000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "Renekton",
+      "Gragas"
+    ],
+    "victim": "Ryze",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1911000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Effort",
+    "participants": [
+      "Leona",
+      "Gragas",
+      "Kaisa"
+    ],
+    "victim": "Ryze",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1937000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Xayah",
+      "RekSai",
+      "Rakan"
+    ],
+    "victim": "Neeko",
+    "target": "Faker"
+  },
+  {
+    "timestamp": 1976000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2009000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "RekSai",
+      "Kled",
+      "Ryze",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Leona",
+    "target": "Effort"
+  },
+  {
+    "timestamp": 2011000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "Kaisa",
+      "Renekton",
+      "Neeko",
+      "Leona"
+    ],
+    "victim": "Kled",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 2012000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "RekSai",
+      "Kled",
+      "Ryze",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Renekton",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 2014000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mikyx",
+    "participants": [
+      "Rakan",
+      "Kled",
+      "RekSai",
+      "Xayah"
+    ],
+    "victim": "Gragas",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 2014000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Xayah",
+      "Kled",
+      "Ryze",
+      "Rakan"
+    ],
+    "victim": "Neeko",
+    "target": "Faker"
+  },
+  {
+    "timestamp": 2019000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Xayah",
+      "Kled",
+      "RekSai",
+      "Ryze",
+      "Rakan"
+    ],
+    "victim": "Kaisa",
+    "target": "Teddy"
+  },
+  {
+    "timestamp": 2046000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2057000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2061000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2066000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Ryze",
+      "RekSai",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Leona",
+    "target": "Effort"
+  },
+  {
+    "timestamp": 2073000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

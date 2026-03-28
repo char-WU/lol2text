@@ -1,0 +1,1344 @@
+[
+  {
+    "timestamp": 107000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "yuyanjia",
+        "champion": "Lux"
+      }
+    ],
+    "target": [
+      {
+        "player": "yuyanjia",
+        "champion": "Lux"
+      }
+    ]
+  },
+  {
+    "timestamp": 243000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "yuyanjia",
+        "champion": "Lux"
+      }
+    ],
+    "target": [
+      {
+        "player": "yuyanjia",
+        "champion": "Lux"
+      }
+    ]
+  },
+  {
+    "timestamp": 436000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 541000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 600000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "IgNar",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "IgNar",
+        "champion": "Blitzcrank"
+      },
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Knight",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Knight",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 615000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Lux"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 642000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 643000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 753000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Knight",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 763000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Lux"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 790000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 806000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 934000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 972000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1015000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1105000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      },
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ]
+  },
+  {
+    "timestamp": 1123000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1185000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ]
+  },
+  {
+    "timestamp": 1460000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Lux"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1462000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1465000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1465000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Knight",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Knight",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1472000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Caitlyn"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Caitlyn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1473000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      },
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "yuyanjia",
+        "champion": "Lux"
+      }
+    ],
+    "target": [
+      {
+        "player": "yuyanjia",
+        "champion": "Lux"
+      }
+    ]
+  },
+  {
+    "timestamp": 1507000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1517000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1595000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1599000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1660000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1671000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1679000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1756000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ]
+  },
+  {
+    "timestamp": 1758000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Galio"
+      },
+      {
+        "player": "369",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1759000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1782000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1883000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1902000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1925000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      },
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1947000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Urgot"
+      }
+    ]
+  },
+  {
+    "timestamp": 1949000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      },
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Caitlyn"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Caitlyn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1950000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      },
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "yuyanjia",
+        "champion": "Lux"
+      }
+    ],
+    "target": [
+      {
+        "player": "yuyanjia",
+        "champion": "Lux"
+      }
+    ]
+  },
+  {
+    "timestamp": 1952000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1952000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      },
+      {
+        "player": "solo",
+        "champion": "Gnar"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Knight",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Knight",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1957000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1958000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1964000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1972000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

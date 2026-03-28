@@ -1,0 +1,755 @@
+[
+  {
+    "timestamp": 180000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Neeko",
+      "LeeSin"
+    ],
+    "victim": "RekSai",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 183000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Neeko",
+      "LeeSin"
+    ],
+    "victim": "Sylas",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 310000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "CoreJJ",
+    "participants": [
+      "Alistar",
+      "Vayne"
+    ],
+    "victim": "Kaisa",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 350000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Ryze",
+      "Braum"
+    ],
+    "victim": "Orianna",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 507000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "RekSai",
+      "Orianna"
+    ],
+    "victim": "Ryze",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 716000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ning",
+    "participants": [
+      "LeeSin",
+      "Ryze",
+      "Braum"
+    ],
+    "victim": "Orianna",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 895000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doublelift",
+    "participants": [
+      "Vayne",
+      "Sylas",
+      "RekSai",
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Braum",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 903000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Sylas",
+      "Orianna",
+      "Vayne",
+      "Alistar"
+    ],
+    "victim": "LeeSin",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 908000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "RekSai",
+      "Sylas",
+      "Orianna",
+      "Vayne",
+      "Alistar"
+    ],
+    "victim": "Neeko",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 925000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1013000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "RekSai",
+      "Vayne",
+      "Alistar"
+    ],
+    "victim": "LeeSin",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 1015000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Ryze",
+      "Neeko",
+      "LeeSin",
+      "Kaisa",
+      "Braum"
+    ],
+    "victim": "Alistar",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1018000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "Sylas",
+      "Alistar"
+    ],
+    "victim": "Braum",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 1018000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Kaisa",
+      "Neeko",
+      "LeeSin",
+      "Ryze",
+      "Braum"
+    ],
+    "victim": "Sylas",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1018000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Sylas",
+      "Orianna",
+      "Vayne",
+      "Alistar"
+    ],
+    "victim": "Ryze",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 1021000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Kaisa",
+      "Neeko",
+      "Ryze",
+      "Braum"
+    ],
+    "victim": "Vayne",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1023000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "Sylas",
+      "Vayne",
+      "Alistar"
+    ],
+    "victim": "Kaisa",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1024000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Kaisa",
+      "Neeko",
+      "LeeSin",
+      "Ryze",
+      "Braum"
+    ],
+    "victim": "Orianna",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1114000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1142000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1251000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1282000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1372000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Ryze",
+      "Braum"
+    ],
+    "victim": "Orianna",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1372000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1376000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Ryze",
+      "LeeSin",
+      "Kaisa",
+      "Braum"
+    ],
+    "victim": "Alistar",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1384000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Ryze",
+      "Neeko",
+      "LeeSin",
+      "Braum"
+    ],
+    "victim": "Vayne",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1403000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Ning",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1480000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1505000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1519000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1522000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Neeko",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 1557000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Doublelift",
+    "participants": [
+      "Vayne"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1581000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1671000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Sylas",
+      "Orianna",
+      "Vayne",
+      "Alistar"
+    ],
+    "victim": "Braum",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 1787000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Neeko"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1805000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1811000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Neeko",
+      "Ryze",
+      "Kaisa",
+      "Braum"
+    ],
+    "victim": "Alistar",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1814000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1818000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Sylas",
+      "RekSai",
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Braum",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 1822000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Sylas",
+      "Orianna",
+      "Vayne"
+    ],
+    "victim": "Ryze",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 1825000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doublelift",
+    "participants": [
+      "Vayne",
+      "Sylas",
+      "RekSai",
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Kaisa",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1858000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Neeko",
+      "LeeSin"
+    ],
+    "victim": "Vayne",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1863000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Sylas",
+      "Vayne"
+    ],
+    "victim": "Neeko",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 1868000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Sylas",
+      "RekSai",
+      "Vayne"
+    ],
+    "victim": "LeeSin",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 1877000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1889000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "CoreJJ",
+    "participants": [
+      "Alistar"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1895000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1912000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "RekSai",
+      "Sylas",
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Kaisa",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1913000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "RekSai",
+      "Sylas",
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Braum",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 1917000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1944000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "Sylas",
+      "RekSai",
+      "Alistar"
+    ],
+    "victim": "LeeSin",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 1946000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1951000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doublelift",
+    "participants": [
+      "Vayne",
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Neeko",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 1954000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Ryze",
+      "LeeSin"
+    ],
+    "victim": "RekSai",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1956000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doublelift",
+    "participants": [
+      "Vayne",
+      "RekSai",
+      "Alistar"
+    ],
+    "victim": "Ryze",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 1962000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

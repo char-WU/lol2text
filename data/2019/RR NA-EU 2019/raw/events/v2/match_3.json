@@ -1,0 +1,984 @@
+[
+  {
+    "timestamp": 67000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      },
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armao",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armao",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 398000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 574000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Smoothie",
+        "champion": "TahmKench"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Smoothie",
+        "champion": "TahmKench"
+      },
+      {
+        "player": "Zven",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ]
+  },
+  {
+    "timestamp": 581000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mithy",
+        "champion": "Yuumi"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mithy",
+        "champion": "Yuumi"
+      },
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 621000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 635000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alphari",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alphari",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 751000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 781000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Armao",
+        "champion": "Olaf"
+      },
+      {
+        "player": "Zven",
+        "champion": "Sona"
+      },
+      {
+        "player": "Smoothie",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ]
+  },
+  {
+    "timestamp": 802000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armao",
+        "champion": "Olaf"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armao",
+        "champion": "Olaf"
+      },
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mithy",
+        "champion": "Yuumi"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mithy",
+        "champion": "Yuumi"
+      }
+    ]
+  },
+  {
+    "timestamp": 876000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 945000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 991000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1052000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      },
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1058000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      },
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      },
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armao",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armao",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 1067000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      },
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Smoothie",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Smoothie",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1101000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1104000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1197000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1226000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Zven",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 1424000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1553000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      },
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armao",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armao",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 1580000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1587000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1625000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1658000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armao",
+        "champion": "Olaf"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armao",
+        "champion": "Olaf"
+      },
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Zven",
+        "champion": "Sona"
+      },
+      {
+        "player": "Smoothie",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1663000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      },
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      },
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armao",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armao",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 1678000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1689000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1716000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1731000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1736000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1740000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1741000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Smoothie",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kold",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 1743000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nukeduck",
+        "champion": "Corki"
+      },
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1749000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Patrik",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1762000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

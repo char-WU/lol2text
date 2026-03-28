@@ -1,0 +1,601 @@
+[
+  {
+    "timestamp": 315000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Udyr",
+      "Ashe",
+      "Lulu"
+    ],
+    "victim": "Senna",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 320000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Vulcan",
+    "participants": [
+      "Lulu",
+      "Udyr",
+      "Ashe"
+    ],
+    "victim": "TahmKench",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 416000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Lucian",
+      "Udyr",
+      "Ashe",
+      "Lulu"
+    ],
+    "victim": "TahmKench",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 447000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 516000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Vulcan",
+    "participants": [
+      "Lulu",
+      "Ashe"
+    ],
+    "victim": "TahmKench",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 536000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 786000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 938000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Lucian",
+      "Karma",
+      "Udyr",
+      "Ashe",
+      "Lulu"
+    ],
+    "victim": "Syndra",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 940000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Senna",
+      "Sion",
+      "Rumble"
+    ],
+    "victim": "Lulu",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 945000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Lucian",
+      "Karma",
+      "Udyr",
+      "Ashe",
+      "Lulu"
+    ],
+    "victim": "Sion",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 970000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 989000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1083000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1123000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1127000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble",
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Lucian",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1255000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "BeryL",
+    "participants": [
+      "TahmKench"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1268000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Lucian",
+      "Karma",
+      "Udyr",
+      "Ashe",
+      "Lulu"
+    ],
+    "victim": "TahmKench",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1272000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Lucian",
+      "Karma",
+      "Udyr",
+      "Ashe",
+      "Lulu"
+    ],
+    "victim": "Sion",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1288000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1303000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1365000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1380000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble",
+      "Sion",
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Udyr",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1402000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Syndra",
+      "Rumble",
+      "Senna"
+    ],
+    "victim": "Karma",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 1430000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1525000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Lucian",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1552000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Senna",
+      "Rumble"
+    ],
+    "victim": "Lulu",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1723000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Senna",
+      "Rumble",
+      "Syndra",
+      "TahmKench"
+    ],
+    "victim": "Lulu",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1729000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "Sion",
+      "Syndra",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Karma",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 1753000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1851000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1852000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1867000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Syndra",
+      "TahmKench"
+    ],
+    "victim": "Lucian",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1912000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1971000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "Sion"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1991000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1992000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2033000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Senna",
+      "Rumble",
+      "TahmKench"
+    ],
+    "victim": "Lucian",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 2041000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble",
+      "Sion",
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Ashe",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 2052000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2064000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Syndra",
+      "Sion",
+      "Rumble",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Udyr",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 2066000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2071000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "Sion",
+      "Syndra",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Karma",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 2072000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2084000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Vulcan",
+    "participants": [
+      "Lulu",
+      "Karma"
+    ],
+    "victim": "TahmKench",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 2085000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Vulcan",
+    "participants": [
+      "Lulu",
+      "Karma"
+    ],
+    "victim": "Sion",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 2090000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

@@ -1,0 +1,587 @@
+[
+  {
+    "timestamp": 43000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "3z",
+    "participants": [
+      "Sion",
+      "RekSai",
+      "Akali",
+      "Syndra",
+      "Leona"
+    ],
+    "victim": "LeeSin",
+    "target": "Tarzan"
+  },
+  {
+    "timestamp": 47000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Unified",
+    "participants": [
+      "Syndra",
+      "Sion",
+      "RekSai",
+      "Akali",
+      "Leona"
+    ],
+    "victim": "Jayce",
+    "target": "Sw0rd"
+  },
+  {
+    "timestamp": 52000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kaiwing",
+    "participants": [
+      "Leona",
+      "Sion",
+      "RekSai",
+      "Akali",
+      "Syndra"
+    ],
+    "victim": "Nautilus",
+    "target": "Lehends"
+  },
+  {
+    "timestamp": 184000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Ezreal",
+      "LeeSin"
+    ],
+    "victim": "RekSai",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 188000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tarzan",
+    "participants": [
+      "LeeSin",
+      "Ezreal"
+    ],
+    "victim": "Akali",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 361000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kaiwing",
+    "participants": [
+      "Leona",
+      "RekSai",
+      "Syndra"
+    ],
+    "victim": "Irelia",
+    "target": "Viper"
+  },
+  {
+    "timestamp": 496000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Crash",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 623000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Crash",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 863000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Irelia",
+      "Jayce",
+      "LeeSin",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "Sion",
+    "target": "3z"
+  },
+  {
+    "timestamp": 881000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Tarzan",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 978000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Akali"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1100000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Crash",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1191000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Tarzan",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1368000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Ezreal",
+      "LeeSin",
+      "Irelia"
+    ],
+    "victim": "Akali",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 1407000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1511000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Sw0rd",
+    "participants": [
+      "Jayce",
+      "LeeSin",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "Sion",
+    "target": "3z"
+  },
+  {
+    "timestamp": 1550000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Sw0rd",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1583000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Crash",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1629000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1677000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Akali",
+      "RekSai"
+    ],
+    "victim": "Jayce",
+    "target": "Sw0rd"
+  },
+  {
+    "timestamp": 1779000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Ezreal",
+      "Jayce",
+      "Irelia",
+      "Nautilus"
+    ],
+    "victim": "Sion",
+    "target": "3z"
+  },
+  {
+    "timestamp": 1802000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Sw0rd",
+    "participants": [
+      "Jayce",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "RekSai",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 1806000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1831000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Sw0rd",
+    "participants": [
+      "Jayce",
+      "LeeSin",
+      "Ezreal",
+      "Irelia",
+      "Nautilus"
+    ],
+    "victim": "Leona",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1907000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2054000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Akali",
+      "RekSai"
+    ],
+    "victim": "LeeSin",
+    "target": "Tarzan"
+  },
+  {
+    "timestamp": 2055000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Irelia",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "RekSai",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 2063000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Sw0rd",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": "Syndra",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 2082000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Irelia",
+      "Jayce"
+    ],
+    "victim": "Akali",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 2103000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2161000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Sw0rd",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 2222000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Sw0rd",
+    "participants": [
+      "Jayce",
+      "LeeSin",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "RekSai",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 2226000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2229000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2240000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Sw0rd",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2248000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Sw0rd",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2251000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "3z",
+    "participants": [
+      "Sion",
+      "Syndra",
+      "Leona"
+    ],
+    "victim": "LeeSin",
+    "target": "Tarzan"
+  },
+  {
+    "timestamp": 2251000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Sw0rd",
+    "participants": [
+      "Jayce",
+      "LeeSin",
+      "Ezreal",
+      "Irelia",
+      "Nautilus"
+    ],
+    "victim": "Leona",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 2253000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Irelia",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "Akali",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 2256000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Irelia",
+      "Jayce",
+      "LeeSin",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "Sion",
+    "target": "3z"
+  },
+  {
+    "timestamp": 2263000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Sw0rd",
+    "participants": [
+      "Jayce",
+      "LeeSin",
+      "Ezreal",
+      "Irelia",
+      "Nautilus"
+    ],
+    "victim": "Syndra",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 2263000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "3z",
+    "participants": [
+      "Sion",
+      "Akali",
+      "Syndra"
+    ],
+    "victim": "Nautilus",
+    "target": "Lehends"
+  },
+  {
+    "timestamp": 2264000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Unified",
+    "participants": [
+      "Syndra",
+      "Sion",
+      "Akali",
+      "Leona"
+    ],
+    "victim": "Irelia",
+    "target": "Viper"
+  },
+  {
+    "timestamp": 2271000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

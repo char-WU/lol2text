@@ -1,0 +1,1838 @@
+[
+  {
+    "timestamp": 523000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 627000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 647000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 691000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 704000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 717000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 731000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 731000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 895000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 898000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 950000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      },
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 954000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      },
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 970000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1047000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1049000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1061000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      },
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1086000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 1088000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1175000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1384000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1386000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1389000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      },
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1391000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      },
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1393000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      },
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 1397000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1433000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1489000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1489000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1503000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      },
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 1718000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1740000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1816000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 1819000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1822000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1826000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 1832000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      },
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 2033000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      },
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 2043000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 2054000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2121000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 2125000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 2134000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      },
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 2137000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      },
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 2166000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2236000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 2252000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 2326000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 2359000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2496000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 2502000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 2566000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2583000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 2592000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 2596000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 2602000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2606000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 2610000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2613000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vsta",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 2615000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 2621000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cryin",
+        "champion": "Galio"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kennen"
+      },
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Deft",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 2623000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Wei",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      }
+    ],
+    "target": [
+      {
+        "player": "Willer",
+        "champion": "Viego"
+      }
+    ]
+  },
+  {
+    "timestamp": 2630000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

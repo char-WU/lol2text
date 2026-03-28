@@ -1,0 +1,601 @@
+[
+  {
+    "timestamp": 186000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Syndra",
+      "LeeSin"
+    ],
+    "victim": "Orianna",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 212000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Xayah",
+      "Thresh"
+    ],
+    "victim": "Rakan",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 216000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Syndra",
+      "Yasuo",
+      "Rakan"
+    ],
+    "victim": "Thresh",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 222000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Syndra",
+      "Yasuo"
+    ],
+    "victim": "Xayah",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 249000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crash",
+    "participants": [
+      "Gragas",
+      "Orianna"
+    ],
+    "victim": "LeeSin",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 581000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiwing",
+    "participants": [
+      "Thresh",
+      "Xayah"
+    ],
+    "victim": "Rakan",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 655000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 732000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Crash",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 756000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiwing",
+    "participants": [
+      "Thresh",
+      "Gragas",
+      "Orianna"
+    ],
+    "victim": "Rakan",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 827000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 911000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiwing",
+    "participants": [
+      "Thresh",
+      "Gragas",
+      "Xayah"
+    ],
+    "victim": "Rakan",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 941000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mission",
+    "participants": [
+      "Orianna",
+      "Gangplank",
+      "Gragas",
+      "Thresh"
+    ],
+    "victim": "LeeSin",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 957000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Vladimir"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 965000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crash",
+    "participants": [
+      "Gragas",
+      "Xayah",
+      "Thresh"
+    ],
+    "victim": "Rakan",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 991000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1020000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1071000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1078000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Kaiwing",
+    "participants": [
+      "Thresh"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1098000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Mission",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1124000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crash",
+    "participants": [
+      "Gragas",
+      "Gangplank",
+      "Thresh"
+    ],
+    "victim": "LeeSin",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1259000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Syndra",
+      "LeeSin"
+    ],
+    "victim": "Gangplank",
+    "target": "3z"
+  },
+  {
+    "timestamp": 1294000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Mission",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1339000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1494000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1595000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Syndra",
+      "Rakan"
+    ],
+    "victim": "Gragas",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 1606000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1614000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Xayah",
+      "Orianna",
+      "Thresh"
+    ],
+    "victim": "Syndra",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1618000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Yasuo",
+      "Vladimir",
+      "Syndra",
+      "Rakan"
+    ],
+    "victim": "Xayah",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 1628000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "LeeSin",
+      "Vladimir",
+      "Rakan"
+    ],
+    "victim": "Gangplank",
+    "target": "3z"
+  },
+  {
+    "timestamp": 1662000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Yasuo",
+      "Rakan"
+    ],
+    "victim": "Thresh",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1681000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1749000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1760000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Vladimir"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1779000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Syndra",
+      "LeeSin"
+    ],
+    "victim": "Gragas",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 1784000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Yasuo",
+      "LeeSin",
+      "Syndra",
+      "Rakan"
+    ],
+    "victim": "Gangplank",
+    "target": "3z"
+  },
+  {
+    "timestamp": 1785000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Yasuo",
+      "LeeSin",
+      "Syndra",
+      "Rakan"
+    ],
+    "victim": "Xayah",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 1787000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "LeeSin",
+      "Syndra",
+      "Yasuo",
+      "Rakan"
+    ],
+    "victim": "Thresh",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1787000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Xayah",
+      "Gangplank",
+      "Gragas",
+      "Thresh"
+    ],
+    "victim": "Syndra",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1792000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Mikyx",
+    "participants": [
+      "Rakan"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1799000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Vladimir",
+      "LeeSin"
+    ],
+    "victim": "Orianna",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 1803000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1812000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1819000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1825000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1826000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Yasuo",
+      "Vladimir",
+      "LeeSin",
+      "Rakan"
+    ],
+    "victim": "Gragas",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 1827000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1837000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

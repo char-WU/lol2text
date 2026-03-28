@@ -1,0 +1,1730 @@
+[
+  {
+    "timestamp": 197000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      },
+      {
+        "player": "Titan",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 198000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Titan",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Titan",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 200000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 395000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 519000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Guigo",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Guigo",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 561000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 577000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 597000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 599000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 607000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 614000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 614000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 618000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 625000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 625000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 628000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 647000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 715000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 725000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      },
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Titan",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 768000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 822000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 830000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 831000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 840000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Titan",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Titan",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 846000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      }
+    ],
+    "target": [
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      }
+    ]
+  },
+  {
+    "timestamp": 851000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 858000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 989000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1037000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1052000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      }
+    ],
+    "target": [
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      }
+    ]
+  },
+  {
+    "timestamp": 1070000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1075000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Guigo",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Guigo",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1090000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1092000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Titan",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Titan",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Guigo",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1155000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1167000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1179000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1286000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1286000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1296000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Titan",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Titan",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1296000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Guigo",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Guigo",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1299000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      },
+      {
+        "player": "Guigo",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Titan",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 1323000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1400000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Guigo",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Guigo",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1437000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1450000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1511000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1517000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      },
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1521000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1521000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Guigo",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Guigo",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      },
+      {
+        "player": "Titan",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1526000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1529000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      }
+    ],
+    "target": [
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      }
+    ]
+  },
+  {
+    "timestamp": 1541000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1598000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Guigo",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Guigo",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1609000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "JoJo",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1617000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1635000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Titan",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Titan",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1636000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      }
+    ],
+    "target": [
+      {
+        "player": "Grevthar",
+        "champion": "Kled"
+      }
+    ]
+  },
+  {
+    "timestamp": 1646000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1656000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1659000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1663000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1665000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Tally",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Violet",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ally",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aegis",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1675000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

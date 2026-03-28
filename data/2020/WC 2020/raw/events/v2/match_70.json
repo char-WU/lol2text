@@ -1,0 +1,924 @@
+[
+  {
+    "timestamp": 143000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Lux"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Koala",
+        "champion": "Karma"
+      }
+    ],
+    "target": [
+      {
+        "player": "Koala",
+        "champion": "Karma"
+      }
+    ]
+  },
+  {
+    "timestamp": 157000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 258000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Pk",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Impact",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "target": [
+      {
+        "player": "Impact",
+        "champion": "Mordekaiser"
+      }
+    ]
+  },
+  {
+    "timestamp": 494000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pk",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pk",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 588000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 698000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 836000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 856000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 911000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1041000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1046000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1086000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1114000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bruce",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bruce",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1207000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1245000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1301000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1461000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Pk",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Bruce",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Koala",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Impact",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "target": [
+      {
+        "player": "Impact",
+        "champion": "Mordekaiser"
+      }
+    ]
+  },
+  {
+    "timestamp": 1480000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Graves"
+      },
+      {
+        "player": "Tactical",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Lux"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Koala",
+        "champion": "Karma"
+      }
+    ],
+    "target": [
+      {
+        "player": "Koala",
+        "champion": "Karma"
+      }
+    ]
+  },
+  {
+    "timestamp": 1484000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pk",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pk",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Bruce",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Koala",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tactical",
+        "champion": "Caitlyn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tactical",
+        "champion": "Caitlyn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1557000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1681000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bruce",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bruce",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1753000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1775000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1882000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1941000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bruce",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bruce",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 2126000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2196000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Pk",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Bruce",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Koala",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 2209000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 2213000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2219000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pk",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pk",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Koala",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tactical",
+        "champion": "Caitlyn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tactical",
+        "champion": "Caitlyn"
+      }
+    ]
+  },
+  {
+    "timestamp": 2223000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Pk",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Koala",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Lux"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Lux"
+      }
+    ]
+  },
+  {
+    "timestamp": 2225000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2244000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bruce",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bruce",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Broxah",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Broxah",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 2247000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2248000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 2250000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gemini",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 2257000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

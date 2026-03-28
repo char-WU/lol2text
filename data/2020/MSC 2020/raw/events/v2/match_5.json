@@ -1,0 +1,1746 @@
+[
+  {
+    "timestamp": 127000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 352000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 374000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 502000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 504000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 511000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 608000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 610000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 617000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruler",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruler",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 620000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Pantheon"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 625000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 684000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 713000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 720000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 775000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 778000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      },
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ]
+  },
+  {
+    "timestamp": 786000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 885000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 905000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 908000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 909000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 913000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 925000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1010000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1011000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1032000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1056000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1068000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 1071000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1073000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1078000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1089000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1114000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Pantheon"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1117000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1120000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 1126000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      },
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Pantheon"
+      },
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1185000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1212000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1257000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1264000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1273000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1279000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1287000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1390000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1394000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1402000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1418000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1420000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Sett"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Pantheon"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1424000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruler",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruler",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1427000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      },
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1437000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1440000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1443000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1443000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      },
+      {
+        "player": "Knight",
+        "champion": "Ekko"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 1453000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

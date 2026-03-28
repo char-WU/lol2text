@@ -1,0 +1,579 @@
+[
+  {
+    "timestamp": 366000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chazz",
+    "participants": [
+      "LeeSin",
+      "Fiddlesticks",
+      "Thresh"
+    ],
+    "victim": "Rumble",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 537000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 568000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Fiddlesticks"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 582000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 731000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Rumble",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Jinx",
+    "target": "Praedyth"
+  },
+  {
+    "timestamp": 732000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Rumble",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Thresh",
+    "target": "Decoy"
+  },
+  {
+    "timestamp": 906000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cryin",
+    "participants": [
+      "Nocturne",
+      "Gnar",
+      "Rumble"
+    ],
+    "victim": "LeeSin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 911000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 927000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1000000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1036000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chazz",
+    "participants": [
+      "LeeSin",
+      "Fiddlesticks"
+    ],
+    "victim": "Kaisa",
+    "target": "GALA"
+  },
+  {
+    "timestamp": 1037000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chazz",
+    "participants": [
+      "LeeSin",
+      "Fiddlesticks",
+      "Jinx",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 1039000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cryin",
+    "participants": [
+      "Nocturne",
+      "Gnar"
+    ],
+    "victim": "Jinx",
+    "target": "Praedyth"
+  },
+  {
+    "timestamp": 1041000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": "Fiddlesticks",
+    "target": "Pabu"
+  },
+  {
+    "timestamp": 1042000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Rumble",
+      "Gnar",
+      "Nocturne",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "LeeSin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 1045000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Rumble",
+      "Gnar",
+      "Nocturne"
+    ],
+    "victim": "Thresh",
+    "target": "Decoy"
+  },
+  {
+    "timestamp": 1047000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BioPanther",
+    "participants": [
+      "Urgot",
+      "Fiddlesticks",
+      "LeeSin",
+      "Jinx",
+      "Thresh"
+    ],
+    "victim": "Nocturne",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 1050000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Rumble",
+      "Gnar",
+      "Nocturne"
+    ],
+    "victim": "Urgot",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 1071000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1208000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": "LeeSin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 1213000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Gnar",
+      "Rumble",
+      "Nautilus"
+    ],
+    "victim": "Thresh",
+    "target": "Decoy"
+  },
+  {
+    "timestamp": 1214000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Gnar",
+      "Rumble",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Jinx",
+    "target": "Praedyth"
+  },
+  {
+    "timestamp": 1237000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1241000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cryin",
+    "participants": [
+      "Nocturne",
+      "Kaisa"
+    ],
+    "victim": "Fiddlesticks",
+    "target": "Pabu"
+  },
+  {
+    "timestamp": 1243000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1245000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1292000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1313000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Gnar",
+      "Rumble",
+      "Nocturne",
+      "Nautilus"
+    ],
+    "victim": "LeeSin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 1322000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Gnar",
+      "Rumble",
+      "Nocturne",
+      "Nautilus"
+    ],
+    "victim": "Jinx",
+    "target": "Praedyth"
+  },
+  {
+    "timestamp": 1324000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cryin",
+    "participants": [
+      "Nocturne",
+      "Rumble",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Fiddlesticks",
+    "target": "Pabu"
+  },
+  {
+    "timestamp": 1326000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Gnar",
+      "Rumble",
+      "Nocturne",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Thresh",
+    "target": "Decoy"
+  },
+  {
+    "timestamp": 1330000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Gnar",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Urgot",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 1335000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1350000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1350000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1355000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1407000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1420000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Rumble",
+      "Nautilus"
+    ],
+    "victim": "Fiddlesticks",
+    "target": "Pabu"
+  },
+  {
+    "timestamp": 1424000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Gnar",
+      "Rumble",
+      "Nautilus"
+    ],
+    "victim": "Urgot",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 1424000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cryin",
+    "participants": [
+      "Nocturne",
+      "Gnar",
+      "Nautilus"
+    ],
+    "victim": "Jinx",
+    "target": "Praedyth"
+  },
+  {
+    "timestamp": 1430000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Gnar",
+      "Rumble",
+      "Nocturne",
+      "Nautilus"
+    ],
+    "victim": "LeeSin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 1443000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1443000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Cryin",
+    "participants": [
+      "Nocturne"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1452000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

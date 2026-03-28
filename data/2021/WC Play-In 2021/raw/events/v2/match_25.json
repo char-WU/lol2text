@@ -1,0 +1,1278 @@
+[
+  {
+    "timestamp": 227000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zergsting",
+        "champion": "Nami"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zergsting",
+        "champion": "Nami"
+      },
+      {
+        "player": "Alive",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 233000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alive",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alive",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 354000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alive",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alive",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 358000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 360000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mojito",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mojito",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 361000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zergsting",
+        "champion": "Nami"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zergsting",
+        "champion": "Nami"
+      }
+    ]
+  },
+  {
+    "timestamp": 371000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 384000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 392000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 503000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 580000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crazy",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crazy",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 594000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 608000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 608000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 608000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 621000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 650000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 707000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 767000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 770000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zergsting",
+        "champion": "Nami"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zergsting",
+        "champion": "Nami"
+      }
+    ]
+  },
+  {
+    "timestamp": 804000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alive",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alive",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 806000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 833000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 891000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 938000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 948000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 957000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 973000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1013000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zergsting",
+        "champion": "Nami"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zergsting",
+        "champion": "Nami"
+      },
+      {
+        "player": "Crazy",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Mojito",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      }
+    ],
+    "target": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      }
+    ]
+  },
+  {
+    "timestamp": 1024000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Crazy",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crazy",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1036000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Aria",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Aria",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1198000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1308000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1337000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      },
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Aria",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crazy",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crazy",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1344000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Aria",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bolulu",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bolulu",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1346000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Aria",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mojito",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mojito",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1347000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      },
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alive",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alive",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1353000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Aria",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zergsting",
+        "champion": "Nami"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zergsting",
+        "champion": "Nami"
+      }
+    ]
+  },
+  {
+    "timestamp": 1378000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1479000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1504000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Aria",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mojito",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mojito",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1525000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Aria",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Aria",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1530000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1628000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1638000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zergsting",
+        "champion": "Nami"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zergsting",
+        "champion": "Nami"
+      }
+    ]
+  },
+  {
+    "timestamp": 1638000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Aria",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Aria",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mojito",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mojito",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1641000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crazy",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crazy",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1646000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alive",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alive",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1653000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Urgot"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1660000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Aria",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Aria",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1675000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

@@ -1,0 +1,1472 @@
+[
+  {
+    "timestamp": 337000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Syndra"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 348000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 350000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 509000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 534000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 560000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Sion"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Sion"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 592000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 598000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Maple",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 715000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Maple",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Maple",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 807000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 856000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 892000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 935000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 955000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1044000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1050000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1054000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 1167000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1171000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Sion"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Sion"
+      },
+      {
+        "player": "Maple",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1175000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1398000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1501000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1653000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1660000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1660000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 1681000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 1682000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1692000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Maple",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Maple",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1737000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1811000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1833000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1846000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1846000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1854000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 1859000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1884000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1888000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1893000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1972000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1990000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 2007000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 2012000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Maple",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Maple",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 2019000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 2024000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 2025000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 2027000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2029000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2033000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2034000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 2035000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 2036000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Carzzy",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 2042000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

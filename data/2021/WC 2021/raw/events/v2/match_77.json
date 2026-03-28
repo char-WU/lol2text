@@ -1,0 +1,1436 @@
+[
+  {
+    "timestamp": 215000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      }
+    ]
+  },
+  {
+    "timestamp": 319000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 568000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 600000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 601000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 649000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 662000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 668000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 696000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 705000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 813000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 813000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 830000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 962000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 966000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 975000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 985000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1024000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1045000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1059000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1073000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1076000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1165000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1214000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1222000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      },
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 1250000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1251000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1253000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      },
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1257000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1257000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      },
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      }
+    ]
+  },
+  {
+    "timestamp": 1259000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 1374000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 1374000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 1378000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1379000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      },
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 1408000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1455000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1495000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1504000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1547000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1552000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1578000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Jax"
+      }
+    ]
+  },
+  {
+    "timestamp": 1581000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1592000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 1592000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Elyoya",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1598000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Santorin",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 1608000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1616000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1619000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1628000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

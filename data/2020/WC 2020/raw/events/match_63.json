@@ -1,0 +1,445 @@
+[
+  {
+    "timestamp": 340000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Angel",
+    "participants": [
+      "Galio",
+      "Jax"
+    ],
+    "victim": "Volibear",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 347000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": "Jax",
+    "target": "Bin"
+  },
+  {
+    "timestamp": 492000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 570000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Angel",
+    "participants": [
+      "Galio",
+      "Draven",
+      "Leona"
+    ],
+    "victim": "Rakan",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 603000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Draven",
+      "Leona"
+    ],
+    "victim": "Twitch",
+    "target": "Tactical"
+  },
+  {
+    "timestamp": 659000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 807000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Draven"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 813000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1045000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1144000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1150000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Draven"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1171000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Draven"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1172000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Tactical",
+    "participants": [
+      "Twitch"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1174000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Bin",
+    "participants": [
+      "Jax"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1251000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Angel",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1475000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1480000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Nidalee",
+      "Galio",
+      "Draven",
+      "Leona"
+    ],
+    "victim": "Rakan",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1484000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Draven",
+      "Jax",
+      "Nidalee",
+      "Galio",
+      "Leona"
+    ],
+    "victim": "Volibear",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1484000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Draven",
+      "Galio",
+      "Leona"
+    ],
+    "victim": "LeeSin",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 1521000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1704000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tactical",
+    "participants": [
+      "Twitch",
+      "LeeSin",
+      "Syndra",
+      "Rakan"
+    ],
+    "victim": "Draven",
+    "target": "huanfeng"
+  },
+  {
+    "timestamp": 1711000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Angel",
+    "participants": [
+      "Galio",
+      "Nidalee",
+      "Draven",
+      "Leona"
+    ],
+    "victim": "LeeSin",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 1752000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bin",
+    "participants": [
+      "Jax",
+      "Galio"
+    ],
+    "victim": "Twitch",
+    "target": "Tactical"
+  },
+  {
+    "timestamp": 1754000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1767000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Angel",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1775000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1786000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1858000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1898000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Angel",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1902000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Nidalee",
+      "Draven",
+      "Leona"
+    ],
+    "victim": "Rakan",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1905000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Angel",
+    "participants": [
+      "Galio",
+      "Draven",
+      "Leona"
+    ],
+    "victim": "Twitch",
+    "target": "Tactical"
+  },
+  {
+    "timestamp": 1907000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bin",
+    "participants": [
+      "Jax",
+      "Nidalee",
+      "Galio",
+      "Draven",
+      "Leona"
+    ],
+    "victim": "Syndra",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1912000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1913000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Draven",
+      "Galio"
+    ],
+    "victim": "Volibear",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1923000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

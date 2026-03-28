@@ -1,0 +1,1374 @@
+[
+  {
+    "timestamp": 252000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 410000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 535000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 566000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 576000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 688000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 705000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Deft",
+        "champion": "Draven"
+      }
+    ],
+    "target": [
+      {
+        "player": "Deft",
+        "champion": "Draven"
+      }
+    ]
+  },
+  {
+    "timestamp": 726000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 734000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 959000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 960000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1036000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1055000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1065000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "369",
+        "champion": "Renekton"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1156000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1161000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1222000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      },
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1271000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1306000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1410000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1420000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "369",
+        "champion": "Renekton"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1431000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "369",
+        "champion": "Renekton"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1468000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1520000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1534000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1546000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      },
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Deft",
+        "champion": "Draven"
+      },
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1549000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "Draven"
+      },
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      },
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1551000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      },
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      },
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Deft",
+        "champion": "Draven"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 1553000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      },
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Deft",
+        "champion": "Draven"
+      },
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1580000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1584000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "Draven"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1641000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pyosik",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1643000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "369",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1744000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1838000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1870000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "369",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chovy",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1871000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1880000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      }
+    ],
+    "participants": [
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      },
+      {
+        "player": "369",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doran",
+        "champion": "Quinn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1881000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "369",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Deft",
+        "champion": "Draven"
+      }
+    ],
+    "target": [
+      {
+        "player": "Deft",
+        "champion": "Draven"
+      }
+    ]
+  },
+  {
+    "timestamp": 1899000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1904000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1912000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1917000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1920000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "369",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1930000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

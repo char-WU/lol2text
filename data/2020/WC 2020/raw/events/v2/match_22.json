@@ -1,0 +1,1662 @@
+[
+  {
+    "timestamp": 290000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 391000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 402000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 408000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 517000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 518000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 562000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 562000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 573000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 574000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 664000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 789000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 862000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 902000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 934000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 939000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 949000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 950000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 950000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 952000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 953000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 992000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1023000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1099000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1100000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1102000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1132000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1301000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      },
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1303000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1304000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 1306000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1313000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1336000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1413000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 1417000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1424000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1424000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1445000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1446000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1455000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1462000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1575000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "LokeN",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 1576000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1577000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Angel",
+        "champion": "Zoe"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1585000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yagao",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1587000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Graves"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1594000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1597000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1609000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

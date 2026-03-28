@@ -1,0 +1,1706 @@
+[
+  {
+    "timestamp": 293000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 295000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 307000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 372000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      }
+    ]
+  },
+  {
+    "timestamp": 502000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 622000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 715000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      }
+    ]
+  },
+  {
+    "timestamp": 744000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 746000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 768000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 789000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 887000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 900000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 913000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 921000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 962000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 965000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1075000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1128000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1134000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1141000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1288000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1373000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1384000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1394000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      }
+    ]
+  },
+  {
+    "timestamp": 1508000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1533000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1543000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1561000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      }
+    ]
+  },
+  {
+    "timestamp": 1587000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1590000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1592000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1603000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1605000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1619000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1620000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1636000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      }
+    ]
+  },
+  {
+    "timestamp": 1694000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1708000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1717000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1724000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1734000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1738000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1775000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1793000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1796000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1821000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      }
+    ]
+  },
+  {
+    "timestamp": 1912000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1916000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1957000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ghost",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1959000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShowMaker",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1964000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1975000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1979000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1986000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Fiora"
+      }
+    ]
+  },
+  {
+    "timestamp": 1992000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1993000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1993000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 2001000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2011000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

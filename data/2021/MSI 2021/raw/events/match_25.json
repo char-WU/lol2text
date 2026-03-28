@@ -1,0 +1,686 @@
+[
+  {
+    "timestamp": 417000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Aatrox",
+      "Zoe"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 419000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Zoe",
+      "Aatrox"
+    ],
+    "victim": "LeeSin",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 551000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Aatrox",
+      "Udyr"
+    ],
+    "victim": "Rumble",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 583000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 671000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 717000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 784000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Aatrox",
+      "Zoe"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 876000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Zoe",
+      "Aatrox",
+      "Kaisa"
+    ],
+    "victim": "Rakan",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 876000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Aatrox",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 881000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Xayah",
+      "LeeSin",
+      "Rumble",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 987000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1001000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1027000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1033000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1126000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1130000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1304000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "LeeSin",
+      "Rumble",
+      "Viktor",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1308000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Aatrox",
+      "Zoe",
+      "Nautilus"
+    ],
+    "victim": "LeeSin",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1311000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa",
+      "Aatrox",
+      "Zoe",
+      "Nautilus"
+    ],
+    "victim": "Rumble",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 1315000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa",
+      "Udyr",
+      "Zoe"
+    ],
+    "victim": "Xayah",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1316000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Udyr",
+      "Zoe",
+      "Kaisa"
+    ],
+    "victim": "Rakan",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1319000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa",
+      "Udyr"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1349000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1375000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Viktor",
+      "Rumble",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1381000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1417000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1432000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Udyr",
+      "Zoe"
+    ],
+    "victim": "Xayah",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1443000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1452000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1460000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1464000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1469000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1535000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1552000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1642000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Viktor",
+      "LeeSin",
+      "Rumble",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1650000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Xayah",
+      "LeeSin",
+      "Rumble",
+      "Viktor",
+      "Rakan"
+    ],
+    "victim": "Aatrox",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1652000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "LeeSin",
+      "Rumble",
+      "Viktor",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Udyr",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 1694000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1743000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1803000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1816000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1830000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Aatrox"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1836000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Zoe",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Rakan",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1842000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Xayah",
+      "LeeSin",
+      "Rumble",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1848000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble",
+      "LeeSin",
+      "Xayah"
+    ],
+    "victim": "Kaisa",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 1848000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa",
+      "Zoe"
+    ],
+    "victim": "Xayah",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1858000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Aatrox"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1864000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Zoe",
+      "Aatrox"
+    ],
+    "victim": "Rumble",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 1865000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Aatrox",
+      "Zoe"
+    ],
+    "victim": "LeeSin",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1870000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1870000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Aatrox"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1879000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Aatrox",
+      "Udyr",
+      "Zoe"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1887000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Aatrox",
+      "Udyr",
+      "Zoe"
+    ],
+    "victim": "Rakan",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1893000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

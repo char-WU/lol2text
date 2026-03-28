@@ -1,0 +1,531 @@
+[
+  {
+    "timestamp": 266000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Varus",
+      "Elise",
+      "TahmKench"
+    ],
+    "victim": "Gragas",
+    "target": "Hana"
+  },
+  {
+    "timestamp": 421000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 503000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crisp",
+    "participants": [
+      "TahmKench",
+      "Varus"
+    ],
+    "victim": "Kaisa",
+    "target": "LilV"
+  },
+  {
+    "timestamp": 508000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "Elise",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Pyke",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 650000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Koala",
+    "participants": [
+      "Pyke",
+      "Gragas",
+      "Azir",
+      "Kaisa"
+    ],
+    "victim": "Varus",
+    "target": "Lwx"
+  },
+  {
+    "timestamp": 658000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 695000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 739000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 745000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 751000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "LilV",
+    "participants": [
+      "Kaisa",
+      "Gragas",
+      "Azir"
+    ],
+    "victim": "Elise",
+    "target": "Tian"
+  },
+  {
+    "timestamp": 763000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Varus",
+      "Renekton",
+      "Elise",
+      "TahmKench"
+    ],
+    "victim": "Gragas",
+    "target": "Hana"
+  },
+  {
+    "timestamp": 768000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Varus",
+      "Renekton",
+      "TahmKench"
+    ],
+    "victim": "Azir",
+    "target": "FoFo"
+  },
+  {
+    "timestamp": 778000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doinb",
+    "participants": [
+      "Ryze",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Pyke",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 811000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "Elise"
+    ],
+    "victim": "Kaisa",
+    "target": "LilV"
+  },
+  {
+    "timestamp": 966000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1058000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GimGoon",
+    "participants": [
+      "Renekton",
+      "Elise",
+      "TahmKench"
+    ],
+    "victim": "Pyke",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 1065000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "LilV",
+    "participants": [
+      "Kaisa",
+      "Ornn",
+      "Gragas",
+      "Azir",
+      "Pyke"
+    ],
+    "victim": "Renekton",
+    "target": "GimGoon"
+  },
+  {
+    "timestamp": 1066000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Varus",
+      "Renekton",
+      "Ryze",
+      "TahmKench"
+    ],
+    "victim": "Gragas",
+    "target": "Hana"
+  },
+  {
+    "timestamp": 1068000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Varus",
+      "Renekton",
+      "Elise",
+      "TahmKench"
+    ],
+    "victim": "Azir",
+    "target": "FoFo"
+  },
+  {
+    "timestamp": 1072000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Doinb",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1075000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "Elise",
+      "Renekton",
+      "Ryze",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Ornn",
+    "target": "Rest"
+  },
+  {
+    "timestamp": 1081000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "Elise",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Kaisa",
+    "target": "LilV"
+  },
+  {
+    "timestamp": 1207000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1239000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "Elise",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Gragas",
+    "target": "Hana"
+  },
+  {
+    "timestamp": 1255000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GimGoon",
+    "participants": [
+      "Renekton",
+      "Ryze",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Pyke",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 1262000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1264000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GimGoon",
+    "participants": [
+      "Renekton",
+      "Ryze"
+    ],
+    "victim": "Azir",
+    "target": "FoFo"
+  },
+  {
+    "timestamp": 1270000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Varus",
+      "Renekton",
+      "Ryze",
+      "TahmKench"
+    ],
+    "victim": "Ornn",
+    "target": "Rest"
+  },
+  {
+    "timestamp": 1297000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1369000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doinb",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1390000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1394000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "Elise",
+      "Renekton",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Azir",
+    "target": "FoFo"
+  },
+  {
+    "timestamp": 1399000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Varus",
+      "Renekton",
+      "Elise",
+      "Ryze",
+      "TahmKench"
+    ],
+    "victim": "Pyke",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 1400000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "Elise",
+      "Renekton",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Ornn",
+    "target": "Rest"
+  },
+  {
+    "timestamp": 1400000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doinb",
+    "participants": [
+      "Ryze",
+      "Renekton",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Kaisa",
+    "target": "LilV"
+  },
+  {
+    "timestamp": 1403000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1408000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1415000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1421000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1431000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

@@ -1,0 +1,1586 @@
+[
+  {
+    "timestamp": 249000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      },
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 418000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      },
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      },
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ]
+  },
+  {
+    "timestamp": 425000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 439000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 633000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 639000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 696000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      },
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ]
+  },
+  {
+    "timestamp": 776000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 804000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ],
+    "victim": [
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      }
+    ],
+    "target": [
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      }
+    ]
+  },
+  {
+    "timestamp": 807000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 819000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 884000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 897000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      },
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      },
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 902000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 905000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 915000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      }
+    ],
+    "target": [
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      }
+    ]
+  },
+  {
+    "timestamp": 920000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 971000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1028000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1040000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1102000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1107000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1108000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      },
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      },
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1110000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 1129000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1373000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1379000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      }
+    ],
+    "target": [
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      }
+    ]
+  },
+  {
+    "timestamp": 1408000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1415000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      },
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ]
+  },
+  {
+    "timestamp": 1416000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      },
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1418000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1422000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      },
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1423000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      },
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ]
+  },
+  {
+    "timestamp": 1423000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1452000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1468000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      }
+    ],
+    "participants": [
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1767000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      }
+    ],
+    "target": [
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      }
+    ]
+  },
+  {
+    "timestamp": 1789000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1814000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1883000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1913000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1929000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1938000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1943000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1953000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1957000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1960000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      },
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      },
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      },
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      }
+    ]
+  },
+  {
+    "timestamp": 1962000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1965000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      },
+      {
+        "player": "Hani",
+        "champion": "Gnar"
+      },
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      },
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1966000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Artifact",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 1977000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1978000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "DNK",
+        "champion": "Skarner"
+      },
+      {
+        "player": "Venus",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShowMaker",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1986000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

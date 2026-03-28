@@ -1,0 +1,806 @@
+[
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 367.0,
+    "event": {
+      "timestamp": 367000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Ocean Drake",
+      "team": "blue",
+      "player": "Peanut",
+      "participants": [
+        "Kindred"
+      ],
+      "victim": null,
+      "target": null
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 390.0,
+    "event": {
+      "timestamp": 390000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": "Selfmade",
+      "participants": [
+        "Graves",
+        "Sett"
+      ],
+      "victim": "Ornn",
+      "target": "Langx"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 560.0,
+    "event": {
+      "timestamp": 560000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Rift Herald",
+      "team": "red",
+      "player": "Selfmade",
+      "participants": [
+        "Graves"
+      ],
+      "victim": null,
+      "target": null
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 713.0,
+    "event": {
+      "timestamp": 713000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": "Selfmade",
+      "participants": [
+        "Graves"
+      ],
+      "victim": null,
+      "target": "T1 TOP"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 722.0,
+    "event": {
+      "timestamp": 722000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Mountain Drake",
+      "team": "blue",
+      "player": "Peanut",
+      "participants": [
+        "Kindred"
+      ],
+      "victim": null,
+      "target": null
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 848.0,
+    "event": {
+      "timestamp": 848000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": "Peanut",
+      "participants": [
+        "Kindred",
+        "Ornn",
+        "Ekko"
+      ],
+      "victim": "Syndra",
+      "target": "Nemesis"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 937.0,
+    "event": {
+      "timestamp": 937000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Rift Herald",
+      "team": "red",
+      "player": "Selfmade",
+      "participants": [
+        "Graves"
+      ],
+      "victim": null,
+      "target": null
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 952.0,
+    "event": {
+      "timestamp": 952000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "blue",
+      "player": "Kramer",
+      "participants": [
+        "MissFortune"
+      ],
+      "victim": null,
+      "target": "T1 BOT"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1056.0,
+    "event": {
+      "timestamp": 1056000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": "Peanut",
+      "participants": [
+        "Kindred",
+        "Ornn",
+        "MissFortune",
+        "Nautilus"
+      ],
+      "victim": "Sett",
+      "target": "Bwipo"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1056.0,
+    "event": {
+      "timestamp": 1056000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Infernal Drake",
+      "team": "red",
+      "player": "Selfmade",
+      "participants": [
+        "Graves"
+      ],
+      "victim": null,
+      "target": null
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1062.0,
+    "event": {
+      "timestamp": 1062000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": "Langx",
+      "participants": [
+        "Ornn",
+        "Ekko",
+        "MissFortune",
+        "Nautilus"
+      ],
+      "victim": "Graves",
+      "target": "Selfmade"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1075.0,
+    "event": {
+      "timestamp": 1075000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "blue",
+      "player": "xiye",
+      "participants": [
+        "Ekko"
+      ],
+      "victim": null,
+      "target": "T1 MID"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1337.0,
+    "event": {
+      "timestamp": 1337000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": "Nemesis",
+      "participants": [
+        "Syndra",
+        "Graves",
+        "Jhin",
+        "Thresh"
+      ],
+      "victim": "Nautilus",
+      "target": "Mark"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1338.0,
+    "event": {
+      "timestamp": 1338000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": "Kramer",
+      "participants": [
+        "MissFortune",
+        "Ornn",
+        "Nautilus"
+      ],
+      "victim": "Graves",
+      "target": "Selfmade"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1348.0,
+    "event": {
+      "timestamp": 1348000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": "xiye",
+      "participants": [
+        "Ekko",
+        "Ornn",
+        "Kindred",
+        "MissFortune"
+      ],
+      "victim": "Thresh",
+      "target": "Hylissang"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1348.0,
+    "event": {
+      "timestamp": 1348000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": "Bwipo",
+      "participants": [
+        "Sett",
+        "Syndra",
+        "Jhin"
+      ],
+      "victim": "MissFortune",
+      "target": "Kramer"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1349.0,
+    "event": {
+      "timestamp": 1349000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": "Langx",
+      "participants": [
+        "Ornn",
+        "Kindred",
+        "Ekko",
+        "MissFortune"
+      ],
+      "victim": "Sett",
+      "target": "Bwipo"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1379.0,
+    "event": {
+      "timestamp": 1379000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Infernal Drake",
+      "team": "blue",
+      "player": "Peanut",
+      "participants": [
+        "Kindred"
+      ],
+      "victim": null,
+      "target": null
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1426.0,
+    "event": {
+      "timestamp": 1426000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "blue",
+      "player": "xiye",
+      "participants": [
+        "Ekko"
+      ],
+      "victim": null,
+      "target": "T1 TOP"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1502.0,
+    "event": {
+      "timestamp": 1502000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": null,
+      "participants": [],
+      "victim": null,
+      "target": "T1 BOT"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1685.0,
+    "event": {
+      "timestamp": 1685000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": "Bwipo",
+      "participants": [
+        "Sett",
+        "Graves",
+        "Syndra",
+        "Jhin",
+        "Thresh"
+      ],
+      "victim": "Nautilus",
+      "target": "Mark"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1696.0,
+    "event": {
+      "timestamp": 1696000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Infernal Drake",
+      "team": "red",
+      "player": "Bwipo",
+      "participants": [
+        "Sett"
+      ],
+      "victim": null,
+      "target": null
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1896.0,
+    "event": {
+      "timestamp": 1896000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": "xiye",
+      "participants": [
+        "Ekko",
+        "Kindred",
+        "MissFortune",
+        "Nautilus"
+      ],
+      "victim": "Sett",
+      "target": "Bwipo"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1907.0,
+    "event": {
+      "timestamp": 1907000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "blue",
+      "player": null,
+      "participants": [],
+      "victim": null,
+      "target": "T2 MID"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 2014.0,
+    "event": {
+      "timestamp": 2014000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": "xiye",
+      "participants": [
+        "Ekko",
+        "MissFortune",
+        "Nautilus"
+      ],
+      "victim": "Syndra",
+      "target": "Nemesis"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 2015.0,
+    "event": {
+      "timestamp": 2015000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": "Kramer",
+      "participants": [
+        "MissFortune",
+        "Ornn",
+        "Nautilus"
+      ],
+      "victim": "Thresh",
+      "target": "Hylissang"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 2017.0,
+    "event": {
+      "timestamp": 2017000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": "Kramer",
+      "participants": [
+        "MissFortune",
+        "Ornn",
+        "Kindred",
+        "Nautilus"
+      ],
+      "victim": "Sett",
+      "target": "Bwipo"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 2019.0,
+    "event": {
+      "timestamp": 2019000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Infernal Drake",
+      "team": "blue",
+      "player": "Peanut",
+      "participants": [
+        "Kindred"
+      ],
+      "victim": null,
+      "target": null
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 2020.0,
+    "event": {
+      "timestamp": 2020000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": "xiye",
+      "participants": [
+        "Ekko",
+        "Nautilus"
+      ],
+      "victim": "Jhin",
+      "target": "Rekkles"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 2027.0,
+    "event": {
+      "timestamp": 2027000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": "xiye",
+      "participants": [
+        "Ekko",
+        "Kindred",
+        "MissFortune",
+        "Nautilus"
+      ],
+      "victim": "Graves",
+      "target": "Selfmade"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 2044.0,
+    "event": {
+      "timestamp": 2044000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "blue",
+      "player": "Kramer",
+      "participants": [
+        "MissFortune"
+      ],
+      "victim": null,
+      "target": "T3 MID"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 2050.0,
+    "event": {
+      "timestamp": 2050000,
+      "type": "BUILDING_KILL",
+      "subtype": "Inhibitor",
+      "team": "blue",
+      "player": "xiye",
+      "participants": [
+        "Ekko"
+      ],
+      "victim": null,
+      "target": "INHIB MID"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 2056.0,
+    "event": {
+      "timestamp": 2056000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "blue",
+      "player": "Kramer",
+      "participants": [
+        "MissFortune"
+      ],
+      "victim": null,
+      "target": "T1 TOP NEXUS"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 2058.0,
+    "event": {
+      "timestamp": 2058000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "blue",
+      "player": "Kramer",
+      "participants": [
+        "MissFortune"
+      ],
+      "victim": null,
+      "target": "T2 BOT NEXUS"
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 65,
+    "offset_seconds": 178.0,
+    "window_seconds": 15.0,
+    "event_time_s": 2066.0,
+    "event": {
+      "timestamp": 2066000,
+      "type": "BUILDING_KILL",
+      "subtype": "Nexus",
+      "team": "blue",
+      "player": null,
+      "participants": [],
+      "victim": null,
+      "target": null
+    },
+    "commentary": "",
+    "commentary_word_count": 0,
+    "time_coverage": false,
+    "keyword_coverage": false
+  }
+]

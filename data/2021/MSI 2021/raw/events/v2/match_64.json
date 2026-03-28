@@ -1,0 +1,1468 @@
+[
+  {
+    "timestamp": 266000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Serin",
+        "champion": "Yone"
+      }
+    ],
+    "target": [
+      {
+        "player": "Serin",
+        "champion": "Yone"
+      }
+    ]
+  },
+  {
+    "timestamp": 270000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 342000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 509000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 556000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 569000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Serin",
+        "champion": "Yone"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Serin",
+        "champion": "Yone"
+      },
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 629000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 689000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 708000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 709000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      },
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 710000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 711000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Renekton"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Serin",
+        "champion": "Yone"
+      }
+    ],
+    "target": [
+      {
+        "player": "Serin",
+        "champion": "Yone"
+      }
+    ]
+  },
+  {
+    "timestamp": 720000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 722000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 748000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 892000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 951000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1021000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1024000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1027000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1034000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Serin",
+        "champion": "Yone"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Serin",
+        "champion": "Yone"
+      },
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 1078000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1308000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1328000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Renekton"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1331000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1350000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Serin",
+        "champion": "Yone"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Serin",
+        "champion": "Yone"
+      },
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1360000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1380000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Serin",
+        "champion": "Yone"
+      }
+    ],
+    "target": [
+      {
+        "player": "Serin",
+        "champion": "Yone"
+      }
+    ]
+  },
+  {
+    "timestamp": 1389000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1417000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1418000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1471000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Renekton"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1473000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Renekton"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1475000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Renekton"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1477000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1493000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1504000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1510000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1584000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1632000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1639000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Renekton"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ferret",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1657000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1658000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "StarScreen",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Serin",
+        "champion": "Yone"
+      },
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1658000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1662000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Renekton"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1668000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1674000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1685000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

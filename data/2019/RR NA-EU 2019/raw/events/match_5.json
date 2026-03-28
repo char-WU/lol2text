@@ -1,0 +1,772 @@
+[
+  {
+    "timestamp": 214000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Brokenblade",
+    "participants": [
+      "Neeko",
+      "Elise"
+    ],
+    "victim": "Aatrox",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 217000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Aatrox"
+    ],
+    "victim": "Neeko",
+    "target": "Brokenblade"
+  },
+  {
+    "timestamp": 318000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Irelia",
+      "Elise"
+    ],
+    "victim": "Corki",
+    "target": "Nemesis"
+  },
+  {
+    "timestamp": 355000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Aatrox",
+      "RekSai"
+    ],
+    "victim": "Neeko",
+    "target": "Brokenblade"
+  },
+  {
+    "timestamp": 470000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Lucian",
+      "Elise",
+      "Yuumi"
+    ],
+    "victim": "Nautilus",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 625000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "dan",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 646000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Lucian",
+      "Yuumi"
+    ],
+    "victim": "Sivir",
+    "target": "Rekkles"
+  },
+  {
+    "timestamp": 650000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Aatrox",
+      "Sivir",
+      "Nautilus"
+    ],
+    "victim": "Lucian",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 659000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Aatrox",
+      "Sivir",
+      "Nautilus"
+    ],
+    "victim": "Yuumi",
+    "target": "Smoothie"
+  },
+  {
+    "timestamp": 675000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Akaadian",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 690000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Aatrox",
+      "Nautilus"
+    ],
+    "victim": "Lucian",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 694000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Hylissang",
+    "participants": [
+      "Nautilus",
+      "Aatrox"
+    ],
+    "victim": "Yuumi",
+    "target": "Smoothie"
+  },
+  {
+    "timestamp": 707000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Akaadian",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 828000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Sivir"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 843000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Aatrox",
+      "Corki"
+    ],
+    "victim": "Elise",
+    "target": "Akaadian"
+  },
+  {
+    "timestamp": 844000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Akaadian",
+    "participants": [
+      "Elise",
+      "Irelia",
+      "Lucian",
+      "Yuumi"
+    ],
+    "victim": "Aatrox",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 845000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Lucian",
+      "Neeko",
+      "Elise",
+      "Irelia",
+      "Yuumi"
+    ],
+    "victim": "Corki",
+    "target": "Nemesis"
+  },
+  {
+    "timestamp": 855000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 951000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Lucian",
+      "Neeko",
+      "Elise",
+      "Yuumi"
+    ],
+    "victim": "RekSai",
+    "target": "dan"
+  },
+  {
+    "timestamp": 953000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Brokenblade",
+    "participants": [
+      "Neeko",
+      "Elise",
+      "Irelia",
+      "Lucian",
+      "Yuumi"
+    ],
+    "victim": "Nautilus",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 988000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1043000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Aatrox"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1079000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Akaadian",
+    "participants": [
+      "Elise"
+    ],
+    "victim": "RekSai",
+    "target": "dan"
+  },
+  {
+    "timestamp": 1109000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Irelia",
+      "Elise",
+      "Yuumi"
+    ],
+    "victim": "Aatrox",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 1123000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1288000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Corki",
+      "Aatrox",
+      "RekSai"
+    ],
+    "victim": "Neeko",
+    "target": "Brokenblade"
+  },
+  {
+    "timestamp": 1291000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Akaadian",
+    "participants": [
+      "Elise",
+      "Neeko",
+      "Yuumi"
+    ],
+    "victim": "Corki",
+    "target": "Nemesis"
+  },
+  {
+    "timestamp": 1315000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Akaadian",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1448000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Irelia",
+      "Neeko",
+      "Elise",
+      "Lucian",
+      "Yuumi"
+    ],
+    "victim": "RekSai",
+    "target": "dan"
+  },
+  {
+    "timestamp": 1462000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1628000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Irelia",
+      "Elise",
+      "Lucian",
+      "Yuumi"
+    ],
+    "victim": "Nautilus",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 1637000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Akaadian",
+    "participants": [
+      "Elise",
+      "Irelia",
+      "Lucian",
+      "Yuumi"
+    ],
+    "victim": "RekSai",
+    "target": "dan"
+  },
+  {
+    "timestamp": 1639000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Irelia",
+      "Elise",
+      "Lucian",
+      "Yuumi"
+    ],
+    "victim": "Aatrox",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 1664000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Akaadian",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1687000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1737000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Lucian",
+      "Elise",
+      "Irelia",
+      "Yuumi"
+    ],
+    "victim": "RekSai",
+    "target": "dan"
+  },
+  {
+    "timestamp": 1746000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Lucian",
+      "Neeko",
+      "Elise",
+      "Irelia",
+      "Yuumi"
+    ],
+    "victim": "Nautilus",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 1746000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Akaadian",
+    "participants": [
+      "Elise",
+      "Irelia",
+      "Lucian",
+      "Yuumi"
+    ],
+    "victim": "Aatrox",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 1762000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Brokenblade",
+    "participants": [
+      "Neeko"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1775000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1846000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2077000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Lucian",
+      "Yuumi"
+    ],
+    "victim": "Nautilus",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 2079000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Corki",
+      "Aatrox",
+      "Sivir",
+      "Nautilus"
+    ],
+    "victim": "Elise",
+    "target": "Akaadian"
+  },
+  {
+    "timestamp": 2086000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Brokenblade",
+    "participants": [
+      "Neeko",
+      "Lucian",
+      "Yuumi"
+    ],
+    "victim": "Corki",
+    "target": "Nemesis"
+  },
+  {
+    "timestamp": 2091000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Sivir",
+      "Corki"
+    ],
+    "victim": "Neeko",
+    "target": "Brokenblade"
+  },
+  {
+    "timestamp": 2093000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Lucian",
+      "Neeko",
+      "Yuumi"
+    ],
+    "victim": "Sivir",
+    "target": "Rekkles"
+  },
+  {
+    "timestamp": 2098000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Irelia",
+      "Neeko",
+      "Lucian",
+      "Yuumi"
+    ],
+    "victim": "RekSai",
+    "target": "dan"
+  },
+  {
+    "timestamp": 2112000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2119000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2136000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Aatrox",
+      "Nautilus"
+    ],
+    "victim": "Irelia",
+    "target": "Bjergsen"
+  },
+  {
+    "timestamp": 2158000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Brokenblade",
+    "participants": [
+      "Neeko",
+      "Elise",
+      "Yuumi"
+    ],
+    "victim": "Nautilus",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 2160000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Akaadian",
+    "participants": [
+      "Elise",
+      "Neeko",
+      "Lucian",
+      "Yuumi"
+    ],
+    "victim": "Aatrox",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 2165000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Akaadian",
+    "participants": [
+      "Elise",
+      "Neeko",
+      "Lucian",
+      "Yuumi"
+    ],
+    "victim": "Sivir",
+    "target": "Rekkles"
+  },
+  {
+    "timestamp": 2188000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2191000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Lucian",
+      "Neeko",
+      "Elise",
+      "Yuumi"
+    ],
+    "victim": "Corki",
+    "target": "Nemesis"
+  },
+  {
+    "timestamp": 2192000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Brokenblade",
+    "participants": [
+      "Neeko",
+      "Elise",
+      "Yuumi"
+    ],
+    "victim": "RekSai",
+    "target": "dan"
+  },
+  {
+    "timestamp": 2203000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Smoothie",
+    "participants": [
+      "Yuumi"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2216000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

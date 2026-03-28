@@ -1,0 +1,549 @@
+[
+  {
+    "timestamp": 288000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Hylissang",
+    "participants": [
+      "Rakan",
+      "Senna"
+    ],
+    "victim": "Ezreal",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 340000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Zoe",
+      "Graves"
+    ],
+    "victim": "Singed",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 378000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Singed",
+      "Kindred"
+    ],
+    "victim": "Ornn",
+    "target": "369"
+  },
+  {
+    "timestamp": 382000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Graves",
+      "Ornn",
+      "Leona"
+    ],
+    "victim": "Singed",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 458000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 583000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 629000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Senna",
+      "Kindred",
+      "Galio",
+      "Rakan"
+    ],
+    "victim": "Leona",
+    "target": "yuyanjia"
+  },
+  {
+    "timestamp": 631000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Senna",
+      "Kindred",
+      "Galio",
+      "Rakan"
+    ],
+    "victim": "Ezreal",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 633000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Zoe",
+      "Graves",
+      "Ezreal"
+    ],
+    "victim": "Kindred",
+    "target": "Selfmade"
+  },
+  {
+    "timestamp": 747000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Kindred",
+      "Senna",
+      "Rakan"
+    ],
+    "victim": "Ezreal",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 775000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 848000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Zoe",
+      "Ornn",
+      "Graves",
+      "Leona"
+    ],
+    "victim": "Singed",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 854000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Zoe",
+      "Ornn",
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "Kindred",
+    "target": "Selfmade"
+  },
+  {
+    "timestamp": 875000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 931000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1002000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1086000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1088000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1096000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1097000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Singed"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1178000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1192000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Galio",
+      "Singed",
+      "Senna"
+    ],
+    "victim": "Graves",
+    "target": "Karsa"
+  },
+  {
+    "timestamp": 1192000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Kindred",
+      "Singed",
+      "Galio",
+      "Senna",
+      "Rakan"
+    ],
+    "victim": "Ornn",
+    "target": "369"
+  },
+  {
+    "timestamp": 1390000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Senna",
+      "Rakan"
+    ],
+    "victim": "Ezreal",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1393000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Singed",
+      "Galio",
+      "Senna",
+      "Rakan"
+    ],
+    "victim": "Graves",
+    "target": "Karsa"
+  },
+  {
+    "timestamp": 1406000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Kindred",
+      "Singed",
+      "Galio",
+      "Senna"
+    ],
+    "victim": "Leona",
+    "target": "yuyanjia"
+  },
+  {
+    "timestamp": 1438000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1472000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1521000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1527000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1598000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1781000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1899000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Galio",
+      "Singed",
+      "Senna",
+      "Rakan"
+    ],
+    "victim": "Ezreal",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1955000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Senna",
+      "Singed",
+      "Kindred",
+      "Galio",
+      "Rakan"
+    ],
+    "victim": "Ornn",
+    "target": "369"
+  },
+  {
+    "timestamp": 1962000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Senna",
+      "Singed",
+      "Kindred",
+      "Galio",
+      "Rakan"
+    ],
+    "victim": "Graves",
+    "target": "Karsa"
+  },
+  {
+    "timestamp": 1968000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Senna",
+      "Singed",
+      "Kindred",
+      "Galio",
+      "Rakan"
+    ],
+    "victim": "Ezreal",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1981000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Kindred",
+      "Singed",
+      "Senna"
+    ],
+    "victim": "Leona",
+    "target": "yuyanjia"
+  },
+  {
+    "timestamp": 1997000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Hylissang",
+    "participants": [
+      "Rakan"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2003000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2011000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2013000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2022000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

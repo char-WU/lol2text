@@ -1,0 +1,459 @@
+[
+  {
+    "timestamp": 235000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Lucian",
+      "Rumble",
+      "Elise"
+    ],
+    "victim": "Olaf",
+    "target": "Closer"
+  },
+  {
+    "timestamp": 237000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Armut",
+    "participants": [
+      "Kled",
+      "Olaf",
+      "LeBlanc"
+    ],
+    "victim": "Lucian",
+    "target": "Damonte"
+  },
+  {
+    "timestamp": 240000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Huni",
+    "participants": [
+      "Rumble",
+      "Elise"
+    ],
+    "victim": "LeBlanc",
+    "target": "cyeol"
+  },
+  {
+    "timestamp": 324000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lira",
+    "participants": [
+      "Elise",
+      "Rumble"
+    ],
+    "victim": "Kled",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 325000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Armut",
+    "participants": [
+      "Kled"
+    ],
+    "victim": "Elise",
+    "target": "Lira"
+  },
+  {
+    "timestamp": 340000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Pilot",
+    "participants": [
+      "Jinx"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 393000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Closer",
+    "participants": [
+      "Olaf",
+      "Jinx",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 643000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 664000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Closer",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 766000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Closer",
+    "participants": [
+      "Olaf",
+      "Jinx",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 853000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Huni",
+    "participants": [
+      "Rumble",
+      "Nautilus"
+    ],
+    "victim": "LeBlanc",
+    "target": "cyeol"
+  },
+  {
+    "timestamp": 872000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Lucian",
+      "Kaisa"
+    ],
+    "victim": "Thresh",
+    "target": "Tolerant"
+  },
+  {
+    "timestamp": 877000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Huni",
+    "participants": [
+      "Rumble",
+      "Elise",
+      "Nautilus"
+    ],
+    "victim": "Jinx",
+    "target": "Pilot"
+  },
+  {
+    "timestamp": 887000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Vulcan",
+    "participants": [
+      "Nautilus"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 937000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": "Thresh",
+    "target": "Tolerant"
+  },
+  {
+    "timestamp": 973000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1093000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1194000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1283000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1452000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1614000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Lucian",
+      "Rumble",
+      "Elise",
+      "Nautilus"
+    ],
+    "victim": "Thresh",
+    "target": "Tolerant"
+  },
+  {
+    "timestamp": 1622000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa",
+      "Rumble",
+      "Elise",
+      "Lucian",
+      "Nautilus"
+    ],
+    "victim": "Kled",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1647000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1717000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1734000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1753000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1759000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Pilot",
+    "participants": [
+      "Jinx",
+      "Olaf",
+      "LeBlanc",
+      "Thresh"
+    ],
+    "victim": "Rumble",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 1760000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lira",
+    "participants": [
+      "Elise",
+      "Rumble",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Olaf",
+    "target": "Closer"
+  },
+  {
+    "timestamp": 1761000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa",
+      "Rumble",
+      "Elise",
+      "Nautilus"
+    ],
+    "victim": "Thresh",
+    "target": "Tolerant"
+  },
+  {
+    "timestamp": 1762000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lira",
+    "participants": [
+      "Elise",
+      "Rumble",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Jinx",
+    "target": "Pilot"
+  },
+  {
+    "timestamp": 1767000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Lucian",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "LeBlanc",
+    "target": "cyeol"
+  },
+  {
+    "timestamp": 1769000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1776000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1780000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1789000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Armut",
+    "participants": [
+      "Kled"
+    ],
+    "victim": "Lucian",
+    "target": "Damonte"
+  },
+  {
+    "timestamp": 1799000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

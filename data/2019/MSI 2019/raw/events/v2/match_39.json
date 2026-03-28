@@ -1,0 +1,834 @@
+[
+  {
+    "timestamp": 303000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Khan",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Chogath"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Chogath"
+      }
+    ]
+  },
+  {
+    "timestamp": 560000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Chogath"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Chogath"
+      }
+    ]
+  },
+  {
+    "timestamp": 579000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bugi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bugi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 635000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 740000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 859000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 898000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1138000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1151000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1157000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Chogath"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Chogath"
+      },
+      {
+        "player": "Bugi",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Rather",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1157000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bugi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bugi",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Chogath"
+      },
+      {
+        "player": "Rather",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 1160000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rather",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rather",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 1166000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Khan",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1185000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1257000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1463000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1496000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1529000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Khan",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1534000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Khan",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rather",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rather",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 1574000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1579000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Chogath"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Chogath"
+      }
+    ]
+  },
+  {
+    "timestamp": 1580000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1586000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1598000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1599000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1605000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1615000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1619000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1630000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

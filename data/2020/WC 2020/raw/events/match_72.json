@@ -1,0 +1,864 @@
+[
+  {
+    "timestamp": 458000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas",
+      "Volibear",
+      "Ashe"
+    ],
+    "victim": "Senna",
+    "target": "Kramer"
+  },
+  {
+    "timestamp": 583000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 585000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Lucian",
+      "Gragas",
+      "Sett"
+    ],
+    "victim": "Syndra",
+    "target": "xiye"
+  },
+  {
+    "timestamp": 589000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Langx",
+    "participants": [
+      "Renekton",
+      "Syndra",
+      "Senna",
+      "Leona"
+    ],
+    "victim": "Lucian",
+    "target": "Bdd"
+  },
+  {
+    "timestamp": 590000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Life",
+    "participants": [
+      "Sett",
+      "Volibear",
+      "Gragas",
+      "Lucian"
+    ],
+    "victim": "Leona",
+    "target": "Mark"
+  },
+  {
+    "timestamp": 591000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Peanut",
+    "participants": [
+      "Kindred",
+      "Renekton",
+      "Senna"
+    ],
+    "victim": "Sett",
+    "target": "Life"
+  },
+  {
+    "timestamp": 595000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Peanut",
+    "participants": [
+      "Kindred",
+      "Renekton",
+      "Syndra",
+      "Senna",
+      "Leona"
+    ],
+    "victim": "Volibear",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 721000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas",
+      "Ashe"
+    ],
+    "victim": "Syndra",
+    "target": "xiye"
+  },
+  {
+    "timestamp": 765000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mark",
+    "participants": [
+      "Leona",
+      "Kindred",
+      "Senna"
+    ],
+    "victim": "Ashe",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 788000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Peanut",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 840000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 889000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas",
+      "Lucian",
+      "Ashe"
+    ],
+    "victim": "Kindred",
+    "target": "Peanut"
+  },
+  {
+    "timestamp": 999000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1024000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1027000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Volibear",
+      "Sett"
+    ],
+    "victim": "Kindred",
+    "target": "Peanut"
+  },
+  {
+    "timestamp": 1036000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiye",
+    "participants": [
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Ashe",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 1062000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1068000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1099000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1128000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Langx",
+    "participants": [
+      "Renekton",
+      "Syndra"
+    ],
+    "victim": "Lucian",
+    "target": "Bdd"
+  },
+  {
+    "timestamp": 1169000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Langx",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1362000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1380000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mark",
+    "participants": [
+      "Leona",
+      "Renekton",
+      "Kindred",
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Sett",
+    "target": "Life"
+  },
+  {
+    "timestamp": 1386000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Volibear",
+      "Gragas",
+      "Lucian",
+      "Ashe",
+      "Sett"
+    ],
+    "victim": "Leona",
+    "target": "Mark"
+  },
+  {
+    "timestamp": 1388000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiye",
+    "participants": [
+      "Syndra",
+      "Renekton",
+      "Kindred",
+      "Senna",
+      "Leona"
+    ],
+    "victim": "Volibear",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 1408000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1416000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "xiye",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1477000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Life",
+    "participants": [
+      "Sett",
+      "Lucian",
+      "Ashe"
+    ],
+    "victim": "Leona",
+    "target": "Mark"
+  },
+  {
+    "timestamp": 1506000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Volibear",
+      "Lucian",
+      "Ashe",
+      "Sett"
+    ],
+    "victim": "Syndra",
+    "target": "xiye"
+  },
+  {
+    "timestamp": 1507000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiye",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": "Sett",
+    "target": "Life"
+  },
+  {
+    "timestamp": 1530000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Peanut",
+    "participants": [
+      "Kindred",
+      "Renekton",
+      "Senna",
+      "Leona"
+    ],
+    "victim": "Gragas",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1534000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Lucian",
+      "Volibear",
+      "Ashe"
+    ],
+    "victim": "Leona",
+    "target": "Mark"
+  },
+  {
+    "timestamp": 1563000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Ashe",
+      "Sett"
+    ],
+    "victim": "Renekton",
+    "target": "Langx"
+  },
+  {
+    "timestamp": 1728000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1744000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Volibear",
+      "Gragas",
+      "Lucian",
+      "Ashe"
+    ],
+    "victim": "Renekton",
+    "target": "Langx"
+  },
+  {
+    "timestamp": 1754000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1844000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Lucian",
+      "Volibear",
+      "Gragas",
+      "Ashe",
+      "Sett"
+    ],
+    "victim": "Leona",
+    "target": "Mark"
+  },
+  {
+    "timestamp": 2040000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Langx",
+    "participants": [
+      "Renekton",
+      "Kindred",
+      "Syndra",
+      "Senna",
+      "Leona"
+    ],
+    "victim": "Sett",
+    "target": "Life"
+  },
+  {
+    "timestamp": 2052000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Peanut",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2178000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2181000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiye",
+    "participants": [
+      "Syndra",
+      "Kindred",
+      "Senna",
+      "Leona"
+    ],
+    "victim": "Gragas",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 2184000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Langx",
+    "participants": [
+      "Renekton",
+      "Kindred",
+      "Leona"
+    ],
+    "victim": "Lucian",
+    "target": "Bdd"
+  },
+  {
+    "timestamp": 2186000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Langx",
+    "participants": [
+      "Renekton",
+      "Kindred",
+      "Senna",
+      "Leona"
+    ],
+    "victim": "Ashe",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 2186000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Ashe",
+      "Gragas",
+      "Lucian"
+    ],
+    "victim": "Kindred",
+    "target": "Peanut"
+  },
+  {
+    "timestamp": 2192000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kramer",
+    "participants": [
+      "Senna",
+      "Kindred",
+      "Syndra",
+      "Leona"
+    ],
+    "victim": "Volibear",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 2216000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Kramer",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2226000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "xiye",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2231000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Kramer",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2372000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Peanut",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2375000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Lucian",
+      "Volibear",
+      "Gragas",
+      "Ashe"
+    ],
+    "victim": "Leona",
+    "target": "Mark"
+  },
+  {
+    "timestamp": 2379000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Volibear",
+      "Gragas",
+      "Ashe",
+      "Sett"
+    ],
+    "victim": "Kindred",
+    "target": "Peanut"
+  },
+  {
+    "timestamp": 2385000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiye",
+    "participants": [
+      "Syndra",
+      "Renekton",
+      "Senna"
+    ],
+    "victim": "Lucian",
+    "target": "Bdd"
+  },
+  {
+    "timestamp": 2389000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Ashe",
+      "Volibear",
+      "Lucian"
+    ],
+    "victim": "Syndra",
+    "target": "xiye"
+  },
+  {
+    "timestamp": 2392000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Ashe",
+      "Volibear",
+      "Gragas",
+      "Lucian",
+      "Sett"
+    ],
+    "victim": "Renekton",
+    "target": "Langx"
+  },
+  {
+    "timestamp": 2419000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": "Senna",
+    "target": "Kramer"
+  },
+  {
+    "timestamp": 2590000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2671000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Lucian",
+      "Gragas",
+      "Ashe",
+      "Sett"
+    ],
+    "victim": "Kindred",
+    "target": "Peanut"
+  },
+  {
+    "timestamp": 2676000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiye",
+    "participants": [
+      "Syndra",
+      "Renekton",
+      "Kindred",
+      "Senna",
+      "Leona"
+    ],
+    "victim": "Sett",
+    "target": "Life"
+  },
+  {
+    "timestamp": 2680000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Lucian",
+      "Volibear",
+      "Ashe"
+    ],
+    "victim": "Leona",
+    "target": "Mark"
+  },
+  {
+    "timestamp": 2696000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2697000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2711000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2718000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2720000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2728000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

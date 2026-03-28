@@ -1,0 +1,966 @@
+[
+  {
+    "timestamp": 190000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 193000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BioPanther",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BioPanther",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ]
+  },
+  {
+    "timestamp": 504000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 546000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pabu",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pabu",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 685000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SaNTaS",
+        "champion": "Alistar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SaNTaS",
+        "champion": "Alistar"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 698000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BioPanther",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BioPanther",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Chazz",
+        "champion": "Ahri"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 699000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Lodik",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 798000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 802000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Chazz",
+        "champion": "Ahri"
+      }
+    ],
+    "victim": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 874000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Lodik",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lodik",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 875000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pabu",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pabu",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 928000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 950000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 957000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1058000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1085000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1194000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1217000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Lodik",
+        "champion": "Tristana"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Ahri"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Ahri"
+      }
+    ]
+  },
+  {
+    "timestamp": 1223000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Lodik",
+        "champion": "Tristana"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1224000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Lodik",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lodik",
+        "champion": "Tristana"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1232000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1275000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1352000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1380000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1385000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Lodik",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lodik",
+        "champion": "Tristana"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1389000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1390000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Lodik",
+        "champion": "Tristana"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Ahri"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Ahri"
+      }
+    ]
+  },
+  {
+    "timestamp": 1392000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1393000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Lodik",
+        "champion": "Tristana"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1402000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1405000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1413000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Urgot"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1419000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1432000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

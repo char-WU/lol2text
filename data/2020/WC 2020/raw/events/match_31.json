@@ -1,0 +1,716 @@
+[
+  {
+    "timestamp": 160000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Lillia",
+      "Lucian"
+    ],
+    "victim": "Graves",
+    "target": "Pyosik"
+  },
+  {
+    "timestamp": 342000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "SaNTaS",
+    "participants": [
+      "Nautilus"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 508000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 522000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Camille",
+      "Lillia"
+    ],
+    "victim": "Graves",
+    "target": "Pyosik"
+  },
+  {
+    "timestamp": 601000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Keria",
+    "participants": [
+      "Lulu",
+      "Caitlyn"
+    ],
+    "victim": "Ziggs",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 628000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Caitlyn",
+      "Lulu"
+    ],
+    "victim": "Nautilus",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 629000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Lillia",
+      "Nautilus"
+    ],
+    "victim": "Lulu",
+    "target": "Keria"
+  },
+  {
+    "timestamp": 643000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves",
+      "Caitlyn",
+      "Lulu"
+    ],
+    "victim": "Lillia",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 726000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Keria",
+    "participants": [
+      "Lulu",
+      "Ornn",
+      "Graves",
+      "Orianna"
+    ],
+    "victim": "Lillia",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 809000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 826000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves"
+    ],
+    "victim": "Lucian",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 841000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Caitlyn",
+      "Graves",
+      "Orianna",
+      "Lulu"
+    ],
+    "victim": "Nautilus",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 899000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 972000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Gadget",
+    "participants": [
+      "Ziggs"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1005000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Keria",
+    "participants": [
+      "Lulu",
+      "Ornn",
+      "Graves"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1026000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gadget",
+    "participants": [
+      "Ziggs",
+      "Nautilus"
+    ],
+    "victim": "Caitlyn",
+    "target": "Deft"
+  },
+  {
+    "timestamp": 1136000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1157000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1165000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1167000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1269000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Lucian",
+      "Lillia"
+    ],
+    "victim": "Orianna",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 1299000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doran",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": "Lucian",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1334000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1373000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves",
+      "Lulu"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1402000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1452000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1487000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves",
+      "Ornn",
+      "Orianna",
+      "Caitlyn",
+      "Lulu"
+    ],
+    "victim": "Lucian",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1505000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Orianna",
+      "Caitlyn",
+      "Lulu"
+    ],
+    "victim": "Ziggs",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 1514000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Caitlyn",
+      "Graves",
+      "Lulu"
+    ],
+    "victim": "Lillia",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1537000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1547000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Caitlyn",
+      "Ornn",
+      "Graves",
+      "Lulu"
+    ],
+    "victim": "Lucian",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1548000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves",
+      "Ornn"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1551000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves",
+      "Ornn",
+      "Caitlyn",
+      "Lulu"
+    ],
+    "victim": "Nautilus",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1569000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1590000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1592000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves",
+      "Ornn",
+      "Orianna",
+      "Lulu"
+    ],
+    "victim": "Lillia",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1710000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1829000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1854000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1857000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1865000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1897000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Camille",
+      "Lucian",
+      "Nautilus"
+    ],
+    "victim": "Orianna",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 1950000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves",
+      "Ornn"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1953000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Lillia",
+      "Lucian"
+    ],
+    "victim": "Graves",
+    "target": "Pyosik"
+  },
+  {
+    "timestamp": 1968000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Caitlyn"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2020000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2040000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2118000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Caitlyn",
+      "Orianna",
+      "Lulu"
+    ],
+    "victim": "Lillia",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 2128000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2145000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves",
+      "Lulu"
+    ],
+    "victim": "Ziggs",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 2162000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Orianna",
+      "Ornn",
+      "Graves",
+      "Caitlyn",
+      "Lulu"
+    ],
+    "victim": "Nautilus",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 2164000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2166000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Orianna",
+      "Ornn",
+      "Graves",
+      "Caitlyn",
+      "Lulu"
+    ],
+    "victim": "Lucian",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 2174000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves",
+      "Orianna",
+      "Caitlyn",
+      "Lulu"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 2180000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Caitlyn",
+      "Ornn",
+      "Graves",
+      "Orianna",
+      "Lulu"
+    ],
+    "victim": "Lillia",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 2186000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

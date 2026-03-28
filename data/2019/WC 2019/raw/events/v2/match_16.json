@@ -1,0 +1,1216 @@
+[
+  {
+    "timestamp": 207000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      },
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 354000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Xerxe",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Xerxe",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 515000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kobbe",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kobbe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Tore",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 537000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Xerxe",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Kobbe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Tore",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      }
+    ],
+    "target": [
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      }
+    ]
+  },
+  {
+    "timestamp": 540000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Xerxe",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Xerxe",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 542000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kobbe",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kobbe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Vizicsacsi",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Xerxe",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 652000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 664000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 673000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Xerxe",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ]
+  },
+  {
+    "timestamp": 755000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 854000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 975000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kobbe",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kobbe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Xerxe",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Tore",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 989000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1006000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1064000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      },
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      },
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1090000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1208000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      },
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tore",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tore",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1210000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      },
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1242000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1299000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1309000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1398000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1430000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1439000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1570000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      },
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      },
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tore",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tore",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1575000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1582000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1599000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      },
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1605000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      },
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Xerxe",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Xerxe",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1608000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Vizicsacsi",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Kobbe",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1618000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      },
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      },
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1639000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1695000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1703000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kobbe",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kobbe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Xerxe",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Tore",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      }
+    ],
+    "target": [
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      }
+    ]
+  },
+  {
+    "timestamp": 1705000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      },
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      },
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tore",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tore",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1708000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Draven"
+      },
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1729000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1733000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1738000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      },
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Effort",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Xerxe",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Xerxe",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1748000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Kobbe",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 1749000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

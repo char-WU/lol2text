@@ -1,0 +1,1174 @@
+[
+  {
+    "timestamp": 290000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 481000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 537000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 560000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 610000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 656000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 776000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 777000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      },
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "target": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ]
+  },
+  {
+    "timestamp": 924000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 971000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1030000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1267000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1290000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1432000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1442000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1547000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1552000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1560000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      }
+    ]
+  },
+  {
+    "timestamp": 1563000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "target": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ]
+  },
+  {
+    "timestamp": 1567000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1572000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1579000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      },
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "Bard"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "Bard"
+      }
+    ]
+  },
+  {
+    "timestamp": 1590000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1619000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1626000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gadget",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gadget",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1630000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1670000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1774000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1954000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nomanz",
+        "champion": "Ziggs"
+      }
+    ]
+  },
+  {
+    "timestamp": 1955000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "Bard"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "Bard"
+      }
+    ]
+  },
+  {
+    "timestamp": 1959000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "target": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ]
+  },
+  {
+    "timestamp": 1966000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      },
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1967000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Lillia"
+      },
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gadget",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gadget",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1977000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1986000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1989000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2000000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2002000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2011000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

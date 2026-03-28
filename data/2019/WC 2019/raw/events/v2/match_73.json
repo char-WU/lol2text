@@ -1,0 +1,1582 @@
+[
+  {
+    "timestamp": 301000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 534000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 700000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 769000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 864000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 867000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 877000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      },
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 878000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 884000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 954000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 962000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 978000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1188000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1226000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1461000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1506000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1511000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1515000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1521000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      },
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 1536000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "target": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ]
+  },
+  {
+    "timestamp": 1544000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      },
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 1552000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1558000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1570000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1671000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1688000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1810000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1828000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1830000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1990000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1993000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1996000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      },
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 1997000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2025000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 2029000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 2036000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2038000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      },
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "target": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ]
+  },
+  {
+    "timestamp": 2042000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      }
+    ],
+    "victim": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 2044000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2047000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 2051000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 2051000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ],
+    "target": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ]
+  },
+  {
+    "timestamp": 2054000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2065000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 2070000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 2153000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 2155000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "target": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ]
+  },
+  {
+    "timestamp": 2159000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 2168000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 2169000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Hana",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "FoFo",
+        "champion": "Akali"
+      },
+      {
+        "player": "LilV",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 2199000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

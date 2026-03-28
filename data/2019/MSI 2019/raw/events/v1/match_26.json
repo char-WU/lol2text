@@ -1,0 +1,785 @@
+[
+  {
+    "timestamp": 206000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "Jayce",
+      "Elise"
+    ],
+    "victim": "Pyke",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 228000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc"
+    ],
+    "victim": "Elise",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 398000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "Jayce",
+      "Elise"
+    ],
+    "victim": "JarvanIV",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 481000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise",
+      "Jayce"
+    ],
+    "victim": "Pyke",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 591000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "JarvanIV",
+      "Pyke"
+    ],
+    "victim": "Jayce",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 609000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 619000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "MissFortune",
+      "Elise",
+      "Azir",
+      "Braum"
+    ],
+    "victim": "TahmKench",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 668000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "JarvanIV",
+      "Pyke",
+      "LeBlanc"
+    ],
+    "victim": "Jayce",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 713000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc",
+      "JarvanIV",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Braum",
+    "target": "Mata"
+  },
+  {
+    "timestamp": 720000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Pyke",
+      "JarvanIV",
+      "LeBlanc",
+      "Varus"
+    ],
+    "victim": "Elise",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 723000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Pyke",
+      "JarvanIV",
+      "LeBlanc",
+      "Varus"
+    ],
+    "victim": "MissFortune",
+    "target": "Teddy"
+  },
+  {
+    "timestamp": 734000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Pyke",
+      "LeBlanc",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Jayce",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 878000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Pyke",
+      "JarvanIV",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Jayce",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 984000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1001000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Faker",
+    "participants": [
+      "Azir",
+      "Elise"
+    ],
+    "victim": "LeBlanc",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1014000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1132000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1138000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1228000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1236000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1283000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1288000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Mata",
+    "participants": [
+      "Braum"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1308000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise",
+      "Jayce",
+      "Azir",
+      "MissFortune",
+      "Braum"
+    ],
+    "victim": "JarvanIV",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1402000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Varus",
+      "Pyke",
+      "TahmKench"
+    ],
+    "victim": "Azir",
+    "target": "Faker"
+  },
+  {
+    "timestamp": 1417000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc",
+      "Pyke"
+    ],
+    "victim": "Elise",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1436000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc",
+      "Pyke",
+      "JarvanIV",
+      "TahmKench"
+    ],
+    "victim": "Braum",
+    "target": "Mata"
+  },
+  {
+    "timestamp": 1450000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "Jayce",
+      "MissFortune"
+    ],
+    "victim": "Pyke",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1459000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1477000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Faker",
+    "participants": [
+      "Azir",
+      "Jayce"
+    ],
+    "victim": "TahmKench",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1538000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Pyke"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1607000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1632000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Pyke"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1647000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Pyke",
+      "JarvanIV",
+      "LeBlanc",
+      "Varus"
+    ],
+    "victim": "Jayce",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1647000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Pyke",
+      "JarvanIV",
+      "LeBlanc",
+      "Varus"
+    ],
+    "victim": "Braum",
+    "target": "Mata"
+  },
+  {
+    "timestamp": 1659000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Mikyx",
+    "participants": [
+      "TahmKench"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1835000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise",
+      "Jayce",
+      "Azir",
+      "MissFortune"
+    ],
+    "victim": "Pyke",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1885000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc",
+      "JarvanIV",
+      "TahmKench"
+    ],
+    "victim": "Elise",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1894000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Varus",
+      "Pyke",
+      "JarvanIV",
+      "LeBlanc",
+      "TahmKench"
+    ],
+    "victim": "Jayce",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1899000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Faker",
+    "participants": [
+      "Azir",
+      "Jayce",
+      "Braum"
+    ],
+    "victim": "TahmKench",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1900000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Pyke",
+      "JarvanIV",
+      "LeBlanc",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Azir",
+    "target": "Faker"
+  },
+  {
+    "timestamp": 1915000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Pyke",
+      "JarvanIV"
+    ],
+    "victim": "MissFortune",
+    "target": "Teddy"
+  },
+  {
+    "timestamp": 1923000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc",
+      "Pyke",
+      "JarvanIV"
+    ],
+    "victim": "Braum",
+    "target": "Mata"
+  },
+  {
+    "timestamp": 1929000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1993000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2023000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 2052000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2062000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2065000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 2069000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Pyke"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 2076000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2098000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc"
+    ],
+    "victim": "Jayce",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 2104000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 2108000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2111000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Pyke",
+      "JarvanIV",
+      "LeBlanc",
+      "TahmKench"
+    ],
+    "victim": "Elise",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 2115000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2117000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Pyke",
+      "JarvanIV",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Azir",
+    "target": "Faker"
+  },
+  {
+    "timestamp": 2120000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc",
+      "JarvanIV",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "MissFortune",
+    "target": "Teddy"
+  },
+  {
+    "timestamp": 2120000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Pyke",
+      "JarvanIV",
+      "LeBlanc",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Braum",
+    "target": "Mata"
+  },
+  {
+    "timestamp": 2120000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "MissFortune",
+      "Elise"
+    ],
+    "victim": "LeBlanc",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 2128000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

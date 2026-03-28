@@ -1,0 +1,1212 @@
+[
+  {
+    "timestamp": 393000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Bugi",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Rather",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 519000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Bugi",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Rather",
+        "champion": "Sylas"
+      },
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      }
+    ]
+  },
+  {
+    "timestamp": 570000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 629000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bugi",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bugi",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 701000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 804000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 805000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bugi",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bugi",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ]
+  },
+  {
+    "timestamp": 808000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 812000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rather",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rather",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 900000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 952000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 955000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 993000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1199000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1278000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1278000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rather",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rather",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1315000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1315000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1341000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bugi",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bugi",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Kennen"
+      },
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1367000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1378000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1383000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Rather",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1388000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rather",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rather",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Bugi",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      }
+    ]
+  },
+  {
+    "timestamp": 1389000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rather",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rather",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1394000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Bugi",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Rather",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ]
+  },
+  {
+    "timestamp": 1394000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      },
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1399000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 1502000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1588000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1598000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1610000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1616000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1654000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1738000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1780000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1805000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rather",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rather",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1810000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Draven"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShiauC",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1831000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1831000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1835000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1852000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

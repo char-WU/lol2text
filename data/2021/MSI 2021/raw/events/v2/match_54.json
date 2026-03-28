@@ -1,0 +1,1774 @@
+[
+  {
+    "timestamp": 128000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 404000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 417000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 419000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      },
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 434000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 437000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 468000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 611000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 720000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 744000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 839000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 857000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 986000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "StarScreen",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      },
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 988000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1060000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1060000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1074000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1192000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "StarScreen",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      },
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1211000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1265000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1338000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1349000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      },
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1350000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      },
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1355000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      },
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 1355000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "StarScreen",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      },
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1384000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1535000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      },
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1543000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      },
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "StarScreen",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "StarScreen",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1559000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1599000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      },
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1618000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "StarScreen",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      },
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1619000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "StarScreen",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "StarScreen",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1624000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1637000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1660000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1661000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1720000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1761000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1763000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1765000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "StarScreen",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1767000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 1768000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "StarScreen",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1770000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      },
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "StarScreen",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "StarScreen",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1771000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1774000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1959000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      },
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ferret",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 1965000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      },
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Farfetch",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1968000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      },
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Serin",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1971000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "StarScreen",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "StarScreen",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1975000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      },
+      {
+        "player": "River",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Holyphoenix",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1990000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1994000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1999000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2002000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2009000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

@@ -1,0 +1,648 @@
+[
+  {
+    "timestamp": 187000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen",
+      "Qiyana",
+      "Ryze"
+    ],
+    "victim": "JarvanIV",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 194000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen",
+      "Qiyana",
+      "Ryze"
+    ],
+    "victim": "Orianna",
+    "target": "1116"
+  },
+  {
+    "timestamp": 196000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "1116",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": "Kennen",
+    "target": "Crazy"
+  },
+  {
+    "timestamp": 360000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 423000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 448000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 583000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 600000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen",
+      "Qiyana"
+    ],
+    "victim": "JarvanIV",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 617000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 619000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao",
+      "Orianna"
+    ],
+    "victim": "Qiyana",
+    "target": "Mojito"
+  },
+  {
+    "timestamp": 622000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 622000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 622000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 689000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Pk",
+    "participants": [
+      "JarvanIV",
+      "XinZhao",
+      "Orianna"
+    ],
+    "victim": "Ryze",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 808000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 812000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 967000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 977000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1054000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1155000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1157000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen",
+      "Qiyana"
+    ],
+    "victim": "Orianna",
+    "target": "1116"
+  },
+  {
+    "timestamp": 1159000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Alive",
+    "participants": [
+      "MissFortune",
+      "Kennen",
+      "Qiyana",
+      "Bard"
+    ],
+    "victim": "JarvanIV",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 1160000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao",
+      "JarvanIV",
+      "Orianna",
+      "Braum"
+    ],
+    "victim": "MissFortune",
+    "target": "Alive"
+  },
+  {
+    "timestamp": 1161000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal",
+      "Braum"
+    ],
+    "victim": "Kennen",
+    "target": "Crazy"
+  },
+  {
+    "timestamp": 1166000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Qiyana",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "XinZhao",
+    "target": "HuSha"
+  },
+  {
+    "timestamp": 1340000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Qiyana",
+      "Kennen",
+      "Ryze"
+    ],
+    "victim": "JarvanIV",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 1344000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen",
+      "Qiyana",
+      "Ryze",
+      "MissFortune"
+    ],
+    "victim": "Orianna",
+    "target": "1116"
+  },
+  {
+    "timestamp": 1352000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao",
+      "Braum"
+    ],
+    "victim": "MissFortune",
+    "target": "Alive"
+  },
+  {
+    "timestamp": 1352000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Alive",
+    "participants": [
+      "MissFortune",
+      "Kennen",
+      "Bard"
+    ],
+    "victim": "XinZhao",
+    "target": "HuSha"
+  },
+  {
+    "timestamp": 1354000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal",
+      "Braum"
+    ],
+    "victim": "Qiyana",
+    "target": "Mojito"
+  },
+  {
+    "timestamp": 1354000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal",
+      "Braum"
+    ],
+    "victim": "Ryze",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 1476000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1510000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1552000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zergsting",
+    "participants": [
+      "Bard",
+      "Kennen",
+      "Qiyana"
+    ],
+    "victim": "Ezreal",
+    "target": "Doggo"
+  },
+  {
+    "timestamp": 1563000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "1116",
+    "participants": [
+      "Orianna",
+      "JarvanIV",
+      "XinZhao",
+      "Ezreal"
+    ],
+    "victim": "Kennen",
+    "target": "Crazy"
+  },
+  {
+    "timestamp": 1566000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Alive",
+    "participants": [
+      "MissFortune",
+      "Kennen",
+      "Ryze",
+      "Bard"
+    ],
+    "victim": "JarvanIV",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 1569000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Qiyana",
+      "Ryze",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "Braum",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 1599000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1654000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Alive",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1820000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2008000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Qiyana",
+      "Ryze",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "JarvanIV",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 2010000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen",
+      "Qiyana",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "Orianna",
+    "target": "1116"
+  },
+  {
+    "timestamp": 2010000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Alive",
+    "participants": [
+      "MissFortune",
+      "Kennen",
+      "Bard"
+    ],
+    "victim": "Braum",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 2011000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Qiyana",
+      "Kennen",
+      "Bard"
+    ],
+    "victim": "XinZhao",
+    "target": "HuSha"
+  },
+  {
+    "timestamp": 2016000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Alive",
+    "participants": [
+      "MissFortune",
+      "Kennen",
+      "Qiyana",
+      "Bard"
+    ],
+    "victim": "Ezreal",
+    "target": "Doggo"
+  },
+  {
+    "timestamp": 2034000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2040000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2042000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Alive",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2047000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2050000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zergsting",
+    "participants": [
+      "Bard"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2058000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

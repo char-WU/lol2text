@@ -1,0 +1,934 @@
+[
+  {
+    "timestamp": 205000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 251000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 404000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 413000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 486000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Braum"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Braum"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 547000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 640000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 661000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 726000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 744000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 748000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 778000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 915000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 934000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 940000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1024000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Senna"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 1026000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Braum"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Braum"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1047000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1073000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1074000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1081000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1082000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1090000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1099000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1105000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1107000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ghost",
+        "champion": "Caitlyn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ghost",
+        "champion": "Caitlyn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1108000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1111000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1131000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Braum"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Braum"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Kindred"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1135000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Braum"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Braum"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1135000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Sett"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1143000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

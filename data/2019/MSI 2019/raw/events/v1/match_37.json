@@ -1,0 +1,479 @@
+[
+  {
+    "timestamp": 462000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "Lux"
+    ],
+    "victim": "Sona",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 580000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "JarvanIV",
+      "Akali"
+    ],
+    "victim": "Sylas",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 703000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Akali",
+      "JarvanIV"
+    ],
+    "victim": "Sylas",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 743000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 885000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "XuHao",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 908000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1012000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1076000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1161000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "Kennen",
+      "Hecarim",
+      "Lux"
+    ],
+    "victim": "Gangplank",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1191000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1400000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Akali",
+      "Gangplank",
+      "JarvanIV",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "Hecarim",
+    "target": "XuHao"
+  },
+  {
+    "timestamp": 1407000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Akali",
+      "Gangplank",
+      "JarvanIV",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "Kennen",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1418000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Taric",
+      "JarvanIV",
+      "Akali",
+      "Sona"
+    ],
+    "victim": "Sylas",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1451000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1452000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Akali",
+      "JarvanIV",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "Lux",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1510000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1528000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "Kennen",
+      "Hecarim",
+      "Sylas",
+      "Lux"
+    ],
+    "victim": "JarvanIV",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1531000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Gangplank",
+      "JarvanIV",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "Kennen",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1541000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Akali",
+      "Gangplank",
+      "JarvanIV",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "Varus",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1541000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Taric",
+      "JarvanIV",
+      "Akali",
+      "Sona"
+    ],
+    "victim": "Lux",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1543000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Akali",
+      "Gangplank",
+      "JarvanIV",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "Hecarim",
+    "target": "XuHao"
+  },
+  {
+    "timestamp": 1552000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Sona"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1566000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1569000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Akali"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1579000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Sona"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1625000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1641000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1709000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Sona"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1714000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Sona",
+      "Gangplank",
+      "JarvanIV",
+      "Taric"
+    ],
+    "victim": "Hecarim",
+    "target": "XuHao"
+  },
+  {
+    "timestamp": 1714000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Gangplank",
+      "JarvanIV",
+      "Akali",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "Varus",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1718000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Sylas",
+      "Kennen",
+      "Varus",
+      "Lux"
+    ],
+    "victim": "Akali",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1720000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Taric",
+      "Gangplank",
+      "JarvanIV",
+      "Akali",
+      "Sona"
+    ],
+    "victim": "Kennen",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1729000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1733000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Gangplank",
+      "JarvanIV",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "Sylas",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1735000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1746000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

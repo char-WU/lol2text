@@ -1,0 +1,1380 @@
+[
+  {
+    "timestamp": 132000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 239000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 246000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 266000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 271000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 274000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 473000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 515000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 521000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 556000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 628000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 649000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 719000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 725000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 730000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      },
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 750000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 756000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 869000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 885000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 906000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bwipo",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bwipo",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 944000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 961000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 983000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 990000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1020000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bwipo",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bwipo",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1067000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1139000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1281000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1402000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1405000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1600000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1603000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1613000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1613000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1617000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1620000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1631000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 1641000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1646000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1655000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Graves"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1656000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1659000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1665000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rascal",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1670000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

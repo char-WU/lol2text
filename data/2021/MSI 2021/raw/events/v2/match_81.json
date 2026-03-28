@@ -1,0 +1,986 @@
+[
+  {
+    "timestamp": 406000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 431000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 475000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 563000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 642000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 729000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 737000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 846000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 873000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 912000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1023000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1183000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1189000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1216000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1288000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1301000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1302000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1302000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1391000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1391000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ]
+  },
+  {
+    "timestamp": 1391000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1443000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1499000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1503000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1511000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1559000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1587000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1602000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1617000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1620000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1621000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1622000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ]
+  },
+  {
+    "timestamp": 1626000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1636000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1643000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1660000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

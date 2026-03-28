@@ -1,0 +1,1156 @@
+[
+  {
+    "timestamp": 145000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Nukeduck",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Smoothie",
+        "champion": "Yuumi"
+      }
+    ],
+    "target": [
+      {
+        "player": "Smoothie",
+        "champion": "Yuumi"
+      }
+    ]
+  },
+  {
+    "timestamp": 208000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      },
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Nukeduck",
+        "champion": "Yasuo"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 376000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      },
+      {
+        "player": "Nukeduck",
+        "champion": "Yasuo"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 405000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 513000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      },
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 520000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      },
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bjergsen",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bjergsen",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 640000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 666000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 729000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Akaadian",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Akaadian",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 842000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      },
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Akaadian",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Akaadian",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 853000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bjergsen",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bjergsen",
+        "champion": "Akali"
+      },
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      }
+    ],
+    "target": [
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      }
+    ]
+  },
+  {
+    "timestamp": 928000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Akaadian",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Akaadian",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bjergsen",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nukeduck",
+        "champion": "Yasuo"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nukeduck",
+        "champion": "Yasuo"
+      }
+    ]
+  },
+  {
+    "timestamp": 945000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 952000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Akaadian",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Akaadian",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 955000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bjergsen",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bjergsen",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 969000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 969000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      },
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 973000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Smoothie",
+        "champion": "Yuumi"
+      }
+    ],
+    "target": [
+      {
+        "player": "Smoothie",
+        "champion": "Yuumi"
+      }
+    ]
+  },
+  {
+    "timestamp": 1055000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1119000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1153000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1188000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1250000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1275000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1413000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1434000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1546000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1569000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1589000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1596000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1601000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      },
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Smoothie",
+        "champion": "Yuumi"
+      }
+    ],
+    "target": [
+      {
+        "player": "Smoothie",
+        "champion": "Yuumi"
+      }
+    ]
+  },
+  {
+    "timestamp": 1613000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1631000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1754000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1760000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      },
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Nukeduck",
+        "champion": "Yasuo"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1761000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      },
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Nukeduck",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Akaadian",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Akaadian",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1762000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1768000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nukeduck",
+        "champion": "Yasuo"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nukeduck",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      },
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bjergsen",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bjergsen",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 1772000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1774000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Akaadian",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Smoothie",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      }
+    ]
+  },
+  {
+    "timestamp": 1775000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Yorick"
+      },
+      {
+        "player": "Nukeduck",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "Patrik",
+        "champion": "Neeko"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Pyke"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Brokenblade",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1780000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

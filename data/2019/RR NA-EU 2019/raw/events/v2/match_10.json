@@ -1,0 +1,1512 @@
+[
+  {
+    "timestamp": 199000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 390000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 538000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 549000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 564000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 566000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      },
+      {
+        "player": "Sneaky",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 705000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 751000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 858000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Sneaky",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Sneaky",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 860000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 868000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 873000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      },
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ]
+  },
+  {
+    "timestamp": 873000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 880000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 886000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 974000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      },
+      {
+        "player": "Sneaky",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 974000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 978000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 986000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Sneaky",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Sneaky",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 991000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      },
+      {
+        "player": "Sneaky",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 993000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 995000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 997000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 1006000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 1086000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1096000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      },
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1098000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      },
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Sneaky",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Sneaky",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1099000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Sneaky",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1101000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      },
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1119000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 1172000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1319000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 1330000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 1334000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1342000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1351000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1358000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1361000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 1376000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Svenskeren",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 1377000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nisqy",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 1383000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Sneaky",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Sneaky",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1385000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1391000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Broxah",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Licorice",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 1399000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1400000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1403000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeyzal",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1410000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

@@ -1,0 +1,1404 @@
+[
+  {
+    "timestamp": 303000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 306000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ]
+  },
+  {
+    "timestamp": 379000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 379000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 385000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      },
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 568000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 578000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 599000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 732000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      }
+    ]
+  },
+  {
+    "timestamp": 883000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ]
+  },
+  {
+    "timestamp": 887000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bolulu",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bolulu",
+        "champion": "Sett"
+      },
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      }
+    ]
+  },
+  {
+    "timestamp": 889000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      },
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 889000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bolulu",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bolulu",
+        "champion": "Sett"
+      },
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      },
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 892000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      },
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Sett"
+      },
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 901000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 920000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 988000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1019000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      },
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1043000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1106000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      },
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1133000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1177000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      },
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1183000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1247000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1269000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1555000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      },
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1558000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      },
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ]
+  },
+  {
+    "timestamp": 1585000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1586000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Carzzy",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Carzzy",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1592000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      }
+    ]
+  },
+  {
+    "timestamp": 1592000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1593000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bolulu",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bolulu",
+        "champion": "Sett"
+      },
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1629000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1678000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1693000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1706000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1715000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1715000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1735000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Corki"
+      }
+    ]
+  },
+  {
+    "timestamp": 1738000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1749000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Sett"
+      },
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1751000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1754000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Malphite"
+      }
+    ]
+  },
+  {
+    "timestamp": 1765000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1770000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1772000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zeitnot",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "KaKAO",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Sett"
+      },
+      {
+        "player": "SnowFlower",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Orome",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1779000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

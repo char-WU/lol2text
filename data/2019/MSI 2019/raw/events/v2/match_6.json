@@ -1,0 +1,1478 @@
+[
+  {
+    "timestamp": 220000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 221000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 264000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 271000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 418000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 469000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 571000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 578000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 580000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Caps",
+        "champion": "Azir"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 600000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 608000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 712000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 738000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 745000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 750000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 750000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 916000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 925000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 942000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 954000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1062000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1077000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1084000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1177000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1197000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1207000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1394000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1461000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1533000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1552000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1680000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1685000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1696000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1701000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1703000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 1705000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Mata",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1717000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1740000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1777000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1855000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1856000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Caps",
+        "champion": "Azir"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1860000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1868000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2032000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 2034000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 2039000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 2064000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 2064000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 2066000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2076000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

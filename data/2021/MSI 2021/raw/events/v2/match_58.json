@@ -1,0 +1,1428 @@
+[
+  {
+    "timestamp": 274000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      },
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 299000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      },
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Urgot"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Urgot"
+      }
+    ]
+  },
+  {
+    "timestamp": 309000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Praedyth",
+        "champion": "Vayne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Praedyth",
+        "champion": "Vayne"
+      },
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ]
+  },
+  {
+    "timestamp": 310000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Vayne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Vayne"
+      }
+    ]
+  },
+  {
+    "timestamp": 314000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      },
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 315000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      },
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 382000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 423000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 442000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pabu",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pabu",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Praedyth",
+        "champion": "Vayne"
+      },
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 506000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 524000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BioPanther",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BioPanther",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ]
+  },
+  {
+    "timestamp": 594000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 611000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 740000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 784000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 800000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BioPanther",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BioPanther",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Pabu",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ]
+  },
+  {
+    "timestamp": 895000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 906000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 959000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 961000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Urgot"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Urgot"
+      }
+    ]
+  },
+  {
+    "timestamp": 995000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1071000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1098000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1102000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BioPanther",
+        "champion": "Urgot"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BioPanther",
+        "champion": "Urgot"
+      },
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Praedyth",
+        "champion": "Vayne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1121000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Urgot"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Urgot"
+      }
+    ]
+  },
+  {
+    "timestamp": 1126000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Vayne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Vayne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1132000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      },
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1143000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      },
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1146000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      },
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 1150000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1156000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1162000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1255000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1297000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Vayne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Vayne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1303000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      },
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1306000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 1319000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Urgot"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Urgot"
+      }
+    ]
+  },
+  {
+    "timestamp": 1326000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1338000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1340000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      },
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1343000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chazz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Pabu",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Praedyth",
+        "champion": "Vayne"
+      },
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1345000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Vayne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Vayne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1350000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 1350000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xiaobai",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Wei",
+        "champion": "Udyr"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "GALA",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1356000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

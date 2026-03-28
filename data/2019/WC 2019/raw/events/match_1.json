@@ -1,0 +1,771 @@
+[
+  {
+    "timestamp": 191000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GimGoon",
+    "participants": [
+      "Gangplank",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "Ryze",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 277000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "LeeSin",
+      "Gangplank"
+    ],
+    "victim": "Ryze",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 406000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 582000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Varus",
+      "Pyke"
+    ],
+    "victim": "LeeSin",
+    "target": "Tian"
+  },
+  {
+    "timestamp": 744000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir",
+      "LeeSin",
+      "Thresh"
+    ],
+    "victim": "Varus",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 799000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doinb",
+    "participants": [
+      "Nautilus",
+      "Thresh"
+    ],
+    "victim": "Pyke",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 808000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Ryze",
+      "Elise",
+      "Pyke",
+      "TahmKench"
+    ],
+    "victim": "Nautilus",
+    "target": "Doinb"
+  },
+  {
+    "timestamp": 865000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 869000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 886000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GimGoon",
+    "participants": [
+      "Gangplank",
+      "LeeSin",
+      "Nautilus",
+      "Thresh"
+    ],
+    "victim": "Ryze",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 891000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 895000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "GimGoon",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 914000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 922000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 978000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Varus",
+      "Pyke"
+    ],
+    "victim": "Thresh",
+    "target": "Crisp"
+  },
+  {
+    "timestamp": 999000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1027000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir",
+      "Nautilus",
+      "Thresh"
+    ],
+    "victim": "Ryze",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1044000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1166000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Pyke",
+      "Elise",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Thresh",
+    "target": "Crisp"
+  },
+  {
+    "timestamp": 1183000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1372000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1493000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1607000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir",
+      "LeeSin",
+      "Nautilus",
+      "Thresh"
+    ],
+    "victim": "TahmKench",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1624000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1800000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1810000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir",
+      "Gangplank",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "TahmKench",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1817000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "LeeSin",
+      "Gangplank",
+      "Sivir",
+      "Thresh"
+    ],
+    "victim": "Elise",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1818000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "LeeSin",
+      "Gangplank",
+      "Nautilus",
+      "Sivir",
+      "Thresh"
+    ],
+    "victim": "Varus",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1837000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Pyke",
+      "Ryze"
+    ],
+    "victim": "Nautilus",
+    "target": "Doinb"
+  },
+  {
+    "timestamp": 1856000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GimGoon",
+    "participants": [
+      "Gangplank",
+      "LeeSin",
+      "Sivir",
+      "Thresh"
+    ],
+    "victim": "Ryze",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1867000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1924000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1952000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir",
+      "Gangplank",
+      "Thresh"
+    ],
+    "victim": "Pyke",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1966000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1973000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir",
+      "Gangplank",
+      "LeeSin",
+      "Nautilus",
+      "Thresh"
+    ],
+    "victim": "Ryze",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1977000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2105000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 2116000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Pyke",
+      "Ryze",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Nautilus",
+    "target": "Doinb"
+  },
+  {
+    "timestamp": 2120000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir",
+      "Gangplank",
+      "Nautilus",
+      "Thresh"
+    ],
+    "victim": "Pyke",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 2121000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Thresh",
+    "target": "Crisp"
+  },
+  {
+    "timestamp": 2124000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GimGoon",
+    "participants": [
+      "Gangplank",
+      "LeeSin",
+      "Nautilus",
+      "Sivir",
+      "Thresh"
+    ],
+    "victim": "Varus",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 2126000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 2127000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir",
+      "Gangplank",
+      "LeeSin",
+      "Thresh"
+    ],
+    "victim": "Elise",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 2172000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2181000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir",
+      "Gangplank",
+      "LeeSin"
+    ],
+    "victim": "TahmKench",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 2233000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 2247000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2312000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 2322000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Crisp",
+    "participants": [
+      "Thresh"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 2334000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2335000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 2411000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "LeeSin",
+      "Thresh"
+    ],
+    "victim": "Ryze",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 2432000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GimGoon",
+    "participants": [
+      "Gangplank",
+      "Nautilus",
+      "Sivir",
+      "Thresh"
+    ],
+    "victim": "Pyke",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 2438000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir",
+      "Gangplank",
+      "Nautilus"
+    ],
+    "victim": "TahmKench",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 2439000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tian",
+    "participants": [
+      "LeeSin",
+      "Gangplank",
+      "Nautilus",
+      "Thresh"
+    ],
+    "victim": "Elise",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 2441000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2446000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doinb",
+    "participants": [
+      "Nautilus"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2449000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lwx",
+    "participants": [
+      "Sivir",
+      "Gangplank",
+      "LeeSin",
+      "Nautilus",
+      "Thresh"
+    ],
+    "victim": "Varus",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 2454000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

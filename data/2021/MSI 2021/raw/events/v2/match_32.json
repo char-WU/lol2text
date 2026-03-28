@@ -1,0 +1,1374 @@
+[
+  {
+    "timestamp": 222000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ]
+  },
+  {
+    "timestamp": 345000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 506000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 670000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 725000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 733000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 747000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 747000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Praedyth",
+        "champion": "Samira"
+      },
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ]
+  },
+  {
+    "timestamp": 750000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 922000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 925000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 961000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 983000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Samira"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Samira"
+      }
+    ]
+  },
+  {
+    "timestamp": 997000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1014000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1034000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1036000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1073000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "BioPanther",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BioPanther",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1157000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1193000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "BioPanther",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BioPanther",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1195000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1199000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1218000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "BioPanther",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BioPanther",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1231000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1283000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1306000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1315000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Samira"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Samira"
+      }
+    ]
+  },
+  {
+    "timestamp": 1366000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1390000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1436000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1442000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1446000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1449000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Yorick"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Yorick"
+      }
+    ]
+  },
+  {
+    "timestamp": 1470000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1479000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1483000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1487000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1490000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Samira"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Samira"
+      }
+    ]
+  },
+  {
+    "timestamp": 1495000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1499000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1500000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chazz",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Praedyth",
+        "champion": "Samira"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Zoe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1507000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BioPanther",
+        "champion": "Yorick"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BioPanther",
+        "champion": "Yorick"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1518000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vulcan",
+        "champion": "TahmKench"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Zven",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Yorick"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Yorick"
+      }
+    ]
+  },
+  {
+    "timestamp": 1525000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

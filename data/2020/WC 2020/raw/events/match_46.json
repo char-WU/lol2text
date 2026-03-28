@@ -1,0 +1,963 @@
+[
+  {
+    "timestamp": 242000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Lillia",
+      "Senna",
+      "Sett"
+    ],
+    "victim": "Ashe",
+    "target": "huanfeng"
+  },
+  {
+    "timestamp": 249000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves",
+      "Leona"
+    ],
+    "victim": "Sett",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 365000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Lillia",
+      "Syndra"
+    ],
+    "victim": "Graves",
+    "target": "SofM"
+  },
+  {
+    "timestamp": 420000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Angel",
+    "participants": [
+      "Akali",
+      "Leona"
+    ],
+    "victim": "Syndra",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 430000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Lillia",
+      "Syndra"
+    ],
+    "victim": "Leona",
+    "target": "SwordArt"
+  },
+  {
+    "timestamp": 522000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 659000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 709000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Angel",
+    "participants": [
+      "Akali",
+      "Gangplank",
+      "Graves",
+      "Ashe",
+      "Leona"
+    ],
+    "victim": "Lillia",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 720000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Sion",
+      "Lillia",
+      "Syndra",
+      "Senna",
+      "Sett"
+    ],
+    "victim": "Leona",
+    "target": "SwordArt"
+  },
+  {
+    "timestamp": 919000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Syndra",
+      "Lillia",
+      "Senna",
+      "Sett"
+    ],
+    "victim": "Leona",
+    "target": "SwordArt"
+  },
+  {
+    "timestamp": 920000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves",
+      "Gangplank"
+    ],
+    "victim": "Sett",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 921000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Angel",
+    "participants": [
+      "Akali",
+      "Ashe",
+      "Leona"
+    ],
+    "victim": "Lillia",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 922000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Angel",
+    "participants": [
+      "Akali"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 943000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves",
+      "Gangplank"
+    ],
+    "victim": "Syndra",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 949000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Angel",
+    "participants": [
+      "Akali"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1024000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1044000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1104000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Lillia",
+      "Syndra"
+    ],
+    "victim": "Gangplank",
+    "target": "Bin"
+  },
+  {
+    "timestamp": 1123000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "huanfeng",
+    "participants": [
+      "Ashe",
+      "Graves"
+    ],
+    "victim": "Lillia",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1153000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Sion",
+      "Senna",
+      "Sett"
+    ],
+    "victim": "Ashe",
+    "target": "huanfeng"
+  },
+  {
+    "timestamp": 1198000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1275000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Angel",
+    "participants": [
+      "Akali",
+      "Graves",
+      "Leona"
+    ],
+    "victim": "Syndra",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1286000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Angel",
+    "participants": [
+      "Akali"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1291000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Senna",
+      "Lillia",
+      "Sett"
+    ],
+    "victim": "Gangplank",
+    "target": "Bin"
+  },
+  {
+    "timestamp": 1299000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Senna",
+      "Sion",
+      "Lillia"
+    ],
+    "victim": "Ashe",
+    "target": "huanfeng"
+  },
+  {
+    "timestamp": 1344000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1383000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Angel",
+    "participants": [
+      "Akali"
+    ],
+    "victim": "Syndra",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1388000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1449000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Senna",
+      "Sion",
+      "Lillia",
+      "Sett"
+    ],
+    "victim": "Leona",
+    "target": "SwordArt"
+  },
+  {
+    "timestamp": 1502000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "huanfeng",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1574000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "huanfeng",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1656000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1660000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mikyx",
+    "participants": [
+      "Sett",
+      "Senna"
+    ],
+    "victim": "Gangplank",
+    "target": "Bin"
+  },
+  {
+    "timestamp": 1669000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Angel",
+    "participants": [
+      "Akali",
+      "Gangplank",
+      "Graves",
+      "Ashe",
+      "Leona"
+    ],
+    "victim": "Sett",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1671000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "huanfeng",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1745000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "huanfeng",
+    "participants": [
+      "Ashe",
+      "Graves",
+      "Leona"
+    ],
+    "victim": "Sion",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1745000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves",
+      "Gangplank"
+    ],
+    "victim": "Sett",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1775000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1895000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1898000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1899000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Lillia",
+      "Sion",
+      "Senna"
+    ],
+    "victim": "Graves",
+    "target": "SofM"
+  },
+  {
+    "timestamp": 1902000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bin",
+    "participants": [
+      "Gangplank",
+      "Akali"
+    ],
+    "victim": "Syndra",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1907000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SwordArt",
+    "participants": [
+      "Leona",
+      "Gangplank",
+      "Ashe"
+    ],
+    "victim": "Sett",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1911000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Lillia",
+      "Sion",
+      "Senna",
+      "Sett"
+    ],
+    "victim": "Leona",
+    "target": "SwordArt"
+  },
+  {
+    "timestamp": 1913000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bin",
+    "participants": [
+      "Gangplank",
+      "Akali",
+      "Ashe",
+      "Leona"
+    ],
+    "victim": "Sion",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1914000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Lillia",
+      "Sion",
+      "Syndra",
+      "Senna",
+      "Sett"
+    ],
+    "victim": "Gangplank",
+    "target": "Bin"
+  },
+  {
+    "timestamp": 1920000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1926000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Senna",
+      "Sion",
+      "Lillia"
+    ],
+    "victim": "Akali",
+    "target": "Angel"
+  },
+  {
+    "timestamp": 1960000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1969000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2008000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Syndra",
+      "Lillia",
+      "Senna"
+    ],
+    "victim": "Gangplank",
+    "target": "Bin"
+  },
+  {
+    "timestamp": 2152000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2273000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Lillia",
+      "Senna"
+    ],
+    "victim": "Akali",
+    "target": "Angel"
+  },
+  {
+    "timestamp": 2287000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "huanfeng",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2291000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Senna",
+      "Lillia",
+      "Sett"
+    ],
+    "victim": "Leona",
+    "target": "SwordArt"
+  },
+  {
+    "timestamp": 2495000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves",
+      "Gangplank",
+      "Akali",
+      "Ashe",
+      "Leona"
+    ],
+    "victim": "Sett",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 2497000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Syndra",
+      "Lillia",
+      "Senna"
+    ],
+    "victim": "Leona",
+    "target": "SwordArt"
+  },
+  {
+    "timestamp": 2501000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "huanfeng",
+    "participants": [
+      "Ashe",
+      "Gangplank",
+      "Akali",
+      "Leona"
+    ],
+    "victim": "Lillia",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 2501000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Lillia",
+      "Sion",
+      "Syndra",
+      "Senna",
+      "Sett"
+    ],
+    "victim": "Akali",
+    "target": "Angel"
+  },
+  {
+    "timestamp": 2522000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Sion"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 2533000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2579000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2592000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2599000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves",
+      "Ashe"
+    ],
+    "victim": "Lillia",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 2600000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bin",
+    "participants": [
+      "Gangplank",
+      "Ashe"
+    ],
+    "victim": "Senna",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 2600000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bin",
+    "participants": [
+      "Gangplank",
+      "Ashe"
+    ],
+    "victim": "Syndra",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 2606000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Sion",
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Gangplank",
+    "target": "Bin"
+  },
+  {
+    "timestamp": 2606000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Angel",
+    "participants": [
+      "Akali",
+      "Gangplank",
+      "Ashe"
+    ],
+    "victim": "Sett",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 2621000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves",
+      "Akali",
+      "Ashe",
+      "Leona"
+    ],
+    "victim": "Sion",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 2629000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 2632000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2636000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2639000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "huanfeng",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2647000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

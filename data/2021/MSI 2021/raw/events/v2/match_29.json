@@ -1,0 +1,1478 @@
+[
+  {
+    "timestamp": 217000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      },
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Pabu",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 345000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 351000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 363000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 371000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 427000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pabu",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pabu",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 458000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 482000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 495000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 510000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 550000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 578000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 588000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 617000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 680000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 701000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 710000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 729000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Praedyth",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Praedyth",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Pabu",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 751000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 763000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 792000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 799000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 806000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 815000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 828000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 839000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      },
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 840000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 846000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 901000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 906000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pabu",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pabu",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 920000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 948000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 962000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 967000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 972000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 984000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 992000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1048000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1054000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1066000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1072000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1080000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1085000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1094000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1097000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 1100000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 1105000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "Rumble"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "GALA",
+        "champion": "Varus"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1112000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

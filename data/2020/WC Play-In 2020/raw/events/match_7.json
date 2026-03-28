@@ -1,0 +1,765 @@
+[
+  {
+    "timestamp": 329000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "KaKAO",
+    "participants": [
+      "Hecarim",
+      "Ezreal",
+      "Alistar"
+    ],
+    "victim": "Wukong",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 365000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SnowFlower",
+    "participants": [
+      "Alistar",
+      "Shen",
+      "Ezreal"
+    ],
+    "victim": "Wukong",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 368000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SnowFlower",
+    "participants": [
+      "Alistar",
+      "Shen",
+      "Ezreal"
+    ],
+    "victim": "Sett",
+    "target": "Shad0w"
+  },
+  {
+    "timestamp": 512000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "KaKAO",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 557000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Shad0w",
+    "participants": [
+      "Sett"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 742000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "KaKAO",
+    "participants": [
+      "Hecarim",
+      "Shen",
+      "Galio",
+      "Alistar"
+    ],
+    "victim": "Sett",
+    "target": "Shad0w"
+  },
+  {
+    "timestamp": 822000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "KaKAO",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 866000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Syndra",
+      "Mordekaiser",
+      "Sett",
+      "Senna",
+      "Wukong"
+    ],
+    "victim": "Galio",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 891000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "KaKAO",
+    "participants": [
+      "Hecarim",
+      "Shen"
+    ],
+    "victim": "Syndra",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 953000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "Shen"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 955000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "KaKAO",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 996000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "Shen",
+      "Ezreal",
+      "Alistar"
+    ],
+    "victim": "Syndra",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1027000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1038000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1042000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "KaKAO",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": "Wukong",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1059000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Orome",
+    "participants": [
+      "Mordekaiser",
+      "Syndra"
+    ],
+    "victim": "Galio",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 1059000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zeitnot",
+    "participants": [
+      "Ezreal",
+      "Shen",
+      "Alistar"
+    ],
+    "victim": "Sett",
+    "target": "Shad0w"
+  },
+  {
+    "timestamp": 1068000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Orome",
+    "participants": [
+      "Mordekaiser",
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Hecarim",
+    "target": "KaKAO"
+  },
+  {
+    "timestamp": 1074000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Syndra",
+      "Mordekaiser",
+      "Senna"
+    ],
+    "victim": "Alistar",
+    "target": "SnowFlower"
+  },
+  {
+    "timestamp": 1077000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Orome",
+    "participants": [
+      "Mordekaiser",
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Shen",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1091000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1163000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Carzzy",
+    "participants": [
+      "Senna",
+      "Mordekaiser",
+      "Sett",
+      "Wukong"
+    ],
+    "victim": "Shen",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1166000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Shad0w",
+    "participants": [
+      "Sett"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1167000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Syndra",
+      "Mordekaiser",
+      "Sett",
+      "Senna",
+      "Wukong"
+    ],
+    "victim": "Hecarim",
+    "target": "KaKAO"
+  },
+  {
+    "timestamp": 1170000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Orome",
+    "participants": [
+      "Mordekaiser",
+      "Sett",
+      "Syndra",
+      "Senna",
+      "Wukong"
+    ],
+    "victim": "Alistar",
+    "target": "SnowFlower"
+  },
+  {
+    "timestamp": 1200000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Orome",
+    "participants": [
+      "Mordekaiser"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1250000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1410000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SnowFlower",
+    "participants": [
+      "Alistar",
+      "Shen",
+      "Hecarim",
+      "Galio",
+      "Ezreal"
+    ],
+    "victim": "Senna",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1413000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zeitnot",
+    "participants": [
+      "Ezreal",
+      "Shen",
+      "Hecarim",
+      "Galio",
+      "Alistar"
+    ],
+    "victim": "Mordekaiser",
+    "target": "Orome"
+  },
+  {
+    "timestamp": 1421000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "Shen",
+      "Hecarim",
+      "Galio",
+      "Ezreal",
+      "Alistar"
+    ],
+    "victim": "Wukong",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1421000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kaiser",
+    "participants": [
+      "Wukong",
+      "Mordekaiser"
+    ],
+    "victim": "Ezreal",
+    "target": "Zeitnot"
+  },
+  {
+    "timestamp": 1486000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Shad0w",
+    "participants": [
+      "Sett"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1661000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "KaKAO",
+    "participants": [
+      "Hecarim",
+      "Shen",
+      "Galio"
+    ],
+    "victim": "Senna",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1665000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zeitnot",
+    "participants": [
+      "Ezreal",
+      "Shen",
+      "Hecarim",
+      "Galio",
+      "Alistar"
+    ],
+    "victim": "Sett",
+    "target": "Shad0w"
+  },
+  {
+    "timestamp": 1701000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Orome",
+    "participants": [
+      "Mordekaiser"
+    ],
+    "victim": "Alistar",
+    "target": "SnowFlower"
+  },
+  {
+    "timestamp": 1705000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Galio",
+      "Shen",
+      "Hecarim",
+      "Ezreal",
+      "Alistar"
+    ],
+    "victim": "Mordekaiser",
+    "target": "Orome"
+  },
+  {
+    "timestamp": 1800000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Shad0w",
+    "participants": [
+      "Sett"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1872000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1986000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Galio",
+      "Shen",
+      "Alistar"
+    ],
+    "victim": "Senna",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1987000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kaiser",
+    "participants": [
+      "Wukong",
+      "Mordekaiser",
+      "Sett",
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Galio",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 1989000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Orome",
+    "participants": [
+      "Mordekaiser",
+      "Syndra",
+      "Senna",
+      "Wukong"
+    ],
+    "victim": "Alistar",
+    "target": "SnowFlower"
+  },
+  {
+    "timestamp": 1994000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "Shen",
+      "Hecarim",
+      "Galio",
+      "Ezreal",
+      "Alistar"
+    ],
+    "victim": "Wukong",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1998000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Syndra",
+      "Mordekaiser",
+      "Sett",
+      "Wukong"
+    ],
+    "victim": "Shen",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 2001000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zeitnot",
+    "participants": [
+      "Ezreal",
+      "Shen",
+      "Hecarim"
+    ],
+    "victim": "Mordekaiser",
+    "target": "Orome"
+  },
+  {
+    "timestamp": 2027000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2121000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "KaKAO",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2128000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zeitnot",
+    "participants": [
+      "Ezreal",
+      "Shen",
+      "Galio",
+      "Alistar"
+    ],
+    "victim": "Wukong",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 2129000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Orome",
+    "participants": [
+      "Mordekaiser",
+      "Senna"
+    ],
+    "victim": "Hecarim",
+    "target": "KaKAO"
+  },
+  {
+    "timestamp": 2138000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SnowFlower",
+    "participants": [
+      "Alistar",
+      "Shen",
+      "Galio",
+      "Ezreal"
+    ],
+    "victim": "Syndra",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 2141000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "Shen",
+      "Galio",
+      "Alistar"
+    ],
+    "victim": "Senna",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 2149000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zeitnot",
+    "participants": [
+      "Ezreal",
+      "Shen",
+      "Galio",
+      "Alistar"
+    ],
+    "victim": "Mordekaiser",
+    "target": "Orome"
+  },
+  {
+    "timestamp": 2156000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "Shen",
+      "Ezreal",
+      "Alistar"
+    ],
+    "victim": "Sett",
+    "target": "Shad0w"
+  },
+  {
+    "timestamp": 2165000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2171000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Zeitnot",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2181000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2185000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zeitnot",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2196000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

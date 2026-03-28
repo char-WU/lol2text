@@ -1,0 +1,1410 @@
+[
+  {
+    "timestamp": 202000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ],
+    "target": [
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ]
+  },
+  {
+    "timestamp": 202000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      },
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 210000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      },
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 325000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 337000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Palette",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Palette",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 358000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 361000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ZerosS",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ZerosS",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      },
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 491000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 614000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      },
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 618000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ],
+    "target": [
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ]
+  },
+  {
+    "timestamp": 630000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 642000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 695000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 718000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      },
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ZerosS",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "ZerosS",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 723000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 727000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      },
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 730000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Palette",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Palette",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 798000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 801000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Palette",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Palette",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 806000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 834000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 904000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 906000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 928000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 935000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1026000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "participants": [
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1167000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1188000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ZerosS",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ZerosS",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      },
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      },
+      {
+        "player": "Palette",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1198000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Palette",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 1201000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ZerosS",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ZerosS",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      },
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      },
+      {
+        "player": "Palette",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ],
+    "target": [
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      }
+    ]
+  },
+  {
+    "timestamp": 1241000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1243000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1273000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1354000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1373000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1519000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1595000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1699000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Palette",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Palette",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1712000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Naul",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1716000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "BigKoro",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1719000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Impact",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Meliodas",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 1723000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1733000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1742000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1744000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "participants": [
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1745000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1756000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

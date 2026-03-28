@@ -1,0 +1,942 @@
+[
+  {
+    "timestamp": 448000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Life",
+    "participants": [
+      "Yuumi",
+      "Syndra",
+      "MissFortune"
+    ],
+    "victim": "Lucian",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 456000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf",
+      "Syndra",
+      "MissFortune",
+      "Yuumi"
+    ],
+    "victim": "Nami",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 528000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 547000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 558000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 603000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Carzzy",
+    "participants": [
+      "Lucian",
+      "Nami"
+    ],
+    "victim": "MissFortune",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 629000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 666000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Kennen",
+      "MissFortune",
+      "Yuumi"
+    ],
+    "victim": "Irelia",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 674000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 685000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 686000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 686000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 686000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 709000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 746000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Elyoya",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 819000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf",
+      "Syndra",
+      "Yuumi"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 903000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Life",
+    "participants": [
+      "Yuumi",
+      "Olaf"
+    ],
+    "victim": "LeeSin",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 947000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Carzzy",
+    "participants": [
+      "Lucian",
+      "Nami"
+    ],
+    "victim": "MissFortune",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 952000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Kennen",
+      "MissFortune"
+    ],
+    "victim": "Nami",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 958000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf",
+      "MissFortune",
+      "Yuumi"
+    ],
+    "victim": "Lucian",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 980000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Life",
+    "participants": [
+      "Yuumi"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1036000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1058000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1085000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1095000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Carzzy",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1126000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Elyoya",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1178000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Syndra",
+      "Olaf",
+      "MissFortune",
+      "Yuumi"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1213000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1311000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1393000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1401000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Armut",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1453000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1750000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Kennen",
+      "Olaf",
+      "MissFortune",
+      "Yuumi"
+    ],
+    "victim": "Irelia",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1783000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1945000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune",
+      "Olaf",
+      "Yuumi"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1962000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1966000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1970000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1982000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Carzzy",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 2115000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2179000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2182000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Viktor",
+      "LeeSin",
+      "Lucian"
+    ],
+    "victim": "Syndra",
+    "target": "Bdd"
+  },
+  {
+    "timestamp": 2185000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Armut",
+    "participants": [
+      "Irelia",
+      "LeeSin",
+      "Viktor",
+      "Lucian"
+    ],
+    "victim": "MissFortune",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 2186000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf",
+      "Kennen",
+      "MissFortune",
+      "Yuumi"
+    ],
+    "victim": "Irelia",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 2187000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Viktor",
+      "Irelia",
+      "LeeSin",
+      "Nami"
+    ],
+    "victim": "Olaf",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 2190000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Kennen",
+      "Olaf",
+      "Syndra",
+      "MissFortune",
+      "Yuumi"
+    ],
+    "victim": "LeeSin",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 2198000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Viktor",
+      "Irelia",
+      "LeeSin",
+      "Lucian",
+      "Nami"
+    ],
+    "victim": "Yuumi",
+    "target": "Life"
+  },
+  {
+    "timestamp": 2200000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Kennen",
+      "Yuumi"
+    ],
+    "victim": "Lucian",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 2201000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Viktor",
+      "Lucian",
+      "Nami"
+    ],
+    "victim": "Kennen",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 2420000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune",
+      "Olaf",
+      "Yuumi"
+    ],
+    "victim": "Irelia",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 2439000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2440000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Carzzy",
+    "participants": [
+      "Lucian",
+      "Viktor",
+      "Nami"
+    ],
+    "victim": "Kennen",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 2446000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Syndra",
+      "Kennen",
+      "Olaf",
+      "MissFortune",
+      "Yuumi"
+    ],
+    "victim": "Lucian",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 2446000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Viktor",
+      "LeeSin",
+      "Lucian",
+      "Nami"
+    ],
+    "victim": "Yuumi",
+    "target": "Life"
+  },
+  {
+    "timestamp": 2449000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Viktor",
+      "LeeSin",
+      "Lucian",
+      "Nami"
+    ],
+    "victim": "MissFortune",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 2449000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune",
+      "Kennen",
+      "Olaf",
+      "Yuumi"
+    ],
+    "victim": "LeeSin",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 2450000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Syndra",
+      "Kennen",
+      "Olaf",
+      "MissFortune",
+      "Yuumi"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 2648000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Carzzy",
+    "participants": [
+      "Lucian",
+      "Irelia",
+      "LeeSin",
+      "Viktor"
+    ],
+    "victim": "Kennen",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 2652000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Carzzy",
+    "participants": [
+      "Lucian",
+      "Irelia",
+      "LeeSin",
+      "Viktor"
+    ],
+    "victim": "Olaf",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 2661000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Syndra",
+      "MissFortune",
+      "Yuumi"
+    ],
+    "victim": "LeeSin",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 2687000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune",
+      "Syndra",
+      "Yuumi"
+    ],
+    "victim": "Irelia",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 2741000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2813000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Syndra",
+      "Olaf",
+      "Yuumi"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 2822000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Carzzy",
+    "participants": [
+      "Lucian",
+      "Irelia",
+      "LeeSin",
+      "Nami"
+    ],
+    "victim": "Kennen",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 2823000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune",
+      "Kennen",
+      "Olaf",
+      "Yuumi"
+    ],
+    "victim": "Irelia",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 2841000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune",
+      "Syndra",
+      "Yuumi"
+    ],
+    "victim": "Lucian",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 2849000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2850000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune",
+      "Yuumi"
+    ],
+    "victim": "LeeSin",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 2865000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Life",
+    "participants": [
+      "Yuumi",
+      "Olaf"
+    ],
+    "victim": "Nami",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 2872000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 2878000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2879000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2888000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

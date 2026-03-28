@@ -1,0 +1,694 @@
+[
+  {
+    "timestamp": 211000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Udyr",
+      "Gangplank"
+    ],
+    "victim": "Renekton",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 396000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 420000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "Renekton",
+      "Morgana",
+      "Orianna"
+    ],
+    "victim": "Gangplank",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 536000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Nautilus",
+      "Viktor"
+    ],
+    "victim": "Orianna",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 592000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Renekton"
+    ],
+    "victim": "Gangplank",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 634000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Orianna",
+      "Tristana",
+      "Alistar"
+    ],
+    "victim": "Nautilus",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 634000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 715000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa",
+      "Udyr"
+    ],
+    "victim": "Morgana",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 716000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Gangplank",
+      "Nautilus"
+    ],
+    "victim": "Tristana",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 722000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Viktor",
+      "Gangplank",
+      "Nautilus"
+    ],
+    "victim": "Alistar",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 744000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 807000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Tristana",
+      "Morgana",
+      "Alistar"
+    ],
+    "victim": "Nautilus",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 859000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1037000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1046000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Alistar"
+    ],
+    "victim": "Kaisa",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 1068000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1089000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Viktor"
+    ],
+    "victim": "Morgana",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1096000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Tristana",
+      "Alistar"
+    ],
+    "victim": "Nautilus",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1151000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1185000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1366000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1383000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1496000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa",
+      "Gangplank",
+      "Udyr",
+      "Viktor",
+      "Nautilus"
+    ],
+    "victim": "Alistar",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1516000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "Renekton",
+      "Morgana",
+      "Orianna",
+      "Tristana"
+    ],
+    "victim": "Nautilus",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1525000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa",
+      "Gangplank",
+      "Viktor"
+    ],
+    "victim": "Tristana",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 1527000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": "Udyr",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 1652000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Tristana",
+      "Renekton",
+      "Morgana",
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Nautilus",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1662000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Udyr",
+      "Gangplank",
+      "Viktor"
+    ],
+    "victim": "Orianna",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1689000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Viktor"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1739000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Tristana",
+      "Morgana",
+      "Alistar"
+    ],
+    "victim": "Udyr",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 1758000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Tristana",
+      "Renekton",
+      "Morgana",
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Nautilus",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1785000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1887000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Renekton",
+      "Orianna",
+      "Tristana",
+      "Alistar"
+    ],
+    "victim": "Nautilus",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1890000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa",
+      "Viktor"
+    ],
+    "victim": "Alistar",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1892000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "Renekton",
+      "Morgana",
+      "Orianna",
+      "Tristana",
+      "Alistar"
+    ],
+    "victim": "Gangplank",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1896000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1897000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Tristana",
+      "Morgana",
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Kaisa",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 1902000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Viktor",
+      "Kaisa"
+    ],
+    "victim": "Morgana",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1905000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Tristana",
+      "Renekton",
+      "Morgana",
+      "Orianna"
+    ],
+    "victim": "Viktor",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 1926000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1969000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 2064000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2066000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Gangplank",
+      "Nautilus"
+    ],
+    "victim": "Tristana",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 2073000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Viktor",
+      "Gangplank",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Orianna",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 2074000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Vulcan",
+    "participants": [
+      "Alistar",
+      "Renekton",
+      "Morgana",
+      "Orianna",
+      "Tristana"
+    ],
+    "victim": "Udyr",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 2074000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Gangplank",
+      "Udyr",
+      "Viktor",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Renekton",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 2078000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Viktor",
+      "Udyr",
+      "Nautilus"
+    ],
+    "victim": "Alistar",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 2081000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Gangplank",
+      "Viktor",
+      "Nautilus"
+    ],
+    "victim": "Morgana",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 2104000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2107000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2114000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2118000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2127000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

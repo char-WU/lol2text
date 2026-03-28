@@ -1,0 +1,554 @@
+[
+  {
+    "timestamp": 329000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BioPanther",
+    "participants": [
+      "Urgot",
+      "Udyr"
+    ],
+    "victim": "Rumble",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 335000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Vayne",
+      "Leona"
+    ],
+    "victim": "Kaisa",
+    "target": "Praedyth"
+  },
+  {
+    "timestamp": 456000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "Gnar",
+      "Rumble"
+    ],
+    "victim": "Urgot",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 470000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 534000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiser",
+    "participants": [
+      "Leona",
+      "Vayne"
+    ],
+    "victim": "Galio",
+    "target": "Decoy"
+  },
+  {
+    "timestamp": 563000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 635000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Decoy",
+    "participants": [
+      "Galio",
+      "Urgot"
+    ],
+    "victim": "Gnar",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 781000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 810000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 906000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Udyr",
+      "Kassadin",
+      "Galio"
+    ],
+    "victim": "Rumble",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 929000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 951000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BioPanther",
+    "participants": [
+      "Urgot",
+      "Udyr",
+      "Kaisa",
+      "Galio"
+    ],
+    "victim": "Leona",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 953000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Vayne"
+    ],
+    "victim": "Kassadin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 969000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 971000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BioPanther",
+    "participants": [
+      "Urgot",
+      "Kaisa",
+      "Galio"
+    ],
+    "victim": "Gnar",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 978000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Vayne"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1087000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1093000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": "Orianna",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1117000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Vayne",
+      "Rumble",
+      "Leona"
+    ],
+    "victim": "Urgot",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 1136000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1145000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1162000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble",
+      "Orianna"
+    ],
+    "victim": "Kaisa",
+    "target": "Praedyth"
+  },
+  {
+    "timestamp": 1184000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "Gnar",
+      "Orianna",
+      "Leona"
+    ],
+    "victim": "Kassadin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 1191000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1207000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble",
+      "Gnar",
+      "Vayne",
+      "Leona"
+    ],
+    "victim": "Galio",
+    "target": "Decoy"
+  },
+  {
+    "timestamp": 1211000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Vayne"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1319000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble",
+      "Gnar",
+      "Vayne",
+      "Leona"
+    ],
+    "victim": "Galio",
+    "target": "Decoy"
+  },
+  {
+    "timestamp": 1321000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BioPanther",
+    "participants": [
+      "Urgot",
+      "Udyr",
+      "Kassadin",
+      "Kaisa",
+      "Galio"
+    ],
+    "victim": "Vayne",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1332000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble",
+      "Gnar",
+      "Orianna",
+      "Vayne",
+      "Leona"
+    ],
+    "victim": "Udyr",
+    "target": "Pabu"
+  },
+  {
+    "timestamp": 1356000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1443000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Vayne"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1450000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1483000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Vayne"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1493000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Vayne"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1527000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1539000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiser",
+    "participants": [
+      "Leona",
+      "Gnar",
+      "Orianna",
+      "Vayne"
+    ],
+    "victim": "Galio",
+    "target": "Decoy"
+  },
+  {
+    "timestamp": 1542000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Vayne",
+      "Gnar",
+      "Orianna",
+      "Leona"
+    ],
+    "victim": "Kassadin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 1542000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble",
+      "Gnar",
+      "Orianna",
+      "Vayne",
+      "Leona"
+    ],
+    "victim": "Udyr",
+    "target": "Pabu"
+  },
+  {
+    "timestamp": 1547000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Vayne",
+      "Gnar",
+      "Rumble",
+      "Leona"
+    ],
+    "victim": "Urgot",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 1555000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble",
+      "Gnar",
+      "Vayne"
+    ],
+    "victim": "Kaisa",
+    "target": "Praedyth"
+  },
+  {
+    "timestamp": 1559000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1563000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1571000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

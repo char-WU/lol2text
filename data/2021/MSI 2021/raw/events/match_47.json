@@ -1,0 +1,519 @@
+[
+  {
+    "timestamp": 136000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Aria",
+    "participants": [
+      "Zoe",
+      "Rumble"
+    ],
+    "victim": "Morgana",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 369000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Steal",
+    "participants": [
+      "Rumble",
+      "Sett",
+      "Zoe"
+    ],
+    "victim": "Sion",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 370000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Yone",
+      "Sion"
+    ],
+    "victim": "Sett",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 371000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Sion",
+      "Yone"
+    ],
+    "victim": "Rumble",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 477000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Yone"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 580000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 817000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 927000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Sion",
+      "Nautilus"
+    ],
+    "victim": "Rumble",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 931000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Evi",
+    "participants": [
+      "Sett",
+      "Rumble",
+      "Zoe"
+    ],
+    "victim": "Sion",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 991000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 997000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Yone"
+    ],
+    "victim": "Sett",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 1022000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1028000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1140000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1157000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa",
+      "Sion",
+      "Morgana"
+    ],
+    "victim": "Sett",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 1163000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Yone"
+    ],
+    "victim": "Rumble",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 1166000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1190000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Yutapon",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1273000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Sion",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Alistar",
+    "target": "Kazu"
+  },
+  {
+    "timestamp": 1273000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Aria",
+    "participants": [
+      "Zoe",
+      "Rumble"
+    ],
+    "victim": "Morgana",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1309000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Steal",
+    "participants": [
+      "Rumble",
+      "Sett"
+    ],
+    "victim": "Yone",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1453000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1571000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1575000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Yone",
+      "Sion"
+    ],
+    "victim": "Alistar",
+    "target": "Kazu"
+  },
+  {
+    "timestamp": 1586000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1606000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1679000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1692000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1702000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1715000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Yutapon",
+    "participants": [
+      "Tristana",
+      "Sett",
+      "Rumble"
+    ],
+    "victim": "Yone",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1726000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa",
+      "Sion",
+      "Yone",
+      "Nautilus"
+    ],
+    "victim": "Sett",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 1728000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa",
+      "Sion",
+      "Morgana",
+      "Nautilus"
+    ],
+    "victim": "Alistar",
+    "target": "Kazu"
+  },
+  {
+    "timestamp": 1738000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1798000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Sion",
+      "Nautilus"
+    ],
+    "victim": "Alistar",
+    "target": "Kazu"
+  },
+  {
+    "timestamp": 1811000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Yone",
+      "Sion",
+      "Morgana",
+      "Nautilus"
+    ],
+    "victim": "Rumble",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 1817000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa",
+      "Sion",
+      "Morgana",
+      "Yone"
+    ],
+    "victim": "Zoe",
+    "target": "Aria"
+  },
+  {
+    "timestamp": 1821000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa",
+      "Morgana",
+      "Nautilus"
+    ],
+    "victim": "Sett",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 1823000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa",
+      "Sion",
+      "Yone",
+      "Nautilus"
+    ],
+    "victim": "Tristana",
+    "target": "Yutapon"
+  },
+  {
+    "timestamp": 1844000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Yone"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1850000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1860000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

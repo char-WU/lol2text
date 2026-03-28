@@ -1,0 +1,656 @@
+[
+  {
+    "timestamp": 118000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": "Sion",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 178000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "KogMaw",
+      "Udyr",
+      "Karma"
+    ],
+    "victim": "Sion",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 353000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 400000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BioPanther",
+    "participants": [
+      "Sion"
+    ],
+    "victim": "Sylas",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 402000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ming",
+    "participants": [
+      "Karma",
+      "Sylas",
+      "KogMaw"
+    ],
+    "victim": "Sion",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 436000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Sylas",
+      "Jayce",
+      "Udyr"
+    ],
+    "victim": "Olaf",
+    "target": "Pabu"
+  },
+  {
+    "timestamp": 439000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiaohu",
+    "participants": [
+      "Jayce",
+      "Sylas"
+    ],
+    "victim": "Lulu",
+    "target": "Decoy"
+  },
+  {
+    "timestamp": 567000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 612000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Sylas",
+      "Udyr"
+    ],
+    "victim": "LeeSin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 619000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 643000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Praedyth",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 700000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 795000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ming",
+    "participants": [
+      "Karma"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 896000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "Udyr",
+      "Sylas"
+    ],
+    "victim": "LeeSin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 898000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pabu",
+    "participants": [
+      "Olaf",
+      "Sion",
+      "LeeSin"
+    ],
+    "victim": "Sylas",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 905000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Praedyth",
+    "participants": [
+      "Aphelios",
+      "Lulu"
+    ],
+    "victim": "KogMaw",
+    "target": "GALA"
+  },
+  {
+    "timestamp": 910000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "KogMaw"
+    ],
+    "victim": "Aphelios",
+    "target": "Praedyth"
+  },
+  {
+    "timestamp": 911000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1027000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Sylas",
+      "Jayce",
+      "Udyr",
+      "KogMaw",
+      "Karma"
+    ],
+    "victim": "Sion",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 1029000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chazz",
+    "participants": [
+      "LeeSin",
+      "Sion"
+    ],
+    "victim": "Jayce",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 1031000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Pabu",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1128000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1276000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "KogMaw"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1279000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chazz",
+    "participants": [
+      "LeeSin",
+      "Sion",
+      "Olaf",
+      "Lulu"
+    ],
+    "victim": "Jayce",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 1282000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Decoy",
+    "participants": [
+      "Lulu",
+      "Sion",
+      "Olaf",
+      "LeeSin"
+    ],
+    "victim": "KogMaw",
+    "target": "GALA"
+  },
+  {
+    "timestamp": 1282000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ming",
+    "participants": [
+      "Karma",
+      "Jayce",
+      "Udyr",
+      "Sylas",
+      "KogMaw"
+    ],
+    "victim": "Sion",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 1287000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chazz",
+    "participants": [
+      "LeeSin",
+      "Sion",
+      "Olaf",
+      "Lulu"
+    ],
+    "victim": "Udyr",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 1288000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Sylas",
+      "KogMaw",
+      "Karma"
+    ],
+    "victim": "Lulu",
+    "target": "Decoy"
+  },
+  {
+    "timestamp": 1290000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pabu",
+    "participants": [
+      "Olaf",
+      "Sion",
+      "LeeSin",
+      "Lulu"
+    ],
+    "victim": "Sylas",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 1311000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Praedyth",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1339000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Pabu",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1359000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "KogMaw"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1371000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1394000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "xiaohu",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1634000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Praedyth",
+    "participants": [
+      "Aphelios",
+      "Sion",
+      "Olaf",
+      "LeeSin",
+      "Lulu"
+    ],
+    "victim": "Sylas",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 1634000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "KogMaw",
+      "Udyr",
+      "Sylas",
+      "Karma"
+    ],
+    "victim": "LeeSin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 1641000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pabu",
+    "participants": [
+      "Olaf",
+      "Sion",
+      "LeeSin",
+      "Aphelios",
+      "Lulu"
+    ],
+    "victim": "Jayce",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 1642000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Praedyth",
+    "participants": [
+      "Aphelios",
+      "Sion",
+      "LeeSin",
+      "Lulu"
+    ],
+    "victim": "Karma",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 1677000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Praedyth",
+    "participants": [
+      "Aphelios",
+      "Sion",
+      "Lulu"
+    ],
+    "victim": "Udyr",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 1701000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1709000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Sylas",
+      "Jayce"
+    ],
+    "victim": "LeeSin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 1710000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "KogMaw",
+      "Jayce",
+      "Sylas",
+      "Karma"
+    ],
+    "victim": "Olaf",
+    "target": "Pabu"
+  },
+  {
+    "timestamp": 1712000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "KogMaw",
+      "Jayce",
+      "Sylas",
+      "Karma"
+    ],
+    "victim": "Lulu",
+    "target": "Decoy"
+  },
+  {
+    "timestamp": 1716000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "KogMaw",
+      "Jayce",
+      "Sylas",
+      "Karma"
+    ],
+    "victim": "Sion",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 1731000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "KogMaw"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1736000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiaohu",
+    "participants": [
+      "Jayce",
+      "Sylas",
+      "KogMaw",
+      "Karma"
+    ],
+    "victim": "Aphelios",
+    "target": "Praedyth"
+  },
+  {
+    "timestamp": 1739000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Praedyth",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": "Sylas",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 1739000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "KogMaw"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1745000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "xiaohu",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1755000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

@@ -1,0 +1,2856 @@
+[
+  {
+    "timestamp": 176000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 347000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 351000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 394000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 417000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 426000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 479000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 483000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 500000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 504000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ]
+  },
+  {
+    "timestamp": 508000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 509000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 582000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 584000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 585000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 591000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 599000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 617000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 623000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 710000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 727000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 739000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 740000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 747000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 756000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 757000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 757000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 757000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 802000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 803000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 803000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 886000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 914000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 922000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 931000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1004000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 1039000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1040000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1075000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1090000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1296000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 1302000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1305000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ]
+  },
+  {
+    "timestamp": 1307000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1349000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1373000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1384000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1393000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 1416000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1453000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1453000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 1456000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1462000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1540000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1574000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1592000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1642000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1643000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1671000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1671000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1672000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 1681000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ]
+  },
+  {
+    "timestamp": 1689000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1693000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1717000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1895000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1908000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 1911000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 1911000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1912000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1918000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1930000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1957000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1958000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 2027000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2030000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 2034000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 2040000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 2045000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 2046000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 2046000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 2046000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2145000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 2149000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2176000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 2178000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2200000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cryin",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 2217000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 2225000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "GALA",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 2229000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 2235000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2238000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bean",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Adam",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Viego"
+      },
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 2241000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nisqy",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2251000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

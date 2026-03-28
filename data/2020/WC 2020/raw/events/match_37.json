@@ -1,0 +1,762 @@
+[
+  {
+    "timestamp": 184000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Lucian",
+      "Lillia",
+      "Aphelios"
+    ],
+    "victim": "Graves",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 192000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Life",
+    "participants": [
+      "TahmKench",
+      "Graves",
+      "Senna"
+    ],
+    "victim": "Aphelios",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 205000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Spica",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": "Orianna",
+    "target": "Bdd"
+  },
+  {
+    "timestamp": 494000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Lucian",
+      "Volibear"
+    ],
+    "victim": "Ornn",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 537000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Spica",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 655000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Lucian",
+      "Volibear",
+      "Lillia"
+    ],
+    "victim": "Ornn",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 657000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 670000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Life",
+    "participants": [
+      "TahmKench",
+      "Graves"
+    ],
+    "victim": "Thresh",
+    "target": "Biofrost"
+  },
+  {
+    "timestamp": 688000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Spica",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 808000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "Graves",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Aphelios",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 833000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": "Graves",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 840000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Brokenblade",
+    "participants": [
+      "Volibear"
+    ],
+    "victim": "Ornn",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 922000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 943000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 985000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Aphelios",
+      "Lucian",
+      "Thresh"
+    ],
+    "victim": "Senna",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 991000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Lucian",
+      "Lillia",
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "TahmKench",
+    "target": "Life"
+  },
+  {
+    "timestamp": 1008000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Brokenblade",
+    "participants": [
+      "Volibear",
+      "Lillia",
+      "Lucian",
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "Ornn",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 1029000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1029000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Spica",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1160000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Lucian",
+      "Volibear"
+    ],
+    "victim": "Graves",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1179000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bdd",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": "Aphelios",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1187000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ruler",
+    "participants": [
+      "Senna",
+      "Orianna",
+      "TahmKench"
+    ],
+    "victim": "Thresh",
+    "target": "Biofrost"
+  },
+  {
+    "timestamp": 1193000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1287000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "Graves",
+      "Ornn",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Lillia",
+    "target": "Spica"
+  },
+  {
+    "timestamp": 1296000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Aphelios",
+      "Lucian",
+      "Thresh"
+    ],
+    "victim": "TahmKench",
+    "target": "Life"
+  },
+  {
+    "timestamp": 1308000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bdd",
+    "participants": [
+      "Orianna",
+      "Graves",
+      "Senna"
+    ],
+    "victim": "Lucian",
+    "target": "Bjergsen"
+  },
+  {
+    "timestamp": 1309000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Aphelios",
+      "Lucian",
+      "Thresh"
+    ],
+    "victim": "Graves",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1389000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Spica",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1466000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Lucian",
+      "Lillia",
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "Graves",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1509000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Ruler",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1510000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ruler",
+    "participants": [
+      "Senna",
+      "Ornn",
+      "Orianna"
+    ],
+    "victim": "Lillia",
+    "target": "Spica"
+  },
+  {
+    "timestamp": 1516000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Life",
+    "participants": [
+      "TahmKench",
+      "Orianna",
+      "Senna"
+    ],
+    "victim": "Aphelios",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1541000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ruler",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1671000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ruler",
+    "participants": [
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Lucian",
+    "target": "Bjergsen"
+  },
+  {
+    "timestamp": 1701000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1721000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ruler",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1809000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Bdd",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1829000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1860000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Rascal",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1951000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Spica",
+    "participants": [
+      "Lillia",
+      "Volibear",
+      "Lucian",
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "TahmKench",
+    "target": "Life"
+  },
+  {
+    "timestamp": 1969000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Brokenblade",
+    "participants": [
+      "Volibear"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2015000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2082000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Bdd",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2087000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Bdd",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2087000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bjergsen",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 2153000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bdd",
+    "participants": [
+      "Orianna",
+      "Ornn",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Aphelios",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 2154000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bdd",
+    "participants": [
+      "Orianna",
+      "Ornn",
+      "Graves",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Volibear",
+    "target": "Brokenblade"
+  },
+  {
+    "timestamp": 2167000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Biofrost",
+    "participants": [
+      "Thresh",
+      "Lucian",
+      "Aphelios"
+    ],
+    "victim": "Orianna",
+    "target": "Bdd"
+  },
+  {
+    "timestamp": 2201000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2277000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Life",
+    "participants": [
+      "TahmKench"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 2296000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ruler",
+    "participants": [
+      "Senna",
+      "Ornn",
+      "Graves",
+      "TahmKench"
+    ],
+    "victim": "Lillia",
+    "target": "Spica"
+  },
+  {
+    "timestamp": 2299000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ruler",
+    "participants": [
+      "Senna",
+      "Ornn",
+      "Graves",
+      "Orianna",
+      "TahmKench"
+    ],
+    "victim": "Volibear",
+    "target": "Brokenblade"
+  },
+  {
+    "timestamp": 2307000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ruler",
+    "participants": [
+      "Senna",
+      "Ornn",
+      "Orianna",
+      "TahmKench"
+    ],
+    "victim": "Aphelios",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 2312000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "Graves",
+      "Ornn",
+      "Orianna",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Lucian",
+    "target": "Bjergsen"
+  },
+  {
+    "timestamp": 2317000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Life",
+    "participants": [
+      "TahmKench",
+      "Ornn",
+      "Graves",
+      "Orianna",
+      "Senna"
+    ],
+    "victim": "Thresh",
+    "target": "Biofrost"
+  },
+  {
+    "timestamp": 2334000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Rascal",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2336000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Rascal",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2344000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

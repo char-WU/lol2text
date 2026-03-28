@@ -1,0 +1,1826 @@
+[
+  {
+    "timestamp": 331000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 531000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 534000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 546000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 551000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 582000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 629000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 637000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "369",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 697000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 725000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 733000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 765000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 802000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 833000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 834000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ]
+  },
+  {
+    "timestamp": 845000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 848000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 862000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 891000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 930000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 935000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 962000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 970000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 988000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1085000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1173000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1213000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1221000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "369",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 1221000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1245000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1255000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1259000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1282000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1285000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1288000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 1291000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "369",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1296000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1301000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1311000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 1314000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1351000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "369",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1451000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1454000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 1455000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1456000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 1456000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ]
+  },
+  {
+    "timestamp": 1477000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1478000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "369",
+        "champion": "Lucian"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1488000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "369",
+        "champion": "Lucian"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1515000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1566000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1570000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1602000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1604000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "369",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1613000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 1613000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Tian",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      }
+    ]
+  },
+  {
+    "timestamp": 1615000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1617000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "369",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Trundle"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Kalista"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 1625000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

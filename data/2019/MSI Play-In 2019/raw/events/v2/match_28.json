@@ -1,0 +1,1458 @@
+[
+  {
+    "timestamp": 478000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 524000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 557000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 593000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 679000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 718000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 756000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ryoma",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ryoma",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 760000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 765000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Rogue",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ]
+  },
+  {
+    "timestamp": 765000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Ryoma",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Rogue",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 773000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      },
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 775000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FBI",
+        "champion": "Vayne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FBI",
+        "champion": "Vayne"
+      },
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Rogue",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 842000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 892000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 918000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FBI",
+        "champion": "Vayne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FBI",
+        "champion": "Vayne"
+      },
+      {
+        "player": "Rogue",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 985000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1005000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1115000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ryoma",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ryoma",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1142000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 1166000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1362000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FBI",
+        "champion": "Vayne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FBI",
+        "champion": "Vayne"
+      },
+      {
+        "player": "Rogue",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 1363000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      },
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "FBI",
+        "champion": "Vayne"
+      }
+    ],
+    "target": [
+      {
+        "player": "FBI",
+        "champion": "Vayne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1365000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rogue",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rogue",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1366000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 1372000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 1384000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ryoma",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ryoma",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1408000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1434000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FBI",
+        "champion": "Vayne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FBI",
+        "champion": "Vayne"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1475000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1486000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1501000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1527000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 1534000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "FBI",
+        "champion": "Vayne"
+      }
+    ],
+    "target": [
+      {
+        "player": "FBI",
+        "champion": "Vayne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1535000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rogue",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rogue",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1538000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1555000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1559000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1565000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 1568000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1687000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1703000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mimic",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 1727000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rogue",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rogue",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1728000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      },
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "BalKhan",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 1733000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ryoma",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ryoma",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1738000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruin",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Kirei",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Ellam",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Japone",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "FBI",
+        "champion": "Vayne"
+      }
+    ],
+    "target": [
+      {
+        "player": "FBI",
+        "champion": "Vayne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1739000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1748000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

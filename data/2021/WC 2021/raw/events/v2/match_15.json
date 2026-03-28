@@ -1,0 +1,1446 @@
+[
+  {
+    "timestamp": 221000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 507000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 547000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      },
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 570000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 591000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 644000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 644000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 674000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 676000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 699000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 708000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 713000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 745000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 747000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 773000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 786000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 804000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 827000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 839000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 857000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 902000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1027000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1136000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1138000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1234000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1251000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1355000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1372000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Faker",
+        "champion": "Azir"
+      },
+      {
+        "player": "Keria",
+        "champion": "Zilean"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1376000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Azir"
+      },
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Keria",
+        "champion": "Zilean"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1691000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 1701000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1709000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Keria",
+        "champion": "Zilean"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1728000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1810000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1817000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 1825000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Keria",
+        "champion": "Zilean"
+      }
+    ],
+    "target": [
+      {
+        "player": "Keria",
+        "champion": "Zilean"
+      }
+    ]
+  },
+  {
+    "timestamp": 1828000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 1830000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1834000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1851000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1859000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1863000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1868000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1873000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 1878000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Keria",
+        "champion": "Zilean"
+      }
+    ],
+    "target": [
+      {
+        "player": "Keria",
+        "champion": "Zilean"
+      }
+    ]
+  },
+  {
+    "timestamp": 1881000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Keria",
+        "champion": "Zilean"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 2126000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2126000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 2131000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      },
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 2132000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 2133000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Keria",
+        "champion": "Zilean"
+      }
+    ],
+    "target": [
+      {
+        "player": "Keria",
+        "champion": "Zilean"
+      }
+    ]
+  },
+  {
+    "timestamp": 2135000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Rakan"
+      },
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Talon"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 2140000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Canna",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Oner",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Keria",
+        "champion": "Zilean"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ]
+  },
+  {
+    "timestamp": 2151000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Ziggs"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2161000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

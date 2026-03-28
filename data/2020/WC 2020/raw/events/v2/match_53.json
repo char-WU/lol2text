@@ -1,0 +1,1638 @@
+[
+  {
+    "timestamp": 157000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      },
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 456000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      },
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      },
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 517000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      },
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      },
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 550000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 565000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ],
+    "target": [
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ]
+  },
+  {
+    "timestamp": 585000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 619000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 670000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 682000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 747000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      },
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 896000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 908000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 951000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 960000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 969000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ],
+    "target": [
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ]
+  },
+  {
+    "timestamp": 997000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1058000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      },
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1078000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1106000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      },
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1300000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      },
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1302000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1305000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      },
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      },
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1311000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1314000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1321000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      },
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1342000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1391000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1478000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      },
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1609000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      },
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1616000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1620000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1626000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1660000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1750000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1819000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1975000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1977000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1977000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      },
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1978000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      },
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1983000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      },
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 2004000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ],
+    "target": [
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ]
+  },
+  {
+    "timestamp": 2006000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      },
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2014000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2027000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 2157000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      },
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 2157000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Spica",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 2157000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      },
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Brokenblade",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 2161000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ],
+    "target": [
+      {
+        "player": "Biofrost",
+        "champion": "Bard"
+      }
+    ]
+  },
+  {
+    "timestamp": 2176000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Lillia"
+      },
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doublelift",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 2184000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bjergsen",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 2200000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2201000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2214000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

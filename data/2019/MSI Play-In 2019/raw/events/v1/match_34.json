@@ -1,0 +1,891 @@
+[
+  {
+    "timestamp": 359000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven",
+      "Kindred",
+      "Braum"
+    ],
+    "victim": "Galio",
+    "target": "Rogue"
+  },
+  {
+    "timestamp": 359000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rogue",
+    "participants": [
+      "Galio",
+      "Kaisa"
+    ],
+    "victim": "Braum",
+    "target": "Japone"
+  },
+  {
+    "timestamp": 366000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir",
+      "Kindred",
+      "Draven",
+      "Braum"
+    ],
+    "victim": "Kaisa",
+    "target": "FBI"
+  },
+  {
+    "timestamp": 371000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ryoma",
+    "participants": [
+      "Taliyah",
+      "Kaisa",
+      "Galio"
+    ],
+    "victim": "Draven",
+    "target": "Ellam"
+  },
+  {
+    "timestamp": 376000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir",
+      "Kindred",
+      "Draven"
+    ],
+    "victim": "Taliyah",
+    "target": "Ryoma"
+  },
+  {
+    "timestamp": 603000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruin",
+    "participants": [
+      "Irelia",
+      "Kindred",
+      "Azir",
+      "Draven",
+      "Braum"
+    ],
+    "victim": "Camille",
+    "target": "BalKhan"
+  },
+  {
+    "timestamp": 603000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rogue",
+    "participants": [
+      "Galio",
+      "Camille",
+      "Taliyah"
+    ],
+    "victim": "Kindred",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 603000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir",
+      "Irelia",
+      "Kindred",
+      "Draven",
+      "Braum"
+    ],
+    "victim": "Galio",
+    "target": "Rogue"
+  },
+  {
+    "timestamp": 626000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 684000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "BalKhan",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 694000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Kirei",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 750000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ryoma",
+    "participants": [
+      "Taliyah"
+    ],
+    "victim": "Kindred",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 753000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir",
+      "Kindred"
+    ],
+    "victim": "Taliyah",
+    "target": "Ryoma"
+  },
+  {
+    "timestamp": 760000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "FBI",
+    "participants": [
+      "Kaisa",
+      "Camille",
+      "Taliyah",
+      "Galio"
+    ],
+    "victim": "Azir",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 760000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven",
+      "Azir"
+    ],
+    "victim": "Camille",
+    "target": "BalKhan"
+  },
+  {
+    "timestamp": 813000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 916000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven",
+      "Kindred",
+      "Braum"
+    ],
+    "victim": "Camille",
+    "target": "BalKhan"
+  },
+  {
+    "timestamp": 921000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mimic",
+    "participants": [
+      "Fiora",
+      "Camille",
+      "Kaisa",
+      "Galio"
+    ],
+    "victim": "Braum",
+    "target": "Japone"
+  },
+  {
+    "timestamp": 925000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven",
+      "Kindred",
+      "Azir",
+      "Braum"
+    ],
+    "victim": "Fiora",
+    "target": "Mimic"
+  },
+  {
+    "timestamp": 928000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir",
+      "Kindred",
+      "Draven",
+      "Braum"
+    ],
+    "victim": "Galio",
+    "target": "Rogue"
+  },
+  {
+    "timestamp": 929000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven",
+      "Kindred",
+      "Azir"
+    ],
+    "victim": "Kaisa",
+    "target": "FBI"
+  },
+  {
+    "timestamp": 934000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kirei",
+    "participants": [
+      "Kindred",
+      "Irelia",
+      "Azir",
+      "Draven"
+    ],
+    "victim": "Taliyah",
+    "target": "Ryoma"
+  },
+  {
+    "timestamp": 1008000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Kirei",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1126000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BalKhan",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1130000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1243000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1254000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "FBI",
+    "participants": [
+      "Kaisa",
+      "Camille",
+      "Taliyah",
+      "Galio"
+    ],
+    "victim": "Draven",
+    "target": "Ellam"
+  },
+  {
+    "timestamp": 1259000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rogue",
+    "participants": [
+      "Galio",
+      "Taliyah",
+      "Kaisa"
+    ],
+    "victim": "Kindred",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 1259000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir",
+      "Kindred",
+      "Draven",
+      "Braum"
+    ],
+    "victim": "Camille",
+    "target": "BalKhan"
+  },
+  {
+    "timestamp": 1259000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir",
+      "Kindred",
+      "Draven",
+      "Braum"
+    ],
+    "victim": "Kaisa",
+    "target": "FBI"
+  },
+  {
+    "timestamp": 1261000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ryoma",
+    "participants": [
+      "Taliyah",
+      "Camille",
+      "Kaisa",
+      "Galio"
+    ],
+    "victim": "Azir",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 1270000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mimic",
+    "participants": [
+      "Fiora",
+      "Taliyah"
+    ],
+    "victim": "Braum",
+    "target": "Japone"
+  },
+  {
+    "timestamp": 1289000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mimic",
+    "participants": [
+      "Fiora",
+      "Taliyah"
+    ],
+    "victim": "Irelia",
+    "target": "Ruin"
+  },
+  {
+    "timestamp": 1342000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1370000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Kirei",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1383000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BalKhan",
+    "participants": [
+      "Camille",
+      "Fiora",
+      "Kaisa",
+      "Galio"
+    ],
+    "victim": "Braum",
+    "target": "Japone"
+  },
+  {
+    "timestamp": 1384000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ryoma",
+    "participants": [
+      "Taliyah",
+      "Fiora",
+      "Camille",
+      "Kaisa",
+      "Galio"
+    ],
+    "victim": "Irelia",
+    "target": "Ruin"
+  },
+  {
+    "timestamp": 1385000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir",
+      "Kindred",
+      "Draven",
+      "Braum"
+    ],
+    "victim": "Kaisa",
+    "target": "FBI"
+  },
+  {
+    "timestamp": 1389000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir",
+      "Irelia",
+      "Kindred",
+      "Draven",
+      "Braum"
+    ],
+    "victim": "Camille",
+    "target": "BalKhan"
+  },
+  {
+    "timestamp": 1400000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mimic",
+    "participants": [
+      "Fiora",
+      "Taliyah",
+      "Galio"
+    ],
+    "victim": "Kindred",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 1400000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven",
+      "Kindred"
+    ],
+    "victim": "Fiora",
+    "target": "Mimic"
+  },
+  {
+    "timestamp": 1401000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ryoma",
+    "participants": [
+      "Taliyah",
+      "Camille",
+      "Galio"
+    ],
+    "victim": "Draven",
+    "target": "Ellam"
+  },
+  {
+    "timestamp": 1406000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir",
+      "Kindred",
+      "Draven"
+    ],
+    "victim": "Galio",
+    "target": "Rogue"
+  },
+  {
+    "timestamp": 1410000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir"
+    ],
+    "victim": "Taliyah",
+    "target": "Ryoma"
+  },
+  {
+    "timestamp": 1432000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1493000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven",
+      "Kindred",
+      "Braum"
+    ],
+    "victim": "Camille",
+    "target": "BalKhan"
+  },
+  {
+    "timestamp": 1499000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mimic",
+    "participants": [
+      "Fiora"
+    ],
+    "victim": "Irelia",
+    "target": "Ruin"
+  },
+  {
+    "timestamp": 1501000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kirei",
+    "participants": [
+      "Kindred",
+      "Azir",
+      "Draven",
+      "Braum"
+    ],
+    "victim": "Kaisa",
+    "target": "FBI"
+  },
+  {
+    "timestamp": 1503000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ryoma",
+    "participants": [
+      "Taliyah",
+      "Camille",
+      "Kaisa",
+      "Galio"
+    ],
+    "victim": "Braum",
+    "target": "Japone"
+  },
+  {
+    "timestamp": 1504000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven",
+      "Kindred",
+      "Azir",
+      "Braum"
+    ],
+    "victim": "Taliyah",
+    "target": "Ryoma"
+  },
+  {
+    "timestamp": 1536000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Kirei",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1618000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir",
+      "Kindred",
+      "Braum"
+    ],
+    "victim": "Camille",
+    "target": "BalKhan"
+  },
+  {
+    "timestamp": 1624000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Japone",
+    "participants": [
+      "Braum"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1628000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1633000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruin",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1639000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir",
+      "Irelia",
+      "Kindred",
+      "Draven",
+      "Braum"
+    ],
+    "victim": "Fiora",
+    "target": "Mimic"
+  },
+  {
+    "timestamp": 1645000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven",
+      "Irelia",
+      "Kindred",
+      "Azir",
+      "Braum"
+    ],
+    "victim": "Galio",
+    "target": "Rogue"
+  },
+  {
+    "timestamp": 1646000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "FBI",
+    "participants": [
+      "Kaisa",
+      "Fiora",
+      "Taliyah",
+      "Galio"
+    ],
+    "victim": "Braum",
+    "target": "Japone"
+  },
+  {
+    "timestamp": 1648000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1654000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ryoma",
+    "participants": [
+      "Taliyah"
+    ],
+    "victim": "Azir",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 1657000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kirei",
+    "participants": [
+      "Kindred",
+      "Irelia",
+      "Azir"
+    ],
+    "victim": "Taliyah",
+    "target": "Ryoma"
+  },
+  {
+    "timestamp": 1674000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1675000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BalKhan",
+    "participants": [
+      "Camille"
+    ],
+    "victim": "Kindred",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 1677000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven",
+      "Irelia"
+    ],
+    "victim": "Kaisa",
+    "target": "FBI"
+  },
+  {
+    "timestamp": 1683000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Draven"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1696000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

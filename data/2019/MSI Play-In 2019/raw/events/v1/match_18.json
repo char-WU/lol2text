@@ -1,0 +1,538 @@
+[
+  {
+    "timestamp": 183000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune",
+      "JarvanIV",
+      "Galio"
+    ],
+    "victim": "TahmKench",
+    "target": "PoP"
+  },
+  {
+    "timestamp": 185000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lloyd",
+    "participants": [
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Galio",
+    "target": "Gaeng"
+  },
+  {
+    "timestamp": 375000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 515000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lloyd",
+    "participants": [
+      "Ashe",
+      "Kennen",
+      "TahmKench"
+    ],
+    "victim": "MissFortune",
+    "target": "Yutapon"
+  },
+  {
+    "timestamp": 530000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "G4",
+    "participants": [
+      "Irelia",
+      "Kindred",
+      "TahmKench"
+    ],
+    "victim": "JarvanIV",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 786000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ceros",
+    "participants": [
+      "Sylas",
+      "Akali",
+      "JarvanIV"
+    ],
+    "victim": "Kindred",
+    "target": "Jjun"
+  },
+  {
+    "timestamp": 816000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 954000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Akali",
+      "MissFortune",
+      "Galio"
+    ],
+    "victim": "Irelia",
+    "target": "G4"
+  },
+  {
+    "timestamp": 987000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1042000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Lloyd",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1115000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1139000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1154000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1261000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1371000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": "Irelia",
+    "target": "G4"
+  },
+  {
+    "timestamp": 1376000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1464000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1501000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune",
+      "JarvanIV",
+      "Galio"
+    ],
+    "victim": "Kindred",
+    "target": "Jjun"
+  },
+  {
+    "timestamp": 1502000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Akali",
+      "JarvanIV",
+      "Sylas"
+    ],
+    "victim": "Ashe",
+    "target": "Lloyd"
+  },
+  {
+    "timestamp": 1502000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "G4",
+    "participants": [
+      "Irelia",
+      "Kindred",
+      "TahmKench"
+    ],
+    "victim": "MissFortune",
+    "target": "Yutapon"
+  },
+  {
+    "timestamp": 1505000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "JarvanIV",
+      "MissFortune",
+      "Galio"
+    ],
+    "victim": "Irelia",
+    "target": "G4"
+  },
+  {
+    "timestamp": 1510000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "PoP",
+    "participants": [
+      "TahmKench",
+      "Kennen",
+      "Kindred",
+      "Irelia",
+      "Ashe"
+    ],
+    "victim": "Sylas",
+    "target": "Ceros"
+  },
+  {
+    "timestamp": 1634000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune",
+      "JarvanIV",
+      "Galio"
+    ],
+    "victim": "Irelia",
+    "target": "G4"
+  },
+  {
+    "timestamp": 1635000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jjun",
+    "participants": [
+      "Kindred",
+      "Irelia",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Galio",
+    "target": "Gaeng"
+  },
+  {
+    "timestamp": 1639000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune",
+      "Akali",
+      "JarvanIV"
+    ],
+    "victim": "Kindred",
+    "target": "Jjun"
+  },
+  {
+    "timestamp": 1646000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune",
+      "Akali",
+      "JarvanIV",
+      "Sylas"
+    ],
+    "victim": "Ashe",
+    "target": "Lloyd"
+  },
+  {
+    "timestamp": 1648000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ceros",
+    "participants": [
+      "Sylas",
+      "Akali",
+      "JarvanIV",
+      "MissFortune"
+    ],
+    "victim": "TahmKench",
+    "target": "PoP"
+  },
+  {
+    "timestamp": 1678000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1781000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1825000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Akali"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1869000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1876000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rockky",
+    "participants": [
+      "Kennen",
+      "Irelia",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "MissFortune",
+    "target": "Yutapon"
+  },
+  {
+    "timestamp": 1881000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Akali",
+      "JarvanIV",
+      "Sylas",
+      "MissFortune",
+      "Galio"
+    ],
+    "victim": "TahmKench",
+    "target": "PoP"
+  },
+  {
+    "timestamp": 1883000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "JarvanIV",
+      "Akali",
+      "Galio"
+    ],
+    "victim": "Kindred",
+    "target": "Jjun"
+  },
+  {
+    "timestamp": 1889000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Akali",
+      "JarvanIV",
+      "Sylas",
+      "Galio"
+    ],
+    "victim": "Ashe",
+    "target": "Lloyd"
+  },
+  {
+    "timestamp": 1894000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "JarvanIV",
+      "Akali",
+      "Sylas",
+      "Galio"
+    ],
+    "victim": "Irelia",
+    "target": "G4"
+  },
+  {
+    "timestamp": 1898000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Akali"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1913000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1916000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Akali",
+      "JarvanIV",
+      "Sylas",
+      "Galio"
+    ],
+    "victim": "Kennen",
+    "target": "Rockky"
+  },
+  {
+    "timestamp": 1921000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1932000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

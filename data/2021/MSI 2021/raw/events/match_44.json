@@ -1,0 +1,541 @@
+[
+  {
+    "timestamp": 296000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "Sett"
+    ],
+    "victim": "Nautilus",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 304000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Udyr",
+      "Lucian"
+    ],
+    "victim": "Olaf",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 306000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiaohu",
+    "participants": [
+      "Gragas",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Sett",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 442000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 566000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 587000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BeryL",
+    "participants": [
+      "Sett",
+      "Tristana"
+    ],
+    "victim": "Nautilus",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 593000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Tristana",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 598000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "Sion",
+      "Tristana",
+      "Sett"
+    ],
+    "victim": "Kaisa",
+    "target": "GALA"
+  },
+  {
+    "timestamp": 772000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Olaf",
+      "Orianna",
+      "Nautilus"
+    ],
+    "victim": "Udyr",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 794000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 941000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "Olaf",
+      "Orianna",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Sion",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1006000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1043000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Orianna",
+      "Olaf",
+      "Nautilus"
+    ],
+    "victim": "Sett",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1071000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1076000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1134000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1138000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Gragas",
+      "Olaf",
+      "Orianna",
+      "Nautilus"
+    ],
+    "victim": "Sion",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1144000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ming",
+    "participants": [
+      "Nautilus",
+      "Gragas",
+      "Olaf",
+      "Orianna",
+      "Kaisa"
+    ],
+    "victim": "Sett",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1162000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1407000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Orianna",
+      "Gragas",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Tristana",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 1413000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Lucian",
+      "Udyr",
+      "Tristana",
+      "Sett"
+    ],
+    "victim": "Gragas",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 1422000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Lucian",
+      "Sion",
+      "Udyr",
+      "Sett"
+    ],
+    "victim": "Nautilus",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 1430000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Orianna",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Sett",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1470000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1478000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Orianna",
+      "Gragas",
+      "Olaf",
+      "Kaisa"
+    ],
+    "victim": "Sion",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1510000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1512000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Gragas",
+      "Olaf",
+      "Orianna",
+      "Nautilus"
+    ],
+    "victim": "Udyr",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 1516000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ming",
+    "participants": [
+      "Nautilus",
+      "Gragas",
+      "Olaf",
+      "Orianna",
+      "Kaisa"
+    ],
+    "victim": "Sett",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1519000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Orianna"
+    ],
+    "victim": "Tristana",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 1536000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1589000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1590000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1599000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1604000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1621000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1624000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Orianna",
+      "Olaf",
+      "Nautilus"
+    ],
+    "victim": "Sett",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1644000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1648000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiaohu",
+    "participants": [
+      "Gragas",
+      "Olaf",
+      "Orianna",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Udyr",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 1653000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Orianna",
+      "Gragas"
+    ],
+    "victim": "Tristana",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 1654000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Orianna",
+      "Olaf",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Sion",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1665000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

@@ -1,0 +1,883 @@
+[
+  {
+    "timestamp": 214000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "LeeSin",
+      "Camille"
+    ],
+    "victim": "Jax",
+    "target": "369"
+  },
+  {
+    "timestamp": 448000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "369",
+    "participants": [
+      "Jax"
+    ],
+    "victim": "LeeSin",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 473000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Lucian",
+      "Gragas"
+    ],
+    "victim": "Syndra",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 479000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gadget",
+    "participants": [
+      "Karthus",
+      "Syndra"
+    ],
+    "victim": "Lucian",
+    "target": "Knight"
+  },
+  {
+    "timestamp": 592000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 607000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 746000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "369",
+    "participants": [
+      "Jax",
+      "Gragas",
+      "Lucian",
+      "Senna"
+    ],
+    "victim": "Syndra",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 751000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "369",
+    "participants": [
+      "Jax",
+      "Gragas",
+      "Lucian",
+      "Senna"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 773000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 870000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Lucian",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Karthus",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 870000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gadget",
+    "participants": [
+      "Karthus"
+    ],
+    "victim": "TahmKench",
+    "target": "yuyanjia"
+  },
+  {
+    "timestamp": 909000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 912000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 954000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Gragas",
+      "Lucian",
+      "Senna"
+    ],
+    "victim": "LeeSin",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 997000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "369",
+    "participants": [
+      "Jax"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1079000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1132000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "369",
+    "participants": [
+      "Jax",
+      "Senna"
+    ],
+    "victim": "LeeSin",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1137000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "369",
+    "participants": [
+      "Jax",
+      "Senna"
+    ],
+    "victim": "Karthus",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 1138000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gadget",
+    "participants": [
+      "Karthus",
+      "LeeSin",
+      "Syndra",
+      "Nautilus"
+    ],
+    "victim": "Jax",
+    "target": "369"
+  },
+  {
+    "timestamp": 1166000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "SaNTaS",
+    "participants": [
+      "Nautilus"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1169000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1190000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Senna",
+      "Jax",
+      "Gragas",
+      "TahmKench"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1262000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1268000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Karthus",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 1274000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Camille",
+      "LeeSin",
+      "Syndra",
+      "Karthus",
+      "Nautilus"
+    ],
+    "victim": "TahmKench",
+    "target": "yuyanjia"
+  },
+  {
+    "timestamp": 1282000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Camille",
+      "LeeSin",
+      "Karthus"
+    ],
+    "victim": "Lucian",
+    "target": "Knight"
+  },
+  {
+    "timestamp": 1282000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Senna",
+      "Gragas",
+      "Lucian"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1286000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Syndra",
+      "LeeSin",
+      "Karthus"
+    ],
+    "victim": "Gragas",
+    "target": "Karsa"
+  },
+  {
+    "timestamp": 1287000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": "Syndra",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1291000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "369",
+    "participants": [
+      "Jax",
+      "Senna"
+    ],
+    "victim": "Nautilus",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1375000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Lucian",
+      "Gragas"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1388000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "LeeSin",
+      "Syndra"
+    ],
+    "victim": "Senna",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1388000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Gragas",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "LeeSin",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1389000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Syndra",
+      "LeeSin",
+      "Karthus",
+      "Nautilus"
+    ],
+    "victim": "TahmKench",
+    "target": "yuyanjia"
+  },
+  {
+    "timestamp": 1392000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Lucian",
+      "Jax",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Syndra",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1394000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Lucian",
+      "Jax",
+      "Gragas",
+      "Senna"
+    ],
+    "victim": "Karthus",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 1407000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "369",
+    "participants": [
+      "Jax"
+    ],
+    "victim": "Nautilus",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1435000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1516000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1574000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1590000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Lucian",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Nautilus",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1590000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Gragas",
+      "Senna"
+    ],
+    "victim": "LeeSin",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1591000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Lucian",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Karthus",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 1599000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Camille",
+      "LeeSin",
+      "Syndra",
+      "Karthus"
+    ],
+    "victim": "Lucian",
+    "target": "Knight"
+  },
+  {
+    "timestamp": 1602000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1623000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1647000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1671000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Syndra",
+      "Camille",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "Jax",
+    "target": "369"
+  },
+  {
+    "timestamp": 1673000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "SaNTaS",
+    "participants": [
+      "Nautilus",
+      "Camille",
+      "LeeSin",
+      "Syndra"
+    ],
+    "victim": "TahmKench",
+    "target": "yuyanjia"
+  },
+  {
+    "timestamp": 1673000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Gragas",
+      "Jax",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "LeeSin",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1740000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1857000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1861000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Senna",
+      "Lucian",
+      "TahmKench"
+    ],
+    "victim": "Nautilus",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1892000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1896000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "369",
+    "participants": [
+      "Jax"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1907000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Knight",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1912000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Gragas",
+      "Senna"
+    ],
+    "victim": "Syndra",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1917000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "369",
+    "participants": [
+      "Jax",
+      "Gragas",
+      "Lucian",
+      "Senna"
+    ],
+    "victim": "Karthus",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 1924000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "LeeSin",
+      "Karthus",
+      "Nautilus"
+    ],
+    "victim": "Lucian",
+    "target": "Knight"
+  },
+  {
+    "timestamp": 1926000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "369",
+    "participants": [
+      "Jax",
+      "Lucian",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Nautilus",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1932000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1938000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1941000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Camille",
+      "LeeSin",
+      "Karthus"
+    ],
+    "victim": "Senna",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1946000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "369",
+    "participants": [
+      "Jax",
+      "Gragas",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "LeeSin",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1947000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Camille",
+      "LeeSin"
+    ],
+    "victim": "TahmKench",
+    "target": "yuyanjia"
+  },
+  {
+    "timestamp": 1948000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Karsa",
+    "participants": [
+      "Gragas",
+      "Jax",
+      "Senna",
+      "TahmKench"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1954000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

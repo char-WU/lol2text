@@ -1,0 +1,1294 @@
+[
+  {
+    "timestamp": 106000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "brTT",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "brTT",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Luci",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 366000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Robo",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Robo",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 525000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Robo",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Robo",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 567000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 608000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 651000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 715000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 906000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Robo",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Robo",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Tinowns",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 951000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 960000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 966000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "brTT",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "brTT",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Luci",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 968000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 987000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "brTT",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "brTT",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1093000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1101000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tinowns",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tinowns",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1124000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1280000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1318000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1319000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1490000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1580000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1583000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1588000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tinowns",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tinowns",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1591000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "brTT",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "brTT",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1620000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1630000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1679000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1684000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1701000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1711000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1721000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1722000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1742000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1747000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1748000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1773000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1827000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cariok",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1833000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1836000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1855000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tinowns",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tinowns",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1855000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1858000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Varus"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "brTT",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "brTT",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1861000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1863000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1872000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

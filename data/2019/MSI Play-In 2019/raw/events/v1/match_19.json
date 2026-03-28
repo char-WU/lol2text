@@ -1,0 +1,439 @@
+[
+  {
+    "timestamp": 208000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jjun",
+    "participants": [
+      "RekSai",
+      "Lucian",
+      "Galio"
+    ],
+    "victim": "Varus",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 401000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Jjun",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 550000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "G4",
+    "participants": [
+      "Azir",
+      "Galio"
+    ],
+    "victim": "KhaZix",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 625000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "AHaHaCiK",
+    "participants": [
+      "KhaZix",
+      "Braum"
+    ],
+    "victim": "Galio",
+    "target": "PoP"
+  },
+  {
+    "timestamp": 653000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Gadget",
+    "participants": [
+      "Varus",
+      "KhaZix",
+      "Braum"
+    ],
+    "victim": "RekSai",
+    "target": "Jjun"
+  },
+  {
+    "timestamp": 746000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "AHaHaCiK",
+    "participants": [
+      "KhaZix"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 762000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "G4",
+    "participants": [
+      "Azir",
+      "RekSai",
+      "Galio"
+    ],
+    "victim": "Braum",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 805000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Gadget",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 816000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "AHaHaCiK",
+    "participants": [
+      "KhaZix"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 830000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "G4",
+    "participants": [
+      "Azir",
+      "RekSai",
+      "Galio"
+    ],
+    "victim": "Braum",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 999000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1020000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Gadget",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1040000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lloyd",
+    "participants": [
+      "Lucian",
+      "RekSai",
+      "Azir",
+      "Galio"
+    ],
+    "victim": "Varus",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 1068000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "PoP",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1149000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "AHaHaCiK",
+    "participants": [
+      "KhaZix"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1391000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "BOSS",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1475000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "BOSS",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1520000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lloyd",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": "KhaZix",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1818000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Gadget",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1870000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "AHaHaCiK",
+    "participants": [
+      "KhaZix"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1968000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1987000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2151000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": "AHaHaCiK",
+    "participants": [
+      "KhaZix"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2203000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nomanz",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": "Azir",
+    "target": "G4"
+  },
+  {
+    "timestamp": 2244000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nomanz",
+    "participants": [
+      "Ryze",
+      "Hecarim"
+    ],
+    "victim": "Galio",
+    "target": "PoP"
+  },
+  {
+    "timestamp": 2245000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Gadget",
+    "participants": [
+      "Varus",
+      "Hecarim",
+      "KhaZix",
+      "Braum"
+    ],
+    "victim": "Gnar",
+    "target": "Rockky"
+  },
+  {
+    "timestamp": 2250000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jjun",
+    "participants": [
+      "RekSai",
+      "Lucian"
+    ],
+    "victim": "Varus",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 2250000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SaNTaS",
+    "participants": [
+      "Braum",
+      "KhaZix",
+      "Varus"
+    ],
+    "victim": "RekSai",
+    "target": "Jjun"
+  },
+  {
+    "timestamp": 2253000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BOSS",
+    "participants": [
+      "Hecarim",
+      "KhaZix",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Lucian",
+    "target": "Lloyd"
+  },
+  {
+    "timestamp": 2257000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "AHaHaCiK",
+    "participants": [
+      "KhaZix"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 2262000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Nomanz",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2271000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "BOSS",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2273000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "AHaHaCiK",
+    "participants": [
+      "KhaZix",
+      "Ryze",
+      "Braum"
+    ],
+    "victim": "Azir",
+    "target": "G4"
+  },
+  {
+    "timestamp": 2277000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "AHaHaCiK",
+    "participants": [
+      "KhaZix"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2286000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

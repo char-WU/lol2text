@@ -1,0 +1,834 @@
+[
+  {
+    "timestamp": 331000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Baolan",
+    "participants": [
+      "Nautilus",
+      "Ezreal"
+    ],
+    "victim": "Kaisa",
+    "target": "Nuclear"
+  },
+  {
+    "timestamp": 331000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Poppy"
+    ],
+    "victim": "Nautilus",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 336000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Poppy",
+      "Taliyah"
+    ],
+    "victim": "Ezreal",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 488000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Leyan",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 543000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah",
+      "Kaisa",
+      "Poppy"
+    ],
+    "victim": "Ezreal",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 549000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Taliyah",
+      "Poppy"
+    ],
+    "victim": "Nautilus",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 807000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": "Ezreal",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 840000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": "Jayce",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 846000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 892000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Akali"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 928000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Jayce",
+      "Taliyah",
+      "Kaisa",
+      "Poppy"
+    ],
+    "victim": "Gragas",
+    "target": "Leyan"
+  },
+  {
+    "timestamp": 929000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Poppy",
+      "Jayce",
+      "Taliyah",
+      "Kaisa"
+    ],
+    "victim": "Ezreal",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 940000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kayle",
+      "Kaisa",
+      "Poppy"
+    ],
+    "victim": "Nautilus",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 943000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1076000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1082000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1181000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1185000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1206000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Leyan",
+    "participants": [
+      "Gragas",
+      "Lucian",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "Poppy",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1206000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Akali",
+      "Lucian",
+      "Nautilus"
+    ],
+    "victim": "Taliyah",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 1214000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1508000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1639000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1713000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah",
+      "Jayce",
+      "Kayle",
+      "Poppy"
+    ],
+    "victim": "Akali",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 1717000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1739000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Jayce",
+      "Kayle",
+      "Poppy"
+    ],
+    "victim": "Gragas",
+    "target": "Leyan"
+  },
+  {
+    "timestamp": 1740000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Lucian",
+      "Gragas",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "Poppy",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1754000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Jayce",
+      "Taliyah",
+      "Kayle",
+      "Kaisa",
+      "Poppy"
+    ],
+    "victim": "Nautilus",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 1774000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1833000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Leyan",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1850000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1859000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Leyan",
+    "participants": [
+      "Gragas",
+      "Lucian"
+    ],
+    "victim": "Kaisa",
+    "target": "Nuclear"
+  },
+  {
+    "timestamp": 1864000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Akali",
+      "Lucian",
+      "Ezreal"
+    ],
+    "victim": "Taliyah",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 1872000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Ezreal",
+      "Akali",
+      "Lucian"
+    ],
+    "victim": "Jayce",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 1875000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Lucian",
+      "Akali",
+      "Gragas"
+    ],
+    "victim": "Kayle",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 1898000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1909000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1914000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1914000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1990000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah",
+      "Jayce",
+      "Kayle",
+      "Kaisa",
+      "Poppy"
+    ],
+    "victim": "Nautilus",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 1998000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Jayce",
+      "Kayle"
+    ],
+    "victim": "Lucian",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 2025000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Akali",
+      "Gragas",
+      "Ezreal"
+    ],
+    "victim": "Jayce",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 2029000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Poppy",
+      "Jayce",
+      "Taliyah",
+      "Kayle",
+      "Kaisa"
+    ],
+    "victim": "Ezreal",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 2044000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2048000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kayle",
+      "Kaisa",
+      "Poppy"
+    ],
+    "victim": "Akali",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 2049000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Taliyah",
+      "Kayle",
+      "Poppy"
+    ],
+    "victim": "Gragas",
+    "target": "Leyan"
+  },
+  {
+    "timestamp": 2056000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Baolan",
+    "participants": [
+      "Nautilus",
+      "Akali",
+      "Gragas"
+    ],
+    "victim": "Poppy",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 2153000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2171000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Jayce",
+      "Taliyah",
+      "Kayle"
+    ],
+    "victim": "Nautilus",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 2199000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2205000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2243000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kayle",
+      "Taliyah",
+      "Kaisa",
+      "Poppy"
+    ],
+    "victim": "Lucian",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 2248000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Akali",
+      "Gragas",
+      "Lucian"
+    ],
+    "victim": "Taliyah",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 2251000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Jayce",
+      "Poppy"
+    ],
+    "victim": "Ezreal",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 2253000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kayle",
+      "Taliyah",
+      "Kaisa"
+    ],
+    "victim": "Akali",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 2253000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Jayce",
+      "Poppy"
+    ],
+    "victim": "Nautilus",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 2254000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Leyan",
+    "participants": [
+      "Gragas",
+      "Akali",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "Poppy",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 2257000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Jayce",
+      "Kayle",
+      "Poppy"
+    ],
+    "victim": "Gragas",
+    "target": "Leyan"
+  },
+  {
+    "timestamp": 2265000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 2277000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 2280000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kayle"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2284000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2285000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kayle"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2294000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

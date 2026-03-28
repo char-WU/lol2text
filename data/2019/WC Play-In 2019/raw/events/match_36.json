@@ -1,0 +1,398 @@
+[
+  {
+    "timestamp": 377000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deul",
+    "participants": [
+      "Tristana",
+      "RekSai",
+      "Thresh"
+    ],
+    "victim": "Xayah",
+    "target": "MnM"
+  },
+  {
+    "timestamp": 687000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Lloyd",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 689000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Crash",
+    "participants": [
+      "LeeSin",
+      "Corki",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "RekSai",
+    "target": "Lloyd"
+  },
+  {
+    "timestamp": 740000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "PoP",
+    "participants": [
+      "Thresh",
+      "RekSai",
+      "Syndra"
+    ],
+    "victim": "Corki",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 770000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Lloyd",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 828000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Lloyd",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 870000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Kaiwing",
+    "participants": [
+      "Rakan"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 872000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Deul",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1031000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Lloyd",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1112000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": "Quinn",
+    "target": "3z"
+  },
+  {
+    "timestamp": 1128000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Corki",
+      "LeeSin",
+      "Rakan"
+    ],
+    "victim": "Syndra",
+    "target": "G4"
+  },
+  {
+    "timestamp": 1136000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deul",
+    "participants": [
+      "Tristana",
+      "RekSai",
+      "Syndra",
+      "Thresh"
+    ],
+    "victim": "LeeSin",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 1327000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Corki"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1339000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Lloyd",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1461000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "3z",
+    "participants": [
+      "Quinn"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1584000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1800000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Lloyd",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1909000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1924000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Lloyd",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1931000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "3z",
+    "participants": [
+      "Quinn"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1953000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "3z",
+    "participants": [
+      "Quinn"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1998000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Crash",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2003000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Corki",
+      "LeeSin",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "RekSai",
+    "target": "Lloyd"
+  },
+  {
+    "timestamp": 2007000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Corki",
+      "Quinn",
+      "LeeSin",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Renekton",
+    "target": "Rockky"
+  },
+  {
+    "timestamp": 2008000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "3z",
+    "participants": [
+      "Quinn"
+    ],
+    "victim": "Tristana",
+    "target": "Deul"
+  },
+  {
+    "timestamp": 2010000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "MnM",
+    "participants": [
+      "Xayah",
+      "Quinn",
+      "LeeSin",
+      "Corki",
+      "Rakan"
+    ],
+    "victim": "Thresh",
+    "target": "PoP"
+  },
+  {
+    "timestamp": 2031000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 2042000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Crash",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2045000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "3z",
+    "participants": [
+      "Quinn"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2046000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": "Rakan",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 2048000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Corki",
+      "Rakan"
+    ],
+    "victim": "Syndra",
+    "target": "G4"
+  },
+  {
+    "timestamp": 2055000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

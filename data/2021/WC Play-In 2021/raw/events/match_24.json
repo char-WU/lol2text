@@ -1,0 +1,632 @@
+[
+  {
+    "timestamp": 304000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal",
+      "XinZhao",
+      "Rakan"
+    ],
+    "victim": "MissFortune",
+    "target": "MDB"
+  },
+  {
+    "timestamp": 318000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": "Syndra",
+    "target": "1116"
+  },
+  {
+    "timestamp": 451000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 531000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao",
+      "Syndra"
+    ],
+    "victim": "MissFortune",
+    "target": "MDB"
+  },
+  {
+    "timestamp": 538000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 544000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Liang",
+    "participants": [
+      "Jayce",
+      "XinZhao",
+      "Rakan"
+    ],
+    "victim": "LeeSin",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 627000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 715000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 721000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 721000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 757000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 767000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 767000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Liang",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 916000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 917000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1082000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1105000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao",
+      "Syndra",
+      "Ezreal",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1107000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Liang",
+    "participants": [
+      "Jayce",
+      "Rakan"
+    ],
+    "victim": "LeeSin",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1108000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "MDB",
+    "participants": [
+      "MissFortune",
+      "Wukong",
+      "LeeSin"
+    ],
+    "victim": "Rakan",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 1110000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Wukong",
+      "Sylas",
+      "MissFortune"
+    ],
+    "victim": "Syndra",
+    "target": "1116"
+  },
+  {
+    "timestamp": 1111000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal",
+      "XinZhao",
+      "Rakan"
+    ],
+    "victim": "Wukong",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1113000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Sylas",
+      "Wukong",
+      "MissFortune"
+    ],
+    "victim": "XinZhao",
+    "target": "HuSha"
+  },
+  {
+    "timestamp": 1116000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal",
+      "XinZhao",
+      "Syndra",
+      "Rakan"
+    ],
+    "victim": "MissFortune",
+    "target": "MDB"
+  },
+  {
+    "timestamp": 1121000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal",
+      "XinZhao",
+      "Syndra"
+    ],
+    "victim": "Sylas",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1145000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1238000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Wukong",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "Syndra",
+    "target": "1116"
+  },
+  {
+    "timestamp": 1240000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Liang",
+    "participants": [
+      "Jayce",
+      "Syndra"
+    ],
+    "victim": "Nautilus",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1250000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Liang",
+    "participants": [
+      "Jayce",
+      "Rakan"
+    ],
+    "victim": "LeeSin",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1252000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Wukong",
+      "LeeSin",
+      "Sylas"
+    ],
+    "victim": "Jayce",
+    "target": "Liang"
+  },
+  {
+    "timestamp": 1265000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao",
+      "Rakan"
+    ],
+    "victim": "MissFortune",
+    "target": "MDB"
+  },
+  {
+    "timestamp": 1266000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal",
+      "XinZhao",
+      "Rakan"
+    ],
+    "victim": "Sylas",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1301000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1392000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1393000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Liang",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1396000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1413000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal",
+      "Jayce",
+      "XinZhao",
+      "Syndra",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1421000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "1116",
+    "participants": [
+      "Syndra",
+      "Jayce",
+      "Ezreal",
+      "Rakan"
+    ],
+    "victim": "Wukong",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1436000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Liang",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1440000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Liang",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1448000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "1116",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1458000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1469000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal",
+      "XinZhao",
+      "Syndra",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1472000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Wukong",
+      "Sylas",
+      "MissFortune",
+      "Nautilus"
+    ],
+    "victim": "Rakan",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 1475000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao",
+      "Jayce",
+      "Syndra",
+      "Ezreal",
+      "Rakan"
+    ],
+    "victim": "Sylas",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1485000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Liang",
+    "participants": [
+      "Jayce",
+      "XinZhao"
+    ],
+    "victim": "LeeSin",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1487000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao",
+      "Jayce",
+      "Ezreal",
+      "Rakan"
+    ],
+    "victim": "Wukong",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1498000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": "MissFortune",
+    "target": "MDB"
+  },
+  {
+    "timestamp": 1504000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1509000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Liang",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1520000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

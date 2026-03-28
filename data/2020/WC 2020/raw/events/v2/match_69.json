@@ -1,0 +1,2124 @@
+[
+  {
+    "timestamp": 366000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 489000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 621000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 623000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 624000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 644000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 733000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 813000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 840000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 945000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 982000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1008000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1128000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1130000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1131000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1147000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1147000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1185000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1239000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1266000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1457000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1464000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1464000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1470000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ]
+  },
+  {
+    "timestamp": 1470000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1476000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1485000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1785000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1810000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1813000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ]
+  },
+  {
+    "timestamp": 1813000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1818000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1824000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1845000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1917000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1925000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1949000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1953000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1954000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2246000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 2286000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 2290000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2297000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 2301000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2353000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2377000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 2393000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 2397000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 2405000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2437000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 2440000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 2449000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 2450000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ]
+  },
+  {
+    "timestamp": 2456000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 2461000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 2502000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 2508000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2518000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2524000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Bin",
+        "champion": "Renekton"
+      },
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 2525000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2528000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Angel",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 2538000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "huanfeng",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 2539000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "SwordArt",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2554000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2560000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 2570000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

@@ -1,0 +1,814 @@
+[
+  {
+    "timestamp": 437000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nisqy",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": "Tristana",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 439000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": "Irelia",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 594000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nisqy",
+    "participants": [
+      "Irelia",
+      "Elise"
+    ],
+    "victim": "Gragas",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 625000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Svenskeren",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 665000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "3z",
+    "participants": [
+      "Akali"
+    ],
+    "victim": "Renekton",
+    "target": "Licorice"
+  },
+  {
+    "timestamp": 673000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Svenskeren",
+    "participants": [
+      "Elise",
+      "Renekton"
+    ],
+    "victim": "Akali",
+    "target": "3z"
+  },
+  {
+    "timestamp": 720000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Svenskeren",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 746000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Svenskeren",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 927000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zeyzal",
+    "participants": [
+      "Nautilus"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 943000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Svenskeren",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 960000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1018000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zeyzal",
+    "participants": [
+      "Nautilus",
+      "Elise",
+      "Irelia",
+      "Heimerdinger"
+    ],
+    "victim": "Gragas",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 1019000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Tristana",
+      "Akali",
+      "Gragas"
+    ],
+    "victim": "Irelia",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 1140000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zeyzal",
+    "participants": [
+      "Nautilus"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1165000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Crash",
+    "participants": [
+      "Gragas",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Irelia",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 1168000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zeyzal",
+    "participants": [
+      "Nautilus",
+      "Elise",
+      "Irelia",
+      "Heimerdinger"
+    ],
+    "victim": "Gragas",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 1265000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zeyzal",
+    "participants": [
+      "Nautilus"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1266000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Tristana",
+      "Gragas",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Nautilus",
+    "target": "Zeyzal"
+  },
+  {
+    "timestamp": 1299000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Crash",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1438000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Unified",
+    "participants": [
+      "Garen",
+      "Gragas",
+      "Yuumi"
+    ],
+    "victim": "Elise",
+    "target": "Svenskeren"
+  },
+  {
+    "timestamp": 1588000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Svenskeren",
+    "participants": [
+      "Elise",
+      "Irelia",
+      "Heimerdinger",
+      "Nautilus"
+    ],
+    "victim": "Yuumi",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1610000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Svenskeren",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1900000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Unified",
+    "participants": [
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Elise",
+    "target": "Svenskeren"
+  },
+  {
+    "timestamp": 1906000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Tristana",
+      "Gragas",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Nautilus",
+    "target": "Zeyzal"
+  },
+  {
+    "timestamp": 1907000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kaiwing",
+    "participants": [
+      "Yuumi",
+      "Gragas",
+      "Tristana",
+      "Garen"
+    ],
+    "victim": "Irelia",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 1908000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Licorice",
+    "participants": [
+      "Renekton",
+      "Heimerdinger"
+    ],
+    "victim": "Akali",
+    "target": "3z"
+  },
+  {
+    "timestamp": 2080000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "3z",
+    "participants": [
+      "Akali"
+    ],
+    "victim": "Heimerdinger",
+    "target": "Sneaky"
+  },
+  {
+    "timestamp": 2081000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Svenskeren",
+    "participants": [
+      "Elise",
+      "Renekton",
+      "Irelia",
+      "Heimerdinger",
+      "Nautilus"
+    ],
+    "victim": "Garen",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 2088000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "3z",
+    "participants": [
+      "Akali",
+      "Gragas"
+    ],
+    "victim": "Nautilus",
+    "target": "Zeyzal"
+  },
+  {
+    "timestamp": 2241000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Sneaky",
+    "participants": [
+      "Heimerdinger"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2248000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Svenskeren",
+    "participants": [
+      "Elise",
+      "Irelia",
+      "Heimerdinger"
+    ],
+    "victim": "Gragas",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 2249000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "3z",
+    "participants": [
+      "Akali",
+      "Gragas",
+      "Yuumi"
+    ],
+    "victim": "Elise",
+    "target": "Svenskeren"
+  },
+  {
+    "timestamp": 2253000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kaiwing",
+    "participants": [
+      "Yuumi",
+      "Akali",
+      "Gragas",
+      "Garen"
+    ],
+    "victim": "Heimerdinger",
+    "target": "Sneaky"
+  },
+  {
+    "timestamp": 2258000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Licorice",
+    "participants": [
+      "Renekton",
+      "Heimerdinger",
+      "Nautilus"
+    ],
+    "victim": "Garen",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 2259000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Licorice",
+    "participants": [
+      "Renekton",
+      "Elise",
+      "Heimerdinger",
+      "Nautilus"
+    ],
+    "victim": "Akali",
+    "target": "3z"
+  },
+  {
+    "timestamp": 2283000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2291000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2300000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Nisqy",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2356000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2375000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 2455000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Unified",
+    "participants": [
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Elise",
+    "target": "Svenskeren"
+  },
+  {
+    "timestamp": 2461000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Unified",
+    "participants": [
+      "Garen",
+      "Gragas",
+      "Tristana",
+      "Yuumi"
+    ],
+    "victim": "Nautilus",
+    "target": "Zeyzal"
+  },
+  {
+    "timestamp": 2465000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "3z",
+    "participants": [
+      "Akali",
+      "Gragas",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Heimerdinger",
+    "target": "Sneaky"
+  },
+  {
+    "timestamp": 2477000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Unified",
+    "participants": [
+      "Garen",
+      "Akali",
+      "Gragas",
+      "Yuumi"
+    ],
+    "victim": "Irelia",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 2521000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 2614000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nisqy",
+    "participants": [
+      "Irelia",
+      "Heimerdinger",
+      "Nautilus"
+    ],
+    "victim": "Gragas",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 2621000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Tristana",
+      "Gragas",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Irelia",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 2622000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Sneaky",
+    "participants": [
+      "Heimerdinger",
+      "Renekton",
+      "Elise",
+      "Irelia",
+      "Nautilus"
+    ],
+    "victim": "Tristana",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 2658000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Svenskeren",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2671000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kaiwing",
+    "participants": [
+      "Yuumi",
+      "Akali",
+      "Garen"
+    ],
+    "victim": "Elise",
+    "target": "Svenskeren"
+  },
+  {
+    "timestamp": 2672000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Licorice",
+    "participants": [
+      "Renekton",
+      "Elise",
+      "Heimerdinger",
+      "Nautilus"
+    ],
+    "victim": "Garen",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 2678000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Licorice",
+    "participants": [
+      "Renekton",
+      "Heimerdinger",
+      "Nautilus"
+    ],
+    "victim": "Akali",
+    "target": "3z"
+  },
+  {
+    "timestamp": 2680000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Licorice",
+    "participants": [
+      "Renekton",
+      "Elise",
+      "Heimerdinger",
+      "Nautilus"
+    ],
+    "victim": "Yuumi",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 2719000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Licorice",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2746000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": "Sneaky",
+    "participants": [
+      "Heimerdinger"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2786000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zeyzal",
+    "participants": [
+      "Nautilus"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 2792000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Sneaky",
+    "participants": [
+      "Heimerdinger",
+      "Elise"
+    ],
+    "victim": "Gragas",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 2795000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2806000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Sneaky",
+    "participants": [
+      "Heimerdinger"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2812000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Licorice",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2815000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Sneaky",
+    "participants": [
+      "Heimerdinger",
+      "Elise",
+      "Irelia",
+      "Nautilus"
+    ],
+    "victim": "Garen",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 2822000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

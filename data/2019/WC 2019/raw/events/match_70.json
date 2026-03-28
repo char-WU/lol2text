@@ -1,0 +1,755 @@
+[
+  {
+    "timestamp": 215000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hylissang",
+    "participants": [
+      "Yuumi",
+      "Garen"
+    ],
+    "victim": "Bard",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 299000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana",
+      "Elise"
+    ],
+    "victim": "Shen",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 402000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Shen",
+      "Akali"
+    ],
+    "victim": "Bard",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 443000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 449000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise",
+      "Orianna",
+      "Lucian",
+      "Bard"
+    ],
+    "victim": "Shen",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 456000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana",
+      "Orianna",
+      "Lucian",
+      "Bard"
+    ],
+    "victim": "Garen",
+    "target": "Rekkles"
+  },
+  {
+    "timestamp": 588000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cody Sun",
+    "participants": [
+      "Lucian",
+      "Tristana",
+      "Elise",
+      "Bard"
+    ],
+    "victim": "Shen",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 622000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rekkles",
+    "participants": [
+      "Garen",
+      "Shen",
+      "Yuumi"
+    ],
+    "victim": "Lucian",
+    "target": "Cody Sun"
+  },
+  {
+    "timestamp": 626000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise",
+      "Tristana",
+      "Bard"
+    ],
+    "victim": "LeeSin",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 641000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Damonte",
+    "participants": [
+      "Orianna",
+      "Tristana",
+      "Elise",
+      "Bard"
+    ],
+    "victim": "Shen",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 707000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 808000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 827000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 852000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 941000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise",
+      "Orianna",
+      "Bard"
+    ],
+    "victim": "Yuumi",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 947000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise",
+      "Tristana",
+      "Orianna",
+      "Bard"
+    ],
+    "victim": "Garen",
+    "target": "Rekkles"
+  },
+  {
+    "timestamp": 961000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 970000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Shen",
+      "Akali"
+    ],
+    "victim": "Lucian",
+    "target": "Cody Sun"
+  },
+  {
+    "timestamp": 980000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 984000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1050000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1070000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "LeeSin",
+      "Shen",
+      "Yuumi"
+    ],
+    "victim": "Tristana",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 1148000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1154000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Shen",
+      "LeeSin",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Tristana",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 1156000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Damonte",
+    "participants": [
+      "Orianna",
+      "Tristana",
+      "Bard"
+    ],
+    "victim": "Yuumi",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 1250000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "LeeSin",
+      "Akali",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Bard",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1314000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "LeeSin",
+      "Akali"
+    ],
+    "victim": "Orianna",
+    "target": "Damonte"
+  },
+  {
+    "timestamp": 1329000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1452000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nemesis",
+    "participants": [
+      "Akali",
+      "Shen",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Tristana",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 1454000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Shen",
+      "Akali",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Bard",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1460000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cody Sun",
+    "participants": [
+      "Lucian",
+      "Elise",
+      "Orianna"
+    ],
+    "victim": "Garen",
+    "target": "Rekkles"
+  },
+  {
+    "timestamp": 1471000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "LeeSin",
+      "Shen",
+      "Yuumi"
+    ],
+    "victim": "Lucian",
+    "target": "Cody Sun"
+  },
+  {
+    "timestamp": 1472000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "LeeSin",
+      "Shen",
+      "Yuumi"
+    ],
+    "victim": "Orianna",
+    "target": "Damonte"
+  },
+  {
+    "timestamp": 1495000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1581000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Shen",
+      "LeeSin",
+      "Akali",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Bard",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1599000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Nemesis",
+    "participants": [
+      "Akali"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1732000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hylissang",
+    "participants": [
+      "Yuumi",
+      "Akali"
+    ],
+    "victim": "Tristana",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 1872000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1893000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Nemesis",
+    "participants": [
+      "Akali"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 2040000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2114000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Damonte",
+    "participants": [
+      "Orianna",
+      "Tristana",
+      "Lucian",
+      "Bard"
+    ],
+    "victim": "Shen",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 2189000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nemesis",
+    "participants": [
+      "Akali",
+      "Shen",
+      "Yuumi"
+    ],
+    "victim": "Orianna",
+    "target": "Damonte"
+  },
+  {
+    "timestamp": 2206000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cody Sun",
+    "participants": [
+      "Lucian",
+      "Tristana",
+      "Elise",
+      "Bard"
+    ],
+    "victim": "Shen",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 2210000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hylissang",
+    "participants": [
+      "Yuumi",
+      "Shen",
+      "LeeSin"
+    ],
+    "victim": "Lucian",
+    "target": "Cody Sun"
+  },
+  {
+    "timestamp": 2211000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rekkles",
+    "participants": [
+      "Garen",
+      "Shen",
+      "LeeSin",
+      "Yuumi"
+    ],
+    "victim": "Tristana",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 2214000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rekkles",
+    "participants": [
+      "Garen",
+      "Shen",
+      "LeeSin",
+      "Yuumi"
+    ],
+    "victim": "Bard",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 2222000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nemesis",
+    "participants": [
+      "Akali",
+      "LeeSin",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Elise",
+    "target": "Lira"
+  },
+  {
+    "timestamp": 2250000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2287000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Shen",
+      "Akali",
+      "Yuumi"
+    ],
+    "victim": "Tristana",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 2288000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Shen",
+      "Akali",
+      "Yuumi"
+    ],
+    "victim": "Lucian",
+    "target": "Cody Sun"
+  },
+  {
+    "timestamp": 2308000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nemesis",
+    "participants": [
+      "Akali",
+      "Shen",
+      "LeeSin",
+      "Yuumi"
+    ],
+    "victim": "Elise",
+    "target": "Lira"
+  },
+  {
+    "timestamp": 2313000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2316000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Shen"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2327000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "LeeSin",
+      "Shen",
+      "Akali",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Bard",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 2334000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2334000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Shen"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2344000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

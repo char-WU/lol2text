@@ -1,0 +1,1348 @@
+[
+  {
+    "timestamp": 481000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 541000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 542000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ZerosS",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "ZerosS",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 552000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Zin",
+        "champion": "Heimerdinger"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 554000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 570000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zin",
+        "champion": "Heimerdinger"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zin",
+        "champion": "Heimerdinger"
+      },
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 658000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 713000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 715000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      }
+    ]
+  },
+  {
+    "timestamp": 721000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 721000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 744000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ZerosS",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "ZerosS",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 754000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 852000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 888000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 964000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 987000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 988000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Zin",
+        "champion": "Heimerdinger"
+      },
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1011000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1025000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1316000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1402000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1429000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ]
+  },
+  {
+    "timestamp": 1451000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zin",
+        "champion": "Heimerdinger"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zin",
+        "champion": "Heimerdinger"
+      }
+    ]
+  },
+  {
+    "timestamp": 1451000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1584000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ZerosS",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "ZerosS",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1585000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1585000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ]
+  },
+  {
+    "timestamp": 1585000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1607000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1618000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1659000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1667000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1671000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1679000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Slay",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1695000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1700000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1703000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ]
+  },
+  {
+    "timestamp": 1705000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zin",
+        "champion": "Heimerdinger"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zin",
+        "champion": "Heimerdinger"
+      }
+    ]
+  },
+  {
+    "timestamp": 1708000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crisp",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Tian",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ZerosS",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "ZerosS",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1711000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1719000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

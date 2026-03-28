@@ -1,0 +1,1560 @@
+[
+  {
+    "timestamp": 117000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 125000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hans Sama",
+        "champion": "Draven"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hans Sama",
+        "champion": "Draven"
+      }
+    ]
+  },
+  {
+    "timestamp": 218000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 324000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Larssen",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 325000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 358000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Larssen",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Larssen",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Hans Sama",
+        "champion": "Draven"
+      },
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 358000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 363000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hans Sama",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hans Sama",
+        "champion": "Draven"
+      },
+      {
+        "player": "Larssen",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 428000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 443000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 448000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hans Sama",
+        "champion": "Draven"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hans Sama",
+        "champion": "Draven"
+      }
+    ]
+  },
+  {
+    "timestamp": 452000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 470000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Odoamne",
+        "champion": "Gwen"
+      },
+      {
+        "player": "Larssen",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 482000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 520000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hans Sama",
+        "champion": "Draven"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hans Sama",
+        "champion": "Draven"
+      }
+    ]
+  },
+  {
+    "timestamp": 530000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 531000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 541000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 552000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 598000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Odoamne",
+        "champion": "Gwen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Odoamne",
+        "champion": "Gwen"
+      }
+    ]
+  },
+  {
+    "timestamp": 624000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 628000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 633000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 652000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 682000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 688000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 695000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 695000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 701000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Larssen",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Larssen",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 703000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 712000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 729000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 730000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Odoamne",
+        "champion": "Gwen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Odoamne",
+        "champion": "Gwen"
+      }
+    ]
+  },
+  {
+    "timestamp": 736000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 742000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 747000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 835000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Odoamne",
+        "champion": "Gwen"
+      },
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 838000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 838000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Odoamne",
+        "champion": "Gwen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Odoamne",
+        "champion": "Gwen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 838000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 838000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 838000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 929000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 941000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Odoamne",
+        "champion": "Gwen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Odoamne",
+        "champion": "Gwen"
+      },
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 975000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1050000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1152000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1174000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1354000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Larssen",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Larssen",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Hans Sama",
+        "champion": "Draven"
+      },
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1354000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1358000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 1363000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Odoamne",
+        "champion": "Gwen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Odoamne",
+        "champion": "Gwen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1388000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1451000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1477000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Larssen",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Larssen",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1477000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Inspired",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1483000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1486000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "Trymbi",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 1493000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1495000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1501000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1505000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1523000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

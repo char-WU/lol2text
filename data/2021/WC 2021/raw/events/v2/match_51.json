@@ -1,0 +1,1130 @@
+[
+  {
+    "timestamp": 377000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Aria",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Aria",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ]
+  },
+  {
+    "timestamp": 377000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      },
+      {
+        "player": "Scout",
+        "champion": "Lissandra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 562000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 576000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 590000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gaeng",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gaeng",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 632000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 672000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 681000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 681000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 707000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 721000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 802000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 806000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 814000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 827000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 838000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 838000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 934000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Scout",
+        "champion": "Lissandra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Scout",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      },
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aria",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aria",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 942000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      },
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Evi",
+        "champion": "Poppy"
+      }
+    ],
+    "target": [
+      {
+        "player": "Evi",
+        "champion": "Poppy"
+      }
+    ]
+  },
+  {
+    "timestamp": 965000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 974000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1017000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1030000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1086000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1127000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      },
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Scout",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gaeng",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gaeng",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1129000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Aria",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Aria",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Evi",
+        "champion": "Poppy"
+      },
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1133000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Scout",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Evi",
+        "champion": "Poppy"
+      }
+    ],
+    "target": [
+      {
+        "player": "Evi",
+        "champion": "Poppy"
+      }
+    ]
+  },
+  {
+    "timestamp": 1136000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      },
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Scout",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aria",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aria",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1145000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1218000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      },
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aria",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aria",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1242000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1285000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Scout",
+        "champion": "Lissandra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gaeng",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gaeng",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1366000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1502000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      },
+      {
+        "player": "Scout",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gaeng",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gaeng",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1503000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      },
+      {
+        "player": "Scout",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Steal",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 1504000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Scout",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yutapon",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yutapon",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1507000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      },
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Scout",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Evi",
+        "champion": "Poppy"
+      }
+    ],
+    "target": [
+      {
+        "player": "Evi",
+        "champion": "Poppy"
+      }
+    ]
+  },
+  {
+    "timestamp": 1527000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      },
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aria",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aria",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1527000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1533000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1537000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1541000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "Talon"
+      },
+      {
+        "player": "Flandre",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Scout",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "meiko",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gaeng",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gaeng",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1545000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1554000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

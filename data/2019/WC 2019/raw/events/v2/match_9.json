@@ -1,0 +1,2888 @@
+[
+  {
+    "timestamp": 222000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 462000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 468000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 596000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 600000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 642000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 705000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 709000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 734000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 744000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 821000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 842000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 870000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 876000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 930000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 960000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1045000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1066000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1070000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1076000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1157000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1165000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1175000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1289000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1369000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1373000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1379000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "target": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ]
+  },
+  {
+    "timestamp": 1383000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1385000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1388000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1401000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1476000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1485000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1491000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "target": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ]
+  },
+  {
+    "timestamp": 1504000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1512000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1517000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1526000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1527000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1530000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1531000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1541000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1608000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1613000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1619000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1629000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1800000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1810000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1819000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1824000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "target": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ]
+  },
+  {
+    "timestamp": 1845000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1847000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1850000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1854000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1857000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1899000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1906000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1912000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1937000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2056000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2056000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 2056000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 2056000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 2060000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2062000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 2063000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 2115000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2250000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2255000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 2260000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 2261000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2263000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "target": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ]
+  },
+  {
+    "timestamp": 2265000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 2287000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 2290000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2300000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 2305000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 2306000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 2315000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 2505000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2513000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "target": [
+      {
+        "player": "GimGoon",
+        "champion": "Mordekaiser"
+      }
+    ]
+  },
+  {
+    "timestamp": 2519000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 2523000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2526000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Varus"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 2529000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2535000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Baolan",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 2540000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2543000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 2549000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

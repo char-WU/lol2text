@@ -1,0 +1,1312 @@
+[
+  {
+    "timestamp": 516000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 517000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      }
+    ]
+  },
+  {
+    "timestamp": 557000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 664000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 666000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 671000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ceros",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ceros",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 767000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 861000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 964000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1044000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1048000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      },
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1071000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1094000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1176000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1177000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1196000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1197000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1210000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1262000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1265000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1265000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1269000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 1288000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1300000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1304000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1402000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1407000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 1410000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1413000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ceros",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ceros",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1415000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1432000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1435000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1440000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1505000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1529000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1562000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1564000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 1569000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1572000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1585000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

@@ -1,0 +1,1180 @@
+[
+  {
+    "timestamp": 54000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 209000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 272000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 390000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 525000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 599000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Sona"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 618000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 716000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 750000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 770000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Sona"
+      },
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ]
+  },
+  {
+    "timestamp": 770000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 787000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 854000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 859000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 890000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 913000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1048000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1165000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1197000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1219000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Sona"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1223000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1225000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Olaf"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Sona"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ]
+  },
+  {
+    "timestamp": 1226000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 1229000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      },
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 1237000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1247000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1248000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1248000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1332000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1434000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1435000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1437000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1437000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Olaf"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Olaf"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Caps",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Sona"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1439000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Khan",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Clid",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Faker",
+        "champion": "Lissandra"
+      },
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 1453000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mata",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 1458000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1465000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1468000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1480000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

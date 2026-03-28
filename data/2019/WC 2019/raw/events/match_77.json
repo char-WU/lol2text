@@ -1,0 +1,677 @@
+[
+  {
+    "timestamp": 110000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Kayle",
+      "Nautilus"
+    ],
+    "victim": "Garen",
+    "target": "Rekkles"
+  },
+  {
+    "timestamp": 688000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Akali",
+      "LeeSin"
+    ],
+    "victim": "RekSai",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 689000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana",
+      "Akali",
+      "Kayle",
+      "Nautilus"
+    ],
+    "victim": "Garen",
+    "target": "Rekkles"
+  },
+  {
+    "timestamp": 691000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin",
+      "Akali",
+      "Tristana",
+      "Kayle",
+      "Nautilus"
+    ],
+    "victim": "Yuumi",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 721000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 900000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 935000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Effort",
+    "participants": [
+      "Nautilus"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 995000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1037000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Kayle"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1048000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1058000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin",
+      "Kayle",
+      "Nautilus"
+    ],
+    "victim": "Yuumi",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 1060000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Gangplank",
+      "RekSai",
+      "Ryze",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Nautilus",
+    "target": "Effort"
+  },
+  {
+    "timestamp": 1061000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "RekSai",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 1312000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1426000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1468000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "RekSai",
+      "Gangplank",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Nautilus",
+    "target": "Effort"
+  },
+  {
+    "timestamp": 1475000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Akali",
+      "LeeSin",
+      "Kayle",
+      "Nautilus"
+    ],
+    "victim": "RekSai",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 1476000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Kayle"
+    ],
+    "victim": "Gangplank",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 1485000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nemesis",
+    "participants": [
+      "Ryze",
+      "RekSai",
+      "Yuumi"
+    ],
+    "victim": "LeeSin",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1513000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1621000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1625000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rekkles",
+    "participants": [
+      "Garen",
+      "Gangplank",
+      "RekSai",
+      "Yuumi"
+    ],
+    "victim": "Nautilus",
+    "target": "Effort"
+  },
+  {
+    "timestamp": 1626000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin",
+      "Kayle",
+      "Nautilus"
+    ],
+    "victim": "RekSai",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 1627000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana",
+      "Akali",
+      "LeeSin",
+      "Kayle"
+    ],
+    "victim": "Gangplank",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 1632000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rekkles",
+    "participants": [
+      "Garen",
+      "Ryze",
+      "Yuumi"
+    ],
+    "victim": "LeeSin",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1636000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Kayle",
+      "Akali",
+      "LeeSin",
+      "Tristana"
+    ],
+    "victim": "Ryze",
+    "target": "Nemesis"
+  },
+  {
+    "timestamp": 1648000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana",
+      "Akali",
+      "Kayle"
+    ],
+    "victim": "Garen",
+    "target": "Rekkles"
+  },
+  {
+    "timestamp": 1649000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hylissang",
+    "participants": [
+      "Yuumi",
+      "Garen"
+    ],
+    "victim": "Kayle",
+    "target": "Teddy"
+  },
+  {
+    "timestamp": 1650000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana",
+      "Akali",
+      "Kayle"
+    ],
+    "victim": "Yuumi",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 1678000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1790000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Akali",
+      "LeeSin",
+      "Tristana",
+      "Kayle",
+      "Nautilus"
+    ],
+    "victim": "Garen",
+    "target": "Rekkles"
+  },
+  {
+    "timestamp": 1792000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "RekSai",
+      "Gangplank",
+      "Ryze",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Nautilus",
+    "target": "Effort"
+  },
+  {
+    "timestamp": 1793000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Gangplank",
+      "RekSai",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Kayle",
+    "target": "Teddy"
+  },
+  {
+    "timestamp": 1799000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana",
+      "Akali",
+      "LeeSin",
+      "Kayle",
+      "Nautilus"
+    ],
+    "victim": "Gangplank",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 1803000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana",
+      "Akali",
+      "LeeSin"
+    ],
+    "victim": "Ryze",
+    "target": "Nemesis"
+  },
+  {
+    "timestamp": 1850000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1905000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1959000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 2057000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Effort",
+    "participants": [
+      "Nautilus"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 2080000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Effort",
+    "participants": [
+      "Nautilus"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2081000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rekkles",
+    "participants": [
+      "Garen",
+      "RekSai",
+      "Ryze",
+      "Yuumi"
+    ],
+    "victim": "Akali",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 2100000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin",
+      "Tristana",
+      "Kayle",
+      "Nautilus"
+    ],
+    "victim": "Gangplank",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 2110000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Kayle",
+      "LeeSin",
+      "Tristana",
+      "Nautilus"
+    ],
+    "victim": "Garen",
+    "target": "Rekkles"
+  },
+  {
+    "timestamp": 2114000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Kayle",
+      "LeeSin",
+      "Tristana",
+      "Nautilus"
+    ],
+    "victim": "Ryze",
+    "target": "Nemesis"
+  },
+  {
+    "timestamp": 2124000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2132000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2132000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Kayle",
+      "Tristana",
+      "Nautilus"
+    ],
+    "victim": "RekSai",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 2133000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Kayle",
+      "LeeSin",
+      "Tristana",
+      "Nautilus"
+    ],
+    "victim": "Yuumi",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 2134000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Kayle"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2143000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

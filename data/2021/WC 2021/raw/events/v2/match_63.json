@@ -1,0 +1,2190 @@
+[
+  {
+    "timestamp": 167000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ]
+  },
+  {
+    "timestamp": 348000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 374000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 413000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 444000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 518000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 536000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 540000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      },
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 544000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 545000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 548000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 557000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 560000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 563000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 563000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 563000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 599000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 612000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      },
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 633000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 638000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 645000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 653000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 663000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 663000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 681000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 714000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 802000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tactical",
+        "champion": "Ziggs"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tactical",
+        "champion": "Ziggs"
+      }
+    ]
+  },
+  {
+    "timestamp": 802000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 803000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      },
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ]
+  },
+  {
+    "timestamp": 805000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 809000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ]
+  },
+  {
+    "timestamp": 811000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 813000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      },
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 831000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 838000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 909000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 944000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 961000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 997000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1038000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1044000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1060000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ]
+  },
+  {
+    "timestamp": 1149000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1164000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1300000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1312000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1314000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1326000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Tactical",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1326000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1326000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      },
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1331000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Tactical",
+        "champion": "Ziggs"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1331000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1372000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1403000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1453000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      },
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tactical",
+        "champion": "Ziggs"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tactical",
+        "champion": "Ziggs"
+      }
+    ]
+  },
+  {
+    "timestamp": 1482000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1523000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1720000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1729000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1740000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1751000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      },
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1753000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      },
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ]
+  },
+  {
+    "timestamp": 1753000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Tactical",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1761000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1805000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1917000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1923000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1924000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 2042000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2063000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2168000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ]
+  },
+  {
+    "timestamp": 2206000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2274000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alphari",
+        "champion": "Jax"
+      }
+    ]
+  },
+  {
+    "timestamp": 2277000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 2278000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Burdol",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 2284000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 2287000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Sejuani"
+      }
+    ]
+  },
+  {
+    "timestamp": 2291000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tactical",
+        "champion": "Ziggs"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tactical",
+        "champion": "Ziggs"
+      }
+    ]
+  },
+  {
+    "timestamp": 2294000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Life",
+        "champion": "Amumu"
+      },
+      {
+        "player": "Clid",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 2301000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2309000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

@@ -1,0 +1,592 @@
+[
+  {
+    "timestamp": 201000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Aria",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": "Orianna",
+    "target": "Faker"
+  },
+  {
+    "timestamp": 227000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Aria",
+    "participants": [
+      "Zoe",
+      "Renekton"
+    ],
+    "victim": "Graves",
+    "target": "Canna"
+  },
+  {
+    "timestamp": 300000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 464000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gumayusi",
+    "participants": [
+      "Aphelios",
+      "Lulu"
+    ],
+    "victim": "Shaco",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 529000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": "Graves",
+    "target": "Canna"
+  },
+  {
+    "timestamp": 540000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Oner",
+    "participants": [
+      "Qiyana",
+      "Graves",
+      "Aphelios"
+    ],
+    "victim": "Renekton",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 561000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 589000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gumayusi",
+    "participants": [
+      "Aphelios",
+      "Lulu"
+    ],
+    "victim": "Shaco",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 611000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 619000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 629000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 633000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Oner",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 636000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 658000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 734000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 743000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 743000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 743000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 743000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Oner",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 772000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 801000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 829000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 840000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Gumayusi",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 866000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Shaco"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 876000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Gumayusi",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 909000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Gumayusi",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 987000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Gaeng",
+    "participants": [
+      "Yuumi",
+      "Shaco",
+      "Zoe"
+    ],
+    "victim": "Graves",
+    "target": "Canna"
+  },
+  {
+    "timestamp": 993000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Shaco"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1025000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Gumayusi",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1088000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1094000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Oner",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1112000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1123000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gumayusi",
+    "participants": [
+      "Aphelios",
+      "Graves",
+      "Qiyana",
+      "Orianna",
+      "Lulu"
+    ],
+    "victim": "Renekton",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 1127000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Gumayusi",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1189000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Canna",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1465000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Oner",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1474000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gumayusi",
+    "participants": [
+      "Aphelios",
+      "Graves",
+      "Qiyana",
+      "Orianna",
+      "Lulu"
+    ],
+    "victim": "Shaco",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 1482000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gumayusi",
+    "participants": [
+      "Aphelios",
+      "Graves",
+      "Qiyana",
+      "Orianna",
+      "Lulu"
+    ],
+    "victim": "Renekton",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 1493000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Oner",
+    "participants": [
+      "Qiyana",
+      "Graves",
+      "Lulu"
+    ],
+    "victim": "Jhin",
+    "target": "Yutapon"
+  },
+  {
+    "timestamp": 1507000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Gumayusi",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1512000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1522000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1563000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": "Jhin",
+    "target": "Yutapon"
+  },
+  {
+    "timestamp": 1585000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Gumayusi",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1590000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1597000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1602000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gumayusi",
+    "participants": [
+      "Aphelios",
+      "Qiyana",
+      "Orianna",
+      "Lulu"
+    ],
+    "victim": "Shaco",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 1607000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1608000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Keria",
+    "participants": [
+      "Lulu",
+      "Graves",
+      "Qiyana",
+      "Orianna",
+      "Aphelios"
+    ],
+    "victim": "Renekton",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 1622000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

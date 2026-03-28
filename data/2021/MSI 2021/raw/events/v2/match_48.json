@@ -1,0 +1,1502 @@
+[
+  {
+    "timestamp": 341000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 497000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 537000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 598000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Whitelotus",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Whitelotus",
+        "champion": "Tristana"
+      },
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 652000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 693000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 801000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 930000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 949000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 971000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "cody",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "cody",
+        "champion": "Zoe"
+      },
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 987000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Whitelotus",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1011000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1067000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 1095000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1125000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1145000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "cody",
+        "champion": "Zoe"
+      }
+    ],
+    "target": [
+      {
+        "player": "cody",
+        "champion": "Zoe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1155000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1161000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Whitelotus",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Whitelotus",
+        "champion": "Tristana"
+      },
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 1179000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1366000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      },
+      {
+        "player": "cody",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Whitelotus",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ]
+  },
+  {
+    "timestamp": 1372000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1392000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1448000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1475000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Whitelotus",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Whitelotus",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1494000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Whitelotus",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Whitelotus",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1525000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "cody",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "cody",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1531000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 1552000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1765000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1782000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1788000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1927000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1955000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1959000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 1961000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 1963000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1990000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 2043000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 2046000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 2057000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 2064000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 2072000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 2081000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 2115000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2155000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2183000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 2191000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "cody",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "cody",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Buggax",
+        "champion": "Jayce"
+      },
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Whitelotus",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      }
+    ]
+  },
+  {
+    "timestamp": 2193000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2195000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "cody",
+        "champion": "Zoe"
+      }
+    ],
+    "target": [
+      {
+        "player": "cody",
+        "champion": "Zoe"
+      }
+    ]
+  },
+  {
+    "timestamp": 2200000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Whitelotus",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Whitelotus",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 2203000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Udyr"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2206000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gnar"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Orianna"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "SolidSnake",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 2207000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2218000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

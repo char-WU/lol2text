@@ -1,0 +1,954 @@
+[
+  {
+    "timestamp": 161000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Knight",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 337000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 348000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 441000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 570000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Selfmade",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Selfmade",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 576000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 662000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 834000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 845000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 849000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Selfmade",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Selfmade",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 855000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Knight",
+        "champion": "Sylas"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 883000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 888000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 960000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 964000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "yuyanjia",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "yuyanjia",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 993000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1018000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1044000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1306000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1313000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "369",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Knight",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1315000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Knight",
+        "champion": "Sylas"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1348000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1423000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1460000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1470000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Knight",
+        "champion": "Sylas"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1470000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Knight",
+        "champion": "Sylas"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1472000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nemesis",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1476000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Sylas"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rekkles",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1482000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1487000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1494000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Selfmade",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Selfmade",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1504000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1507000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1516000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1522000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

@@ -1,0 +1,620 @@
+[
+  {
+    "timestamp": 90000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Pantheon",
+      "Lillia",
+      "Senna"
+    ],
+    "victim": "LeeSin",
+    "target": "Gemini"
+  },
+  {
+    "timestamp": 198000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Lillia",
+      "Pantheon"
+    ],
+    "victim": "Bard",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 269000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Syndra",
+      "Lillia"
+    ],
+    "victim": "Kassadin",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 424000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Shen",
+      "Lillia",
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Ornn",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 440000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Syndra",
+      "Pantheon"
+    ],
+    "victim": "Kassadin",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 613000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Gemini",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 616000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 617000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Kassadin",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 683000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gemini",
+    "participants": [
+      "LeeSin",
+      "Ornn",
+      "Bard"
+    ],
+    "victim": "Shen",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 754000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 756000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Lillia",
+      "Pantheon"
+    ],
+    "victim": "Bard",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 759000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": "LeeSin",
+    "target": "Gemini"
+  },
+  {
+    "timestamp": 773000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Syndra",
+      "Lillia"
+    ],
+    "victim": "Kassadin",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 867000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Tactical",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 871000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bruce",
+    "participants": [
+      "Ashe",
+      "Ornn",
+      "LeeSin",
+      "Bard"
+    ],
+    "victim": "Shen",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 893000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Bruce",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 900000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 938000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Tactical",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1024000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1043000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1079000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1089000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tactical",
+    "participants": [
+      "Senna",
+      "Pantheon"
+    ],
+    "victim": "LeeSin",
+    "target": "Gemini"
+  },
+  {
+    "timestamp": 1093000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Pantheon",
+      "Shen",
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Ashe",
+    "target": "Bruce"
+  },
+  {
+    "timestamp": 1100000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Syndra",
+      "Shen",
+      "Senna",
+      "Pantheon"
+    ],
+    "victim": "Ornn",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 1128000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Pantheon"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1282000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1301000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Pantheon",
+      "Shen",
+      "Lillia",
+      "Senna"
+    ],
+    "victim": "Bard",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 1312000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1319000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Pantheon",
+      "Shen",
+      "Lillia",
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Ornn",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 1335000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gemini",
+    "participants": [
+      "LeeSin",
+      "Kassadin"
+    ],
+    "victim": "Shen",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1336000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Lillia",
+      "Senna"
+    ],
+    "victim": "Ashe",
+    "target": "Bruce"
+  },
+  {
+    "timestamp": 1337000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Kassadin",
+      "Ashe"
+    ],
+    "victim": "Senna",
+    "target": "Tactical"
+  },
+  {
+    "timestamp": 1346000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mission",
+    "participants": [
+      "Kassadin",
+      "Ashe",
+      "Bard"
+    ],
+    "victim": "Pantheon",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1582000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1645000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1654000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gemini",
+    "participants": [
+      "LeeSin",
+      "Ornn",
+      "Ashe",
+      "Bard"
+    ],
+    "victim": "Syndra",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1656000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tactical",
+    "participants": [
+      "Senna",
+      "Pantheon"
+    ],
+    "victim": "Ashe",
+    "target": "Bruce"
+  },
+  {
+    "timestamp": 1656000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1656000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": "Bard",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 1659000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Lillia",
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "LeeSin",
+    "target": "Gemini"
+  },
+  {
+    "timestamp": 1667000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tactical",
+    "participants": [
+      "Senna",
+      "Lillia",
+      "Syndra",
+      "Pantheon"
+    ],
+    "victim": "Ornn",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 1685000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Tactical",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1685000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Pantheon"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1694000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Shen",
+      "Lillia",
+      "Senna",
+      "Pantheon"
+    ],
+    "victim": "Kassadin",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 1699000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Tactical",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1705000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Shen",
+      "Senna",
+      "Pantheon"
+    ],
+    "victim": "LeeSin",
+    "target": "Gemini"
+  },
+  {
+    "timestamp": 1709000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tactical",
+    "participants": [
+      "Senna",
+      "Shen",
+      "Lillia",
+      "Pantheon"
+    ],
+    "victim": "Ashe",
+    "target": "Bruce"
+  },
+  {
+    "timestamp": 1720000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

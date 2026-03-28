@@ -1,0 +1,944 @@
+[
+  {
+    "timestamp": 368000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bjergsen",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bjergsen",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 507000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 636000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bjergsen",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bjergsen",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 642000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Bjergsen",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ]
+  },
+  {
+    "timestamp": 758000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Yuumi"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Yuumi"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      }
+    ]
+  },
+  {
+    "timestamp": 766000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Brokenblade",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Brokenblade",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 792000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 803000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bjergsen",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bjergsen",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 846000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 861000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 872000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 924000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      }
+    ]
+  },
+  {
+    "timestamp": 927000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Brokenblade",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Brokenblade",
+        "champion": "Camille"
+      },
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 1129000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1134000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1156000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1362000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Smoothie",
+        "champion": "Lux"
+      }
+    ],
+    "target": [
+      {
+        "player": "Smoothie",
+        "champion": "Lux"
+      }
+    ]
+  },
+  {
+    "timestamp": 1370000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bjergsen",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bjergsen",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1372000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Brokenblade",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Brokenblade",
+        "champion": "Camille"
+      },
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Bjergsen",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1377000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Brokenblade",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Brokenblade",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1413000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1461000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Brokenblade",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Brokenblade",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1476000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1486000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1491000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Yuumi"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Yuumi"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Smoothie",
+        "champion": "Lux"
+      }
+    ],
+    "target": [
+      {
+        "player": "Smoothie",
+        "champion": "Lux"
+      }
+    ]
+  },
+  {
+    "timestamp": 1492000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armao",
+        "champion": "Sejuani"
+      }
+    ]
+  },
+  {
+    "timestamp": 1500000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1502000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Brokenblade",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Brokenblade",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1510000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bjergsen",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bjergsen",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1519000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1520000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Aatrox"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1529000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

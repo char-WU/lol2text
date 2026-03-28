@@ -1,0 +1,1422 @@
+[
+  {
+    "timestamp": 364000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "River",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 371000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 470000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "River",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 473000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "River",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 524000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 568000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "River",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 598000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 619000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 697000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Zed"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Zed"
+      }
+    ]
+  },
+  {
+    "timestamp": 706000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 706000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 713000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "River",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 737000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 838000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 900000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 916000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 921000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "River",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Zed"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Zed"
+      }
+    ]
+  },
+  {
+    "timestamp": 942000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1022000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1034000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1046000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Chazz",
+        "champion": "Zed"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chazz",
+        "champion": "Zed"
+      },
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1051000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1057000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Zed"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Zed"
+      }
+    ]
+  },
+  {
+    "timestamp": 1064000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1067000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "River",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 1069000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1075000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1141000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "BioPanther",
+        "champion": "Sion"
+      },
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ]
+  },
+  {
+    "timestamp": 1145000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "River",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1147000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Zed"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Zed"
+      }
+    ]
+  },
+  {
+    "timestamp": 1147000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1149000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Chazz",
+        "champion": "Zed"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chazz",
+        "champion": "Zed"
+      },
+      {
+        "player": "BioPanther",
+        "champion": "Sion"
+      },
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 1156000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1168000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BioPanther",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "BioPanther",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 1195000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1209000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1257000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1276000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1288000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "River",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chazz",
+        "champion": "Zed"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chazz",
+        "champion": "Zed"
+      }
+    ]
+  },
+  {
+    "timestamp": 1302000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1309000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1319000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Pabu",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Udyr"
+      }
+    ]
+  },
+  {
+    "timestamp": 1320000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Praedyth",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1322000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1322000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Decoy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1324000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Aatrox"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1336000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

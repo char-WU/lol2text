@@ -1,0 +1,1456 @@
+[
+  {
+    "timestamp": 230000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 311000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 382000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "IgNar",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "IgNar",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 384000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      },
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 427000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 513000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 523000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 561000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 693000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "369",
+        "champion": "Camille"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 710000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 775000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 822000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 825000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "WildTurtle",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "WildTurtle",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 827000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "Jhin"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 844000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 845000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 967000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 969000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 989000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1098000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1210000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1243000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      },
+      {
+        "player": "369",
+        "champion": "Camille"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1268000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1393000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1396000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "IgNar",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "IgNar",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1423000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1538000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "Jhin"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 1540000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1544000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1549000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "IgNar",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "IgNar",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1552000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "369",
+        "champion": "Camille"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "WildTurtle",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "WildTurtle",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1600000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1632000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1691000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1708000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1716000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "Jhin"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1718000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1722000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1723000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      },
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "Jhin"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1727000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1821000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1828000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "369",
+        "champion": "Camille"
+      },
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "IgNar",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "IgNar",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1835000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Akali"
+      },
+      {
+        "player": "369",
+        "champion": "Camille"
+      },
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1851000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "Jhin"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "369",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1853000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      },
+      {
+        "player": "369",
+        "champion": "Camille"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1859000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1862000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1868000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1876000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

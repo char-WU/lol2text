@@ -1,0 +1,738 @@
+[
+  {
+    "timestamp": 270000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Gnar",
+      "Skarner"
+    ],
+    "victim": "Viktor",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 351000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Skarner"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 476000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Ryze",
+      "Skarner",
+      "Braum"
+    ],
+    "victim": "TahmKench",
+    "target": "Mata"
+  },
+  {
+    "timestamp": 480000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Viktor",
+      "RekSai"
+    ],
+    "victim": "Gnar",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 603000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "RekSai",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Varus",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 635000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Skarner"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 691000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Varus",
+      "Gnar",
+      "Skarner",
+      "Ryze",
+      "Braum"
+    ],
+    "victim": "RekSai",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 696000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Varus",
+      "Gnar",
+      "Skarner",
+      "Ryze",
+      "Braum"
+    ],
+    "victim": "Sylas",
+    "target": "Faker"
+  },
+  {
+    "timestamp": 715000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Skarner"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 785000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Skarner"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 821000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Ryze",
+      "Gnar",
+      "Varus"
+    ],
+    "victim": "Viktor",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 907000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Skarner",
+      "Ryze",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Ashe",
+    "target": "Teddy"
+  },
+  {
+    "timestamp": 911000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Ryze",
+      "Skarner",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "TahmKench",
+    "target": "Mata"
+  },
+  {
+    "timestamp": 1012000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1043000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1149000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "RekSai",
+      "Viktor",
+      "Sylas",
+      "Ashe"
+    ],
+    "victim": "Varus",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1149000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Viktor",
+      "RekSai",
+      "Sylas",
+      "Ashe"
+    ],
+    "victim": "Gnar",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1265000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Skarner",
+      "Gnar"
+    ],
+    "victim": "Viktor",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1267000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Ashe",
+      "RekSai",
+      "Sylas",
+      "TahmKench"
+    ],
+    "victim": "Varus",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1268000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Ryze",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "RekSai",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1273000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Sylas",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Ryze",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1292000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Sylas",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Skarner",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1369000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Skarner"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1370000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Ashe",
+      "Viktor",
+      "Sylas",
+      "TahmKench"
+    ],
+    "victim": "Braum",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1460000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1464000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Varus",
+      "Skarner",
+      "Braum"
+    ],
+    "victim": "Ashe",
+    "target": "Teddy"
+  },
+  {
+    "timestamp": 1496000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1504000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Ryze",
+      "Gnar",
+      "Skarner",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Viktor",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1506000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Ryze",
+      "Gnar",
+      "Skarner",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Sylas",
+    "target": "Faker"
+  },
+  {
+    "timestamp": 1512000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Varus",
+      "Gnar",
+      "Ryze",
+      "Braum"
+    ],
+    "victim": "TahmKench",
+    "target": "Mata"
+  },
+  {
+    "timestamp": 1527000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1603000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1661000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1683000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Varus",
+      "Skarner",
+      "Ryze",
+      "Braum"
+    ],
+    "victim": "TahmKench",
+    "target": "Mata"
+  },
+  {
+    "timestamp": 1684000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "RekSai",
+      "Viktor",
+      "Sylas",
+      "TahmKench"
+    ],
+    "victim": "Varus",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1689000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Ryze",
+      "Gnar",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Sylas",
+    "target": "Faker"
+  },
+  {
+    "timestamp": 1696000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1703000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1711000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1717000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1756000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1848000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Viktor",
+      "RekSai",
+      "Sylas",
+      "Ashe"
+    ],
+    "victim": "Varus",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1870000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Ashe",
+      "Viktor",
+      "Sylas"
+    ],
+    "victim": "Ryze",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1928000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1930000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1932000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mata",
+    "participants": [
+      "TahmKench",
+      "RekSai",
+      "Ashe"
+    ],
+    "victim": "Skarner",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1941000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "RekSai",
+      "Ashe"
+    ],
+    "victim": "Braum",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1941000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Sylas",
+      "Viktor"
+    ],
+    "victim": "Gnar",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1973000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": "RekSai",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1994000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 2053000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2079000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 2084000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2088000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Skarner",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Viktor",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 2092000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Ashe",
+      "Sylas",
+      "TahmKench"
+    ],
+    "victim": "Ryze",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 2100000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

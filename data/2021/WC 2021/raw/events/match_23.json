@@ -1,0 +1,894 @@
+[
+  {
+    "timestamp": 350000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "XinZhao",
+      "MissFortune",
+      "Alistar"
+    ],
+    "victim": "Yuumi",
+    "target": "meiko"
+  },
+  {
+    "timestamp": 353000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jiejie",
+    "participants": [
+      "Olaf",
+      "Ezreal",
+      "Yuumi"
+    ],
+    "victim": "Alistar",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 358000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jiejie",
+    "participants": [
+      "Olaf",
+      "Ezreal"
+    ],
+    "victim": "XinZhao",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 387000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 399000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 419000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Flandre",
+    "participants": [
+      "Graves",
+      "Ryze"
+    ],
+    "victim": "Jayce",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 449000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 512000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Ezreal",
+      "Ryze",
+      "Yuumi"
+    ],
+    "victim": "Jayce",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 512000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jiejie",
+    "participants": [
+      "Olaf",
+      "Graves",
+      "Ryze",
+      "Ezreal",
+      "Yuumi"
+    ],
+    "victim": "XinZhao",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 515000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Flandre",
+    "participants": [
+      "Graves",
+      "Olaf",
+      "Ryze",
+      "Ezreal",
+      "Yuumi"
+    ],
+    "victim": "Annie",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 530000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Ezreal",
+      "Olaf",
+      "Ryze",
+      "Yuumi"
+    ],
+    "victim": "Alistar",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 553000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Jiejie",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 553000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 629000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "meiko",
+    "participants": [
+      "Yuumi",
+      "Olaf",
+      "Ryze",
+      "Ezreal"
+    ],
+    "victim": "Alistar",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 640000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 650000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 652000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 652000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 652000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Jiejie",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 687000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jiejie",
+    "participants": [
+      "Olaf",
+      "Yuumi"
+    ],
+    "victim": "Annie",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 689000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "XinZhao",
+      "Annie"
+    ],
+    "victim": "Ryze",
+    "target": "Scout"
+  },
+  {
+    "timestamp": 695000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Ezreal",
+      "Olaf",
+      "Ryze",
+      "Yuumi"
+    ],
+    "victim": "XinZhao",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 710000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 723000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 723000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Jiejie",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 728000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 729000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 763000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 803000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 804000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Annie",
+      "Jayce",
+      "Alistar"
+    ],
+    "victim": "Ryze",
+    "target": "Scout"
+  },
+  {
+    "timestamp": 806000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiaohu",
+    "participants": [
+      "Jayce",
+      "Annie",
+      "Alistar"
+    ],
+    "victim": "Graves",
+    "target": "Flandre"
+  },
+  {
+    "timestamp": 829000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 915000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 932000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "MissFortune",
+      "XinZhao",
+      "Alistar"
+    ],
+    "victim": "Olaf",
+    "target": "Jiejie"
+  },
+  {
+    "timestamp": 939000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Ezreal",
+      "Graves",
+      "Olaf",
+      "Yuumi"
+    ],
+    "victim": "Alistar",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 954000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Ezreal",
+      "Graves",
+      "Yuumi"
+    ],
+    "victim": "Annie",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 957000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Ezreal",
+      "Yuumi"
+    ],
+    "victim": "MissFortune",
+    "target": "GALA"
+  },
+  {
+    "timestamp": 962000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1007000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Flandre",
+    "participants": [
+      "Graves"
+    ],
+    "victim": "Alistar",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 1009000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiaohu",
+    "participants": [
+      "Jayce",
+      "Alistar"
+    ],
+    "victim": "Graves",
+    "target": "Flandre"
+  },
+  {
+    "timestamp": 1036000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Jiejie",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1054000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1059000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Jiejie",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1072000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1118000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "XinZhao",
+      "Jayce",
+      "Annie",
+      "MissFortune"
+    ],
+    "victim": "Ezreal",
+    "target": "Viper"
+  },
+  {
+    "timestamp": 1118000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Flandre",
+    "participants": [
+      "Graves",
+      "Ezreal",
+      "Yuumi"
+    ],
+    "victim": "Annie",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 1125000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "XinZhao",
+      "Jayce",
+      "Annie",
+      "MissFortune",
+      "Alistar"
+    ],
+    "victim": "Graves",
+    "target": "Flandre"
+  },
+  {
+    "timestamp": 1234000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "xiaohu",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1245000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ming",
+    "participants": [
+      "Alistar",
+      "XinZhao",
+      "Annie",
+      "MissFortune"
+    ],
+    "victim": "Ezreal",
+    "target": "Viper"
+  },
+  {
+    "timestamp": 1263000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1278000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Flandre",
+    "participants": [
+      "Graves",
+      "Yuumi"
+    ],
+    "victim": "Jayce",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 1322000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Jiejie",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1326000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Scout",
+    "participants": [
+      "Ryze",
+      "Graves",
+      "Olaf",
+      "Yuumi"
+    ],
+    "victim": "XinZhao",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 1369000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Flandre",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1388000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1456000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Viper",
+    "participants": [
+      "Ezreal",
+      "Graves",
+      "Olaf",
+      "Yuumi"
+    ],
+    "victim": "Alistar",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 1482000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1489000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Flandre",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1612000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Flandre",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1621000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Annie",
+      "XinZhao",
+      "MissFortune",
+      "Alistar"
+    ],
+    "victim": "Ezreal",
+    "target": "Viper"
+  },
+  {
+    "timestamp": 1621000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ming",
+    "participants": [
+      "Alistar",
+      "Jayce",
+      "XinZhao",
+      "MissFortune"
+    ],
+    "victim": "Olaf",
+    "target": "Jiejie"
+  },
+  {
+    "timestamp": 1628000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Flandre",
+    "participants": [
+      "Graves",
+      "Olaf",
+      "Ezreal",
+      "Yuumi"
+    ],
+    "victim": "XinZhao",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 1630000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Flandre",
+    "participants": [
+      "Graves",
+      "Olaf",
+      "Ezreal",
+      "Yuumi"
+    ],
+    "victim": "Alistar",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 1631000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Scout",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": "Annie",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 1634000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiaohu",
+    "participants": [
+      "Jayce",
+      "Annie",
+      "Alistar"
+    ],
+    "victim": "Ryze",
+    "target": "Scout"
+  },
+  {
+    "timestamp": 1635000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Flandre",
+    "participants": [
+      "Graves",
+      "Ezreal",
+      "Yuumi"
+    ],
+    "victim": "MissFortune",
+    "target": "GALA"
+  },
+  {
+    "timestamp": 1638000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Flandre",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1650000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "meiko",
+    "participants": [
+      "Yuumi",
+      "Graves"
+    ],
+    "victim": "Jayce",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 1655000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Flandre",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1659000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1673000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

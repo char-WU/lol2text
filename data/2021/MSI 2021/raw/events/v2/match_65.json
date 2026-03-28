@@ -1,0 +1,1742 @@
+[
+  {
+    "timestamp": 240000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 339000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 389000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 512000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 513000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 619000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 665000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 665000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      }
+    ]
+  },
+  {
+    "timestamp": 667000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 689000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 690000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      },
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      },
+      {
+        "player": "Luci",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 703000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      },
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 826000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 833000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Luci",
+        "champion": "TahmKench"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Luci",
+        "champion": "TahmKench"
+      },
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      },
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      },
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 850000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 854000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      }
+    ],
+    "participants": [
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      },
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Luci",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 867000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      }
+    ],
+    "participants": [
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 923000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 931000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 963000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 998000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1028000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1110000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1210000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1302000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1316000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1525000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1593000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1601000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      }
+    ],
+    "participants": [
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      },
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      },
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      },
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Luci",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1609000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 1650000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1680000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1739000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1785000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1964000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1985000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1990000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1992000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 2002000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2006000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      }
+    ]
+  },
+  {
+    "timestamp": 2006000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 2018000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 2023000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 2023000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      }
+    ],
+    "participants": [
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      },
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Luci",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 2133000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      }
+    ],
+    "target": [
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      }
+    ]
+  },
+  {
+    "timestamp": 2134000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      },
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      },
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      },
+      {
+        "player": "Luci",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 2134000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 2135000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      },
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      },
+      {
+        "player": "Luci",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 2139000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 2277000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 2284000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cariok",
+        "champion": "Olaf"
+      }
+    ]
+  },
+  {
+    "timestamp": 2287000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2290000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 2290000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      }
+    ],
+    "victim": [
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      }
+    ],
+    "target": [
+      {
+        "player": "brTT",
+        "champion": "Jinx"
+      }
+    ]
+  },
+  {
+    "timestamp": 2292000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "KogMaw"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tinowns",
+        "champion": "Zoe"
+      }
+    ]
+  },
+  {
+    "timestamp": 2311000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 2315000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2323000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2328000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2336000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

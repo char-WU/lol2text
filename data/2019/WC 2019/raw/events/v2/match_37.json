@@ -1,0 +1,1602 @@
+[
+  {
+    "timestamp": 257000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 361000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 461000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 462000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 598000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 645000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 649000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 705000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 708000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 714000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 716000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 717000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 835000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 850000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 911000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 947000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1031000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1034000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1043000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 1051000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1052000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1063000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1130000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1141000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1148000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 1155000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1172000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1177000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1187000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1233000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1245000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1274000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1302000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1308000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1333000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1341000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1391000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1408000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1431000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1433000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1556000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1568000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1580000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1582000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1586000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1586000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Effort",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nemesis",
+        "champion": "Veigar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1590000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1601000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1605000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1617000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

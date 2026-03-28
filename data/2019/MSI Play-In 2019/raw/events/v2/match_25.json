@@ -1,0 +1,740 @@
+[
+  {
+    "timestamp": 637000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jjun",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jjun",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 676000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Lloyd",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lloyd",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 682000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1007000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PoP",
+        "champion": "Braum"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PoP",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1016000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lloyd",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lloyd",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1031000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1049000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ceros",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ceros",
+        "champion": "Ziggs"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1141000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1150000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1342000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1371000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ceros",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ceros",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rockky",
+        "champion": "Viktor"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rockky",
+        "champion": "Viktor"
+      }
+    ]
+  },
+  {
+    "timestamp": 1556000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lloyd",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lloyd",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1572000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1575000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1588000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1595000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1654000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1660000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "G4",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "G4",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1680000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1687000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1718000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1747000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1752000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rockky",
+        "champion": "Viktor"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rockky",
+        "champion": "Viktor"
+      },
+      {
+        "player": "Jjun",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "G4",
+        "champion": "Akali"
+      },
+      {
+        "player": "Lloyd",
+        "champion": "Tristana"
+      },
+      {
+        "player": "PoP",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1757000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ceros",
+        "champion": "Ziggs"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ceros",
+        "champion": "Ziggs"
+      },
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sona"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jjun",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jjun",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1761000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rockky",
+        "champion": "Viktor"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rockky",
+        "champion": "Viktor"
+      },
+      {
+        "player": "Jjun",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "G4",
+        "champion": "Akali"
+      },
+      {
+        "player": "PoP",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1765000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Steal",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "PoP",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "PoP",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 1766000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rockky",
+        "champion": "Viktor"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rockky",
+        "champion": "Viktor"
+      },
+      {
+        "player": "Jjun",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "G4",
+        "champion": "Akali"
+      },
+      {
+        "player": "Lloyd",
+        "champion": "Tristana"
+      },
+      {
+        "player": "PoP",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gaeng",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 1771000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1772000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Lloyd",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lloyd",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Jjun",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "G4",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ceros",
+        "champion": "Ziggs"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ceros",
+        "champion": "Ziggs"
+      }
+    ]
+  },
+  {
+    "timestamp": 1778000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

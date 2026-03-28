@@ -1,0 +1,865 @@
+[
+  {
+    "timestamp": 322000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Vsta",
+    "participants": [
+      "Leona",
+      "Viego",
+      "Sylas"
+    ],
+    "victim": "TwistedFate",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 323000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ming",
+    "participants": [
+      "Sett",
+      "TwistedFate",
+      "Ziggs"
+    ],
+    "victim": "Sylas",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 331000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "Viego",
+      "Sylas",
+      "Leona"
+    ],
+    "victim": "Sett",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 341000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Deft",
+    "participants": [
+      "Kaisa",
+      "Viego",
+      "Leona"
+    ],
+    "victim": "LeeSin",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 389000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 393000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "LeeSin",
+      "TwistedFate"
+    ],
+    "victim": "Sylas",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 503000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian",
+      "LeeSin",
+      "TwistedFate"
+    ],
+    "victim": "Camille",
+    "target": "Morgan"
+  },
+  {
+    "timestamp": 509000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian",
+      "LeeSin",
+      "TwistedFate"
+    ],
+    "victim": "Sylas",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 509000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "Viego",
+      "Camille",
+      "Sylas"
+    ],
+    "victim": "LeeSin",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 511000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 513000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "Viego",
+      "Camille",
+      "Sylas"
+    ],
+    "victim": "Lucian",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 530000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Deft",
+    "participants": [
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Sett",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 538000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Deft",
+    "participants": [
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Ziggs",
+    "target": "GALA"
+  },
+  {
+    "timestamp": 629000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "Viego"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 684000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "LeeSin",
+      "Lucian",
+      "TwistedFate"
+    ],
+    "victim": "Viego",
+    "target": "Willer"
+  },
+  {
+    "timestamp": 686000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 688000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Morgan",
+    "participants": [
+      "Camille",
+      "Sylas"
+    ],
+    "victim": "LeeSin",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 740000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 791000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "Viego"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 794000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 808000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 914000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 927000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Vsta",
+    "participants": [
+      "Leona",
+      "Camille",
+      "Viego",
+      "Sylas"
+    ],
+    "victim": "TwistedFate",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 930000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ming",
+    "participants": [
+      "Sett",
+      "Lucian",
+      "LeeSin",
+      "TwistedFate"
+    ],
+    "victim": "Sylas",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 1041000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "LeeSin",
+      "Lucian"
+    ],
+    "victim": "Sylas",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 1047000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "Viego"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1057000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1067000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "Viego"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1082000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1114000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1186000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Ziggs"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1288000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "Viego"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1443000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1507000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cryin",
+    "participants": [
+      "TwistedFate",
+      "Lucian",
+      "LeeSin",
+      "Ziggs"
+    ],
+    "victim": "Camille",
+    "target": "Morgan"
+  },
+  {
+    "timestamp": 1572000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "LeeSin",
+      "TwistedFate",
+      "Ziggs",
+      "Sett"
+    ],
+    "victim": "Leona",
+    "target": "Vsta"
+  },
+  {
+    "timestamp": 1610000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Morgan",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1628000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chovy",
+    "participants": [
+      "Sylas",
+      "Camille",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Lucian",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 1713000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian",
+      "LeeSin",
+      "TwistedFate",
+      "Ziggs"
+    ],
+    "victim": "Leona",
+    "target": "Vsta"
+  },
+  {
+    "timestamp": 1716000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cryin",
+    "participants": [
+      "TwistedFate",
+      "Lucian",
+      "LeeSin",
+      "Sett"
+    ],
+    "victim": "Camille",
+    "target": "Morgan"
+  },
+  {
+    "timestamp": 1750000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ming",
+    "participants": [
+      "Sett"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1760000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1904000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Deft",
+    "participants": [
+      "Kaisa",
+      "Camille",
+      "Viego",
+      "Sylas",
+      "Leona"
+    ],
+    "victim": "Sett",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 1908000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chovy",
+    "participants": [
+      "Sylas",
+      "Camille",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "LeeSin",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 1937000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "Viego"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2026000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Ziggs"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2031000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Morgan",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 2065000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "LeeSin",
+      "TwistedFate"
+    ],
+    "victim": "Camille",
+    "target": "Morgan"
+  },
+  {
+    "timestamp": 2066000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chovy",
+    "participants": [
+      "Sylas",
+      "Viego",
+      "Kaisa"
+    ],
+    "victim": "Lucian",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 2069000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Ziggs",
+      "Lucian",
+      "Sett"
+    ],
+    "victim": "Viego",
+    "target": "Willer"
+  },
+  {
+    "timestamp": 2074000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cryin",
+    "participants": [
+      "TwistedFate",
+      "Lucian",
+      "LeeSin",
+      "Ziggs",
+      "Sett"
+    ],
+    "victim": "Sylas",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 2078000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Deft",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2081000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 2239000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Ziggs"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 2246000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chovy",
+    "participants": [
+      "Sylas",
+      "Camille",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Ziggs",
+    "target": "GALA"
+  },
+  {
+    "timestamp": 2250000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chovy",
+    "participants": [
+      "Sylas",
+      "Camille",
+      "Viego",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Sett",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 2357000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Deft",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2361000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "Viego",
+      "Camille",
+      "Sylas",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Sett",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 2362000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian",
+      "LeeSin",
+      "TwistedFate",
+      "Sett"
+    ],
+    "victim": "Camille",
+    "target": "Morgan"
+  },
+  {
+    "timestamp": 2366000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "LeeSin",
+      "Lucian",
+      "TwistedFate",
+      "Ziggs",
+      "Sett"
+    ],
+    "victim": "Viego",
+    "target": "Willer"
+  },
+  {
+    "timestamp": 2373000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Ziggs",
+      "Lucian",
+      "LeeSin",
+      "TwistedFate",
+      "Sett"
+    ],
+    "victim": "Leona",
+    "target": "Vsta"
+  },
+  {
+    "timestamp": 2376000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian",
+      "LeeSin",
+      "TwistedFate"
+    ],
+    "victim": "Sylas",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 2400000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2406000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Ziggs"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2410000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2416000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "LeeSin",
+      "Lucian",
+      "TwistedFate",
+      "Ziggs"
+    ],
+    "victim": "Kaisa",
+    "target": "Deft"
+  },
+  {
+    "timestamp": 2425000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

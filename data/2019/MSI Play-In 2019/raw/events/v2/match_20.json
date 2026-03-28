@@ -1,0 +1,1070 @@
+[
+  {
+    "timestamp": 180000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 183000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mills",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mills",
+        "champion": "Ashe"
+      },
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 409000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shini",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shini",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Envy",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 558000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shini",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shini",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 583000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 638000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shini",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shini",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 667000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 676000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 918000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shini",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shini",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1249000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1261000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Shini",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Mills",
+        "champion": "Ashe"
+      },
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1263000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ]
+  },
+  {
+    "timestamp": 1267000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Envy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Envy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1271000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1279000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mills",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mills",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1302000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1447000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1614000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1629000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gaeng",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gaeng",
+        "champion": "Galio"
+      },
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mills",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mills",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1633000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1663000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shini",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shini",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 1666000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Shini",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Envy",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1666000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1669000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Envy",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1696000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1809000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shini",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shini",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 1810000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ]
+  },
+  {
+    "timestamp": 1814000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1817000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1825000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ceros",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Envy",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Envy",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1830000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1837000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1841000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1848000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1850000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Sivir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1858000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

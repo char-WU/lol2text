@@ -1,0 +1,657 @@
+[
+  {
+    "timestamp": 50000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": "Lux",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 282000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "RekSai",
+      "LeBlanc"
+    ],
+    "victim": "Yasuo",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 381000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc",
+      "RekSai"
+    ],
+    "victim": "Yasuo",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 434000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": "Irelia",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 440000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Yasuo",
+      "Gragas"
+    ],
+    "victim": "RekSai",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 442000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc",
+      "RekSai"
+    ],
+    "victim": "Gragas",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 462000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Yasuo"
+    ],
+    "victim": "LeBlanc",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 571000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "CoreJJ",
+    "participants": [
+      "Lux",
+      "Gragas",
+      "Yasuo"
+    ],
+    "victim": "LeBlanc",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 578000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Gangplank",
+      "Gragas",
+      "Yasuo",
+      "Lux"
+    ],
+    "victim": "RekSai",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 648000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 688000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Yasuo",
+      "Gragas"
+    ],
+    "victim": "LeBlanc",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 733000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 754000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 888000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 995000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Yasuo",
+      "Gragas"
+    ],
+    "victim": "LeBlanc",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1015000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1044000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1124000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Gangplank",
+      "Gragas",
+      "Yasuo"
+    ],
+    "victim": "LeBlanc",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1128000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Yasuo",
+      "Gangplank",
+      "Gragas"
+    ],
+    "victim": "RekSai",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1128000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Irelia",
+      "RekSai",
+      "LeBlanc",
+      "Rakan"
+    ],
+    "victim": "Yasuo",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1135000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Gangplank",
+      "Gragas",
+      "Lux"
+    ],
+    "victim": "Irelia",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1138000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Xayah",
+      "Irelia",
+      "RekSai",
+      "Rakan"
+    ],
+    "victim": "Gragas",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1157000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1238000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Yasuo",
+      "Ezreal",
+      "Lux"
+    ],
+    "victim": "LeBlanc",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1296000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1301000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "RekSai",
+      "Rakan"
+    ],
+    "victim": "Yasuo",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1338000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1406000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1531000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Yasuo",
+      "Gangplank",
+      "Ezreal",
+      "Lux"
+    ],
+    "victim": "Xayah",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1531000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Gangplank",
+      "Yasuo",
+      "Ezreal",
+      "Lux"
+    ],
+    "victim": "Rakan",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1550000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1628000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "RekSai",
+      "Irelia",
+      "LeBlanc",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Yasuo",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1631000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas",
+      "Gangplank",
+      "Ezreal",
+      "Lux"
+    ],
+    "victim": "RekSai",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1633000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc",
+      "Irelia",
+      "RekSai",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Gragas",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1655000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Doublelift",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1670000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1680000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1727000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1792000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "LeBlanc",
+      "RekSai",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Gangplank",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1887000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1935000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2008000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doublelift",
+    "participants": [
+      "Ezreal",
+      "Gangplank",
+      "Yasuo",
+      "Lux"
+    ],
+    "victim": "Xayah",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 2017000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 2019000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Gangplank",
+      "Gragas",
+      "Ezreal",
+      "Lux"
+    ],
+    "victim": "RekSai",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 2025000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Yasuo",
+      "Gangplank",
+      "Gragas",
+      "Ezreal",
+      "Lux"
+    ],
+    "victim": "LeBlanc",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 2026000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Irelia",
+      "LeBlanc"
+    ],
+    "victim": "Ezreal",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 2031000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Yasuo",
+      "Gangplank",
+      "Gragas",
+      "Ezreal",
+      "Lux"
+    ],
+    "victim": "Irelia",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 2035000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2045000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2045000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2057000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

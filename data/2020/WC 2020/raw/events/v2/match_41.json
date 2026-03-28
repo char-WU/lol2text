@@ -1,0 +1,1106 @@
+[
+  {
+    "timestamp": 301000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Inspired",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Inspired",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 305000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 412000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 562000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Inspired",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Inspired",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 576000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      },
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hans Sama",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hans Sama",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 730000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 750000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Inspired",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Inspired",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 773000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "TANK",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 831000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 973000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 993000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Larssen",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Larssen",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1046000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1057000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1087000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1098000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1112000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1191000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Inspired",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Larssen",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Hans Sama",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1245000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Inspired",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Inspired",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Larssen",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Hans Sama",
+        "champion": "Senna"
+      },
+      {
+        "player": "VandeR",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1377000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1599000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TANK",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TANK",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "River",
+        "champion": "Graves"
+      },
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "VandeR",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "VandeR",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 1599000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "River",
+        "champion": "Graves"
+      },
+      {
+        "player": "TANK",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1603000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "River",
+        "champion": "Graves"
+      },
+      {
+        "player": "TANK",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hans Sama",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hans Sama",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1604000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "River",
+        "champion": "Graves"
+      },
+      {
+        "player": "TANK",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Inspired",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Inspired",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1645000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1703000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1730000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1738000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "River",
+        "champion": "Graves"
+      },
+      {
+        "player": "TANK",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "VandeR",
+        "champion": "Braum"
+      }
+    ],
+    "target": [
+      {
+        "player": "VandeR",
+        "champion": "Braum"
+      }
+    ]
+  },
+  {
+    "timestamp": 1749000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TANK",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TANK",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hans Sama",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hans Sama",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1765000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1774000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1778000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1790000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1803000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      },
+      {
+        "player": "TANK",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Finn",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1808000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TANK",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TANK",
+        "champion": "Syndra"
+      },
+      {
+        "player": "River",
+        "champion": "Graves"
+      },
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Inspired",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Inspired",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1818000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1822000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1826000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      },
+      {
+        "player": "Unified",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Larssen",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Larssen",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1826000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Larssen",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Larssen",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Hans Sama",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1833000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

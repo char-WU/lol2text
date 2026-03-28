@@ -1,0 +1,554 @@
+[
+  {
+    "timestamp": 264000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "LokeN",
+    "participants": [
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "Thresh",
+    "target": "Crisp"
+  },
+  {
+    "timestamp": 358000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tian",
+    "participants": [
+      "RekSai",
+      "Thresh"
+    ],
+    "victim": "LeeSin",
+    "target": "Kanavi"
+  },
+  {
+    "timestamp": 366000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Crisp",
+    "participants": [
+      "Thresh",
+      "Ornn",
+      "RekSai",
+      "Karma"
+    ],
+    "victim": "Syndra",
+    "target": "Yagao"
+  },
+  {
+    "timestamp": 367000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doinb",
+    "participants": [
+      "Karma",
+      "Ornn",
+      "RekSai",
+      "Thresh"
+    ],
+    "victim": "Leona",
+    "target": "LvMao"
+  },
+  {
+    "timestamp": 500000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lwx",
+    "participants": [
+      "Aphelios",
+      "RekSai",
+      "Karma",
+      "Thresh"
+    ],
+    "victim": "Syndra",
+    "target": "Yagao"
+  },
+  {
+    "timestamp": 502000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tian",
+    "participants": [
+      "RekSai",
+      "Karma",
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "Leona",
+    "target": "LvMao"
+  },
+  {
+    "timestamp": 511000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Crisp",
+    "participants": [
+      "Thresh"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 586000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Tian",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 645000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Tian",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 786000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doinb",
+    "participants": [
+      "Karma",
+      "RekSai",
+      "Thresh"
+    ],
+    "victim": "Leona",
+    "target": "LvMao"
+  },
+  {
+    "timestamp": 804000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doinb",
+    "participants": [
+      "Karma",
+      "Ornn",
+      "RekSai",
+      "Thresh"
+    ],
+    "victim": "Syndra",
+    "target": "Yagao"
+  },
+  {
+    "timestamp": 814000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 837000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Tian",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 974000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Tian",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 990000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "LokeN",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 996000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Doinb",
+    "participants": [
+      "Karma"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1003000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lwx",
+    "participants": [
+      "Aphelios",
+      "Ornn",
+      "Karma",
+      "Thresh"
+    ],
+    "victim": "Syndra",
+    "target": "Yagao"
+  },
+  {
+    "timestamp": 1160000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lwx",
+    "participants": [
+      "Aphelios",
+      "RekSai",
+      "Karma",
+      "Thresh"
+    ],
+    "victim": "Leona",
+    "target": "LvMao"
+  },
+  {
+    "timestamp": 1199000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Tian",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1305000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tian",
+    "participants": [
+      "RekSai",
+      "Ornn",
+      "Karma",
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "Leona",
+    "target": "LvMao"
+  },
+  {
+    "timestamp": 1330000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yagao",
+    "participants": [
+      "Syndra",
+      "Gangplank",
+      "LeeSin",
+      "Ezreal"
+    ],
+    "victim": "Aphelios",
+    "target": "Lwx"
+  },
+  {
+    "timestamp": 1345000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Yagao",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1353000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": "Thresh",
+    "target": "Crisp"
+  },
+  {
+    "timestamp": 1423000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lwx",
+    "participants": [
+      "Aphelios",
+      "Ornn",
+      "RekSai",
+      "Karma",
+      "Thresh"
+    ],
+    "victim": "LeeSin",
+    "target": "Kanavi"
+  },
+  {
+    "timestamp": 1513000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Kanavi",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1841000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Tian",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2078000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 2235000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 2306000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tian",
+    "participants": [
+      "RekSai",
+      "Ornn",
+      "Karma",
+      "Aphelios"
+    ],
+    "victim": "Gangplank",
+    "target": "Zoom"
+  },
+  {
+    "timestamp": 2308000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yagao",
+    "participants": [
+      "Syndra",
+      "LeeSin",
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "Thresh",
+    "target": "Crisp"
+  },
+  {
+    "timestamp": 2308000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lwx",
+    "participants": [
+      "Aphelios",
+      "Ornn",
+      "Karma",
+      "Thresh"
+    ],
+    "victim": "Syndra",
+    "target": "Yagao"
+  },
+  {
+    "timestamp": 2309000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doinb",
+    "participants": [
+      "Karma",
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "Leona",
+    "target": "LvMao"
+  },
+  {
+    "timestamp": 2318000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2353000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Tian",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2403000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Lwx",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2411000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Lwx",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2413000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lwx",
+    "participants": [
+      "Aphelios",
+      "Ornn",
+      "Karma",
+      "Thresh"
+    ],
+    "victim": "Gangplank",
+    "target": "Zoom"
+  },
+  {
+    "timestamp": 2421000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Lwx",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2430000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Lwx",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2434000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lwx",
+    "participants": [
+      "Aphelios",
+      "RekSai",
+      "Karma"
+    ],
+    "victim": "Leona",
+    "target": "LvMao"
+  },
+  {
+    "timestamp": 2436000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2444000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

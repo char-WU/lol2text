@@ -1,0 +1,586 @@
+[
+  {
+    "timestamp": 380000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves",
+      "Senna",
+      "Braum"
+    ],
+    "victim": "Ashe",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 386000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 439000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": "Vladimir",
+    "target": "Doran"
+  },
+  {
+    "timestamp": 441000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doran",
+    "participants": [
+      "Vladimir"
+    ],
+    "victim": "Ornn",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 485000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Pantheon",
+      "Kindred"
+    ],
+    "victim": "Graves",
+    "target": "Pyosik"
+  },
+  {
+    "timestamp": 507000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 655000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doran",
+    "participants": [
+      "Vladimir",
+      "Graves"
+    ],
+    "victim": "Ornn",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 761000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves",
+      "Senna",
+      "Braum"
+    ],
+    "victim": "Pantheon",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 786000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 914000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 938000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 941000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Ornn",
+      "Kindred",
+      "Orianna",
+      "Pantheon"
+    ],
+    "victim": "Graves",
+    "target": "Pyosik"
+  },
+  {
+    "timestamp": 965000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Kindred",
+      "Ornn",
+      "Orianna"
+    ],
+    "victim": "Senna",
+    "target": "Deft"
+  },
+  {
+    "timestamp": 967000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doran",
+    "participants": [
+      "Vladimir",
+      "Senna"
+    ],
+    "victim": "Pantheon",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1052000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "VelKoz"
+    ],
+    "victim": "Pantheon",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1058000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Ashe",
+      "Orianna"
+    ],
+    "victim": "Graves",
+    "target": "Pyosik"
+  },
+  {
+    "timestamp": 1059000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Kindred",
+      "Ornn"
+    ],
+    "victim": "VelKoz",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 1066000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Orianna",
+      "Ashe"
+    ],
+    "victim": "Braum",
+    "target": "Keria"
+  },
+  {
+    "timestamp": 1086000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1129000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Pyosik",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1170000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Kindred",
+      "Orianna"
+    ],
+    "victim": "Vladimir",
+    "target": "Doran"
+  },
+  {
+    "timestamp": 1192000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1220000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Pantheon",
+      "Ornn",
+      "Ashe"
+    ],
+    "victim": "Braum",
+    "target": "Keria"
+  },
+  {
+    "timestamp": 1230000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Ashe",
+      "Ornn",
+      "Pantheon"
+    ],
+    "victim": "Senna",
+    "target": "Deft"
+  },
+  {
+    "timestamp": 1252000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1289000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Senna",
+      "Graves",
+      "Braum"
+    ],
+    "victim": "Pantheon",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1313000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Kindred",
+      "Orianna"
+    ],
+    "victim": "VelKoz",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 1322000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Orianna",
+      "Kindred"
+    ],
+    "victim": "Vladimir",
+    "target": "Doran"
+  },
+  {
+    "timestamp": 1333000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Kindred",
+      "Ornn",
+      "Orianna",
+      "Ashe"
+    ],
+    "victim": "Braum",
+    "target": "Keria"
+  },
+  {
+    "timestamp": 1334000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Pantheon",
+      "Ornn",
+      "Orianna",
+      "Ashe"
+    ],
+    "victim": "Graves",
+    "target": "Pyosik"
+  },
+  {
+    "timestamp": 1357000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1424000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1430000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1448000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1477000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": "Senna",
+    "target": "Deft"
+  },
+  {
+    "timestamp": 1477000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Ashe",
+      "Orianna"
+    ],
+    "victim": "Vladimir",
+    "target": "Doran"
+  },
+  {
+    "timestamp": 1485000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Pantheon",
+      "Ornn",
+      "Kindred"
+    ],
+    "victim": "Graves",
+    "target": "Pyosik"
+  },
+  {
+    "timestamp": 1495000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Kindred",
+      "Ornn",
+      "Pantheon"
+    ],
+    "victim": "Braum",
+    "target": "Keria"
+  },
+  {
+    "timestamp": 1498000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Orianna",
+      "Kindred",
+      "Pantheon"
+    ],
+    "victim": "VelKoz",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 1512000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1517000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1524000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1526000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1534000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Orianna",
+      "Ornn",
+      "Kindred",
+      "Ashe"
+    ],
+    "victim": "Braum",
+    "target": "Keria"
+  },
+  {
+    "timestamp": 1537000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Orianna",
+      "Ornn",
+      "Ashe"
+    ],
+    "victim": "Graves",
+    "target": "Pyosik"
+  },
+  {
+    "timestamp": 1548000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

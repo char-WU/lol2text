@@ -1,0 +1,1672 @@
+[
+  {
+    "timestamp": 187000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 194000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 264000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 372000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 397000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 430000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 638000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 712000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 735000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 765000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 894000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 916000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1055000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1058000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1076000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1283000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1303000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1342000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1343000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1382000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1393000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1453000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1471000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1476000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1476000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1478000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      },
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1480000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 1480000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1527000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1666000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1699000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1818000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1818000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 1823000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1823000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1825000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1832000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1833000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1854000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1908000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1956000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1961000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1968000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1968000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1969000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1970000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 1975000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Caps",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1977000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2007000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2007000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2011000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 2014000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 2015000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Camille"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 2020000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

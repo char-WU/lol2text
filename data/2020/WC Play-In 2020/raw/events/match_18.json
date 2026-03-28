@@ -1,0 +1,627 @@
+[
+  {
+    "timestamp": 212000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Shini",
+    "participants": [
+      "Sett",
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Lillia",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 220000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tay",
+    "participants": [
+      "Camille",
+      "Orianna",
+      "Senna",
+      "Alistar"
+    ],
+    "victim": "Ashe",
+    "target": "Tactical"
+  },
+  {
+    "timestamp": 297000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "TwistedFate",
+      "Lillia"
+    ],
+    "victim": "Orianna",
+    "target": "Envy"
+  },
+  {
+    "timestamp": 441000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RedBert",
+    "participants": [
+      "Alistar",
+      "Orianna"
+    ],
+    "victim": "TwistedFate",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 564000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 604000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "TwistedFate",
+      "Lillia",
+      "Ashe",
+      "Thresh"
+    ],
+    "victim": "Orianna",
+    "target": "Envy"
+  },
+  {
+    "timestamp": 664000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Shini",
+    "participants": [
+      "Sett"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 720000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 859000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Renekton",
+      "Lillia",
+      "TwistedFate",
+      "Thresh"
+    ],
+    "victim": "Sett",
+    "target": "Shini"
+  },
+  {
+    "timestamp": 862000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tay",
+    "participants": [
+      "Camille",
+      "Sett",
+      "Orianna",
+      "Senna",
+      "Alistar"
+    ],
+    "victim": "Lillia",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 884000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "TwistedFate",
+      "Ashe"
+    ],
+    "victim": "Senna",
+    "target": "micaO"
+  },
+  {
+    "timestamp": 971000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Tay",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 988000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 988000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 990000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Shini",
+    "participants": [
+      "Sett"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1063000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tay",
+    "participants": [
+      "Camille",
+      "Senna",
+      "Alistar"
+    ],
+    "victim": "Lillia",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 1107000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Shini",
+    "participants": [
+      "Sett"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1163000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Ashe",
+      "TwistedFate",
+      "Thresh"
+    ],
+    "victim": "Camille",
+    "target": "Tay"
+  },
+  {
+    "timestamp": 1197000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1295000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1311000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1374000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Envy",
+    "participants": [
+      "Orianna",
+      "Camille"
+    ],
+    "victim": "Renekton",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1383000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Tay",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1396000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "TwistedFate"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1413000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1530000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Envy",
+    "participants": [
+      "Orianna",
+      "Senna",
+      "Alistar"
+    ],
+    "victim": "Ashe",
+    "target": "Tactical"
+  },
+  {
+    "timestamp": 1541000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Shini",
+    "participants": [
+      "Sett",
+      "Camille",
+      "Orianna",
+      "Senna",
+      "Alistar"
+    ],
+    "victim": "Renekton",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1575000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Tay",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1578000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1623000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Envy",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1634000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Tay",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1738000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Envy",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1760000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "micaO",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1899000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Tay",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1934000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RedBert",
+    "participants": [
+      "Alistar",
+      "Camille",
+      "Orianna",
+      "Senna"
+    ],
+    "victim": "Lillia",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 1947000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Envy",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1953000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Envy",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1957000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Shini",
+    "participants": [
+      "Sett"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1985000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Tay",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2062000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Shini",
+    "participants": [
+      "Sett"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2133000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Envy",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2141000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Shini",
+    "participants": [
+      "Sett",
+      "Orianna",
+      "Senna"
+    ],
+    "victim": "Ashe",
+    "target": "Tactical"
+  },
+  {
+    "timestamp": 2147000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Renekton",
+      "Lillia",
+      "TwistedFate",
+      "Ashe",
+      "Thresh"
+    ],
+    "victim": "Senna",
+    "target": "micaO"
+  },
+  {
+    "timestamp": 2148000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tay",
+    "participants": [
+      "Camille",
+      "Orianna",
+      "Senna",
+      "Alistar"
+    ],
+    "victim": "TwistedFate",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 2159000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Envy",
+    "participants": [
+      "Orianna",
+      "Sett",
+      "Senna",
+      "Alistar"
+    ],
+    "victim": "Renekton",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 2160000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tay",
+    "participants": [
+      "Camille",
+      "Sett",
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Thresh",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 2166000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Envy",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2168000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2178000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

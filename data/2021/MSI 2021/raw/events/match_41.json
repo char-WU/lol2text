@@ -1,0 +1,592 @@
+[
+  {
+    "timestamp": 184000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Udyr",
+      "Lucian"
+    ],
+    "victim": "Malphite",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 440000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "LeeSin",
+      "Morgana",
+      "Rell"
+    ],
+    "victim": "Orianna",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 506000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 571000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 602000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 639000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 823000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Malphite",
+      "Tristana",
+      "Rell"
+    ],
+    "victim": "Gragas",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 887000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 931000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 966000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 969000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": "Morgana",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1027000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1071000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1148000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Gragas"
+    ],
+    "victim": "Tristana",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 1162000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Udyr",
+      "Orianna"
+    ],
+    "victim": "Malphite",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 1167000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "LeeSin",
+      "Rell"
+    ],
+    "victim": "Orianna",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 1167000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Lucian",
+      "Udyr",
+      "Orianna"
+    ],
+    "victim": "Rell",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1167000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Vulcan",
+    "participants": [
+      "Rell",
+      "Malphite",
+      "Morgana",
+      "LeeSin"
+    ],
+    "victim": "Udyr",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 1169000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian",
+      "Udyr",
+      "Orianna",
+      "Kaisa",
+      "Gragas"
+    ],
+    "victim": "Morgana",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1225000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1233000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1238000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cryin",
+    "participants": [
+      "Orianna",
+      "Udyr"
+    ],
+    "victim": "LeeSin",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1250000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Malphite"
+    ],
+    "victim": "Lucian",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 1261000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Wei",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1347000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1378000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Udyr",
+      "Orianna"
+    ],
+    "victim": "Rell",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1380000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Tristana",
+      "Malphite",
+      "Morgana",
+      "LeeSin",
+      "Rell"
+    ],
+    "victim": "Udyr",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 1404000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Cryin",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1412000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1415000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Malphite",
+      "Morgana"
+    ],
+    "victim": "Kaisa",
+    "target": "GALA"
+  },
+  {
+    "timestamp": 1514000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Tristana",
+      "Malphite",
+      "Morgana",
+      "LeeSin",
+      "Rell"
+    ],
+    "victim": "Gragas",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 1517000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Tristana",
+      "Malphite",
+      "Morgana",
+      "LeeSin",
+      "Rell"
+    ],
+    "victim": "Udyr",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 1519000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Tristana",
+      "Malphite",
+      "Morgana",
+      "LeeSin",
+      "Rell"
+    ],
+    "victim": "Kaisa",
+    "target": "GALA"
+  },
+  {
+    "timestamp": 1520000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "LeeSin",
+      "Rell"
+    ],
+    "victim": "Orianna",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 1524000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "LeeSin",
+      "Morgana",
+      "Tristana",
+      "Rell"
+    ],
+    "victim": "Lucian",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 1545000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1546000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1591000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1758000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1762000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1765000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Cryin",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1771000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "xiaohu",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1772000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Tristana",
+      "Morgana",
+      "LeeSin",
+      "Rell"
+    ],
+    "victim": "Udyr",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 1774000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1774000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "LeeSin"
+    ],
+    "victim": "Gragas",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 1783000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "timestamp": 101000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Jhin",
+      "Evelynn",
+      "Lucian",
+      "Rakan"
+    ],
+    "victim": "Alistar",
+    "target": "Biofrost"
+  },
+  {
+    "timestamp": 277000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Hylissang",
+    "participants": [
+      "Rakan",
+      "Evelynn",
+      "Jhin"
+    ],
+    "victim": "Alistar",
+    "target": "Biofrost"
+  },
+  {
+    "timestamp": 354000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Volibear"
+    ],
+    "victim": "Camille",
+    "target": "Brokenblade"
+  },
+  {
+    "timestamp": 421000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Brokenblade",
+    "participants": [
+      "Camille",
+      "Syndra"
+    ],
+    "victim": "Volibear",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 538000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Spica",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 569000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Evelynn"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 808000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Brokenblade",
+    "participants": [
+      "Camille"
+    ],
+    "victim": "Evelynn",
+    "target": "Selfmade"
+  },
+  {
+    "timestamp": 817000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Lucian",
+      "Volibear",
+      "Evelynn"
+    ],
+    "victim": "Camille",
+    "target": "Brokenblade"
+  },
+  {
+    "timestamp": 848000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Spica",
+    "participants": [
+      "Nidalee",
+      "Senna",
+      "Alistar"
+    ],
+    "victim": "Rakan",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 882000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Spica",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 981000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Volibear"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1004000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1008000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Lucian",
+      "Evelynn"
+    ],
+    "victim": "Nidalee",
+    "target": "Spica"
+  },
+  {
+    "timestamp": 1060000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1101000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1102000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Spica",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1182000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1191000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Brokenblade",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1217000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Spica",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1450000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Brokenblade",
+    "participants": [
+      "Camille",
+      "Nidalee",
+      "Senna",
+      "Alistar"
+    ],
+    "victim": "Rakan",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 1547000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Evelynn"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1584000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Evelynn"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1597000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Senna",
+      "Camille",
+      "Nidalee",
+      "Alistar"
+    ],
+    "victim": "Rakan",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 1626000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1706000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Evelynn"
+    ],
+    "victim": "Senna",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1709000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1713000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1717000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1728000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Brokenblade",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1853000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1859000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1864000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Spica",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1960000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Jhin",
+      "Volibear",
+      "Lucian",
+      "Rakan"
+    ],
+    "victim": "Camille",
+    "target": "Brokenblade"
+  },
+  {
+    "timestamp": 1996000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Evelynn"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2001000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Evelynn",
+      "Volibear"
+    ],
+    "victim": "Nidalee",
+    "target": "Spica"
+  },
+  {
+    "timestamp": 2022000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Evelynn",
+      "Volibear",
+      "Jhin"
+    ],
+    "victim": "Senna",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 2023000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Lucian",
+      "Volibear"
+    ],
+    "victim": "Alistar",
+    "target": "Biofrost"
+  },
+  {
+    "timestamp": 2023000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Lucian",
+      "Volibear"
+    ],
+    "victim": "Syndra",
+    "target": "Bjergsen"
+  },
+  {
+    "timestamp": 2036000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Selfmade",
+    "participants": [
+      "Evelynn",
+      "Volibear",
+      "Lucian",
+      "Jhin",
+      "Rakan"
+    ],
+    "victim": "Camille",
+    "target": "Brokenblade"
+  },
+  {
+    "timestamp": 2042000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2042000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2051000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

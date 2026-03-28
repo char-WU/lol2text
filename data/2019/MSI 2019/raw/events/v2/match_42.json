@@ -1,0 +1,664 @@
+[
+  {
+    "timestamp": 413000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mata",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mata",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 681000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 702000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 796000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 910000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1009000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1029000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1064000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1370000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1408000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1412000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1413000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Azir"
+      },
+      {
+        "player": "Khan",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1450000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1455000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1524000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1543000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1546000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1568000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1573000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1582000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1585000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Caps",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mata",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mata",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1586000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      },
+      {
+        "player": "Caps",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1590000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1594000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 1599000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

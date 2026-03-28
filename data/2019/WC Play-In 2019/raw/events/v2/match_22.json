@@ -1,0 +1,1342 @@
+[
+  {
+    "timestamp": 336000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 663000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 808000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 817000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 911000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 943000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "G4",
+        "champion": "Galio"
+      },
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      },
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 954000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1014000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1069000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1071000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1129000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1332000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      },
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1359000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1371000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1381000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1391000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1613000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "G4",
+        "champion": "Galio"
+      },
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1614000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      },
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      }
+    ]
+  },
+  {
+    "timestamp": 1617000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      },
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "G4",
+        "champion": "Galio"
+      },
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      },
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1634000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      },
+      {
+        "player": "G4",
+        "champion": "Galio"
+      },
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1731000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1881000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1886000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "G4",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "G4",
+        "champion": "Galio"
+      },
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      },
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      },
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1891000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      }
+    ]
+  },
+  {
+    "timestamp": 1893000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 1896000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1908000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "G4",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "G4",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1938000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2005000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 2039000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 2040000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 2077000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 2101000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 2137000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 2145000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "G4",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "G4",
+        "champion": "Galio"
+      },
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      },
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 2149000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2162000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 2185000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2319000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rockky",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 2320000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "PoP",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2326000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "G4",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "G4",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 2330000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Deul",
+        "champion": "Xayah"
+      }
+    ]
+  },
+  {
+    "timestamp": 2333000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mission",
+        "champion": "Syndra"
+      },
+      {
+        "player": "3z",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lloyd",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 2353000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2357000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crash",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2359000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2365000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

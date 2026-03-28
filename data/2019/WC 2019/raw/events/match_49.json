@@ -1,0 +1,738 @@
+[
+  {
+    "timestamp": 209000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zin",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "Thresh",
+    "target": "Tore"
+  },
+  {
+    "timestamp": 214000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Qiyana",
+      "Gangplank"
+    ],
+    "victim": "Fiora",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 217000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Fiora"
+    ],
+    "victim": "Qiyana",
+    "target": "Xerxe"
+  },
+  {
+    "timestamp": 235000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zin",
+    "participants": [
+      "Kaisa",
+      "LeeSin"
+    ],
+    "victim": "Jinx",
+    "target": "Kobbe"
+  },
+  {
+    "timestamp": 236000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze",
+      "Jinx"
+    ],
+    "victim": "LeeSin",
+    "target": "Levi"
+  },
+  {
+    "timestamp": 336000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kiaya",
+    "participants": [
+      "Jayce",
+      "LeeSin"
+    ],
+    "victim": "Ryze",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 385000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Levi",
+    "participants": [
+      "LeeSin",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Gangplank",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 567000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Levi",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 627000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Levi",
+    "participants": [
+      "LeeSin",
+      "Fiora",
+      "Jayce"
+    ],
+    "victim": "Gangplank",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 714000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Levi",
+    "participants": [
+      "LeeSin",
+      "Fiora"
+    ],
+    "victim": "Gangplank",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 749000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Levi",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 773000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Levi",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 775000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zin",
+    "participants": [
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Qiyana",
+    "target": "Xerxe"
+  },
+  {
+    "timestamp": 776000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Jinx",
+      "Qiyana",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Slay"
+  },
+  {
+    "timestamp": 785000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze",
+      "Qiyana",
+      "Jinx",
+      "Thresh"
+    ],
+    "victim": "Kaisa",
+    "target": "Zin"
+  },
+  {
+    "timestamp": 788000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kiaya",
+    "participants": [
+      "Jayce",
+      "Kaisa"
+    ],
+    "victim": "Jinx",
+    "target": "Kobbe"
+  },
+  {
+    "timestamp": 792000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze",
+      "Gangplank",
+      "Jinx",
+      "Thresh"
+    ],
+    "victim": "Jayce",
+    "target": "Kiaya"
+  },
+  {
+    "timestamp": 799000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Fiora",
+      "LeeSin"
+    ],
+    "victim": "Gangplank",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 809000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Fiora"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 817000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 899000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Levi",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 913000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kiaya",
+    "participants": [
+      "Jayce",
+      "Fiora"
+    ],
+    "victim": "Qiyana",
+    "target": "Xerxe"
+  },
+  {
+    "timestamp": 920000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Fiora",
+      "Jayce"
+    ],
+    "victim": "Gangplank",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 1024000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze",
+      "Qiyana"
+    ],
+    "victim": "Jayce",
+    "target": "Kiaya"
+  },
+  {
+    "timestamp": 1036000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Fiora"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1081000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1144000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Kiaya",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1226000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Levi",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1436000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Jinx",
+      "Qiyana"
+    ],
+    "victim": "Kaisa",
+    "target": "Zin"
+  },
+  {
+    "timestamp": 1439000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Vizicsacsi",
+    "participants": [
+      "Gangplank",
+      "Qiyana",
+      "Jinx",
+      "Thresh"
+    ],
+    "victim": "LeeSin",
+    "target": "Levi"
+  },
+  {
+    "timestamp": 1442000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1442000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Slay"
+  },
+  {
+    "timestamp": 1448000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze",
+      "Jinx",
+      "Thresh"
+    ],
+    "victim": "Jayce",
+    "target": "Kiaya"
+  },
+  {
+    "timestamp": 1476000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Jinx"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1486000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Qiyana",
+      "Gangplank",
+      "Ryze",
+      "Thresh"
+    ],
+    "victim": "Fiora",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1538000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Jinx"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1555000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1581000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1600000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zin",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "Ryze",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1738000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Fiora"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1775000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze",
+      "Gangplank",
+      "Qiyana",
+      "Thresh"
+    ],
+    "victim": "Fiora",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1781000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Qiyana",
+      "Gangplank",
+      "Ryze",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Slay"
+  },
+  {
+    "timestamp": 1809000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Jinx",
+      "Qiyana",
+      "Thresh"
+    ],
+    "victim": "Jayce",
+    "target": "Kiaya"
+  },
+  {
+    "timestamp": 1817000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Jinx",
+      "Qiyana",
+      "Ryze",
+      "Thresh"
+    ],
+    "victim": "LeeSin",
+    "target": "Levi"
+  },
+  {
+    "timestamp": 1841000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1893000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1929000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Fiora"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1944000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1948000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Qiyana",
+      "Jinx",
+      "Thresh"
+    ],
+    "victim": "Jayce",
+    "target": "Kiaya"
+  },
+  {
+    "timestamp": 1950000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": "Fiora",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1953000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1954000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Qiyana",
+      "Gangplank",
+      "Jinx",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Slay"
+  },
+  {
+    "timestamp": 1963000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1968000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Jinx",
+      "Gangplank",
+      "Thresh"
+    ],
+    "victim": "Kaisa",
+    "target": "Zin"
+  },
+  {
+    "timestamp": 1970000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tore",
+    "participants": [
+      "Thresh",
+      "Gangplank",
+      "Qiyana",
+      "Jinx"
+    ],
+    "victim": "LeeSin",
+    "target": "Levi"
+  },
+  {
+    "timestamp": 1974000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1989000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

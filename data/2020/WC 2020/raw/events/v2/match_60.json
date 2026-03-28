@@ -1,0 +1,1736 @@
+[
+  {
+    "timestamp": 259000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 302000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 387000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 552000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 592000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 596000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 704000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 805000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 843000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 918000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 945000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 945000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 947000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 959000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 959000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 985000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1026000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1035000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1037000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1121000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1137000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1139000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1148000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1157000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1258000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1281000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1291000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1303000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1352000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1474000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1519000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1676000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1677000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1680000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1681000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1684000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1729000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1841000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1848000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1895000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2007000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 2014000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 2018000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 2019000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 2025000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 2069000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2075000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 2080000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 2089000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2147000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 2149000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      },
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nomanz",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 2154000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2156000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      },
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 2158000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      },
+      {
+        "player": "solo",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Volibear"
+      },
+      {
+        "player": "WildTurtle",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "IgNar",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 2188000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PowerOfEvil",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2198000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

@@ -1,0 +1,706 @@
+[
+  {
+    "timestamp": 356000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BOSS",
+    "participants": [
+      "Gnar",
+      "KhaZix"
+    ],
+    "victim": "Jayce",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 414000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lodik",
+    "participants": [
+      "Kaisa",
+      "Alistar"
+    ],
+    "victim": "Nautilus",
+    "target": "Decoy"
+  },
+  {
+    "timestamp": 415000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Xayah",
+      "Nautilus"
+    ],
+    "victim": "Kaisa",
+    "target": "Lodik"
+  },
+  {
+    "timestamp": 427000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BioPanther",
+    "participants": [
+      "Jayce",
+      "Karthus"
+    ],
+    "victim": "Gnar",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 597000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SaNTaS",
+    "participants": [
+      "Alistar",
+      "Viktor"
+    ],
+    "victim": "LeeSin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 626000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "AHaHaCiK",
+    "participants": [
+      "KhaZix"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 634000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Xayah",
+      "Karthus",
+      "Nautilus"
+    ],
+    "victim": "Kaisa",
+    "target": "Lodik"
+  },
+  {
+    "timestamp": 651000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Karthus",
+      "Xayah",
+      "Nautilus"
+    ],
+    "victim": "Alistar",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 666000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Karthus"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 785000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nomanz",
+    "participants": [
+      "Viktor"
+    ],
+    "victim": "LeeSin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 788000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Decoy",
+    "participants": [
+      "Nautilus",
+      "LeeSin"
+    ],
+    "victim": "Viktor",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 893000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 933000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Xayah",
+      "Karthus",
+      "Nautilus"
+    ],
+    "victim": "KhaZix",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 982000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Karthus"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1014000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "AHaHaCiK",
+    "participants": [
+      "KhaZix"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1083000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Chazz",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1091000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Decoy",
+    "participants": [
+      "Nautilus"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1104000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "AHaHaCiK",
+    "participants": [
+      "KhaZix"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1196000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Decoy",
+    "participants": [
+      "Nautilus",
+      "Karthus"
+    ],
+    "victim": "KhaZix",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1204000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Karthus",
+      "Jayce",
+      "LeeSin",
+      "Xayah",
+      "Nautilus"
+    ],
+    "victim": "Kaisa",
+    "target": "Lodik"
+  },
+  {
+    "timestamp": 1207000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Karthus",
+      "Jayce",
+      "LeeSin",
+      "Xayah",
+      "Nautilus"
+    ],
+    "victim": "Viktor",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1231000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "BioPanther",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1292000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Karthus"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1309000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1309000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1321000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1328000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1331000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Karthus",
+      "Jayce",
+      "LeeSin",
+      "Xayah",
+      "Nautilus"
+    ],
+    "victim": "KhaZix",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1365000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Karthus"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1388000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Xayah",
+      "Jayce",
+      "Karthus"
+    ],
+    "victim": "Alistar",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1416000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Chazz",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1423000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BioPanther",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1429000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1452000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Xayah",
+      "Karthus",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "Viktor",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1455000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BOSS",
+    "participants": [
+      "Gnar",
+      "Viktor",
+      "Alistar"
+    ],
+    "victim": "Karthus",
+    "target": "Pabu"
+  },
+  {
+    "timestamp": 1458000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Xayah",
+      "Karthus",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "Gnar",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1490000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BioPanther",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1494000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BioPanther",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1499000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lodik",
+    "participants": [
+      "Kaisa",
+      "Viktor",
+      "Alistar"
+    ],
+    "victim": "Nautilus",
+    "target": "Decoy"
+  },
+  {
+    "timestamp": 1499000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Xayah",
+      "Jayce",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "Kaisa",
+    "target": "Lodik"
+  },
+  {
+    "timestamp": 1502000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nomanz",
+    "participants": [
+      "Viktor",
+      "KhaZix",
+      "Kaisa",
+      "Alistar"
+    ],
+    "victim": "Xayah",
+    "target": "Praedyth"
+  },
+  {
+    "timestamp": 1503000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BioPanther",
+    "participants": [
+      "Jayce",
+      "LeeSin",
+      "Xayah"
+    ],
+    "victim": "KhaZix",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1507000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nomanz",
+    "participants": [
+      "Viktor",
+      "Gnar",
+      "KhaZix",
+      "Kaisa",
+      "Alistar"
+    ],
+    "victim": "LeeSin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 1516000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BioPanther",
+    "participants": [
+      "Jayce",
+      "LeeSin"
+    ],
+    "victim": "Alistar",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1517000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BOSS",
+    "participants": [
+      "Gnar",
+      "Viktor",
+      "Alistar"
+    ],
+    "victim": "Jayce",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 1613000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Karthus"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1638000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Karthus"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1648000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Xayah",
+      "Jayce",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "KhaZix",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1652000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Xayah",
+      "LeeSin"
+    ],
+    "victim": "Kaisa",
+    "target": "Lodik"
+  },
+  {
+    "timestamp": 1656000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BioPanther",
+    "participants": [
+      "Jayce",
+      "Karthus",
+      "Nautilus"
+    ],
+    "victim": "Gnar",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1657000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chazz",
+    "participants": [
+      "LeeSin",
+      "Jayce",
+      "Karthus",
+      "Nautilus"
+    ],
+    "victim": "Alistar",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1659000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nomanz",
+    "participants": [
+      "Viktor",
+      "Kaisa",
+      "Alistar"
+    ],
+    "victim": "Xayah",
+    "target": "Praedyth"
+  },
+  {
+    "timestamp": 1660000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Karthus",
+      "Jayce",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "Viktor",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1672000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

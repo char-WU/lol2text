@@ -1,0 +1,761 @@
+[
+  {
+    "timestamp": 214000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiye",
+    "participants": [
+      "TwistedFate",
+      "Camille",
+      "LeeSin"
+    ],
+    "victim": "Ornn",
+    "target": "Acce"
+  },
+  {
+    "timestamp": 216000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Acce",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": "LeeSin",
+    "target": "Peanut"
+  },
+  {
+    "timestamp": 534000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Peanut",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 558000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Peanut",
+    "participants": [
+      "LeeSin",
+      "TwistedFate",
+      "Rakan"
+    ],
+    "victim": "Ezreal",
+    "target": "Leza"
+  },
+  {
+    "timestamp": 564000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 606000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiye",
+    "participants": [
+      "TwistedFate",
+      "LeeSin"
+    ],
+    "victim": "Nidalee",
+    "target": "Josedeodo"
+  },
+  {
+    "timestamp": 606000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Aloned",
+    "participants": [
+      "Orianna",
+      "Nidalee"
+    ],
+    "victim": "LeeSin",
+    "target": "Peanut"
+  },
+  {
+    "timestamp": 614000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Langx",
+    "participants": [
+      "Camille",
+      "LeeSin",
+      "TwistedFate"
+    ],
+    "victim": "Orianna",
+    "target": "Aloned"
+  },
+  {
+    "timestamp": 749000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Acce",
+    "participants": [
+      "Ornn",
+      "Nidalee",
+      "Orianna"
+    ],
+    "victim": "LeeSin",
+    "target": "Peanut"
+  },
+  {
+    "timestamp": 769000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 863000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "xiye",
+    "participants": [
+      "TwistedFate",
+      "LeeSin",
+      "Rakan"
+    ],
+    "victim": "Orianna",
+    "target": "Aloned"
+  },
+  {
+    "timestamp": 912000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 954000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1004000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1031000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1147000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kramer",
+    "participants": [
+      "Twitch",
+      "TwistedFate"
+    ],
+    "victim": "Ezreal",
+    "target": "Leza"
+  },
+  {
+    "timestamp": 1157000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1220000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1237000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Aloned",
+    "participants": [
+      "Orianna",
+      "Ornn",
+      "Nidalee",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "TwistedFate",
+    "target": "xiye"
+  },
+  {
+    "timestamp": 1323000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Langx",
+    "participants": [
+      "Camille"
+    ],
+    "victim": "Ornn",
+    "target": "Acce"
+  },
+  {
+    "timestamp": 1324000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Acce",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": "Camille",
+    "target": "Langx"
+  },
+  {
+    "timestamp": 1527000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1531000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Peanut",
+    "participants": [
+      "LeeSin",
+      "Camille",
+      "TwistedFate",
+      "Twitch",
+      "Rakan"
+    ],
+    "victim": "Nidalee",
+    "target": "Josedeodo"
+  },
+  {
+    "timestamp": 1533000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Aloned",
+    "participants": [
+      "Orianna",
+      "Ornn",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "Camille",
+    "target": "Langx"
+  },
+  {
+    "timestamp": 1535000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Acce",
+    "participants": [
+      "Ornn",
+      "Nidalee",
+      "Orianna",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "Rakan",
+    "target": "Mark"
+  },
+  {
+    "timestamp": 1538000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Leza",
+    "participants": [
+      "Ezreal",
+      "Ornn",
+      "Nidalee",
+      "Orianna"
+    ],
+    "victim": "TwistedFate",
+    "target": "xiye"
+  },
+  {
+    "timestamp": 1539000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kramer",
+    "participants": [
+      "Twitch",
+      "TwistedFate",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "Shadow"
+  },
+  {
+    "timestamp": 1542000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Leza",
+    "participants": [
+      "Ezreal",
+      "Ornn",
+      "Orianna",
+      "Nautilus"
+    ],
+    "victim": "LeeSin",
+    "target": "Peanut"
+  },
+  {
+    "timestamp": 1551000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1818000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kramer",
+    "participants": [
+      "Twitch",
+      "Camille",
+      "Rakan"
+    ],
+    "victim": "Nidalee",
+    "target": "Josedeodo"
+  },
+  {
+    "timestamp": 1846000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Leza",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1848000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Shadow",
+    "participants": [
+      "Nautilus",
+      "Ornn",
+      "Orianna",
+      "Ezreal"
+    ],
+    "victim": "Rakan",
+    "target": "Mark"
+  },
+  {
+    "timestamp": 1858000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kramer",
+    "participants": [
+      "Twitch",
+      "Camille",
+      "LeeSin",
+      "TwistedFate"
+    ],
+    "victim": "Ezreal",
+    "target": "Leza"
+  },
+  {
+    "timestamp": 1860000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Acce",
+    "participants": [
+      "Ornn",
+      "Orianna",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "Camille",
+    "target": "Langx"
+  },
+  {
+    "timestamp": 1862000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Nidalee",
+      "Ornn",
+      "Orianna",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "LeeSin",
+    "target": "Peanut"
+  },
+  {
+    "timestamp": 1864000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kramer",
+    "participants": [
+      "Twitch",
+      "LeeSin",
+      "TwistedFate"
+    ],
+    "victim": "Nautilus",
+    "target": "Shadow"
+  },
+  {
+    "timestamp": 1866000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Aloned",
+    "participants": [
+      "Orianna",
+      "Nautilus"
+    ],
+    "victim": "TwistedFate",
+    "target": "xiye"
+  },
+  {
+    "timestamp": 1914000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1970000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1989000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Acce",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1994000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Acce",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2037000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Acce",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 2125000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Leza",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 2154000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kramer",
+    "participants": [
+      "Twitch",
+      "LeeSin",
+      "TwistedFate",
+      "Rakan"
+    ],
+    "victim": "Ezreal",
+    "target": "Leza"
+  },
+  {
+    "timestamp": 2213000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Aloned",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": "Twitch",
+    "target": "Kramer"
+  },
+  {
+    "timestamp": 2226000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Aloned",
+    "participants": [
+      "Orianna",
+      "Ornn",
+      "Nidalee",
+      "Nautilus"
+    ],
+    "victim": "LeeSin",
+    "target": "Peanut"
+  },
+  {
+    "timestamp": 2232000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2240000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2285000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2336000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Leza",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2362000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Aloned",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2365000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Leza",
+    "participants": [
+      "Ezreal",
+      "Orianna",
+      "Nautilus"
+    ],
+    "victim": "LeeSin",
+    "target": "Peanut"
+  },
+  {
+    "timestamp": 2370000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Leza",
+    "participants": [
+      "Ezreal",
+      "Orianna",
+      "Nautilus"
+    ],
+    "victim": "Rakan",
+    "target": "Mark"
+  },
+  {
+    "timestamp": 2373000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Nidalee",
+      "Ornn",
+      "Orianna",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "Twitch",
+    "target": "Kramer"
+  },
+  {
+    "timestamp": 2377000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Aloned",
+    "participants": [
+      "Orianna",
+      "Ornn",
+      "Nidalee",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "Camille",
+    "target": "Langx"
+  },
+  {
+    "timestamp": 2379000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Acce",
+    "participants": [
+      "Ornn",
+      "Orianna",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "TwistedFate",
+    "target": "xiye"
+  },
+  {
+    "timestamp": 2379000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Aloned",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2388000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

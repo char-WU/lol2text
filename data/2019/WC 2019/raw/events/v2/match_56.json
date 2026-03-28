@@ -1,0 +1,1362 @@
+[
+  {
+    "timestamp": 245000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 466000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 490000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 811000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Xerxe",
+        "champion": "Karthus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xerxe",
+        "champion": "Karthus"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 837000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Xerxe",
+        "champion": "Karthus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xerxe",
+        "champion": "Karthus"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 863000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Xerxe",
+        "champion": "Karthus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xerxe",
+        "champion": "Karthus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 888000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 986000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kobbe",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kobbe",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Xerxe",
+        "champion": "Karthus"
+      },
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 986000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      },
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1095000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      },
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1117000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1125000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1229000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1233000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1366000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1386000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1387000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kobbe",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kobbe",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1390000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      },
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1399000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      },
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 1421000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1515000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1546000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1568000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1602000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1862000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1870000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kobbe",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kobbe",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Xerxe",
+        "champion": "Karthus"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1963000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1965000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1975000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Sion"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Sion"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1985000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 2236000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      },
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kobbe",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kobbe",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 2256000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2287000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "red",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2352000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 2363000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 2426000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 2433000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2491000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 2494000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 2501000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      },
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 2501000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kobbe",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kobbe",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Vizicsacsi",
+        "champion": "Sion"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 2517000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 2518000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kobbe",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kobbe",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Vizicsacsi",
+        "champion": "Sion"
+      },
+      {
+        "player": "Xerxe",
+        "champion": "Karthus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2526000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2637000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      },
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Xerxe",
+        "champion": "Karthus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Xerxe",
+        "champion": "Karthus"
+      }
+    ]
+  },
+  {
+    "timestamp": 2641000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tore",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 2650000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Koala",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vizicsacsi",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 2664000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Hana",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 2669000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2681000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

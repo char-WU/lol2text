@@ -1,0 +1,726 @@
+[
+  {
+    "timestamp": 351000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Dee",
+    "participants": [
+      "Senna",
+      "Ekko",
+      "Bard"
+    ],
+    "victim": "Ashe",
+    "target": "Leza"
+  },
+  {
+    "timestamp": 355000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko",
+      "Sett",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Leona",
+    "target": "Shadow"
+  },
+  {
+    "timestamp": 426000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Hecarim",
+      "Ashe",
+      "Leona"
+    ],
+    "victim": "Senna",
+    "target": "Dee"
+  },
+  {
+    "timestamp": 433000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Leza",
+    "participants": [
+      "Ashe",
+      "Hecarim",
+      "Leona"
+    ],
+    "victim": "Bard",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 434000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiwing",
+    "participants": [
+      "Bard",
+      "Senna"
+    ],
+    "victim": "Leona",
+    "target": "Shadow"
+  },
+  {
+    "timestamp": 552000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko",
+      "Camille"
+    ],
+    "victim": "Mordekaiser",
+    "target": "Acce"
+  },
+  {
+    "timestamp": 577000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 649000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 665000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Camille",
+      "Ekko",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Leona",
+    "target": "Shadow"
+  },
+  {
+    "timestamp": 779000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ubao",
+    "participants": [
+      "Sett",
+      "Ekko",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Ashe",
+    "target": "Leza"
+  },
+  {
+    "timestamp": 784000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko",
+      "Sett",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Leona",
+    "target": "Shadow"
+  },
+  {
+    "timestamp": 966000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 982000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Zoe",
+    "target": "Aloned"
+  },
+  {
+    "timestamp": 1011000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Dee",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1012000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1025000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1099000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1139000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Camille",
+      "Sett",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Hecarim",
+    "target": "Josedeodo"
+  },
+  {
+    "timestamp": 1192000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1275000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Acce",
+    "participants": [
+      "Mordekaiser"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1281000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1308000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Acce",
+    "participants": [
+      "Mordekaiser",
+      "Hecarim",
+      "Ashe"
+    ],
+    "victim": "Senna",
+    "target": "Dee"
+  },
+  {
+    "timestamp": 1309000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Camille",
+      "Ekko",
+      "Sett",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Hecarim",
+    "target": "Josedeodo"
+  },
+  {
+    "timestamp": 1321000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko",
+      "Camille",
+      "Sett",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Mordekaiser",
+    "target": "Acce"
+  },
+  {
+    "timestamp": 1328000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko",
+      "Camille"
+    ],
+    "victim": "Zoe",
+    "target": "Aloned"
+  },
+  {
+    "timestamp": 1441000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Camille"
+    ],
+    "victim": "Mordekaiser",
+    "target": "Acce"
+  },
+  {
+    "timestamp": 1445000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Hecarim",
+      "Mordekaiser"
+    ],
+    "victim": "Camille",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 1457000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko",
+      "Sett",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Ashe",
+    "target": "Leza"
+  },
+  {
+    "timestamp": 1460000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko",
+      "Sett",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Leona",
+    "target": "Shadow"
+  },
+  {
+    "timestamp": 1472000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko",
+      "Sett",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Hecarim",
+    "target": "Josedeodo"
+  },
+  {
+    "timestamp": 1475000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Dee",
+    "participants": [
+      "Senna",
+      "Ekko",
+      "Sett",
+      "Bard"
+    ],
+    "victim": "Zoe",
+    "target": "Aloned"
+  },
+  {
+    "timestamp": 1591000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1634000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Dee",
+    "participants": [
+      "Senna"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1643000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1772000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko",
+      "Camille",
+      "Senna"
+    ],
+    "victim": "Hecarim",
+    "target": "Josedeodo"
+  },
+  {
+    "timestamp": 1780000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko",
+      "Camille",
+      "Sett",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Zoe",
+    "target": "Aloned"
+  },
+  {
+    "timestamp": 1784000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Leza",
+    "participants": [
+      "Ashe",
+      "Leona"
+    ],
+    "victim": "Ekko",
+    "target": "Kongyue"
+  },
+  {
+    "timestamp": 1784000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Dee",
+    "participants": [
+      "Senna",
+      "Ekko",
+      "Sett",
+      "Bard"
+    ],
+    "victim": "Leona",
+    "target": "Shadow"
+  },
+  {
+    "timestamp": 1787000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ubao",
+    "participants": [
+      "Sett",
+      "Ekko",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Ashe",
+    "target": "Leza"
+  },
+  {
+    "timestamp": 1788000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Acce",
+    "participants": [
+      "Mordekaiser",
+      "Zoe"
+    ],
+    "victim": "Camille",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 1794000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiwing",
+    "participants": [
+      "Bard",
+      "Camille",
+      "Sett",
+      "Senna"
+    ],
+    "victim": "Mordekaiser",
+    "target": "Acce"
+  },
+  {
+    "timestamp": 1822000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1905000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Camille",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Ashe",
+    "target": "Leza"
+  },
+  {
+    "timestamp": 1909000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko",
+      "Sett",
+      "Senna"
+    ],
+    "victim": "Leona",
+    "target": "Shadow"
+  },
+  {
+    "timestamp": 1912000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Camille",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Zoe",
+    "target": "Aloned"
+  },
+  {
+    "timestamp": 1917000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Josedeodo",
+    "participants": [
+      "Hecarim",
+      "Mordekaiser"
+    ],
+    "victim": "Senna",
+    "target": "Dee"
+  },
+  {
+    "timestamp": 1923000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kongyue",
+    "participants": [
+      "Ekko",
+      "Sett",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Mordekaiser",
+    "target": "Acce"
+  },
+  {
+    "timestamp": 1928000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Camille",
+      "Ekko",
+      "Sett",
+      "Senna",
+      "Bard"
+    ],
+    "victim": "Hecarim",
+    "target": "Josedeodo"
+  },
+  {
+    "timestamp": 1947000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1951000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1957000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1963000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1969000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Leza",
+    "participants": [
+      "Ashe",
+      "Zoe",
+      "Leona"
+    ],
+    "victim": "Camille",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 1976000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

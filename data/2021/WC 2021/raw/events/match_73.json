@@ -1,0 +1,770 @@
+[
+  {
+    "timestamp": 160000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "JarvanIV",
+      "Draven"
+    ],
+    "victim": "Talon",
+    "target": "River"
+  },
+  {
+    "timestamp": 434000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 468000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "JarvanIV",
+      "Draven",
+      "Pyke"
+    ],
+    "victim": "Jhin",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 475000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Vsta",
+    "participants": [
+      "Pyke",
+      "JarvanIV",
+      "Draven"
+    ],
+    "victim": "Yuumi",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 511000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 595000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Talon"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 659000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 732000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 766000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 804000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 804000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 1019000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1053000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Maple",
+    "participants": [
+      "LeBlanc",
+      "Gwen",
+      "Talon"
+    ],
+    "victim": "Azir",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 1087000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1091000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Talon"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1103000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1105000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Morgan",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1189000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Maple",
+    "participants": [
+      "LeBlanc",
+      "Gwen",
+      "Talon",
+      "Yuumi"
+    ],
+    "victim": "Azir",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 1198000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chovy",
+    "participants": [
+      "Azir",
+      "Camille",
+      "JarvanIV",
+      "Draven"
+    ],
+    "victim": "LeBlanc",
+    "target": "Maple"
+  },
+  {
+    "timestamp": 1210000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Jhin",
+      "Gwen",
+      "Talon",
+      "Yuumi"
+    ],
+    "victim": "JarvanIV",
+    "target": "Willer"
+  },
+  {
+    "timestamp": 1210000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Talon",
+      "Gwen",
+      "LeBlanc",
+      "Jhin",
+      "Yuumi"
+    ],
+    "victim": "Camille",
+    "target": "Morgan"
+  },
+  {
+    "timestamp": 1311000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Willer",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1321000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Morgan",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1367000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Morgan",
+    "participants": [
+      "Camille",
+      "JarvanIV",
+      "Azir"
+    ],
+    "victim": "Gwen",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 1371000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Talon",
+      "Gwen"
+    ],
+    "victim": "Camille",
+    "target": "Morgan"
+  },
+  {
+    "timestamp": 1372000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Talon",
+      "Gwen"
+    ],
+    "victim": "JarvanIV",
+    "target": "Willer"
+  },
+  {
+    "timestamp": 1379000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chovy",
+    "participants": [
+      "Azir",
+      "Camille",
+      "JarvanIV",
+      "Pyke"
+    ],
+    "victim": "Talon",
+    "target": "River"
+  },
+  {
+    "timestamp": 1409000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Maple",
+    "participants": [
+      "LeBlanc",
+      "Jhin",
+      "Yuumi"
+    ],
+    "victim": "Draven",
+    "target": "Deft"
+  },
+  {
+    "timestamp": 1432000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Talon"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1444000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiwing",
+    "participants": [
+      "Yuumi",
+      "Gwen",
+      "Talon",
+      "Jhin"
+    ],
+    "victim": "Pyke",
+    "target": "Vsta"
+  },
+  {
+    "timestamp": 1461000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Talon",
+      "Yuumi"
+    ],
+    "victim": "JarvanIV",
+    "target": "Willer"
+  },
+  {
+    "timestamp": 1472000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Deft",
+    "participants": [
+      "Draven",
+      "JarvanIV"
+    ],
+    "victim": "Talon",
+    "target": "River"
+  },
+  {
+    "timestamp": 1473000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Deft",
+    "participants": [
+      "Draven",
+      "Camille",
+      "JarvanIV"
+    ],
+    "victim": "Yuumi",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1567000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Jhin",
+      "LeBlanc"
+    ],
+    "victim": "Camille",
+    "target": "Morgan"
+  },
+  {
+    "timestamp": 1744000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Maple",
+    "participants": [
+      "LeBlanc"
+    ],
+    "victim": "Camille",
+    "target": "Morgan"
+  },
+  {
+    "timestamp": 1748000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Chovy",
+    "participants": [
+      "Azir"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1769000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Maple",
+    "participants": [
+      "LeBlanc",
+      "Gwen",
+      "Jhin",
+      "Yuumi"
+    ],
+    "victim": "Pyke",
+    "target": "Vsta"
+  },
+  {
+    "timestamp": 1773000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Gwen",
+      "LeBlanc",
+      "Yuumi"
+    ],
+    "victim": "Draven",
+    "target": "Deft"
+  },
+  {
+    "timestamp": 1774000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Gwen",
+      "LeBlanc",
+      "Jhin",
+      "Yuumi"
+    ],
+    "victim": "JarvanIV",
+    "target": "Willer"
+  },
+  {
+    "timestamp": 1803000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1903000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1904000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1921000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Talon"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1984000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Jhin",
+      "LeBlanc",
+      "Yuumi"
+    ],
+    "victim": "JarvanIV",
+    "target": "Willer"
+  },
+  {
+    "timestamp": 1990000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Talon"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 2061000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Talon"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2085000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Jhin",
+      "Gwen"
+    ],
+    "victim": "Azir",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 2126000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Gwen",
+      "LeBlanc"
+    ],
+    "victim": "JarvanIV",
+    "target": "Willer"
+  },
+  {
+    "timestamp": 2126000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 2131000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Deft",
+    "participants": [
+      "Draven",
+      "Camille",
+      "JarvanIV",
+      "Pyke"
+    ],
+    "victim": "Gwen",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 2137000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Jhin",
+      "Gwen",
+      "Talon",
+      "LeBlanc",
+      "Yuumi"
+    ],
+    "victim": "Camille",
+    "target": "Morgan"
+  },
+  {
+    "timestamp": 2140000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2141000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2149000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2244000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Gwen"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2249000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Gwen",
+      "Yuumi"
+    ],
+    "victim": "Camille",
+    "target": "Morgan"
+  },
+  {
+    "timestamp": 2254000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Maple",
+    "participants": [
+      "LeBlanc",
+      "Gwen",
+      "Talon",
+      "Yuumi"
+    ],
+    "victim": "Azir",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 2265000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Gwen",
+      "Talon",
+      "Yuumi"
+    ],
+    "victim": "JarvanIV",
+    "target": "Willer"
+  },
+  {
+    "timestamp": 2276000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Gwen"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2279000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2286000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

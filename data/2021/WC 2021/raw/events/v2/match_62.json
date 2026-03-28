@@ -1,0 +1,1506 @@
+[
+  {
+    "timestamp": 78000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 243000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 247000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      },
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 300000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 326000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 398000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 423000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 518000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 531000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 535000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 549000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 550000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 581000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 622000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 656000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 670000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 670000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 692000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 692000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 698000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 736000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 818000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 820000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 821000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Jax"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 827000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 833000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 838000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 847000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 847000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Jax"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Jax"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 861000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 940000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 996000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ]
+  },
+  {
+    "timestamp": 1004000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Jax"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Jax"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1137000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1158000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1327000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1329000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Jax"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Jax"
+      }
+    ]
+  },
+  {
+    "timestamp": 1331000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1338000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1369000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1422000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1445000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1450000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1475000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1538000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1719000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1758000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1795000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Jax"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 1806000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1809000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 1818000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Jax"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Jax"
+      }
+    ]
+  },
+  {
+    "timestamp": 1831000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1849000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1853000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1872000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1890000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1895000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1917000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1921000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Khan",
+        "champion": "Graves"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1925000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1928000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1936000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Canyon",
+        "champion": "XinZhao"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Jax"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Jax"
+      }
+    ]
+  },
+  {
+    "timestamp": 1947000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

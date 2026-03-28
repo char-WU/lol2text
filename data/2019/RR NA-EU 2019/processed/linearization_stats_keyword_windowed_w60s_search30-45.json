@@ -1,0 +1,100 @@
+{
+  "num_matches": 13,
+  "total_examples": 354,
+  "avg_examples_per_match": 27.23076923076923,
+  "input_stats": {
+    "avg_tokens": 30.903954802259886,
+    "min_tokens": 7,
+    "max_tokens": 97
+  },
+  "target_stats": {
+    "avg_words": 337.7429378531073,
+    "min_words": 43,
+    "max_words": 1368
+  },
+  "events_stats": {
+    "avg_per_window": 3.7203389830508473,
+    "min_per_window": 1,
+    "max_per_window": 12
+  },
+  "per_match_stats": [
+    {
+      "match_id": "1",
+      "num_windows": 19,
+      "avg_events_per_window": 3.6315789473684212,
+      "avg_words_per_window": 254.21052631578948
+    },
+    {
+      "match_id": "10",
+      "num_windows": 25,
+      "avg_events_per_window": 5.36,
+      "avg_words_per_window": 397.24
+    },
+    {
+      "match_id": "11",
+      "num_windows": 26,
+      "avg_events_per_window": 2.6538461538461537,
+      "avg_words_per_window": 178.46153846153845
+    },
+    {
+      "match_id": "12",
+      "num_windows": 31,
+      "avg_events_per_window": 3.3548387096774195,
+      "avg_words_per_window": 225.6451612903226
+    },
+    {
+      "match_id": "13",
+      "num_windows": 32,
+      "avg_events_per_window": 5.34375,
+      "avg_words_per_window": 388.90625
+    },
+    {
+      "match_id": "2",
+      "num_windows": 31,
+      "avg_events_per_window": 2.774193548387097,
+      "avg_words_per_window": 232.06451612903226
+    },
+    {
+      "match_id": "3",
+      "num_windows": 26,
+      "avg_events_per_window": 3.0384615384615383,
+      "avg_words_per_window": 354.4230769230769
+    },
+    {
+      "match_id": "4",
+      "num_windows": 28,
+      "avg_events_per_window": 3.357142857142857,
+      "avg_words_per_window": 397.67857142857144
+    },
+    {
+      "match_id": "5",
+      "num_windows": 33,
+      "avg_events_per_window": 3.606060606060606,
+      "avg_words_per_window": 364.0
+    },
+    {
+      "match_id": "6",
+      "num_windows": 22,
+      "avg_events_per_window": 4.0,
+      "avg_words_per_window": 445.22727272727275
+    },
+    {
+      "match_id": "7",
+      "num_windows": 27,
+      "avg_events_per_window": 3.4814814814814814,
+      "avg_words_per_window": 421.18518518518516
+    },
+    {
+      "match_id": "8",
+      "num_windows": 30,
+      "avg_events_per_window": 3.8666666666666667,
+      "avg_words_per_window": 317.23333333333335
+    },
+    {
+      "match_id": "9",
+      "num_windows": 24,
+      "avg_events_per_window": 3.9166666666666665,
+      "avg_words_per_window": 436.6666666666667
+    }
+  ]
+}

@@ -1,0 +1,1344 @@
+[
+  {
+    "timestamp": 314000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 327000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 328000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 450000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 702000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 704000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 730000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 807000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1130000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1137000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1138000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Langx",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1143000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1150000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1248000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1280000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1300000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1322000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1326000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Mordekaiser"
+      },
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1383000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1384000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1390000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1406000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1424000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1458000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1485000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1502000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1722000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1734000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1738000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Langx",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "target": [
+      {
+        "player": "Langx",
+        "champion": "Mordekaiser"
+      }
+    ]
+  },
+  {
+    "timestamp": 1759000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1781000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1839000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1914000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1933000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1956000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 2074000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 2076000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Karsa",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 2085000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 2086000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      }
+    ]
+  },
+  {
+    "timestamp": 2088000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 2091000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Langx",
+        "champion": "Mordekaiser"
+      }
+    ],
+    "target": [
+      {
+        "player": "Langx",
+        "champion": "Mordekaiser"
+      }
+    ]
+  },
+  {
+    "timestamp": 2104000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 2110000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 2113000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2119000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2121000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2130000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

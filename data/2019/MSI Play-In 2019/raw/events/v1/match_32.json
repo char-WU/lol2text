@@ -1,0 +1,890 @@
+[
+  {
+    "timestamp": 203000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Lucian",
+      "Kindred",
+      "Braum"
+    ],
+    "victim": "Galio",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 204000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Palette",
+    "participants": [
+      "Galio",
+      "Kaisa"
+    ],
+    "victim": "Kindred",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 270000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kirei",
+    "participants": [
+      "Kindred",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Galio",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 425000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": "Kennen",
+    "target": "Ruin"
+  },
+  {
+    "timestamp": 431000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Palette",
+    "participants": [
+      "Galio",
+      "Kaisa"
+    ],
+    "victim": "Lucian",
+    "target": "Ellam"
+  },
+  {
+    "timestamp": 441000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kirei",
+    "participants": [
+      "Kindred",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Galio",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 602000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Hecarim",
+      "LeeSin",
+      "Kaisa",
+      "Galio"
+    ],
+    "victim": "Braum",
+    "target": "Japone"
+  },
+  {
+    "timestamp": 721000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 754000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin",
+      "Hecarim",
+      "Galio"
+    ],
+    "victim": "Kennen",
+    "target": "Ruin"
+  },
+  {
+    "timestamp": 760000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin",
+      "Hecarim",
+      "Galio"
+    ],
+    "victim": "Kindred",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 763000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir",
+      "Kennen",
+      "Kindred",
+      "Braum"
+    ],
+    "victim": "Hecarim",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 792000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 839000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Kirei",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 922000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruin",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": "Hecarim",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 930000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruin",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 936000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Zoe",
+      "Hecarim",
+      "LeeSin"
+    ],
+    "victim": "Kennen",
+    "target": "Ruin"
+  },
+  {
+    "timestamp": 952000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 986000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1026000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Hecarim",
+      "LeeSin"
+    ],
+    "victim": "Kennen",
+    "target": "Ruin"
+  },
+  {
+    "timestamp": 1152000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Galio"
+    ],
+    "victim": "Kindred",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 1158000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin",
+      "Zoe",
+      "Galio"
+    ],
+    "victim": "Braum",
+    "target": "Japone"
+  },
+  {
+    "timestamp": 1183000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1342000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruin",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": "Hecarim",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1353000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Galio"
+    ],
+    "victim": "Lucian",
+    "target": "Ellam"
+  },
+  {
+    "timestamp": 1371000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Zoe",
+      "Galio"
+    ],
+    "victim": "Azir",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 1374000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Zoe",
+      "Galio"
+    ],
+    "victim": "Kennen",
+    "target": "Ruin"
+  },
+  {
+    "timestamp": 1398000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1433000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1441000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir",
+      "Kindred",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Hecarim",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1449000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1490000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruin",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": "LeeSin",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 1491000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Zoe",
+      "LeeSin"
+    ],
+    "victim": "Kennen",
+    "target": "Ruin"
+  },
+  {
+    "timestamp": 1542000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Azir"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1604000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruin",
+    "participants": [
+      "Kennen",
+      "Kindred"
+    ],
+    "victim": "Hecarim",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1614000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1764000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kirei",
+    "participants": [
+      "Kindred",
+      "Kennen",
+      "Braum"
+    ],
+    "victim": "Hecarim",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1771000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1779000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1791000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Galio"
+    ],
+    "victim": "Kindred",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 1800000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Palette",
+    "participants": [
+      "Galio",
+      "LeeSin",
+      "Zoe",
+      "Kaisa"
+    ],
+    "victim": "Azir",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 1827000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": "Braum",
+    "target": "Japone"
+  },
+  {
+    "timestamp": 1835000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": "Lucian",
+    "target": "Ellam"
+  },
+  {
+    "timestamp": 1845000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1851000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1853000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1859000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1910000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1939000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": "Kennen",
+    "target": "Ruin"
+  },
+  {
+    "timestamp": 1955000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ellam",
+    "participants": [
+      "Lucian",
+      "Kindred",
+      "Azir",
+      "Braum"
+    ],
+    "victim": "LeeSin",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 1963000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Zoe",
+      "LeeSin"
+    ],
+    "victim": "Braum",
+    "target": "Japone"
+  },
+  {
+    "timestamp": 1967000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1980000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1985000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2012000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "Galio"
+    ],
+    "victim": "Kindred",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 2019000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruin",
+    "participants": [
+      "Kennen",
+      "Kindred",
+      "Azir"
+    ],
+    "victim": "Zoe",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 2022000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruin",
+    "participants": [
+      "Kennen",
+      "Kindred",
+      "Azir",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Kaisa",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 2030000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruin",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": "Galio",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 2050000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruin",
+    "participants": [
+      "Kennen",
+      "Braum"
+    ],
+    "victim": "Hecarim",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 2057000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruin",
+    "participants": [
+      "Kennen",
+      "Braum"
+    ],
+    "victim": "LeeSin",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 2159000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2166000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruin",
+    "participants": [
+      "Kennen",
+      "Azir"
+    ],
+    "victim": "Hecarim",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 2167000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Galio"
+    ],
+    "victim": "Kindred",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 2168000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin",
+      "Zoe"
+    ],
+    "victim": "Lucian",
+    "target": "Ellam"
+  },
+  {
+    "timestamp": 2186000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Zoe",
+      "Galio"
+    ],
+    "victim": "Braum",
+    "target": "Japone"
+  },
+  {
+    "timestamp": 2192000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Zoe",
+      "Galio"
+    ],
+    "victim": "Azir",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 2203000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Zoe",
+      "LeeSin",
+      "Kaisa"
+    ],
+    "victim": "Kennen",
+    "target": "Ruin"
+  },
+  {
+    "timestamp": 2209000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2210000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2218000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

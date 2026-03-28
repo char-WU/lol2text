@@ -1,0 +1,793 @@
+[
+  {
+    "timestamp": 122000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Violet",
+    "participants": [
+      "MissFortune",
+      "Rakan"
+    ],
+    "victim": "Lucian",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 175000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Babip",
+    "participants": [
+      "XinZhao",
+      "Ryze",
+      "Rakan"
+    ],
+    "victim": "Syndra",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 228000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Vulcan",
+    "participants": [
+      "Nami",
+      "Lucian"
+    ],
+    "victim": "MissFortune",
+    "target": "Violet"
+  },
+  {
+    "timestamp": 312000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tally",
+    "participants": [
+      "Ryze",
+      "XinZhao"
+    ],
+    "victim": "Nami",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 330000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Violet",
+    "participants": [
+      "MissFortune",
+      "XinZhao",
+      "Rakan"
+    ],
+    "victim": "Lucian",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 338000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 360000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Syndra",
+      "LeeSin",
+      "Nami"
+    ],
+    "victim": "Gnar",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 397000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Babip",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 520000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 535000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 536000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 570000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 626000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 631000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 631000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 682000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "LeeSin",
+      "Wukong"
+    ],
+    "victim": "Gnar",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 713000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 718000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Violet",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 794000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Syndra",
+      "LeeSin"
+    ],
+    "victim": "Ryze",
+    "target": "Tally"
+  },
+  {
+    "timestamp": 809000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 809000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 821000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Violet",
+    "participants": [
+      "MissFortune",
+      "Rakan"
+    ],
+    "victim": "Lucian",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 836000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 896000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Violet",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 973000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Babip",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1038000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1045000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Vizicsacsi",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1054000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Syndra",
+      "Nami"
+    ],
+    "victim": "XinZhao",
+    "target": "Babip"
+  },
+  {
+    "timestamp": 1078000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Lucian",
+      "Wukong",
+      "LeeSin",
+      "Syndra"
+    ],
+    "victim": "Ryze",
+    "target": "Tally"
+  },
+  {
+    "timestamp": 1085000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Violet",
+    "participants": [
+      "MissFortune",
+      "Gnar"
+    ],
+    "victim": "Wukong",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 1089000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Violet",
+    "participants": [
+      "MissFortune",
+      "Ryze"
+    ],
+    "victim": "Lucian",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 1093000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Syndra",
+      "Nami"
+    ],
+    "victim": "MissFortune",
+    "target": "Violet"
+  },
+  {
+    "timestamp": 1185000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Violet",
+    "participants": [
+      "MissFortune",
+      "XinZhao"
+    ],
+    "victim": "Nami",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1227000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Tally",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1339000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Wukong",
+      "LeeSin",
+      "Nami"
+    ],
+    "victim": "XinZhao",
+    "target": "Babip"
+  },
+  {
+    "timestamp": 1351000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Syndra",
+      "Wukong",
+      "LeeSin",
+      "Lucian",
+      "Nami"
+    ],
+    "victim": "Gnar",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 1375000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1420000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1487000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Lucian",
+      "Nami"
+    ],
+    "victim": "Ryze",
+    "target": "Tally"
+  },
+  {
+    "timestamp": 1492000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "LeeSin",
+      "Wukong",
+      "Syndra",
+      "Nami"
+    ],
+    "victim": "Rakan",
+    "target": "Ally"
+  },
+  {
+    "timestamp": 1494000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Wukong",
+      "LeeSin",
+      "Nami"
+    ],
+    "victim": "MissFortune",
+    "target": "Violet"
+  },
+  {
+    "timestamp": 1494000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Violet",
+    "participants": [
+      "MissFortune",
+      "Gnar",
+      "XinZhao",
+      "Rakan"
+    ],
+    "victim": "LeeSin",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1505000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Wukong",
+      "LeeSin",
+      "Nami"
+    ],
+    "victim": "XinZhao",
+    "target": "Babip"
+  },
+  {
+    "timestamp": 1507000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Wukong",
+      "Lucian",
+      "Nami"
+    ],
+    "victim": "Gnar",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 1541000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tally",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": "Nami",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1543000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tally",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": "Lucian",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 1546000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Wukong",
+      "Lucian",
+      "Nami"
+    ],
+    "victim": "Ryze",
+    "target": "Tally"
+  },
+  {
+    "timestamp": 1607000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Wukong",
+      "LeeSin",
+      "Syndra",
+      "Nami"
+    ],
+    "victim": "Gnar",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 1634000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Violet",
+    "participants": [
+      "MissFortune",
+      "Ryze",
+      "Rakan"
+    ],
+    "victim": "Lucian",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 1680000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Tally",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1729000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Wukong"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1800000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Lucian",
+      "LeeSin",
+      "Syndra",
+      "Nami"
+    ],
+    "victim": "XinZhao",
+    "target": "Babip"
+  },
+  {
+    "timestamp": 1882000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1973000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Syndra",
+      "Lucian",
+      "Nami"
+    ],
+    "victim": "Rakan",
+    "target": "Ally"
+  },
+  {
+    "timestamp": 1974000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Wukong",
+      "LeeSin",
+      "Syndra",
+      "Lucian",
+      "Nami"
+    ],
+    "victim": "XinZhao",
+    "target": "Babip"
+  },
+  {
+    "timestamp": 1981000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Wukong",
+      "LeeSin",
+      "Syndra",
+      "Lucian",
+      "Nami"
+    ],
+    "victim": "Gnar",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 1982000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Lucian",
+      "Wukong",
+      "LeeSin",
+      "Syndra",
+      "Nami"
+    ],
+    "victim": "Ryze",
+    "target": "Tally"
+  },
+  {
+    "timestamp": 1998000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2004000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2007000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2013000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2016000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Vulcan",
+    "participants": [
+      "Nami"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2026000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

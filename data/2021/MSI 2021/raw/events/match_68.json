@@ -1,0 +1,543 @@
+[
+  {
+    "timestamp": 337000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SaNTaS",
+    "participants": [
+      "Galio",
+      "Udyr",
+      "Kaisa"
+    ],
+    "victim": "Rakan",
+    "target": "Decoy"
+  },
+  {
+    "timestamp": 340000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Samira",
+      "Morgana",
+      "Rakan"
+    ],
+    "victim": "Udyr",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 414000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "SaNTaS",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 457000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chazz",
+    "participants": [
+      "LeeSin",
+      "Gnar",
+      "Morgana"
+    ],
+    "victim": "Viktor",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 541000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 565000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Udyr",
+      "Jayce"
+    ],
+    "victim": "Gnar",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 573000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chazz",
+    "participants": [
+      "LeeSin",
+      "Morgana",
+      "Samira",
+      "Rakan"
+    ],
+    "victim": "Kaisa",
+    "target": "Lodik"
+  },
+  {
+    "timestamp": 584000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Samira",
+      "Morgana",
+      "LeeSin",
+      "Rakan"
+    ],
+    "victim": "Galio",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 590000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "BOSS",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 743000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 928000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "BOSS",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 937000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 942000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Samira",
+      "Gnar",
+      "Morgana",
+      "LeeSin",
+      "Rakan"
+    ],
+    "victim": "Udyr",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 942000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chazz",
+    "participants": [
+      "LeeSin",
+      "Gnar",
+      "Morgana",
+      "Samira",
+      "Rakan"
+    ],
+    "victim": "Viktor",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 947000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Samira",
+      "Gnar",
+      "Morgana",
+      "LeeSin",
+      "Rakan"
+    ],
+    "victim": "Galio",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1034000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1052000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Nomanz",
+    "participants": [
+      "Viktor"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1055000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1118000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "BOSS",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1143000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BOSS",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": "LeeSin",
+    "target": "Chazz"
+  },
+  {
+    "timestamp": 1167000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BioPanther",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1354000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nomanz",
+    "participants": [
+      "Viktor",
+      "Jayce",
+      "Udyr",
+      "Galio"
+    ],
+    "victim": "Gnar",
+    "target": "BioPanther"
+  },
+  {
+    "timestamp": 1356000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Samira",
+      "Gnar",
+      "Morgana",
+      "Rakan"
+    ],
+    "victim": "Jayce",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1361000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Samira",
+      "Gnar",
+      "Morgana",
+      "LeeSin",
+      "Rakan"
+    ],
+    "victim": "Udyr",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1362000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Samira",
+      "Gnar",
+      "Morgana",
+      "LeeSin",
+      "Rakan"
+    ],
+    "victim": "Galio",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1389000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Lodik",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1390000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1454000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Samira"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1492000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Chazz",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1664000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Morgana",
+      "Samira",
+      "Rakan"
+    ],
+    "victim": "Viktor",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1697000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Samira"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1706000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1850000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Morgana",
+      "LeeSin",
+      "Rakan"
+    ],
+    "victim": "Jayce",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1850000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Decoy",
+    "participants": [
+      "Rakan",
+      "Gnar",
+      "Morgana",
+      "Samira"
+    ],
+    "victim": "Galio",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1852000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Samira",
+      "Gnar",
+      "Morgana",
+      "LeeSin",
+      "Rakan"
+    ],
+    "victim": "Kaisa",
+    "target": "Lodik"
+  },
+  {
+    "timestamp": 1854000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Samira",
+      "Morgana",
+      "LeeSin",
+      "Rakan"
+    ],
+    "victim": "Viktor",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1869000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Samira"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1873000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Pabu",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1884000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1885000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Praedyth",
+    "participants": [
+      "Samira"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1896000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

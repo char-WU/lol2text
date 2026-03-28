@@ -1,0 +1,628 @@
+[
+  {
+    "timestamp": 131000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "JarvanIV",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Galio",
+    "target": "Mata"
+  },
+  {
+    "timestamp": 137000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin",
+      "Kalista",
+      "Galio"
+    ],
+    "victim": "JarvanIV",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 185000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin",
+      "Kalista"
+    ],
+    "victim": "Varus",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 407000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 519000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Gangplank",
+      "JarvanIV",
+      "Ryze"
+    ],
+    "victim": "LeeSin",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 523000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mata",
+    "participants": [
+      "Galio",
+      "LeeSin",
+      "Akali"
+    ],
+    "victim": "JarvanIV",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 621000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 631000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 690000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Akali",
+      "Sylas",
+      "LeeSin",
+      "Galio"
+    ],
+    "victim": "TahmKench",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 709000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin",
+      "Sylas",
+      "Galio"
+    ],
+    "victim": "JarvanIV",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 709000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Varus",
+      "Gangplank",
+      "JarvanIV"
+    ],
+    "victim": "Sylas",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 749000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1006000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1073000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1085000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Kalista",
+      "Galio"
+    ],
+    "victim": "Varus",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1099000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Kalista",
+      "Sylas",
+      "LeeSin",
+      "Galio"
+    ],
+    "victim": "TahmKench",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1099000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Akali",
+      "LeeSin"
+    ],
+    "victim": "Ryze",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1256000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Akali",
+      "Galio"
+    ],
+    "victim": "Varus",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1258000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Kalista",
+      "LeeSin",
+      "Galio"
+    ],
+    "victim": "JarvanIV",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1258000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Akali",
+      "LeeSin",
+      "Kalista",
+      "Galio"
+    ],
+    "victim": "TahmKench",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1262000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Gangplank",
+      "JarvanIV",
+      "Ryze",
+      "Varus"
+    ],
+    "victim": "Galio",
+    "target": "Mata"
+  },
+  {
+    "timestamp": 1274000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Ryze",
+      "Gangplank"
+    ],
+    "victim": "Sylas",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1275000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin",
+      "Sylas",
+      "Akali",
+      "Kalista",
+      "Galio"
+    ],
+    "victim": "Gangplank",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1294000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin",
+      "Kalista"
+    ],
+    "victim": "Ryze",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1296000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Akali"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1400000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1607000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1622000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mata",
+    "participants": [
+      "Galio",
+      "Sylas",
+      "LeeSin",
+      "Akali",
+      "Kalista"
+    ],
+    "victim": "JarvanIV",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1630000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Varus",
+      "Ryze",
+      "TahmKench"
+    ],
+    "victim": "LeeSin",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1651000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Akali"
+    ],
+    "victim": "Gangplank",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1656000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1664000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Sylas",
+      "Kalista"
+    ],
+    "victim": "TahmKench",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1720000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1751000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1775000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Akali"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1777000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Gangplank",
+      "JarvanIV",
+      "Ryze"
+    ],
+    "victim": "Sylas",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1778000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1782000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Akali",
+      "Sylas",
+      "Galio"
+    ],
+    "victim": "Ryze",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1784000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Varus",
+      "Gangplank",
+      "JarvanIV",
+      "TahmKench"
+    ],
+    "victim": "Galio",
+    "target": "Mata"
+  },
+  {
+    "timestamp": 1788000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Akali"
+    ],
+    "victim": "Varus",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1790000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin",
+      "Sylas",
+      "Akali",
+      "Galio"
+    ],
+    "victim": "Gangplank",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1791000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Faker",
+    "participants": [
+      "Akali",
+      "Sylas",
+      "LeeSin",
+      "Galio"
+    ],
+    "victim": "JarvanIV",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1792000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Kalista",
+      "Akali",
+      "Galio"
+    ],
+    "victim": "TahmKench",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1804000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1810000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Clid",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1815000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1818000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Teddy",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1829000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

@@ -1,0 +1,878 @@
+[
+  {
+    "timestamp": 694000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Tarzan",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 726000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Viper",
+    "participants": [
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "KogMaw",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 733000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Sw0rd",
+    "participants": [
+      "Gnar",
+      "Elise",
+      "Poppy",
+      "Garen"
+    ],
+    "victim": "Lulu",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 927000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Tarzan",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 936000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw",
+      "Yasuo",
+      "Gragas",
+      "Lulu"
+    ],
+    "victim": "Elise",
+    "target": "Tarzan"
+  },
+  {
+    "timestamp": 939000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Qiyana",
+      "Yasuo",
+      "Gragas",
+      "KogMaw",
+      "Lulu"
+    ],
+    "victim": "Garen",
+    "target": "Viper"
+  },
+  {
+    "timestamp": 940000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw",
+      "Yasuo",
+      "Gragas",
+      "Qiyana",
+      "Lulu"
+    ],
+    "victim": "Gnar",
+    "target": "Sw0rd"
+  },
+  {
+    "timestamp": 942000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw",
+      "Gragas",
+      "Lulu"
+    ],
+    "victim": "Poppy",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 945000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Baolan",
+    "participants": [
+      "Lulu",
+      "Yasuo",
+      "Gragas",
+      "KogMaw"
+    ],
+    "victim": "Yuumi",
+    "target": "Lehends"
+  },
+  {
+    "timestamp": 958000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 970000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Yasuo"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1032000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Ning",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1047000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Tarzan",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1056000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1202000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Yasuo",
+      "Qiyana"
+    ],
+    "victim": "Gnar",
+    "target": "Sw0rd"
+  },
+  {
+    "timestamp": 1206000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Viper",
+    "participants": [
+      "Garen",
+      "Elise",
+      "Yuumi"
+    ],
+    "victim": "KogMaw",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1207000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tarzan",
+    "participants": [
+      "Elise",
+      "Poppy",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Gragas",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 1376000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Yasuo"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1396000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tarzan",
+    "participants": [
+      "Elise",
+      "Gnar",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Yasuo",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 1435000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Sw0rd",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1498000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Sw0rd",
+    "participants": [
+      "Gnar",
+      "Elise",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "KogMaw",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1523000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chovy",
+    "participants": [
+      "Poppy",
+      "Gnar",
+      "Elise",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Qiyana",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 1687000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tarzan",
+    "participants": [
+      "Elise",
+      "Gnar"
+    ],
+    "victim": "Qiyana",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 1696000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Tarzan",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1856000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Viper",
+    "participants": [
+      "Garen",
+      "Gnar",
+      "Elise",
+      "Yuumi"
+    ],
+    "victim": "Gragas",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 1859000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw",
+      "Yasuo",
+      "Gragas",
+      "Qiyana",
+      "Lulu"
+    ],
+    "victim": "Gnar",
+    "target": "Sw0rd"
+  },
+  {
+    "timestamp": 1862000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw",
+      "Yasuo",
+      "Qiyana",
+      "Lulu"
+    ],
+    "victim": "Elise",
+    "target": "Tarzan"
+  },
+  {
+    "timestamp": 1863000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw",
+      "Yasuo",
+      "Gragas",
+      "Qiyana",
+      "Lulu"
+    ],
+    "victim": "Garen",
+    "target": "Viper"
+  },
+  {
+    "timestamp": 1864000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lehends",
+    "participants": [
+      "Yuumi",
+      "Gnar",
+      "Poppy",
+      "Garen"
+    ],
+    "victim": "KogMaw",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1865000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw",
+      "Yasuo",
+      "Gragas",
+      "Qiyana",
+      "Lulu"
+    ],
+    "victim": "Yuumi",
+    "target": "Lehends"
+  },
+  {
+    "timestamp": 1868000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Qiyana",
+      "Yasuo",
+      "KogMaw",
+      "Lulu"
+    ],
+    "victim": "Poppy",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 1891000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1947000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tarzan",
+    "participants": [
+      "Elise",
+      "Gnar",
+      "Poppy",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "KogMaw",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1951000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw",
+      "Yasuo",
+      "Gragas",
+      "Lulu"
+    ],
+    "victim": "Poppy",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 1956000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tarzan",
+    "participants": [
+      "Elise",
+      "Gnar",
+      "Poppy",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Gragas",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 1956000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Yasuo",
+      "Gragas",
+      "KogMaw",
+      "Lulu"
+    ],
+    "victim": "Elise",
+    "target": "Tarzan"
+  },
+  {
+    "timestamp": 1961000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Viper",
+    "participants": [
+      "Garen",
+      "Gnar",
+      "Poppy",
+      "Yuumi"
+    ],
+    "victim": "Yasuo",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 1998000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Lehends",
+    "participants": [
+      "Yuumi"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 2010000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Viper",
+    "participants": [
+      "Garen",
+      "Poppy",
+      "Yuumi"
+    ],
+    "victim": "KogMaw",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 2035000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Tarzan",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2339000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Qiyana",
+      "Gragas",
+      "KogMaw",
+      "Lulu"
+    ],
+    "victim": "Gnar",
+    "target": "Sw0rd"
+  },
+  {
+    "timestamp": 2359000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Ning",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2384000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tarzan",
+    "participants": [
+      "Elise",
+      "Yuumi"
+    ],
+    "victim": "Gragas",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 2385000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Chovy",
+    "participants": [
+      "Poppy",
+      "Elise",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Lulu",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 2396000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Yasuo",
+      "Qiyana",
+      "KogMaw",
+      "Lulu"
+    ],
+    "victim": "Garen",
+    "target": "Viper"
+  },
+  {
+    "timestamp": 2409000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Qiyana"
+    ],
+    "victim": "Poppy",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 2436000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2440000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw",
+      "Qiyana"
+    ],
+    "victim": "Gnar",
+    "target": "Sw0rd"
+  },
+  {
+    "timestamp": 2496000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2506000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2518000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2549000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 2574000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Yasuo"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 2578000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 2591000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw",
+      "Yasuo",
+      "Gragas",
+      "Lulu"
+    ],
+    "victim": "Garen",
+    "target": "Viper"
+  },
+  {
+    "timestamp": 2595000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Qiyana",
+      "Yasuo",
+      "Gragas",
+      "KogMaw",
+      "Lulu"
+    ],
+    "victim": "Poppy",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 2595000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tarzan",
+    "participants": [
+      "Elise",
+      "Gnar",
+      "Poppy",
+      "Garen",
+      "Yuumi"
+    ],
+    "victim": "Gragas",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 2603000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Qiyana",
+      "Gragas",
+      "KogMaw",
+      "Lulu"
+    ],
+    "victim": "Gnar",
+    "target": "Sw0rd"
+  },
+  {
+    "timestamp": 2609000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2614000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2618000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Yasuo"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2622000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tarzan",
+    "participants": [
+      "Elise"
+    ],
+    "victim": "Qiyana",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 2622000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw",
+      "Qiyana",
+      "Lulu"
+    ],
+    "victim": "Elise",
+    "target": "Tarzan"
+  },
+  {
+    "timestamp": 2624000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "KogMaw",
+      "Lulu"
+    ],
+    "victim": "Yuumi",
+    "target": "Lehends"
+  },
+  {
+    "timestamp": 2633000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

@@ -1,0 +1,885 @@
+[
+  {
+    "timestamp": 213000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Camille",
+      "Lillia"
+    ],
+    "victim": "Sett",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 215000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves",
+      "Sett"
+    ],
+    "victim": "Camille",
+    "target": "Zoom"
+  },
+  {
+    "timestamp": 243000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Camille",
+      "Lillia"
+    ],
+    "victim": "Galio",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 273000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Camille",
+      "TwistedFate"
+    ],
+    "victim": "Galio",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 464000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Kanavi",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 498000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 603000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 700000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves",
+      "Kalista",
+      "Alistar"
+    ],
+    "victim": "Bard",
+    "target": "LvMao"
+  },
+  {
+    "timestamp": 733000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Sett",
+      "Galio"
+    ],
+    "victim": "Camille",
+    "target": "Zoom"
+  },
+  {
+    "timestamp": 734000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kanavi",
+    "participants": [
+      "Lillia",
+      "Camille",
+      "TwistedFate"
+    ],
+    "victim": "Sett",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 740000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kanavi",
+    "participants": [
+      "Lillia",
+      "Camille",
+      "TwistedFate"
+    ],
+    "victim": "Galio",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 778000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 849000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "LokeN",
+    "participants": [
+      "MissFortune",
+      "Lillia",
+      "Bard"
+    ],
+    "victim": "Alistar",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 861000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yagao",
+    "participants": [
+      "TwistedFate",
+      "Lillia",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "Graves",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 864000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Galio",
+      "Graves",
+      "Kalista",
+      "Alistar"
+    ],
+    "victim": "Lillia",
+    "target": "Kanavi"
+  },
+  {
+    "timestamp": 867000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yagao",
+    "participants": [
+      "TwistedFate",
+      "Lillia",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "Kalista",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 868000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Camille",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "Sett",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 907000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "LokeN",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 936000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 980000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kanavi",
+    "participants": [
+      "Lillia",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "Graves",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 987000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Galio",
+      "Graves",
+      "Kalista",
+      "Alistar"
+    ],
+    "victim": "Lillia",
+    "target": "Kanavi"
+  },
+  {
+    "timestamp": 988000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Camille",
+      "Lillia",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "Galio",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 994000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Camille",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "Alistar",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1021000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1040000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Sett"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1086000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1146000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Sett",
+      "Graves",
+      "Alistar"
+    ],
+    "victim": "Bard",
+    "target": "LvMao"
+  },
+  {
+    "timestamp": 1158000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kalista",
+      "Sett",
+      "Graves",
+      "Galio",
+      "Alistar"
+    ],
+    "victim": "Camille",
+    "target": "Zoom"
+  },
+  {
+    "timestamp": 1163000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kanavi",
+    "participants": [
+      "Lillia",
+      "Camille",
+      "TwistedFate",
+      "MissFortune"
+    ],
+    "victim": "Sett",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 1254000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Sett",
+      "Galio"
+    ],
+    "victim": "Camille",
+    "target": "Zoom"
+  },
+  {
+    "timestamp": 1273000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves",
+      "Sett",
+      "Galio",
+      "Kalista",
+      "Alistar"
+    ],
+    "victim": "MissFortune",
+    "target": "LokeN"
+  },
+  {
+    "timestamp": 1275000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Alistar",
+      "Graves",
+      "Kalista"
+    ],
+    "victim": "Lillia",
+    "target": "Kanavi"
+  },
+  {
+    "timestamp": 1321000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yagao",
+    "participants": [
+      "TwistedFate",
+      "Bard"
+    ],
+    "victim": "Galio",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 1327000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1337000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yagao",
+    "participants": [
+      "TwistedFate",
+      "Lillia",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "Sett",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 1338000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Camille",
+      "TwistedFate",
+      "Bard"
+    ],
+    "victim": "Kalista",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 1352000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "LokeN",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1365000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1403000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1456000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "LokeN",
+    "participants": [
+      "MissFortune",
+      "Camille",
+      "TwistedFate",
+      "Bard"
+    ],
+    "victim": "Kalista",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 1461000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kanavi",
+    "participants": [
+      "Lillia",
+      "Camille",
+      "TwistedFate",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "Alistar",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1492000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Yagao",
+    "participants": [
+      "TwistedFate"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1596000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Alistar",
+      "Graves"
+    ],
+    "victim": "TwistedFate",
+    "target": "Yagao"
+  },
+  {
+    "timestamp": 1766000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Galio",
+      "Sett",
+      "Graves",
+      "Kalista",
+      "Alistar"
+    ],
+    "victim": "MissFortune",
+    "target": "LokeN"
+  },
+  {
+    "timestamp": 1770000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Camille",
+      "Lillia",
+      "TwistedFate",
+      "Bard"
+    ],
+    "victim": "Kalista",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 1773000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Galio",
+      "Sett",
+      "Graves",
+      "Kalista",
+      "Alistar"
+    ],
+    "victim": "Lillia",
+    "target": "Kanavi"
+  },
+  {
+    "timestamp": 1775000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves",
+      "Kalista"
+    ],
+    "victim": "Bard",
+    "target": "LvMao"
+  },
+  {
+    "timestamp": 1780000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Camille",
+      "Lillia",
+      "TwistedFate",
+      "Bard"
+    ],
+    "victim": "Sett",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 1782000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Galio",
+      "Sett",
+      "Kalista",
+      "Alistar"
+    ],
+    "victim": "TwistedFate",
+    "target": "Yagao"
+  },
+  {
+    "timestamp": 1792000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Alistar",
+      "Graves",
+      "Galio"
+    ],
+    "victim": "Camille",
+    "target": "Zoom"
+  },
+  {
+    "timestamp": 1792000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Camille"
+    ],
+    "victim": "Graves",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 1836000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1861000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Kanavi",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1872000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1935000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1945000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Yagao",
+    "participants": [
+      "TwistedFate"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1998000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Kanavi",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 2178000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Camille",
+      "Lillia",
+      "TwistedFate",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "Sett",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 2184000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kanavi",
+    "participants": [
+      "Lillia",
+      "TwistedFate",
+      "Bard"
+    ],
+    "victim": "Alistar",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 2185000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Camille",
+      "Lillia",
+      "TwistedFate",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "Galio",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 2193000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yagao",
+    "participants": [
+      "TwistedFate",
+      "Camille",
+      "MissFortune",
+      "Bard"
+    ],
+    "victim": "Kalista",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 2198000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "LokeN",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2202000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "LokeN",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2210000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves"
+    ],
+    "victim": "Lillia",
+    "target": "Kanavi"
+  },
+  {
+    "timestamp": 2214000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves"
+    ],
+    "victim": "Camille",
+    "target": "Zoom"
+  },
+  {
+    "timestamp": 2221000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

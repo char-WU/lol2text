@@ -1,0 +1,1256 @@
+[
+  {
+    "timestamp": 336000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Pantheon"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 505000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "Karma"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 625000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ]
+  },
+  {
+    "timestamp": 626000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mithy",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mithy",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 626000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 634000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nukeduck",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nukeduck",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Pantheon"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 637000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 725000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      },
+      {
+        "player": "Mithy",
+        "champion": "Pantheon"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 834000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 855000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 867000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 943000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ]
+  },
+  {
+    "timestamp": 972000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1050000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1166000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ]
+  },
+  {
+    "timestamp": 1170000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mithy",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mithy",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1175000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alphari",
+        "champion": "Karma"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alphari",
+        "champion": "Karma"
+      }
+    ]
+  },
+  {
+    "timestamp": 1181000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1192000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1275000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1282000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1285000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nukeduck",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nukeduck",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1328000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ]
+  },
+  {
+    "timestamp": 1328000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      },
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1338000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "participants": [
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      },
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nukeduck",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nukeduck",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1339000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mithy",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mithy",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1361000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alphari",
+        "champion": "Karma"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alphari",
+        "champion": "Karma"
+      }
+    ]
+  },
+  {
+    "timestamp": 1380000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1419000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ]
+  },
+  {
+    "timestamp": 1428000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1439000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1451000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1464000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1477000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1489000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1500000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kold",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1502000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Lux"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mithy",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mithy",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1503000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      },
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Patrik",
+        "champion": "Taliyah"
+      }
+    ]
+  },
+  {
+    "timestamp": 1507000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      },
+      {
+        "player": "Impact",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nukeduck",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nukeduck",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1514000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1527000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

@@ -1,0 +1,681 @@
+[
+  {
+    "timestamp": 304000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Rakan",
+      "Xayah"
+    ],
+    "victim": "Olaf",
+    "target": "Leyan"
+  },
+  {
+    "timestamp": 470000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Xayah",
+      "Gangplank",
+      "Gragas",
+      "Rakan"
+    ],
+    "victim": "Kaisa",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 474000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Leyan",
+    "participants": [
+      "Olaf",
+      "Kaisa",
+      "Fiddlesticks"
+    ],
+    "victim": "Rakan",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 475000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas",
+      "Gangplank",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Olaf",
+    "target": "Leyan"
+  },
+  {
+    "timestamp": 573000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "RooKie",
+    "participants": [
+      "Orianna",
+      "Kaisa",
+      "Fiddlesticks"
+    ],
+    "victim": "Xayah",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 590000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Leyan",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 598000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas",
+      "Gangplank"
+    ],
+    "victim": "Vladimir",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 741000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "RooKie",
+    "participants": [
+      "Orianna",
+      "Olaf",
+      "Fiddlesticks"
+    ],
+    "victim": "Gragas",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 760000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Rakan",
+      "Xayah"
+    ],
+    "victim": "Orianna",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 770000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Xayah",
+      "Akali",
+      "Rakan"
+    ],
+    "victim": "Fiddlesticks",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 847000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 867000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 870000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 879000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "TheShy",
+    "participants": [
+      "Vladimir"
+    ],
+    "victim": "Gragas",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 901000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Leyan",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 918000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1032000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1161000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Akali",
+      "Rakan"
+    ],
+    "victim": "Fiddlesticks",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 1192000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "TheShy",
+    "participants": [
+      "Vladimir"
+    ],
+    "victim": "Gangplank",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1220000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "TheShy",
+    "participants": [
+      "Vladimir"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1247000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1297000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Kaisa",
+      "Olaf",
+      "Fiddlesticks"
+    ],
+    "victim": "Rakan",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1300000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": "Fiddlesticks",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 1308000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Xayah",
+      "Gangplank",
+      "Gragas"
+    ],
+    "victim": "Olaf",
+    "target": "Leyan"
+  },
+  {
+    "timestamp": 1308000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "RooKie",
+    "participants": [
+      "Orianna",
+      "Vladimir"
+    ],
+    "victim": "Xayah",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1312000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "Gragas",
+      "Akali"
+    ],
+    "victim": "Kaisa",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1327000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "RooKie",
+    "participants": [
+      "Orianna",
+      "Vladimir"
+    ],
+    "victim": "Gragas",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1465000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "RooKie",
+    "participants": [
+      "Orianna",
+      "Kaisa"
+    ],
+    "victim": "Gangplank",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1566000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Leyan",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1570000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1579000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1592000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1630000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Gangplank"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1859000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Leyan",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1868000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "TheShy",
+    "participants": [
+      "Vladimir",
+      "Orianna",
+      "Fiddlesticks"
+    ],
+    "victim": "Rakan",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1869000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Baolan",
+    "participants": [
+      "Fiddlesticks",
+      "Vladimir",
+      "Orianna"
+    ],
+    "victim": "Gragas",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1871000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Baolan",
+    "participants": [
+      "Fiddlesticks",
+      "Vladimir",
+      "Orianna"
+    ],
+    "victim": "Xayah",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1876000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Kaisa",
+      "Olaf",
+      "Orianna",
+      "Fiddlesticks"
+    ],
+    "victim": "Gangplank",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1901000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Leyan",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1906000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1913000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1920000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1922000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1924000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1964000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2003000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "RooKie",
+    "participants": [
+      "Orianna",
+      "Vladimir",
+      "Kaisa"
+    ],
+    "victim": "Rakan",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 2005000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "TheShy",
+    "participants": [
+      "Vladimir",
+      "Orianna",
+      "Fiddlesticks"
+    ],
+    "victim": "Gangplank",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 2005000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Kaisa",
+      "Vladimir",
+      "Orianna"
+    ],
+    "victim": "Xayah",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 2005000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Xayah",
+      "Gangplank",
+      "Gragas",
+      "Akali",
+      "Rakan"
+    ],
+    "victim": "Vladimir",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 2007000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2009000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Leyan",
+    "participants": [
+      "Olaf",
+      "Vladimir",
+      "Orianna",
+      "Kaisa",
+      "Fiddlesticks"
+    ],
+    "victim": "Akali",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 2013000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Baolan",
+    "participants": [
+      "Fiddlesticks"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2017000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Leyan",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2027000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

@@ -1,0 +1,1892 @@
+[
+  {
+    "timestamp": 308000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 382000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 407000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 503000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 505000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 554000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 563000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 616000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 623000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 636000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 941000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 943000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 947000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 966000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 974000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 984000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 998000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1002000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1006000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1011000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1059000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1266000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1285000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1315000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1372000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1410000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1414000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1418000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1428000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1459000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1534000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1600000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1601000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1603000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1611000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1628000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1698000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1700000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1703000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1703000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1703000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1716000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1721000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1753000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1767000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1844000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1866000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1873000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1874000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1882000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1909000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1912000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1915000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1930000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Wunder",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Jankos",
+        "champion": "Graves"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mikyx",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1930000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Life",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Caps",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1935000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

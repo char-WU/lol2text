@@ -1,0 +1,519 @@
+[
+  {
+    "timestamp": 427000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Evelynn",
+      "TwistedFate",
+      "Zed",
+      "Yuumi"
+    ],
+    "victim": "Sona",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 439000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "LeeSin",
+      "Sejuani",
+      "Akali",
+      "Taric"
+    ],
+    "victim": "Shyvana",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 661000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "TwistedFate",
+      "Shyvana",
+      "Evelynn"
+    ],
+    "victim": "Sejuani",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 700000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Evelynn"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 800000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Evelynn"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 818000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Evelynn"
+    ],
+    "victim": "Akali",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 863000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Akali",
+      "Sejuani",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "TwistedFate",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 868000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 879000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 889000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "LeeSin",
+      "Akali",
+      "Sona"
+    ],
+    "victim": "Zed",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 898000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 997000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Akali",
+      "LeeSin",
+      "Taric"
+    ],
+    "victim": "Zed",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1012000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Sona",
+      "Sejuani",
+      "Taric"
+    ],
+    "victim": "TwistedFate",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1035000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Evelynn",
+      "Yuumi"
+    ],
+    "victim": "LeeSin",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1062000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Evelynn",
+      "Shyvana",
+      "Yuumi"
+    ],
+    "victim": "Taric",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1068000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Shyvana",
+      "Yuumi"
+    ],
+    "victim": "Sona",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1185000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Sejuani",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "Shyvana",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1187000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Sejuani",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "Zed",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1197000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Sona",
+      "Sejuani",
+      "LeeSin",
+      "Taric"
+    ],
+    "victim": "Yuumi",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1200000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Sona",
+      "Sejuani",
+      "LeeSin",
+      "Taric"
+    ],
+    "victim": "TwistedFate",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1236000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1245000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Akali",
+      "Sejuani",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "Evelynn",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1296000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Sona"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1306000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Taric"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1319000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Taric"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1325000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1326000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "TwistedFate"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1363000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Evelynn"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1393000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1398000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Akali",
+      "Sejuani",
+      "Sona"
+    ],
+    "victim": "Evelynn",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1419000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Sejuani"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1441000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Sona"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1445000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Sejuani",
+      "LeeSin",
+      "Akali",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "Zed",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1446000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "LeeSin",
+      "Sejuani",
+      "Akali",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "Shyvana",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1454000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Sona",
+      "Sejuani",
+      "LeeSin",
+      "Akali",
+      "Taric"
+    ],
+    "victim": "Yuumi",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1465000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Taric"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1470000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1472000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Akali",
+      "LeeSin",
+      "Sona",
+      "Taric"
+    ],
+    "victim": "TwistedFate",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1480000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1487000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

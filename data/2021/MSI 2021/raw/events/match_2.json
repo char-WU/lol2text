@@ -1,0 +1,617 @@
+[
+  {
+    "timestamp": 172000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "Udyr",
+      "Rell"
+    ],
+    "victim": "Tristana",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 179000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Udyr",
+      "Rell"
+    ],
+    "victim": "Leona",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 414000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Xerath",
+      "LeeSin",
+      "Morgana"
+    ],
+    "victim": "Jayce",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 423000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 542000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Jayce",
+      "Udyr",
+      "Orianna",
+      "Rell"
+    ],
+    "victim": "Tristana",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 542000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Morgana",
+      "LeeSin",
+      "Xerath",
+      "Leona"
+    ],
+    "victim": "Orianna",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 543000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Jayce",
+      "Udyr",
+      "Orianna",
+      "Rell"
+    ],
+    "victim": "LeeSin",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 549000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiaohu",
+    "participants": [
+      "Jayce",
+      "Udyr",
+      "Orianna"
+    ],
+    "victim": "Morgana",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 550000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "xiaohu",
+    "participants": [
+      "Jayce",
+      "Udyr",
+      "Orianna",
+      "Kaisa"
+    ],
+    "victim": "Leona",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 570000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 654000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Morgana",
+      "Tristana",
+      "Leona"
+    ],
+    "victim": "Rell",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 728000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "Leona"
+    ],
+    "victim": "Kaisa",
+    "target": "GALA"
+  },
+  {
+    "timestamp": 780000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Wei",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 900000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 912000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 963000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1100000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Xerath"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1114000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Morgana",
+      "Xerath"
+    ],
+    "victim": "Udyr",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 1114000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Morgana",
+      "LeeSin",
+      "Xerath",
+      "Tristana"
+    ],
+    "victim": "Orianna",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 1126000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Xerath"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1405000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Morgana",
+      "Xerath",
+      "Leona"
+    ],
+    "victim": "Orianna",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 1410000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Xerath",
+      "LeeSin",
+      "Morgana",
+      "Leona"
+    ],
+    "victim": "Jayce",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 1420000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Xerath"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1453000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1454000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "GALA",
+    "participants": [
+      "Kaisa",
+      "Udyr",
+      "Rell"
+    ],
+    "victim": "Leona",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1456000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Morgana",
+      "Xerath",
+      "Leona"
+    ],
+    "victim": "Udyr",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 1464000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Morgana",
+      "Xerath"
+    ],
+    "victim": "Rell",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 1466000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Xerath"
+    ],
+    "victim": "Kaisa",
+    "target": "GALA"
+  },
+  {
+    "timestamp": 1473000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "LeeSin",
+      "Morgana",
+      "Tristana"
+    ],
+    "victim": "Jayce",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 1475000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Morgana",
+      "Xerath"
+    ],
+    "victim": "Orianna",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 1491000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1550000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1638000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1700000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "LeeSin",
+      "Xerath"
+    ],
+    "victim": "Orianna",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 1713000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1733000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Xerath",
+      "LeeSin",
+      "Tristana",
+      "Leona"
+    ],
+    "victim": "Jayce",
+    "target": "xiaohu"
+  },
+  {
+    "timestamp": 1737000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1738000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Morgana",
+      "LeeSin",
+      "Xerath",
+      "Tristana",
+      "Leona"
+    ],
+    "victim": "Rell",
+    "target": "Ming"
+  },
+  {
+    "timestamp": 1739000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "LeeSin",
+      "Morgana",
+      "Xerath",
+      "Tristana",
+      "Leona"
+    ],
+    "victim": "Udyr",
+    "target": "Wei"
+  },
+  {
+    "timestamp": 1743000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "Morgana",
+      "Xerath",
+      "Leona"
+    ],
+    "victim": "Kaisa",
+    "target": "GALA"
+  },
+  {
+    "timestamp": 1745000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Xerath"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1757000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1762000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Xerath"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1764000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cryin",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": "Morgana",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 1769000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Morgana",
+      "Xerath"
+    ],
+    "victim": "Orianna",
+    "target": "Cryin"
+  },
+  {
+    "timestamp": 1775000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

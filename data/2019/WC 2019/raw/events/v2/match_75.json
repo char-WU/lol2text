@@ -1,0 +1,872 @@
+[
+  {
+    "timestamp": 445000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wako",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wako",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Ysera",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 505000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rainbow",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rainbow",
+        "champion": "Akali"
+      },
+      {
+        "player": "Alex",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 548000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alex",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alex",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 689000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alex",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alex",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 875000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1013000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wako",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wako",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1026000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ziv",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ziv",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1036000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1038000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alex",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alex",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1137000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rainbow",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rainbow",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1142000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alex",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alex",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1192000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Rainbow",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rainbow",
+        "champion": "Akali"
+      },
+      {
+        "player": "Wako",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1200000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rainbow",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rainbow",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 1208000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ysera",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ysera",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1232000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1256000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1352000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ysera",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ysera",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1356000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alex",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alex",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Ziv",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Wako",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1391000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1548000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1550000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ysera",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ysera",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1575000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1582000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1730000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alex",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alex",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1732000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ziv",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ziv",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1737000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ysera",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ysera",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1741000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Leyan",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wako",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wako",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1765000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1770000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1780000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

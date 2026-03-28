@@ -1,0 +1,680 @@
+[
+  {
+    "timestamp": 329000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Braum",
+      "Sejuani",
+      "Lucian"
+    ],
+    "victim": "Galio",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 331000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin",
+      "Galio"
+    ],
+    "victim": "Lucian",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 338000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Braum",
+      "Jayce",
+      "Sejuani",
+      "Lucian"
+    ],
+    "victim": "LeeSin",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 488000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Galio"
+    ],
+    "victim": "Lucian",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 619000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "LeBlanc",
+      "Galio"
+    ],
+    "victim": "Sejuani",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 648000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 678000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 687000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 709000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "Sejuani"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 800000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Sylas",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 828000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Galio"
+    ],
+    "victim": "Jayce",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 838000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 846000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Palette",
+    "participants": [
+      "Galio",
+      "LeeSin",
+      "LeBlanc"
+    ],
+    "victim": "Sejuani",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 856000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1045000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "Sejuani"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1049000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "Sylas",
+      "LeeSin",
+      "LeBlanc",
+      "Galio"
+    ],
+    "victim": "Jayce",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1050000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Braum",
+      "Jayce",
+      "Sejuani",
+      "Azir",
+      "Lucian"
+    ],
+    "victim": "Sylas",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1052000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Azir",
+      "Jayce",
+      "Sejuani",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Galio",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1057000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "LeBlanc",
+      "Galio"
+    ],
+    "victim": "Lucian",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1059000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "Sylas",
+      "LeeSin",
+      "LeBlanc",
+      "Galio"
+    ],
+    "victim": "Sejuani",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1062000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Azir",
+      "Jayce",
+      "Sejuani",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Kaisa",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1064000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "LeBlanc",
+      "LeeSin",
+      "Kaisa"
+    ],
+    "victim": "Azir",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1067000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin",
+      "LeBlanc",
+      "Kaisa"
+    ],
+    "victim": "Braum",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1175000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "Sejuani"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1384000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1400000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Azir",
+      "Jayce",
+      "Sejuani",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "LeBlanc",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1403000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Jayce",
+      "Sejuani",
+      "Azir",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Galio",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1438000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "Sejuani"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1500000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "Sejuani"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1541000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "LeBlanc",
+      "Galio"
+    ],
+    "victim": "Azir",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1546000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "Sylas",
+      "LeeSin",
+      "LeBlanc",
+      "Galio"
+    ],
+    "victim": "Sejuani",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1551000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Jayce",
+      "Sejuani",
+      "Azir",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Kaisa",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1553000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Lucian",
+      "Jayce",
+      "Azir",
+      "Braum"
+    ],
+    "victim": "Sylas",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1555000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Jayce",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Galio",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1560000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1566000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Braum"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1583000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1671000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "Sejuani"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1774000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1848000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Lucian",
+      "Sejuani",
+      "Azir",
+      "Braum"
+    ],
+    "victim": "Galio",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1860000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "LeBlanc",
+      "Sylas",
+      "LeeSin",
+      "Kaisa"
+    ],
+    "victim": "Lucian",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1861000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "Sejuani",
+      "Azir",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Sylas",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1864000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Azir",
+      "Jayce",
+      "Sejuani",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Kaisa",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1867000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Jayce",
+      "Sejuani",
+      "Azir",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "LeeSin",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 1879000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1888000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1895000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Azir"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1905000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Azir"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1915000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Azir",
+      "Sejuani",
+      "Braum"
+    ],
+    "victim": "Galio",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1920000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

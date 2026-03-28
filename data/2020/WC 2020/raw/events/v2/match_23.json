@@ -1,0 +1,1478 @@
+[
+  {
+    "timestamp": 54000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yagao",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yagao",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 58000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 334000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LokeN",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LokeN",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "target": [
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ]
+  },
+  {
+    "timestamp": 369000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 400000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 575000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 610000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 715000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 723000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      },
+      {
+        "player": "LokeN",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "target": [
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ]
+  },
+  {
+    "timestamp": 731000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yagao",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yagao",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 737000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 923000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 930000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 939000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 971000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1049000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1089000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1092000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1130000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1232000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1257000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LokeN",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LokeN",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1260000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      },
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Yagao",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "LokeN",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "target": [
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ]
+  },
+  {
+    "timestamp": 1265000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1268000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yagao",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yagao",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1269000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      },
+      {
+        "player": "LokeN",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1271000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      },
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Yagao",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "LokeN",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1282000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LokeN",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LokeN",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Yagao",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1318000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1321000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1322000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1361000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1577000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1592000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Yagao",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yagao",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1593000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1606000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1617000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1790000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1827000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1883000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1888000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1901000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1907000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1926000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1942000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1952000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LokeN",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "LokeN",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1953000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yagao",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yagao",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1955000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      },
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Pantheon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1955000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1961000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bin",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SofM",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Angel",
+        "champion": "Galio"
+      },
+      {
+        "player": "huanfeng",
+        "champion": "Jhin"
+      },
+      {
+        "player": "SwordArt",
+        "champion": "Bard"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1972000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

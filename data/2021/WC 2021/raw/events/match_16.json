@@ -1,0 +1,860 @@
+[
+  {
+    "timestamp": 133000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Life",
+    "participants": [
+      "Lulu",
+      "Aphelios"
+    ],
+    "victim": "Nautilus",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 157000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": "Kennen",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 497000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 502000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 510000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 541000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 565000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 582000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Kennen",
+      "XinZhao",
+      "Aatrox",
+      "Lulu"
+    ],
+    "victim": "JarvanIV",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 658000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 673000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 673000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 673000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 719000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 796000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 810000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Ziggs",
+      "LeeSin",
+      "Yasuo",
+      "Nautilus"
+    ],
+    "victim": "Aphelios",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 812000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": "LeeSin",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 815000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Kennen",
+      "Aatrox",
+      "Aphelios"
+    ],
+    "victim": "Nautilus",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 817000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "XinZhao",
+      "Kennen",
+      "Aphelios",
+      "Lulu"
+    ],
+    "victim": "Ziggs",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 818000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 822000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Aatrox",
+      "Kennen",
+      "XinZhao",
+      "Lulu"
+    ],
+    "victim": "Yasuo",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 826000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 931000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Aatrox",
+      "XinZhao",
+      "Aphelios",
+      "Lulu"
+    ],
+    "victim": "Nautilus",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 954000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 973000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "LeeSin",
+      "Ziggs"
+    ],
+    "victim": "Aphelios",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 986000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 996000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Ziggs"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1002000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1003000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1109000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "LeeSin",
+      "JarvanIV"
+    ],
+    "victim": "Kennen",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 1304000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Yasuo"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1321000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1448000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "XinZhao",
+      "Aphelios",
+      "Lulu"
+    ],
+    "victim": "LeeSin",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1453000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Yasuo",
+      "JarvanIV",
+      "Ziggs"
+    ],
+    "victim": "Aphelios",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 1454000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "JarvanIV",
+      "LeeSin",
+      "Yasuo",
+      "Ziggs",
+      "Nautilus"
+    ],
+    "victim": "XinZhao",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1468000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "JarvanIV",
+      "Ziggs"
+    ],
+    "victim": "Lulu",
+    "target": "Life"
+  },
+  {
+    "timestamp": 1469000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Yasuo",
+      "JarvanIV",
+      "Ziggs"
+    ],
+    "victim": "Kennen",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 1474000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Yasuo",
+      "JarvanIV",
+      "Ziggs",
+      "Nautilus"
+    ],
+    "victim": "Aatrox",
+    "target": "Bdd"
+  },
+  {
+    "timestamp": 1497000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1560000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1578000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Ziggs"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1604000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1612000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Ziggs"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1644000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1703000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Kennen",
+      "XinZhao",
+      "Lulu"
+    ],
+    "victim": "Nautilus",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1705000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Yasuo",
+      "JarvanIV",
+      "LeeSin",
+      "Ziggs",
+      "Nautilus"
+    ],
+    "victim": "Kennen",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 1708000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Aphelios",
+      "Kennen",
+      "XinZhao",
+      "Lulu"
+    ],
+    "victim": "Yasuo",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1971000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Aphelios",
+      "XinZhao",
+      "Lulu"
+    ],
+    "victim": "Yasuo",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1987000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1989000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 2016000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2140000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2176000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 2183000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Yasuo",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "Aatrox",
+    "target": "Bdd"
+  },
+  {
+    "timestamp": 2195000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 2201000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Aphelios",
+      "Kennen",
+      "XinZhao",
+      "Lulu"
+    ],
+    "victim": "Ziggs",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 2208000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2359000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2386000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2407000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 2412000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 2462000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2466000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2493000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2497000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": "Ziggs",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 2500000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Kennen",
+      "XinZhao",
+      "Aphelios",
+      "Lulu"
+    ],
+    "victim": "LeeSin",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 2505000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2509000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Kennen",
+      "XinZhao",
+      "Aatrox",
+      "Aphelios",
+      "Lulu"
+    ],
+    "victim": "Yasuo",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 2511000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "Aphelios",
+      "XinZhao",
+      "Aatrox",
+      "Lulu"
+    ],
+    "victim": "Nautilus",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 2519000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

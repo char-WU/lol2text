@@ -1,0 +1,650 @@
+[
+  {
+    "timestamp": 493000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Oddie",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": "Ekko",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 575000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Ezreal",
+      "Gragas"
+    ],
+    "victim": "Ekko",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 604000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Oddie",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 794000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Oddie",
+    "participants": [
+      "Gragas",
+      "Ryze",
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "Rakan",
+    "target": "Gaeng"
+  },
+  {
+    "timestamp": 799000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Gaeng",
+    "participants": [
+      "Rakan"
+    ],
+    "victim": "Leona",
+    "target": "Slow"
+  },
+  {
+    "timestamp": 804000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ceros",
+    "participants": [
+      "Karma"
+    ],
+    "victim": "Ryze",
+    "target": "seiya"
+  },
+  {
+    "timestamp": 915000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Leona",
+    "target": "Slow"
+  },
+  {
+    "timestamp": 922000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Kayle",
+      "Ekko",
+      "Karma"
+    ],
+    "victim": "Ezreal",
+    "target": "WARANGELUS"
+  },
+  {
+    "timestamp": 925000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": "Ekko",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 945000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Ryze",
+    "target": "seiya"
+  },
+  {
+    "timestamp": 967000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Buggax",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 981000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1067000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Kayle",
+      "Ekko",
+      "Karma"
+    ],
+    "victim": "Gragas",
+    "target": "Oddie"
+  },
+  {
+    "timestamp": 1069000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1088000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1185000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1195000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Ezreal",
+      "Gnar",
+      "Gragas",
+      "Leona"
+    ],
+    "victim": "Kayle",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 1202000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Xayah",
+      "Ekko",
+      "Karma",
+      "Rakan"
+    ],
+    "victim": "Leona",
+    "target": "Slow"
+  },
+  {
+    "timestamp": 1203000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Ekko",
+      "Karma",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Gragas",
+    "target": "Oddie"
+  },
+  {
+    "timestamp": 1205000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Xayah",
+      "Kayle",
+      "Ekko",
+      "Karma",
+      "Rakan"
+    ],
+    "victim": "Gnar",
+    "target": "Buggax"
+  },
+  {
+    "timestamp": 1209000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Ryze",
+      "Gragas",
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "Ekko",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 1214000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Ezreal",
+      "Gnar",
+      "Ryze",
+      "Leona"
+    ],
+    "victim": "Xayah",
+    "target": "Yutapon"
+  },
+  {
+    "timestamp": 1214000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ceros",
+    "participants": [
+      "Karma",
+      "Ekko",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Ezreal",
+    "target": "WARANGELUS"
+  },
+  {
+    "timestamp": 1236000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ceros",
+    "participants": [
+      "Karma",
+      "Rakan"
+    ],
+    "victim": "Ryze",
+    "target": "seiya"
+  },
+  {
+    "timestamp": 1333000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1517000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Kayle"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1629000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1666000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1816000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Kayle"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 2097000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2136000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Xayah",
+      "Kayle",
+      "Ekko",
+      "Karma",
+      "Rakan"
+    ],
+    "victim": "Gnar",
+    "target": "Buggax"
+  },
+  {
+    "timestamp": 2141000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Ezreal",
+      "Gragas",
+      "Ryze"
+    ],
+    "victim": "Kayle",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 2142000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Ryze",
+      "Gnar",
+      "Gragas",
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "Xayah",
+    "target": "Yutapon"
+  },
+  {
+    "timestamp": 2144000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Ryze",
+      "Leona"
+    ],
+    "victim": "Ekko",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 2172000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Ryze",
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "Karma",
+    "target": "Ceros"
+  },
+  {
+    "timestamp": 2173000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": "Rakan",
+    "target": "Gaeng"
+  },
+  {
+    "timestamp": 2192000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Oddie",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2256000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2259000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 2304000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2311000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Buggax",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 2312000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2332000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Ryze",
+      "Gnar",
+      "Gragas",
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "Kayle",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 2335000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Oddie",
+    "participants": [
+      "Gragas",
+      "Gnar",
+      "Ryze",
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "Xayah",
+    "target": "Yutapon"
+  },
+  {
+    "timestamp": 2341000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Ezreal",
+      "Gnar",
+      "Gragas",
+      "Ryze",
+      "Leona"
+    ],
+    "victim": "Rakan",
+    "target": "Gaeng"
+  },
+  {
+    "timestamp": 2344000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": "Karma",
+    "target": "Ceros"
+  },
+  {
+    "timestamp": 2348000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2355000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2360000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2369000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

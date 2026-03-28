@@ -1,0 +1,826 @@
+[
+  {
+    "timestamp": 356000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Ezreal",
+      "Lillia",
+      "Nautilus"
+    ],
+    "victim": "Alistar",
+    "target": "Isles"
+  },
+  {
+    "timestamp": 370000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Raes",
+    "participants": [
+      "Jhin",
+      "Ornn",
+      "Graves",
+      "Galio",
+      "Alistar"
+    ],
+    "victim": "Ezreal",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 372000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Topoon",
+    "participants": [
+      "Ornn",
+      "Graves",
+      "Galio",
+      "Jhin"
+    ],
+    "victim": "Lillia",
+    "target": "Shad0w"
+  },
+  {
+    "timestamp": 377000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiser",
+    "participants": [
+      "Nautilus",
+      "Lillia",
+      "Ezreal"
+    ],
+    "victim": "Ornn",
+    "target": "Topoon"
+  },
+  {
+    "timestamp": 517000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Babip",
+    "participants": [
+      "Graves",
+      "Ornn",
+      "Galio"
+    ],
+    "victim": "Lillia",
+    "target": "Shad0w"
+  },
+  {
+    "timestamp": 523000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Babip",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 550000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Isles",
+    "participants": [
+      "Alistar",
+      "Jhin"
+    ],
+    "victim": "Nautilus",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 584000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Babip",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 702000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Isles",
+    "participants": [
+      "Alistar",
+      "Ornn",
+      "Graves",
+      "Galio"
+    ],
+    "victim": "Syndra",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 704000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Shad0w",
+    "participants": [
+      "Lillia",
+      "Shen",
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "Graves",
+    "target": "Babip"
+  },
+  {
+    "timestamp": 705000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Topoon",
+    "participants": [
+      "Ornn",
+      "Jhin",
+      "Alistar"
+    ],
+    "victim": "Shen",
+    "target": "Orome"
+  },
+  {
+    "timestamp": 753000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiser",
+    "participants": [
+      "Nautilus",
+      "Lillia",
+      "Ezreal"
+    ],
+    "victim": "Jhin",
+    "target": "Raes"
+  },
+  {
+    "timestamp": 766000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Ezreal",
+      "Shen",
+      "Syndra",
+      "Nautilus"
+    ],
+    "victim": "Galio",
+    "target": "Tally"
+  },
+  {
+    "timestamp": 956000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Ezreal",
+      "Shen",
+      "Lillia",
+      "Syndra",
+      "Nautilus"
+    ],
+    "victim": "Alistar",
+    "target": "Isles"
+  },
+  {
+    "timestamp": 984000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tally",
+    "participants": [
+      "Galio",
+      "Ornn",
+      "Jhin"
+    ],
+    "victim": "Lillia",
+    "target": "Shad0w"
+  },
+  {
+    "timestamp": 985000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Raes",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 990000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Raes",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": "Ezreal",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1015000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Tally",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1087000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Tally",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1089000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Babip",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1105000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1277000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Babip",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1332000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Babip",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1339000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Ezreal",
+      "Shen",
+      "Lillia",
+      "Syndra",
+      "Nautilus"
+    ],
+    "victim": "Alistar",
+    "target": "Isles"
+  },
+  {
+    "timestamp": 1343000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Raes",
+    "participants": [
+      "Jhin",
+      "Ornn",
+      "Graves",
+      "Galio",
+      "Alistar"
+    ],
+    "victim": "Lillia",
+    "target": "Shad0w"
+  },
+  {
+    "timestamp": 1348000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Orome",
+    "participants": [
+      "Shen",
+      "Lillia",
+      "Syndra",
+      "Ezreal"
+    ],
+    "victim": "Jhin",
+    "target": "Raes"
+  },
+  {
+    "timestamp": 1449000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1464000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Babip",
+    "participants": [
+      "Graves",
+      "Ornn",
+      "Galio",
+      "Jhin"
+    ],
+    "victim": "Syndra",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1467000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Raes",
+    "participants": [
+      "Jhin",
+      "Galio",
+      "Alistar"
+    ],
+    "victim": "Lillia",
+    "target": "Shad0w"
+  },
+  {
+    "timestamp": 1496000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Ezreal",
+      "Nautilus"
+    ],
+    "victim": "Alistar",
+    "target": "Isles"
+  },
+  {
+    "timestamp": 1497000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Topoon",
+    "participants": [
+      "Ornn",
+      "Graves",
+      "Galio",
+      "Jhin",
+      "Alistar"
+    ],
+    "victim": "Nautilus",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1500000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Orome",
+    "participants": [
+      "Shen",
+      "Ezreal"
+    ],
+    "victim": "Jhin",
+    "target": "Raes"
+  },
+  {
+    "timestamp": 1674000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Shad0w",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1692000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1729000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1759000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Ezreal",
+      "Shen",
+      "Syndra",
+      "Nautilus"
+    ],
+    "victim": "Alistar",
+    "target": "Isles"
+  },
+  {
+    "timestamp": 1797000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Raes",
+    "participants": [
+      "Jhin",
+      "Ornn",
+      "Graves",
+      "Galio"
+    ],
+    "victim": "Syndra",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1805000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Topoon",
+    "participants": [
+      "Ornn",
+      "Galio"
+    ],
+    "victim": "Lillia",
+    "target": "Shad0w"
+  },
+  {
+    "timestamp": 1806000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Raes",
+    "participants": [
+      "Jhin",
+      "Ornn",
+      "Graves",
+      "Galio"
+    ],
+    "victim": "Nautilus",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1813000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tally",
+    "participants": [
+      "Galio",
+      "Ornn",
+      "Graves",
+      "Jhin"
+    ],
+    "victim": "Shen",
+    "target": "Orome"
+  },
+  {
+    "timestamp": 1826000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Topoon",
+    "participants": [
+      "Ornn",
+      "Galio",
+      "Jhin",
+      "Alistar"
+    ],
+    "victim": "Ezreal",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1846000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Babip",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1905000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tally",
+    "participants": [
+      "Galio",
+      "Graves",
+      "Alistar"
+    ],
+    "victim": "Ezreal",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1933000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Raes",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1940000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1941000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Tally",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1973000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Babip",
+    "participants": [
+      "Graves",
+      "Ornn",
+      "Galio",
+      "Jhin"
+    ],
+    "victim": "Nautilus",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1980000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tally",
+    "participants": [
+      "Galio",
+      "Ornn",
+      "Graves",
+      "Jhin",
+      "Alistar"
+    ],
+    "victim": "Shen",
+    "target": "Orome"
+  },
+  {
+    "timestamp": 1986000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Topoon",
+    "participants": [
+      "Ornn",
+      "Graves",
+      "Galio",
+      "Alistar"
+    ],
+    "victim": "Syndra",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1986000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Ezreal",
+      "Shen",
+      "Syndra"
+    ],
+    "victim": "Jhin",
+    "target": "Raes"
+  },
+  {
+    "timestamp": 2009000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Babip",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2227000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tally",
+    "participants": [
+      "Galio",
+      "Ornn",
+      "Jhin",
+      "Alistar"
+    ],
+    "victim": "Syndra",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 2233000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tally",
+    "participants": [
+      "Galio",
+      "Ornn",
+      "Graves",
+      "Alistar"
+    ],
+    "victim": "Lillia",
+    "target": "Shad0w"
+  },
+  {
+    "timestamp": 2235000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Ezreal",
+      "Shen",
+      "Lillia",
+      "Syndra",
+      "Nautilus"
+    ],
+    "victim": "Alistar",
+    "target": "Isles"
+  },
+  {
+    "timestamp": 2240000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Raes",
+    "participants": [
+      "Jhin",
+      "Ornn",
+      "Galio",
+      "Alistar"
+    ],
+    "victim": "Nautilus",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 2261000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Raes",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 2262000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Babip",
+    "participants": [
+      "Graves",
+      "Ornn",
+      "Galio"
+    ],
+    "victim": "Ezreal",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 2270000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Raes",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 2275000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Topoon",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2280000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Babip",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2289000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

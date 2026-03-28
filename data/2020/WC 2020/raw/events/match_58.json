@@ -1,0 +1,776 @@
+[
+  {
+    "timestamp": 112000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Kalista",
+      "Graves",
+      "Sett"
+    ],
+    "victim": "Nidalee",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 406000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "Graves",
+      "Sett"
+    ],
+    "victim": "Jayce",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 636000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 667000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 685000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 711000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 947000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mikyx",
+    "participants": [
+      "Alistar",
+      "Nidalee",
+      "Ashe"
+    ],
+    "victim": "Orianna",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 950000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 951000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Jayce",
+      "Nidalee",
+      "Alistar"
+    ],
+    "victim": "Graves",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 1033000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1042000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1135000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "CoreJJ",
+    "participants": [
+      "Sett",
+      "Orianna",
+      "Kalista"
+    ],
+    "victim": "Ashe",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1142000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1165000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Volibear"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1196000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mikyx",
+    "participants": [
+      "Alistar",
+      "Nidalee",
+      "Jayce",
+      "Ashe"
+    ],
+    "victim": "Kalista",
+    "target": "Tactical"
+  },
+  {
+    "timestamp": 1201000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "Volibear",
+      "Graves",
+      "Kalista",
+      "Sett"
+    ],
+    "victim": "Jayce",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1223000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1325000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Jayce",
+      "Nidalee",
+      "Ashe",
+      "Alistar"
+    ],
+    "victim": "Volibear",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1335000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "Sett"
+    ],
+    "victim": "Ashe",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1337000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Renekton",
+      "Nidalee",
+      "Jayce",
+      "Ashe",
+      "Alistar"
+    ],
+    "victim": "Sett",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1345000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Kalista",
+      "Graves",
+      "Orianna",
+      "Sett"
+    ],
+    "victim": "Renekton",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1346000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mikyx",
+    "participants": [
+      "Alistar",
+      "Renekton",
+      "Nidalee",
+      "Jayce"
+    ],
+    "victim": "Kalista",
+    "target": "Tactical"
+  },
+  {
+    "timestamp": 1348000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "Graves",
+      "Kalista"
+    ],
+    "victim": "Alistar",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1352000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "Graves",
+      "Kalista"
+    ],
+    "victim": "Nidalee",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1376000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1460000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1478000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "Volibear"
+    ],
+    "victim": "Renekton",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1479000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Jayce",
+      "Renekton"
+    ],
+    "victim": "Volibear",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1488000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "Volibear"
+    ],
+    "victim": "Jayce",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1499000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "CoreJJ",
+    "participants": [
+      "Sett",
+      "Graves",
+      "Kalista"
+    ],
+    "victim": "Alistar",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1540000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee",
+      "Jayce",
+      "Ashe"
+    ],
+    "victim": "Sett",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1589000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "Graves"
+    ],
+    "victim": "Alistar",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1595000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "Graves",
+      "Kalista"
+    ],
+    "victim": "Nidalee",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1604000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Graves",
+      "Volibear",
+      "Orianna",
+      "Kalista",
+      "Sett"
+    ],
+    "victim": "Ashe",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1606000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Graves",
+      "Orianna",
+      "Kalista"
+    ],
+    "victim": "Jayce",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1633000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1694000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Kalista",
+      "Volibear",
+      "Orianna"
+    ],
+    "victim": "Nidalee",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1695000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1698000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Ashe",
+      "Renekton",
+      "Nidalee",
+      "Jayce",
+      "Alistar"
+    ],
+    "victim": "Orianna",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1700000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Graves",
+      "Volibear",
+      "Orianna",
+      "Kalista",
+      "Sett"
+    ],
+    "victim": "Jayce",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1703000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Graves",
+      "Volibear",
+      "Orianna",
+      "Kalista",
+      "Sett"
+    ],
+    "victim": "Renekton",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1712000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Volibear",
+      "Graves",
+      "Kalista",
+      "Sett"
+    ],
+    "victim": "Alistar",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1743000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1749000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1836000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1909000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1920000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Renekton",
+      "Nidalee",
+      "Ashe"
+    ],
+    "victim": "Sett",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1928000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Kalista",
+      "Graves",
+      "Orianna"
+    ],
+    "victim": "Alistar",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1945000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1952000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 2023000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Kalista",
+      "Volibear",
+      "Graves",
+      "Orianna"
+    ],
+    "victim": "Alistar",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 2024000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Kalista",
+      "Volibear",
+      "Sett"
+    ],
+    "victim": "Ashe",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 2024000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee",
+      "Renekton",
+      "Jayce",
+      "Ashe",
+      "Alistar"
+    ],
+    "victim": "Sett",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 2026000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna",
+      "Volibear",
+      "Graves",
+      "Kalista",
+      "Sett"
+    ],
+    "victim": "Renekton",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 2030000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Graves",
+      "Volibear",
+      "Orianna",
+      "Sett"
+    ],
+    "victim": "Jayce",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 2045000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2051000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2067000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

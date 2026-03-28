@@ -1,0 +1,669 @@
+[
+  {
+    "timestamp": 288000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Elyoya",
+    "participants": [
+      "Udyr",
+      "Viktor"
+    ],
+    "victim": "Sylas",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 329000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Carzzy",
+    "participants": [
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Rell",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 359000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Elyoya",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": "Tristana",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 377000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Sylas",
+      "Rumble"
+    ],
+    "victim": "Gnar",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 517000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 523000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Viktor",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Rell",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 541000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Elyoya",
+    "participants": [
+      "Udyr",
+      "Leona"
+    ],
+    "victim": "Tristana",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 605000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Sylas",
+      "Tristana",
+      "Rell"
+    ],
+    "victim": "Kaisa",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 605000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BeryL",
+    "participants": [
+      "Rell",
+      "Tristana"
+    ],
+    "victim": "Udyr",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 606000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Sylas",
+      "Tristana",
+      "Rell"
+    ],
+    "victim": "Leona",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 625000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble",
+      "Sylas"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 626000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 645000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 691000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "LeeSin",
+      "Sylas"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 717000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 755000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "Rumble",
+      "Rell"
+    ],
+    "victim": "Kaisa",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 765000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "Rumble",
+      "Rell"
+    ],
+    "victim": "Leona",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 766000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kaiser",
+    "participants": [
+      "Leona"
+    ],
+    "victim": "Rumble",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 789000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 830000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "Rumble",
+      "Sylas",
+      "Rell"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 847000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Rumble",
+      "Sylas",
+      "Rell"
+    ],
+    "victim": "Leona",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 910000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 931000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 933000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": "Kaisa",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 965000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble",
+      "Sylas"
+    ],
+    "victim": "Gnar",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 966000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble",
+      "LeeSin",
+      "Sylas"
+    ],
+    "victim": "Leona",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1040000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1061000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1072000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1090000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Rumble",
+      "Rell"
+    ],
+    "victim": "Leona",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1101000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Sylas",
+      "Rumble"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1176000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Sylas",
+      "Tristana",
+      "Rell"
+    ],
+    "victim": "Kaisa",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1190000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "Sylas",
+      "Rell"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1220000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1252000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1254000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Sylas",
+      "Rumble"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1259000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "Sylas",
+      "Rell"
+    ],
+    "victim": "Kaisa",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1266000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1269000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana",
+      "Rumble",
+      "Sylas",
+      "Rell"
+    ],
+    "victim": "Leona",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1275000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1283000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "LeeSin",
+      "Sylas",
+      "Tristana"
+    ],
+    "victim": "Udyr",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 1288000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ghost",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1293000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1303000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Carzzy",
+    "participants": [
+      "Kaisa",
+      "Gnar",
+      "Viktor"
+    ],
+    "victim": "Tristana",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 1308000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "LeeSin",
+      "Sylas",
+      "Tristana",
+      "Rell"
+    ],
+    "victim": "Viktor",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1313000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1314000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "LeeSin",
+      "Rumble",
+      "Sylas",
+      "Rell"
+    ],
+    "victim": "Leona",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1317000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble",
+      "LeeSin",
+      "Sylas"
+    ],
+    "victim": "Kaisa",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1326000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Rumble",
+      "LeeSin",
+      "Sylas"
+    ],
+    "victim": "Gnar",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1335000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Elyoya",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": "Rell",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1340000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1346000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

@@ -1,0 +1,831 @@
+[
+  {
+    "timestamp": 45000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Xayah",
+      "Sylas",
+      "LeeSin",
+      "Ryze",
+      "Rakan"
+    ],
+    "victim": "TahmKench",
+    "target": "Rogue"
+  },
+  {
+    "timestamp": 133000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV",
+      "LeBlanc"
+    ],
+    "victim": "LeeSin",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 161000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "LeBlanc",
+      "JarvanIV"
+    ],
+    "victim": "Ryze",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 440000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 580000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV",
+      "Kennen"
+    ],
+    "victim": "Sylas",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 689000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV",
+      "Kennen"
+    ],
+    "victim": "Sylas",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 843000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 867000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Palette",
+    "participants": [
+      "Rakan",
+      "Xayah"
+    ],
+    "victim": "Ezreal",
+    "target": "FBI"
+  },
+  {
+    "timestamp": 875000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "LeBlanc",
+      "Ezreal",
+      "TahmKench"
+    ],
+    "victim": "Rakan",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 880000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "LeBlanc",
+      "TahmKench"
+    ],
+    "victim": "Xayah",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 888000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV",
+      "Kennen"
+    ],
+    "victim": "Sylas",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 892000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin",
+      "Sylas",
+      "Ryze"
+    ],
+    "victim": "JarvanIV",
+    "target": "BalKhan"
+  },
+  {
+    "timestamp": 899000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Ryze",
+      "Sylas",
+      "LeeSin"
+    ],
+    "victim": "Kennen",
+    "target": "Mimic"
+  },
+  {
+    "timestamp": 927000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "LeBlanc"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 927000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 987000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 992000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1017000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Ezreal",
+      "Kennen",
+      "TahmKench"
+    ],
+    "victim": "Sylas",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1046000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1163000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Sylas",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "JarvanIV",
+    "target": "BalKhan"
+  },
+  {
+    "timestamp": 1165000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rogue",
+    "participants": [
+      "TahmKench",
+      "Kennen",
+      "JarvanIV"
+    ],
+    "victim": "Rakan",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1168000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Sylas",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Kennen",
+    "target": "Mimic"
+  },
+  {
+    "timestamp": 1173000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Xayah",
+      "Sylas",
+      "Rakan"
+    ],
+    "victim": "TahmKench",
+    "target": "Rogue"
+  },
+  {
+    "timestamp": 1175000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Ezreal",
+      "Kennen",
+      "JarvanIV",
+      "TahmKench"
+    ],
+    "victim": "Xayah",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1201000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1238000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin",
+      "Ryze",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "TahmKench",
+    "target": "Rogue"
+  },
+  {
+    "timestamp": 1412000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Ezreal",
+      "JarvanIV",
+      "TahmKench"
+    ],
+    "victim": "Rakan",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1418000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Xayah",
+      "Sylas",
+      "LeeSin",
+      "Rakan"
+    ],
+    "victim": "Ezreal",
+    "target": "FBI"
+  },
+  {
+    "timestamp": 1418000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mimic",
+    "participants": [
+      "Kennen",
+      "JarvanIV",
+      "LeBlanc",
+      "Ezreal",
+      "TahmKench"
+    ],
+    "victim": "Xayah",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1424000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mimic",
+    "participants": [
+      "Kennen",
+      "JarvanIV",
+      "LeBlanc",
+      "Ezreal",
+      "TahmKench"
+    ],
+    "victim": "Sylas",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1463000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mimic",
+    "participants": [
+      "Kennen",
+      "JarvanIV",
+      "LeBlanc",
+      "TahmKench"
+    ],
+    "victim": "Ryze",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1538000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1577000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "LeBlanc"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1630000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Ezreal",
+      "JarvanIV",
+      "TahmKench"
+    ],
+    "victim": "Rakan",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1631000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1635000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Xayah",
+      "LeeSin",
+      "Rakan"
+    ],
+    "victim": "LeBlanc",
+    "target": "Ryoma"
+  },
+  {
+    "timestamp": 1638000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rogue",
+    "participants": [
+      "TahmKench",
+      "Kennen",
+      "JarvanIV",
+      "LeBlanc",
+      "Ezreal"
+    ],
+    "victim": "Xayah",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1645000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Sylas",
+      "LeeSin",
+      "Ryze",
+      "Xayah"
+    ],
+    "victim": "Ezreal",
+    "target": "FBI"
+  },
+  {
+    "timestamp": 1652000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "LeeSin",
+      "Sylas",
+      "Ryze"
+    ],
+    "victim": "TahmKench",
+    "target": "Rogue"
+  },
+  {
+    "timestamp": 1666000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1682000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Sylas",
+      "LeeSin"
+    ],
+    "victim": "JarvanIV",
+    "target": "BalKhan"
+  },
+  {
+    "timestamp": 1720000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Ezreal",
+      "LeBlanc",
+      "TahmKench"
+    ],
+    "victim": "Sylas",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1720000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Ryze",
+      "Sylas",
+      "LeeSin",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "TahmKench",
+    "target": "Rogue"
+  },
+  {
+    "timestamp": 1725000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "LeBlanc",
+      "Kennen",
+      "Ezreal",
+      "TahmKench"
+    ],
+    "victim": "Ryze",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1741000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "LeBlanc",
+      "Ezreal"
+    ],
+    "victim": "Rakan",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1742000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Ezreal",
+      "LeBlanc"
+    ],
+    "victim": "Xayah",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1748000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Ezreal",
+      "LeBlanc"
+    ],
+    "victim": "LeeSin",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 1772000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1776000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "LeBlanc"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1863000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1879000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Rogue",
+    "participants": [
+      "TahmKench"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1899000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1906000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1970000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "LeBlanc",
+      "JarvanIV",
+      "Ezreal",
+      "TahmKench"
+    ],
+    "victim": "Sylas",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1974000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "LeBlanc",
+      "Kennen",
+      "JarvanIV",
+      "Ezreal",
+      "TahmKench"
+    ],
+    "victim": "Rakan",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1975000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "LeBlanc",
+      "Kennen",
+      "JarvanIV",
+      "Ezreal",
+      "TahmKench"
+    ],
+    "victim": "Ryze",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1986000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "LeBlanc",
+      "JarvanIV"
+    ],
+    "victim": "Xayah",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1990000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1995000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2003000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2006000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Rogue",
+    "participants": [
+      "TahmKench"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2015000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

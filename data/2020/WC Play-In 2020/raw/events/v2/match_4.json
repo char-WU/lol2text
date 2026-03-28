@@ -1,0 +1,918 @@
+[
+  {
+    "timestamp": 270000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Topoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Topoon",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 365000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 420000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Raes",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Isles",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 536000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 555000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      },
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Topoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Topoon",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 575000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 686000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 847000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 927000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Raes",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Raes",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 937000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 939000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1004000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1030000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1136000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1283000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1360000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      },
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Raes",
+        "champion": "Kalista"
+      }
+    ],
+    "target": [
+      {
+        "player": "Raes",
+        "champion": "Kalista"
+      }
+    ]
+  },
+  {
+    "timestamp": 1360000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "xiye",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Isles",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "Isles",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 1367000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1406000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1532000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1562000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1574000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1574000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1581000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1588000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Raes",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Raes",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Topoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Tally",
+        "champion": "Galio"
+      },
+      {
+        "player": "Isles",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiye",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiye",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1602000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Raes",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Raes",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Topoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Tally",
+        "champion": "Galio"
+      },
+      {
+        "player": "Isles",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1674000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1698000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      },
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tally",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tally",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1702000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "xiye",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Isles",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "Isles",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 1703000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "xiye",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Raes",
+        "champion": "Kalista"
+      }
+    ],
+    "target": [
+      {
+        "player": "Raes",
+        "champion": "Kalista"
+      }
+    ]
+  },
+  {
+    "timestamp": 1708000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "xiye",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Topoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Topoon",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1722000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1722000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Babip",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 1727000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1737000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

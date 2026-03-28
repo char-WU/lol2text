@@ -1,0 +1,634 @@
+[
+  {
+    "timestamp": 200000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune",
+      "Urgot",
+      "Leona"
+    ],
+    "victim": "XinZhao",
+    "target": "HuSha"
+  },
+  {
+    "timestamp": 208000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune",
+      "Urgot",
+      "Akali",
+      "Leona"
+    ],
+    "victim": "Sylas",
+    "target": "1116"
+  },
+  {
+    "timestamp": 340000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Lillia",
+      "Urgot"
+    ],
+    "victim": "XinZhao",
+    "target": "HuSha"
+  },
+  {
+    "timestamp": 343000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Urgot",
+      "Lillia"
+    ],
+    "victim": "Aatrox",
+    "target": "Liang"
+  },
+  {
+    "timestamp": 444000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 463000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune",
+      "Leona"
+    ],
+    "victim": "Amumu",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 529000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 555000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 572000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 640000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Urgot",
+      "Lillia"
+    ],
+    "victim": "Aatrox",
+    "target": "Liang"
+  },
+  {
+    "timestamp": 734000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 734000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 774000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 778000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 805000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 904000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 972000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1007000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1057000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1139000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1162000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Lillia",
+      "Akali",
+      "MissFortune",
+      "Leona"
+    ],
+    "victim": "XinZhao",
+    "target": "HuSha"
+  },
+  {
+    "timestamp": 1164000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Lillia",
+      "Akali",
+      "MissFortune",
+      "Leona"
+    ],
+    "victim": "Sylas",
+    "target": "1116"
+  },
+  {
+    "timestamp": 1224000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1336000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Urgot",
+      "Lillia",
+      "MissFortune",
+      "Leona"
+    ],
+    "victim": "XinZhao",
+    "target": "HuSha"
+  },
+  {
+    "timestamp": 1340000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "1116",
+    "participants": [
+      "Sylas",
+      "Aatrox",
+      "Ezreal",
+      "Amumu"
+    ],
+    "victim": "Akali",
+    "target": "Aria"
+  },
+  {
+    "timestamp": 1342000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Urgot",
+      "Lillia",
+      "MissFortune",
+      "Leona"
+    ],
+    "victim": "Amumu",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 1343000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "1116",
+    "participants": [
+      "Sylas",
+      "XinZhao"
+    ],
+    "victim": "MissFortune",
+    "target": "Yutapon"
+  },
+  {
+    "timestamp": 1350000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Liang",
+    "participants": [
+      "Aatrox",
+      "Ezreal",
+      "Amumu"
+    ],
+    "victim": "Leona",
+    "target": "Gaeng"
+  },
+  {
+    "timestamp": 1351000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Urgot",
+      "Lillia"
+    ],
+    "victim": "Sylas",
+    "target": "1116"
+  },
+  {
+    "timestamp": 1566000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1653000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune",
+      "Lillia",
+      "Leona"
+    ],
+    "victim": "XinZhao",
+    "target": "HuSha"
+  },
+  {
+    "timestamp": 1658000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Urgot",
+      "Lillia",
+      "MissFortune",
+      "Leona"
+    ],
+    "victim": "Amumu",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 1668000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Lillia",
+      "Urgot",
+      "Leona"
+    ],
+    "victim": "Aatrox",
+    "target": "Liang"
+  },
+  {
+    "timestamp": 1707000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1781000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1805000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Urgot",
+      "MissFortune",
+      "Leona"
+    ],
+    "victim": "Amumu",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 1806000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Urgot",
+      "Lillia",
+      "Leona"
+    ],
+    "victim": "XinZhao",
+    "target": "HuSha"
+  },
+  {
+    "timestamp": 1816000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1822000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1826000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1834000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1872000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune",
+      "Lillia"
+    ],
+    "victim": "Amumu",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 1878000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Urgot",
+      "Lillia",
+      "MissFortune",
+      "Leona"
+    ],
+    "victim": "XinZhao",
+    "target": "HuSha"
+  },
+  {
+    "timestamp": 1881000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Aria",
+    "participants": [
+      "Akali",
+      "MissFortune"
+    ],
+    "victim": "Aatrox",
+    "target": "Liang"
+  },
+  {
+    "timestamp": 1913000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Urgot"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1919000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Urgot",
+      "Lillia",
+      "MissFortune",
+      "Leona"
+    ],
+    "victim": "Sylas",
+    "target": "1116"
+  },
+  {
+    "timestamp": 1921000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune",
+      "Urgot",
+      "Lillia",
+      "Leona"
+    ],
+    "victim": "Amumu",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 1921000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doggo",
+    "participants": [
+      "Ezreal",
+      "Sylas",
+      "Amumu"
+    ],
+    "victim": "Leona",
+    "target": "Gaeng"
+  },
+  {
+    "timestamp": 1922000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "MissFortune",
+      "Urgot",
+      "Akali"
+    ],
+    "victim": "Ezreal",
+    "target": "Doggo"
+  },
+  {
+    "timestamp": 1930000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

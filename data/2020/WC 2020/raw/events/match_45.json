@@ -1,0 +1,522 @@
+[
+  {
+    "timestamp": 222000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": "Ornn",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 226000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves",
+      "Ornn"
+    ],
+    "victim": "Kindred",
+    "target": "River"
+  },
+  {
+    "timestamp": 354000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TANK",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": "Ekko",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 383000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Kindred",
+      "Syndra"
+    ],
+    "victim": "Graves",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 581000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 649000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 835000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves",
+      "Ornn"
+    ],
+    "victim": "Gangplank",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 870000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 985000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 990000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ekko",
+      "Graves",
+      "Jhin",
+      "Bard"
+    ],
+    "victim": "Syndra",
+    "target": "TANK"
+  },
+  {
+    "timestamp": 993000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Jhin",
+      "Graves",
+      "Ekko",
+      "Bard"
+    ],
+    "victim": "TahmKench",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1026000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1082000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1090000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1221000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves",
+      "Ornn",
+      "Jhin",
+      "Bard"
+    ],
+    "victim": "TahmKench",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1226000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Ornn",
+      "Graves",
+      "Jhin",
+      "Bard"
+    ],
+    "victim": "Ashe",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 1253000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1306000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1307000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "TANK",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1410000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ekko",
+      "Ornn",
+      "Jhin"
+    ],
+    "victim": "TahmKench",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1435000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TANK",
+    "participants": [
+      "Syndra",
+      "Kindred",
+      "Ashe"
+    ],
+    "victim": "Bard",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1459000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1531000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Bard"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1535000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Jhin",
+      "Ornn",
+      "Graves",
+      "Bard"
+    ],
+    "victim": "TahmKench",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1536000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Jhin",
+      "Ornn",
+      "Graves",
+      "Bard"
+    ],
+    "victim": "Ashe",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 1575000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1588000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Jhin",
+      "Ornn",
+      "Graves",
+      "Bard"
+    ],
+    "victim": "Gangplank",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 1618000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "River",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1661000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Ornn"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1667000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1684000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1705000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1712000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1727000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1732000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ekko",
+      "Ornn",
+      "Jhin",
+      "Bard"
+    ],
+    "victim": "Ashe",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 1741000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Bard"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1750000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Jhin",
+      "Ekko",
+      "Bard"
+    ],
+    "victim": "Kindred",
+    "target": "River"
+  },
+  {
+    "timestamp": 1752000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1761000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ekko",
+      "Ornn",
+      "Graves",
+      "Jhin",
+      "Bard"
+    ],
+    "victim": "TahmKench",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1762000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "Jhin",
+      "Ornn",
+      "Ekko",
+      "Bard"
+    ],
+    "victim": "Syndra",
+    "target": "TANK"
+  },
+  {
+    "timestamp": 1767000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

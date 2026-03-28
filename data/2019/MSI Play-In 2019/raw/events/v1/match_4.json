@@ -1,0 +1,624 @@
+[
+  {
+    "timestamp": 365000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gadget",
+    "participants": [
+      "Ashe",
+      "Vi",
+      "TahmKench"
+    ],
+    "victim": "Varus",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 585000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Vi",
+      "Irelia",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Braum",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 586000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Irelia",
+      "Vi",
+      "Corki",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Varus",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 606000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Vi"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 730000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Ashe",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 733000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gadget",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": "Varus",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 757000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Vi"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 767000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "Akali",
+      "RekSai"
+    ],
+    "victim": "Irelia",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 898000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "Braum"
+    ],
+    "victim": "TahmKench",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 908000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Corki"
+    ],
+    "victim": "Orianna",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 909000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Akali",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Ashe",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 918000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Palette",
+    "participants": [
+      "Braum"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 944000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Corki"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 944000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Vi"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 949000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1030000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1032000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Akali",
+      "RekSai",
+      "Orianna",
+      "Varus"
+    ],
+    "victim": "Ashe",
+    "target": "Gadget"
+  },
+  {
+    "timestamp": 1034000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Naul",
+    "participants": [
+      "Orianna",
+      "RekSai",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "TahmKench",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1044000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Vi",
+      "TahmKench"
+    ],
+    "victim": "Varus",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1044000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Corki",
+      "Irelia",
+      "Vi"
+    ],
+    "victim": "RekSai",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 1045000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Corki",
+      "Irelia",
+      "Vi"
+    ],
+    "victim": "Orianna",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1048000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Irelia",
+      "Vi"
+    ],
+    "victim": "Akali",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1111000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Naul",
+    "participants": [
+      "Orianna",
+      "RekSai",
+      "Braum"
+    ],
+    "victim": "Corki",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1209000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Corki"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1263000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Vi"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1271000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Corki",
+      "Irelia",
+      "Vi",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Varus",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1273000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Irelia",
+      "Vi",
+      "Corki",
+      "Ashe"
+    ],
+    "victim": "Braum",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1274000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Corki",
+      "Irelia"
+    ],
+    "victim": "Orianna",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1274000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Akali",
+      "RekSai",
+      "Orianna",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "TahmKench",
+    "target": "SaNTaS"
+  },
+  {
+    "timestamp": 1275000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Vi",
+      "Irelia",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "RekSai",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 1277000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Corki",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Akali",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1311000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Vi"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1316000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1397000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "Akali",
+      "RekSai",
+      "Braum"
+    ],
+    "victim": "Corki",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1405000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1584000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Vi"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1705000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "SaNTaS",
+    "participants": [
+      "TahmKench",
+      "Vi",
+      "Corki",
+      "Ashe"
+    ],
+    "victim": "Orianna",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1709000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Corki",
+      "Vi",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Braum",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1712000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gadget",
+    "participants": [
+      "Ashe",
+      "Vi",
+      "Corki",
+      "TahmKench"
+    ],
+    "victim": "RekSai",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 1712000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Corki",
+      "Vi",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Varus",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1723000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Gadget",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1731000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Irelia",
+      "Vi",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Akali",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1737000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Vi"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1740000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1747000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Corki"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1749000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Gadget",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1758000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

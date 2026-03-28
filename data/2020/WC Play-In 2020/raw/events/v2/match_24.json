@@ -1,0 +1,1686 @@
+[
+  {
+    "timestamp": 291000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 504000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 535000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 565000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      },
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 567000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 595000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 617000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 741000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 745000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 800000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 866000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 867000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      },
+      {
+        "player": "Archer",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Raina",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 867000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      },
+      {
+        "player": "Archer",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Raina",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 868000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Raina",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Raina",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 873000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 881000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Archer",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Archer",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 881000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Archer",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Archer",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 907000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 971000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      },
+      {
+        "player": "Archer",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Raina",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1016000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1034000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1075000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1109000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1251000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1261000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Raina",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Raina",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1263000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Archer",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Archer",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1268000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1268000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1271000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1310000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1397000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      },
+      {
+        "player": "Archer",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1401000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Raina",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Raina",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1410000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Archer",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Archer",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1414000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1437000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1455000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1571000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1577000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Raina",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Raina",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1580000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1602000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Archer",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Archer",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1604000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Paz",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1609000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1614000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1627000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1639000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1641000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Raina",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Raina",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1641000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ubao",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Unified",
+        "champion": "Senna"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1645000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kongyue",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1654000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1661000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

@@ -1,0 +1,778 @@
+[
+  {
+    "timestamp": 475000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "CoreJJ",
+        "champion": "Braum"
+      }
+    ],
+    "participants": [
+      {
+        "player": "CoreJJ",
+        "champion": "Braum"
+      },
+      {
+        "player": "Impact",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 514000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 660000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 815000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 837000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 864000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1212000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1219000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Impact",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShiauC",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShiauC",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1221000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      },
+      {
+        "player": "Impact",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1230000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Rather",
+        "champion": "Azir"
+      },
+      {
+        "player": "Betty",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "ShiauC",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1234000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1245000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1365000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1430000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "CoreJJ",
+        "champion": "Braum"
+      }
+    ],
+    "participants": [
+      {
+        "player": "CoreJJ",
+        "champion": "Braum"
+      },
+      {
+        "player": "Impact",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShiauC",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShiauC",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1500000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShiauC",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShiauC",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1530000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1585000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1612000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1634000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "CoreJJ",
+        "champion": "Braum"
+      }
+    ],
+    "participants": [
+      {
+        "player": "CoreJJ",
+        "champion": "Braum"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1637000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Impact",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Impact",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1640000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Impact",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShiauC",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShiauC",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1643000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1644000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "Akali"
+      },
+      {
+        "player": "Impact",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Xmithie",
+        "champion": "Trundle"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Braum"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rather",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rather",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1656000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1660000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1668000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1672000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1682000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

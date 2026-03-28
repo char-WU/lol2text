@@ -1,0 +1,1204 @@
+[
+  {
+    "timestamp": 206000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Unified",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Unified",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 234000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "TANK",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TANK",
+        "champion": "Azir"
+      },
+      {
+        "player": "River",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 306000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kaiwing",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kaiwing",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Lulu"
+      },
+      {
+        "player": "River",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 307000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 367000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Unified",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 450000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Lulu"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 543000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 612000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 660000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 740000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Lulu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Lulu"
+      }
+    ]
+  },
+  {
+    "timestamp": 884000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 917000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "TANK",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TANK",
+        "champion": "Azir"
+      },
+      {
+        "player": "River",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 927000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 934000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Lulu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Lulu"
+      }
+    ]
+  },
+  {
+    "timestamp": 956000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 976000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 995000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1157000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Lulu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Lulu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1158000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Lulu"
+      },
+      {
+        "player": "TANK",
+        "champion": "Azir"
+      },
+      {
+        "player": "Unified",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1180000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1299000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1309000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "TANK",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TANK",
+        "champion": "Azir"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Lulu"
+      },
+      {
+        "player": "River",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Unified",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1309000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TANK",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "TANK",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1309000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1315000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Unified",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Unified",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1315000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1317000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Lulu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Lulu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1354000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1447000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1461000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1486000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1498000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1502000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1507000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1607000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1655000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Lulu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Lulu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1656000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1657000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1658000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1661000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Graves"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Kennen"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Unified",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Unified",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1666000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1680000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

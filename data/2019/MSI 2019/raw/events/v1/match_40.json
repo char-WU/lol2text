@@ -1,0 +1,991 @@
+[
+  {
+    "timestamp": 230000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ning",
+    "participants": [
+      "RekSai",
+      "Sylas"
+    ],
+    "victim": "Jayce",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 236000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ning",
+    "participants": [
+      "RekSai",
+      "Sylas"
+    ],
+    "victim": "Elise",
+    "target": "XuHao"
+  },
+  {
+    "timestamp": 301000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Palette",
+    "participants": [
+      "Pyke",
+      "Elise",
+      "Kaisa"
+    ],
+    "victim": "Varus",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 489000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "XuHao",
+    "participants": [
+      "Elise",
+      "Jayce"
+    ],
+    "victim": "RekSai",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 494000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce",
+      "Elise"
+    ],
+    "victim": "Sylas",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 578000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "XuHao",
+    "participants": [
+      "Elise",
+      "Kaisa",
+      "Pyke"
+    ],
+    "victim": "Braum",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 623000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Palette",
+    "participants": [
+      "Pyke",
+      "Kaisa"
+    ],
+    "victim": "RekSai",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 643000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Palette",
+    "participants": [
+      "Pyke"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 694000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "Elise",
+      "Pyke"
+    ],
+    "victim": "RekSai",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 699000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "TheShy",
+    "participants": [
+      "Sylas",
+      "Syndra",
+      "Braum"
+    ],
+    "victim": "Kaisa",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 700000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce",
+      "Zoe"
+    ],
+    "victim": "Braum",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 700000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Naul",
+    "participants": [
+      "Zoe",
+      "Elise"
+    ],
+    "victim": "Varus",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 715000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "XuHao",
+    "participants": [
+      "Elise",
+      "Zoe",
+      "Pyke"
+    ],
+    "victim": "Sylas",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 729000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "RooKie",
+    "participants": [
+      "Syndra",
+      "Sylas"
+    ],
+    "victim": "Zoe",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 743000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "XuHao",
+    "participants": [
+      "Elise",
+      "Zoe",
+      "Kaisa"
+    ],
+    "victim": "Syndra",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 750000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Jayce",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 756000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ning",
+    "participants": [
+      "RekSai",
+      "Syndra",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Elise",
+    "target": "XuHao"
+  },
+  {
+    "timestamp": 759000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ning",
+    "participants": [
+      "RekSai",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Kaisa",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 827000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 835000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "XuHao",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 861000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": "Sylas",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 864000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Varus",
+      "Sylas",
+      "Braum"
+    ],
+    "victim": "Jayce",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 925000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Baolan",
+    "participants": [
+      "Braum"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 976000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "XuHao",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 986000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1005000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "XuHao",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1034000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "XuHao",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1073000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ning",
+    "participants": [
+      "RekSai",
+      "Syndra"
+    ],
+    "victim": "Jayce",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1173000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "Jayce",
+      "Elise",
+      "Zoe"
+    ],
+    "victim": "Varus",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1174000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce",
+      "Elise",
+      "Zoe",
+      "Kaisa",
+      "Pyke"
+    ],
+    "victim": "Braum",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 1188000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ning",
+    "participants": [
+      "RekSai",
+      "Syndra",
+      "Braum"
+    ],
+    "victim": "Elise",
+    "target": "XuHao"
+  },
+  {
+    "timestamp": 1191000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "Jayce",
+      "Zoe"
+    ],
+    "victim": "RekSai",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 1204000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Naul",
+    "participants": [
+      "Zoe",
+      "Kaisa",
+      "Pyke"
+    ],
+    "victim": "Sylas",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 1204000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "TheShy",
+    "participants": [
+      "Sylas",
+      "Syndra",
+      "Braum"
+    ],
+    "victim": "Kaisa",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1212000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Naul",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1224000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Zoe",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1237000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1360000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Varus",
+      "Syndra",
+      "Braum"
+    ],
+    "victim": "Zoe",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1363000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "RooKie",
+    "participants": [
+      "Syndra",
+      "RekSai",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Pyke",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1386000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce",
+      "Kaisa"
+    ],
+    "victim": "RekSai",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 1389000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1389000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "XuHao",
+    "participants": [
+      "Elise",
+      "Jayce",
+      "Kaisa"
+    ],
+    "victim": "Braum",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 1390000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "XuHao",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1391000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Varus",
+      "Sylas",
+      "Syndra",
+      "Braum"
+    ],
+    "victim": "Jayce",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1392000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "Jayce",
+      "Elise"
+    ],
+    "victim": "Syndra",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 1395000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Varus",
+      "Sylas",
+      "Syndra",
+      "Braum"
+    ],
+    "victim": "Kaisa",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1395000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "TheShy",
+    "participants": [
+      "Sylas",
+      "Braum"
+    ],
+    "victim": "Elise",
+    "target": "XuHao"
+  },
+  {
+    "timestamp": 1501000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Ning",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1565000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1658000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "TheShy",
+    "participants": [
+      "Sylas",
+      "RekSai",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Jayce",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1688000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1690000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Palette",
+    "participants": [
+      "Pyke",
+      "Elise",
+      "Kaisa"
+    ],
+    "victim": "Sylas",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 1704000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ning",
+    "participants": [
+      "RekSai",
+      "Braum"
+    ],
+    "victim": "Zoe",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1705000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Kaisa",
+      "Elise",
+      "Zoe"
+    ],
+    "victim": "RekSai",
+    "target": "Ning"
+  },
+  {
+    "timestamp": 1726000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "RooKie",
+    "participants": [
+      "Syndra",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Jayce",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1804000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1807000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Palette",
+    "participants": [
+      "Pyke",
+      "Elise",
+      "Kaisa"
+    ],
+    "victim": "Syndra",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 1813000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1816000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Ning",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1823000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ning",
+    "participants": [
+      "RekSai",
+      "Sylas",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Elise",
+    "target": "XuHao"
+  },
+  {
+    "timestamp": 1825000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1827000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Palette",
+    "participants": [
+      "Pyke",
+      "Zoe",
+      "Kaisa"
+    ],
+    "victim": "Sylas",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 1828000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Pyke",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1832000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1839000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ning",
+    "participants": [
+      "RekSai",
+      "Braum"
+    ],
+    "victim": "Jayce",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1943000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Ning",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1959000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Baolan",
+    "participants": [
+      "Braum"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1976000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ning",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": "Elise",
+    "target": "XuHao"
+  },
+  {
+    "timestamp": 1993000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1996000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ning",
+    "participants": [
+      "RekSai",
+      "Sylas"
+    ],
+    "victim": "Jayce",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 2006000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2008000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Varus",
+      "Syndra",
+      "Braum"
+    ],
+    "victim": "Pyke",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 2018000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Zoe",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 2020000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "JackeyLove",
+    "participants": [
+      "Varus",
+      "Syndra",
+      "Braum"
+    ],
+    "victim": "Kaisa",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 2027000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "TheShy",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2038000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

@@ -1,0 +1,549 @@
+[
+  {
+    "timestamp": 252000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": "XinZhao",
+    "target": "Bugi"
+  },
+  {
+    "timestamp": 525000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "XinZhao",
+      "Lissandra",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Galio",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 529000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "LeBlanc",
+      "LeeSin",
+      "Kaisa",
+      "Galio"
+    ],
+    "victim": "Lissandra",
+    "target": "Rather"
+  },
+  {
+    "timestamp": 530000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Betty",
+    "participants": [
+      "Varus",
+      "XinZhao",
+      "Lissandra"
+    ],
+    "victim": "LeeSin",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 552000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "LeBlanc"
+    ],
+    "victim": "TahmKench",
+    "target": "ShiauC"
+  },
+  {
+    "timestamp": 645000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "LeeSin",
+      "Kaisa",
+      "Galio"
+    ],
+    "victim": "TahmKench",
+    "target": "ShiauC"
+  },
+  {
+    "timestamp": 650000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "XinZhao",
+      "Varus"
+    ],
+    "victim": "LeeSin",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 657000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rather",
+    "participants": [
+      "Lissandra",
+      "XinZhao",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Kaisa",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 743000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 878000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 883000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Ryze",
+      "LeeSin",
+      "LeBlanc",
+      "Kaisa",
+      "Galio"
+    ],
+    "victim": "XinZhao",
+    "target": "Bugi"
+  },
+  {
+    "timestamp": 885000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rather",
+    "participants": [
+      "Lissandra",
+      "Kennen",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "LeeSin",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 885000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "XinZhao",
+      "Kennen",
+      "Lissandra"
+    ],
+    "victim": "Kaisa",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 889000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rather",
+    "participants": [
+      "Lissandra",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Galio",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 992000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "XinZhao",
+      "Lissandra"
+    ],
+    "victim": "LeeSin",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1127000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "XinZhao",
+      "Kennen",
+      "Lissandra"
+    ],
+    "victim": "Ryze",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1132000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Rather",
+    "participants": [
+      "Lissandra"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1159000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1161000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1279000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1481000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1550000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1551000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Betty",
+    "participants": [
+      "Varus",
+      "XinZhao",
+      "Lissandra",
+      "TahmKench"
+    ],
+    "victim": "LeBlanc",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1557000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "XinZhao",
+      "Kennen",
+      "Lissandra",
+      "Varus",
+      "TahmKench"
+    ],
+    "victim": "Galio",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1569000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1579000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1626000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Betty",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1690000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Betty",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1768000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1816000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Betty",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1840000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1990000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Betty",
+    "participants": [
+      "Varus",
+      "XinZhao",
+      "Lissandra",
+      "TahmKench"
+    ],
+    "victim": "Galio",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1995000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Betty",
+    "participants": [
+      "Varus",
+      "Kennen",
+      "XinZhao",
+      "Lissandra",
+      "TahmKench"
+    ],
+    "victim": "Ryze",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1996000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Betty",
+    "participants": [
+      "Varus",
+      "Kennen",
+      "XinZhao",
+      "Lissandra",
+      "TahmKench"
+    ],
+    "victim": "Kaisa",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1998000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShiauC",
+    "participants": [
+      "TahmKench",
+      "Kennen",
+      "Lissandra",
+      "Varus"
+    ],
+    "victim": "LeeSin",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 2016000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Betty",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2021000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2026000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2032000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Hanabi",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2033000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Betty",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2035000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "LeBlanc"
+    ],
+    "victim": "TahmKench",
+    "target": "ShiauC"
+  },
+  {
+    "timestamp": 2042000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

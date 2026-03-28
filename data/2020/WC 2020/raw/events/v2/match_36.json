@@ -1,0 +1,1504 @@
+[
+  {
+    "timestamp": 113000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 256000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 363000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 407000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      },
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "target": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ]
+  },
+  {
+    "timestamp": 412000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      }
+    ]
+  },
+  {
+    "timestamp": 414000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      },
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 421000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      },
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 422000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 423000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 619000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      },
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      },
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 622000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 644000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 645000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      }
+    ]
+  },
+  {
+    "timestamp": 652000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 797000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 799000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 803000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 817000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "target": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ]
+  },
+  {
+    "timestamp": 825000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 919000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 924000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 948000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 967000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 973000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1028000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1058000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1125000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1127000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1128000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1131000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1133000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1136000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1142000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1284000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1418000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1458000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1578000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1594000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1599000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1612000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1614000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1649000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1651000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1653000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Peanut",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1655000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiye",
+        "champion": "Zoe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1683000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1686000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1690000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kramer",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1692000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Selfmade",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mark",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1697000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

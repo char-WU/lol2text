@@ -1,0 +1,478 @@
+{
+  "num_matches": 76,
+  "total_examples": 2124,
+  "avg_examples_per_match": 27.94736842105263,
+  "input_stats": {
+    "avg_tokens": 28.612994350282484,
+    "min_tokens": 7,
+    "max_tokens": 108
+  },
+  "target_stats": {
+    "avg_words": 299.0117702448211,
+    "min_words": 60,
+    "max_words": 1423
+  },
+  "events_stats": {
+    "avg_per_window": 3.425141242937853,
+    "min_per_window": 1,
+    "max_per_window": 13
+  },
+  "per_match_stats": [
+    {
+      "match_id": "1",
+      "num_windows": 36,
+      "avg_events_per_window": 3.638888888888889,
+      "avg_words_per_window": 330.52777777777777
+    },
+    {
+      "match_id": "10",
+      "num_windows": 34,
+      "avg_events_per_window": 4.0,
+      "avg_words_per_window": 329.3529411764706
+    },
+    {
+      "match_id": "11",
+      "num_windows": 29,
+      "avg_events_per_window": 3.1379310344827585,
+      "avg_words_per_window": 291.7931034482759
+    },
+    {
+      "match_id": "12",
+      "num_windows": 18,
+      "avg_events_per_window": 4.0,
+      "avg_words_per_window": 420.3333333333333
+    },
+    {
+      "match_id": "13",
+      "num_windows": 28,
+      "avg_events_per_window": 3.7857142857142856,
+      "avg_words_per_window": 364.9642857142857
+    },
+    {
+      "match_id": "14",
+      "num_windows": 32,
+      "avg_events_per_window": 4.125,
+      "avg_words_per_window": 382.5625
+    },
+    {
+      "match_id": "15",
+      "num_windows": 32,
+      "avg_events_per_window": 3.71875,
+      "avg_words_per_window": 253.25
+    },
+    {
+      "match_id": "16",
+      "num_windows": 29,
+      "avg_events_per_window": 2.689655172413793,
+      "avg_words_per_window": 186.86206896551724
+    },
+    {
+      "match_id": "17",
+      "num_windows": 32,
+      "avg_events_per_window": 3.28125,
+      "avg_words_per_window": 364.40625
+    },
+    {
+      "match_id": "18",
+      "num_windows": 29,
+      "avg_events_per_window": 3.5172413793103448,
+      "avg_words_per_window": 305.58620689655174
+    },
+    {
+      "match_id": "19",
+      "num_windows": 22,
+      "avg_events_per_window": 4.045454545454546,
+      "avg_words_per_window": 409.72727272727275
+    },
+    {
+      "match_id": "2",
+      "num_windows": 26,
+      "avg_events_per_window": 3.8076923076923075,
+      "avg_words_per_window": 306.65384615384613
+    },
+    {
+      "match_id": "20",
+      "num_windows": 20,
+      "avg_events_per_window": 3.65,
+      "avg_words_per_window": 208.8
+    },
+    {
+      "match_id": "21",
+      "num_windows": 35,
+      "avg_events_per_window": 4.0,
+      "avg_words_per_window": 364.45714285714286
+    },
+    {
+      "match_id": "22",
+      "num_windows": 24,
+      "avg_events_per_window": 3.875,
+      "avg_words_per_window": 279.2083333333333
+    },
+    {
+      "match_id": "23",
+      "num_windows": 26,
+      "avg_events_per_window": 3.230769230769231,
+      "avg_words_per_window": 226.23076923076923
+    },
+    {
+      "match_id": "24",
+      "num_windows": 23,
+      "avg_events_per_window": 3.3043478260869565,
+      "avg_words_per_window": 308.30434782608694
+    },
+    {
+      "match_id": "25",
+      "num_windows": 28,
+      "avg_events_per_window": 2.7857142857142856,
+      "avg_words_per_window": 192.57142857142858
+    },
+    {
+      "match_id": "26",
+      "num_windows": 24,
+      "avg_events_per_window": 2.9583333333333335,
+      "avg_words_per_window": 255.70833333333334
+    },
+    {
+      "match_id": "27",
+      "num_windows": 28,
+      "avg_events_per_window": 3.5714285714285716,
+      "avg_words_per_window": 236.67857142857142
+    },
+    {
+      "match_id": "28",
+      "num_windows": 20,
+      "avg_events_per_window": 2.75,
+      "avg_words_per_window": 202.5
+    },
+    {
+      "match_id": "29",
+      "num_windows": 31,
+      "avg_events_per_window": 3.6129032258064515,
+      "avg_words_per_window": 386.96774193548384
+    },
+    {
+      "match_id": "3",
+      "num_windows": 26,
+      "avg_events_per_window": 3.6153846153846154,
+      "avg_words_per_window": 265.34615384615387
+    },
+    {
+      "match_id": "30",
+      "num_windows": 25,
+      "avg_events_per_window": 2.88,
+      "avg_words_per_window": 345.24
+    },
+    {
+      "match_id": "31",
+      "num_windows": 36,
+      "avg_events_per_window": 2.7777777777777777,
+      "avg_words_per_window": 185.27777777777777
+    },
+    {
+      "match_id": "32",
+      "num_windows": 27,
+      "avg_events_per_window": 3.3703703703703702,
+      "avg_words_per_window": 245.7037037037037
+    },
+    {
+      "match_id": "33",
+      "num_windows": 25,
+      "avg_events_per_window": 3.4,
+      "avg_words_per_window": 188.56
+    },
+    {
+      "match_id": "34",
+      "num_windows": 23,
+      "avg_events_per_window": 4.0,
+      "avg_words_per_window": 425.0869565217391
+    },
+    {
+      "match_id": "35",
+      "num_windows": 32,
+      "avg_events_per_window": 2.5625,
+      "avg_words_per_window": 228.65625
+    },
+    {
+      "match_id": "36",
+      "num_windows": 25,
+      "avg_events_per_window": 3.84,
+      "avg_words_per_window": 311.92
+    },
+    {
+      "match_id": "37",
+      "num_windows": 36,
+      "avg_events_per_window": 2.8333333333333335,
+      "avg_words_per_window": 313.0833333333333
+    },
+    {
+      "match_id": "38",
+      "num_windows": 39,
+      "avg_events_per_window": 4.230769230769231,
+      "avg_words_per_window": 387.94871794871796
+    },
+    {
+      "match_id": "39",
+      "num_windows": 24,
+      "avg_events_per_window": 4.625,
+      "avg_words_per_window": 313.3333333333333
+    },
+    {
+      "match_id": "4",
+      "num_windows": 34,
+      "avg_events_per_window": 4.294117647058823,
+      "avg_words_per_window": 229.61764705882354
+    },
+    {
+      "match_id": "40",
+      "num_windows": 35,
+      "avg_events_per_window": 3.257142857142857,
+      "avg_words_per_window": 311.51428571428573
+    },
+    {
+      "match_id": "41",
+      "num_windows": 25,
+      "avg_events_per_window": 3.16,
+      "avg_words_per_window": 279.28
+    },
+    {
+      "match_id": "42",
+      "num_windows": 18,
+      "avg_events_per_window": 2.5555555555555554,
+      "avg_words_per_window": 260.22222222222223
+    },
+    {
+      "match_id": "43",
+      "num_windows": 26,
+      "avg_events_per_window": 3.6923076923076925,
+      "avg_words_per_window": 392.03846153846155
+    },
+    {
+      "match_id": "44",
+      "num_windows": 31,
+      "avg_events_per_window": 3.7419354838709675,
+      "avg_words_per_window": 258.5483870967742
+    },
+    {
+      "match_id": "45",
+      "num_windows": 28,
+      "avg_events_per_window": 3.1785714285714284,
+      "avg_words_per_window": 254.5
+    },
+    {
+      "match_id": "46",
+      "num_windows": 40,
+      "avg_events_per_window": 3.375,
+      "avg_words_per_window": 313.375
+    },
+    {
+      "match_id": "47",
+      "num_windows": 21,
+      "avg_events_per_window": 3.857142857142857,
+      "avg_words_per_window": 381.14285714285717
+    },
+    {
+      "match_id": "48",
+      "num_windows": 25,
+      "avg_events_per_window": 3.8,
+      "avg_words_per_window": 357.88
+    },
+    {
+      "match_id": "49",
+      "num_windows": 33,
+      "avg_events_per_window": 3.6363636363636362,
+      "avg_words_per_window": 294.1515151515151
+    },
+    {
+      "match_id": "5",
+      "num_windows": 28,
+      "avg_events_per_window": 4.75,
+      "avg_words_per_window": 481.85714285714283
+    },
+    {
+      "match_id": "50",
+      "num_windows": 26,
+      "avg_events_per_window": 3.6153846153846154,
+      "avg_words_per_window": 260.7692307692308
+    },
+    {
+      "match_id": "51",
+      "num_windows": 29,
+      "avg_events_per_window": 3.6206896551724137,
+      "avg_words_per_window": 365.82758620689657
+    },
+    {
+      "match_id": "52",
+      "num_windows": 23,
+      "avg_events_per_window": 3.5652173913043477,
+      "avg_words_per_window": 268.7826086956522
+    },
+    {
+      "match_id": "53",
+      "num_windows": 32,
+      "avg_events_per_window": 2.84375,
+      "avg_words_per_window": 301.6875
+    },
+    {
+      "match_id": "54",
+      "num_windows": 24,
+      "avg_events_per_window": 3.7916666666666665,
+      "avg_words_per_window": 322.5416666666667
+    },
+    {
+      "match_id": "55",
+      "num_windows": 37,
+      "avg_events_per_window": 5.0,
+      "avg_words_per_window": 281.3243243243243
+    },
+    {
+      "match_id": "56",
+      "num_windows": 25,
+      "avg_events_per_window": 4.44,
+      "avg_words_per_window": 233.84
+    },
+    {
+      "match_id": "57",
+      "num_windows": 34,
+      "avg_events_per_window": 2.9411764705882355,
+      "avg_words_per_window": 351.52941176470586
+    },
+    {
+      "match_id": "58",
+      "num_windows": 34,
+      "avg_events_per_window": 3.411764705882353,
+      "avg_words_per_window": 340.7352941176471
+    },
+    {
+      "match_id": "59",
+      "num_windows": 27,
+      "avg_events_per_window": 3.111111111111111,
+      "avg_words_per_window": 278.7037037037037
+    },
+    {
+      "match_id": "6",
+      "num_windows": 29,
+      "avg_events_per_window": 3.0,
+      "avg_words_per_window": 266.7241379310345
+    },
+    {
+      "match_id": "60",
+      "num_windows": 28,
+      "avg_events_per_window": 2.857142857142857,
+      "avg_words_per_window": 270.2142857142857
+    },
+    {
+      "match_id": "61",
+      "num_windows": 27,
+      "avg_events_per_window": 3.8518518518518516,
+      "avg_words_per_window": 348.44444444444446
+    },
+    {
+      "match_id": "62",
+      "num_windows": 24,
+      "avg_events_per_window": 2.5833333333333335,
+      "avg_words_per_window": 226.45833333333334
+    },
+    {
+      "match_id": "63",
+      "num_windows": 20,
+      "avg_events_per_window": 2.7,
+      "avg_words_per_window": 280.2
+    },
+    {
+      "match_id": "64",
+      "num_windows": 35,
+      "avg_events_per_window": 3.1714285714285713,
+      "avg_words_per_window": 324.54285714285714
+    },
+    {
+      "match_id": "65",
+      "num_windows": 16,
+      "avg_events_per_window": 3.25,
+      "avg_words_per_window": 264.5
+    },
+    {
+      "match_id": "66",
+      "num_windows": 20,
+      "avg_events_per_window": 3.2,
+      "avg_words_per_window": 271.05
+    },
+    {
+      "match_id": "67",
+      "num_windows": 21,
+      "avg_events_per_window": 3.238095238095238,
+      "avg_words_per_window": 272.85714285714283
+    },
+    {
+      "match_id": "68",
+      "num_windows": 26,
+      "avg_events_per_window": 2.5384615384615383,
+      "avg_words_per_window": 184.8846153846154
+    },
+    {
+      "match_id": "69",
+      "num_windows": 36,
+      "avg_events_per_window": 3.9166666666666665,
+      "avg_words_per_window": 397.1388888888889
+    },
+    {
+      "match_id": "7",
+      "num_windows": 31,
+      "avg_events_per_window": 3.161290322580645,
+      "avg_words_per_window": 237.5483870967742
+    },
+    {
+      "match_id": "70",
+      "num_windows": 24,
+      "avg_events_per_window": 1.875,
+      "avg_words_per_window": 214.33333333333334
+    },
+    {
+      "match_id": "71",
+      "num_windows": 25,
+      "avg_events_per_window": 2.72,
+      "avg_words_per_window": 247.56
+    },
+    {
+      "match_id": "72",
+      "num_windows": 32,
+      "avg_events_per_window": 3.09375,
+      "avg_words_per_window": 381.3125
+    },
+    {
+      "match_id": "73",
+      "num_windows": 21,
+      "avg_events_per_window": 3.3333333333333335,
+      "avg_words_per_window": 272.04761904761904
+    },
+    {
+      "match_id": "74",
+      "num_windows": 24,
+      "avg_events_per_window": 2.5,
+      "avg_words_per_window": 242.25
+    },
+    {
+      "match_id": "75",
+      "num_windows": 31,
+      "avg_events_per_window": 3.3548387096774195,
+      "avg_words_per_window": 230.7741935483871
+    },
+    {
+      "match_id": "76",
+      "num_windows": 31,
+      "avg_events_per_window": 2.967741935483871,
+      "avg_words_per_window": 265.8709677419355
+    },
+    {
+      "match_id": "8",
+      "num_windows": 36,
+      "avg_events_per_window": 3.0555555555555554,
+      "avg_words_per_window": 310.52777777777777
+    },
+    {
+      "match_id": "9",
+      "num_windows": 28,
+      "avg_events_per_window": 3.5357142857142856,
+      "avg_words_per_window": 430.0
+    }
+  ]
+}

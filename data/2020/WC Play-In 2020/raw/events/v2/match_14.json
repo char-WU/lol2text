@@ -1,0 +1,1554 @@
+[
+  {
+    "timestamp": 179000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      }
+    ]
+  },
+  {
+    "timestamp": 515000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 536000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 540000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      },
+      {
+        "player": "Shadow",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 584000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 642000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 696000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 705000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 711000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      },
+      {
+        "player": "Shadow",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 748000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 862000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 872000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      },
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      },
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 875000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 908000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 931000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1169000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shadow",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shadow",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1205000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1206000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1234000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1237000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1265000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1266000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1280000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1312000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1374000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1500000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      },
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Shadow",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1503000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1507000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1530000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1552000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1596000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      },
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shadow",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shadow",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1608000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1618000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1642000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1648000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1695000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1697000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      },
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1704000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1739000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1805000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1817000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1828000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1847000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1851000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1881000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1990000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1991000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1992000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      },
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shadow",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shadow",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1993000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aloned",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 2004000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      },
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acce",
+        "champion": "Kayle"
+      }
+    ]
+  },
+  {
+    "timestamp": 2007000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 2007000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2010000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "xiye",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Josedeodo",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 2019000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

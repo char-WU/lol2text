@@ -1,0 +1,1594 @@
+[
+  {
+    "timestamp": 199000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 230000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "victim": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 579000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 689000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 742000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 753000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      },
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 777000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      },
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 783000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 915000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 939000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 954000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1036000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      },
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1134000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1138000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "victim": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1139000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1249000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      },
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1270000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1278000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1365000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      },
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      },
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1403000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1565000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      },
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      },
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1776000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1898000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      },
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      },
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1907000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      },
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1911000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      },
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      },
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 1927000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 1927000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1928000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      },
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 2042000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2177000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      },
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 2177000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      },
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 2177000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      },
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ]
+  },
+  {
+    "timestamp": 2180000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      },
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "victim": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 2181000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      },
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      },
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 2193000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 2195000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 2204000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 2217000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 2291000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      },
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "victim": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "FoFo",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 2292000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "LilV",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 2297000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      },
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      },
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 2303000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      },
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Koala",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 2305000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      },
+      {
+        "player": "Levi",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      },
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hana",
+        "champion": "Elise"
+      }
+    ]
+  },
+  {
+    "timestamp": 2318000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 2322000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2332000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2337000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kiaya",
+        "champion": "Kled"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2338000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Slay",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "ZerosS",
+        "champion": "Akali"
+      },
+      {
+        "player": "Zin",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rest",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 2346000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

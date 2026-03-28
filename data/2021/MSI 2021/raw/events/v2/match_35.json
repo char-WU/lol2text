@@ -1,0 +1,1412 @@
+[
+  {
+    "timestamp": 252000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 392000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 411000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 563000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ]
+  },
+  {
+    "timestamp": 566000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Lulu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 604000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 702000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ]
+  },
+  {
+    "timestamp": 706000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 738000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 841000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Lulu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Lulu"
+      }
+    ]
+  },
+  {
+    "timestamp": 866000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 943000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 947000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "River",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 956000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 992000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1004000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      }
+    ]
+  },
+  {
+    "timestamp": 1007000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1069000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1192000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1236000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ]
+  },
+  {
+    "timestamp": 1236000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ]
+  },
+  {
+    "timestamp": 1237000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "River",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Lulu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Lulu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1238000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Lulu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1239000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "River",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      }
+    ]
+  },
+  {
+    "timestamp": 1243000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      },
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Lulu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1245000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "River",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1279000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1386000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1427000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1459000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1702000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1709000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "River",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      }
+    ]
+  },
+  {
+    "timestamp": 1712000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Lulu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1713000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "River",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ]
+  },
+  {
+    "timestamp": 1713000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "River",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Lulu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Lulu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1724000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1739000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1745000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1747000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "River",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "Udyr"
+      }
+    ]
+  },
+  {
+    "timestamp": 1755000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1762000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1762000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Lulu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1763000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "River",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "KogMaw"
+      }
+    ]
+  },
+  {
+    "timestamp": 1766000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "River",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Lulu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Lulu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1771000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Akali"
+      },
+      {
+        "player": "River",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Viktor"
+      }
+    ]
+  },
+  {
+    "timestamp": 1780000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

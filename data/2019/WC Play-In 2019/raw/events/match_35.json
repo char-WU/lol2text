@@ -1,0 +1,695 @@
+[
+  {
+    "timestamp": 212000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah",
+      "Renekton"
+    ],
+    "victim": "Aatrox",
+    "target": "Robo"
+  },
+  {
+    "timestamp": 242000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Shrimp",
+    "participants": [
+      "RekSai",
+      "Aatrox",
+      "Neeko"
+    ],
+    "victim": "Taliyah",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 248000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Shrimp",
+    "participants": [
+      "RekSai",
+      "Aatrox",
+      "Neeko"
+    ],
+    "victim": "Ryze",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 304000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah",
+      "Renekton"
+    ],
+    "victim": "Aatrox",
+    "target": "Robo"
+  },
+  {
+    "timestamp": 371000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Goku",
+    "participants": [
+      "Neeko",
+      "RekSai"
+    ],
+    "victim": "Ryze",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 377000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Renekton",
+      "Ryze"
+    ],
+    "victim": "RekSai",
+    "target": "Shrimp"
+  },
+  {
+    "timestamp": 401000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "brTT",
+    "participants": [
+      "Caitlyn",
+      "Thresh"
+    ],
+    "victim": "Pyke",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 450000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah",
+      "Ryze"
+    ],
+    "victim": "RekSai",
+    "target": "Shrimp"
+  },
+  {
+    "timestamp": 455000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah",
+      "Ryze",
+      "Pyke"
+    ],
+    "victim": "Neeko",
+    "target": "Goku"
+  },
+  {
+    "timestamp": 571000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Renekton",
+      "Taliyah"
+    ],
+    "victim": "Aatrox",
+    "target": "Robo"
+  },
+  {
+    "timestamp": 598000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Shrimp",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 612000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Luci",
+    "participants": [
+      "Thresh",
+      "Caitlyn"
+    ],
+    "victim": "Pyke",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 640000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 787000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 909000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 937000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Shrimp",
+    "participants": [
+      "RekSai",
+      "Aatrox",
+      "Neeko",
+      "Thresh"
+    ],
+    "victim": "Ryze",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 945000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Ryze",
+      "Taliyah",
+      "Renekton"
+    ],
+    "victim": "RekSai",
+    "target": "Shrimp"
+  },
+  {
+    "timestamp": 957000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Goku",
+    "participants": [
+      "Neeko",
+      "Aatrox",
+      "Caitlyn",
+      "Thresh"
+    ],
+    "victim": "Pyke",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1131000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1162000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1226000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Taliyah",
+      "Pyke"
+    ],
+    "victim": "RekSai",
+    "target": "Shrimp"
+  },
+  {
+    "timestamp": 1235000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Renekton",
+      "Taliyah",
+      "Kaisa"
+    ],
+    "victim": "Thresh",
+    "target": "Luci"
+  },
+  {
+    "timestamp": 1242000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah",
+      "Ryze",
+      "Kaisa"
+    ],
+    "victim": "Caitlyn",
+    "target": "brTT"
+  },
+  {
+    "timestamp": 1245000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Robo",
+    "participants": [
+      "Aatrox",
+      "Neeko",
+      "Caitlyn",
+      "Thresh"
+    ],
+    "victim": "Pyke",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1248000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Renekton",
+      "Ryze",
+      "Pyke"
+    ],
+    "victim": "Neeko",
+    "target": "Goku"
+  },
+  {
+    "timestamp": 1253000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1274000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1575000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1587000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Shrimp",
+    "participants": [
+      "RekSai",
+      "Aatrox"
+    ],
+    "victim": "Ryze",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 1589000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Taliyah"
+    ],
+    "victim": "Thresh",
+    "target": "Luci"
+  },
+  {
+    "timestamp": 1591000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Taliyah"
+    ],
+    "victim": "Caitlyn",
+    "target": "brTT"
+  },
+  {
+    "timestamp": 1601000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ShowMaker",
+    "participants": [
+      "Renekton",
+      "Taliyah"
+    ],
+    "victim": "Neeko",
+    "target": "Goku"
+  },
+  {
+    "timestamp": 1606000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Pyke"
+    ],
+    "victim": "RekSai",
+    "target": "Shrimp"
+  },
+  {
+    "timestamp": 1608000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Taliyah",
+      "Renekton",
+      "Pyke"
+    ],
+    "victim": "Aatrox",
+    "target": "Robo"
+  },
+  {
+    "timestamp": 1658000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1664000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1686000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1740000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1748000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Shrimp",
+    "participants": [
+      "RekSai",
+      "Aatrox",
+      "Neeko",
+      "Caitlyn",
+      "Thresh"
+    ],
+    "victim": "Renekton",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 1749000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nuguri",
+    "participants": [
+      "Ryze",
+      "Taliyah",
+      "Renekton"
+    ],
+    "victim": "Caitlyn",
+    "target": "brTT"
+  },
+  {
+    "timestamp": 1755000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1759000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1760000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Nuguri",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1766000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nuguri",
+    "participants": [
+      "Ryze",
+      "Kaisa",
+      "Pyke"
+    ],
+    "victim": "Thresh",
+    "target": "Luci"
+  },
+  {
+    "timestamp": 1771000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1772000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1774000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1778000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Shrimp",
+    "participants": [
+      "RekSai",
+      "Aatrox",
+      "Neeko"
+    ],
+    "victim": "Pyke",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1780000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Ryze",
+      "Taliyah"
+    ],
+    "victim": "RekSai",
+    "target": "Shrimp"
+  },
+  {
+    "timestamp": 1788000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1793000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Canyon",
+    "participants": [
+      "Taliyah",
+      "Ryze",
+      "Kaisa",
+      "Pyke"
+    ],
+    "victim": "Aatrox",
+    "target": "Robo"
+  },
+  {
+    "timestamp": 1799000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": "Neeko",
+    "target": "Goku"
+  },
+  {
+    "timestamp": 1800000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nuguri",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": "Caitlyn",
+    "target": "brTT"
+  },
+  {
+    "timestamp": 1808000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

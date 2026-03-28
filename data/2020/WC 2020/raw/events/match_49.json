@@ -1,0 +1,700 @@
+[
+  {
+    "timestamp": 103000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Sett",
+      "Lillia",
+      "Jhin",
+      "Bard"
+    ],
+    "victim": "Senna",
+    "target": "huanfeng"
+  },
+  {
+    "timestamp": 123000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Jhin",
+      "Lillia",
+      "Sett",
+      "Bard"
+    ],
+    "victim": "Graves",
+    "target": "SofM"
+  },
+  {
+    "timestamp": 123000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SwordArt",
+    "participants": [
+      "TahmKench",
+      "Graves",
+      "TwistedFate"
+    ],
+    "victim": "Lillia",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 132000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "CoreJJ",
+    "participants": [
+      "Bard",
+      "Lillia",
+      "Sett",
+      "Jhin"
+    ],
+    "victim": "TahmKench",
+    "target": "SwordArt"
+  },
+  {
+    "timestamp": 296000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Lillia",
+      "Malphite"
+    ],
+    "victim": "Jayce",
+    "target": "Bin"
+  },
+  {
+    "timestamp": 450000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Angel",
+    "participants": [
+      "TwistedFate",
+      "Graves"
+    ],
+    "victim": "Lillia",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 477000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 701000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Angel",
+    "participants": [
+      "TwistedFate",
+      "Graves",
+      "Senna"
+    ],
+    "victim": "Lillia",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 702000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Jhin",
+      "Malphite",
+      "Lillia",
+      "Sett",
+      "Bard"
+    ],
+    "victim": "Graves",
+    "target": "SofM"
+  },
+  {
+    "timestamp": 703000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Jhin",
+      "Malphite",
+      "Lillia",
+      "Sett",
+      "Bard"
+    ],
+    "victim": "TwistedFate",
+    "target": "Angel"
+  },
+  {
+    "timestamp": 706000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Malphite",
+      "Lillia",
+      "Jhin",
+      "Bard"
+    ],
+    "victim": "Jayce",
+    "target": "Bin"
+  },
+  {
+    "timestamp": 797000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 835000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "SofM",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 887000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 996000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Jhin",
+      "Lillia",
+      "Bard"
+    ],
+    "victim": "Graves",
+    "target": "SofM"
+  },
+  {
+    "timestamp": 1018000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "SwordArt",
+    "participants": [
+      "TahmKench",
+      "Jayce",
+      "TwistedFate"
+    ],
+    "victim": "Malphite",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1020000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1037000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1057000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1158000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1195000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1339000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1378000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Sett"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1471000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1509000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Sett",
+      "Malphite",
+      "Lillia",
+      "Jhin"
+    ],
+    "victim": "Jayce",
+    "target": "Bin"
+  },
+  {
+    "timestamp": 1522000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Jhin",
+      "Malphite",
+      "Lillia",
+      "Sett",
+      "Bard"
+    ],
+    "victim": "TahmKench",
+    "target": "SwordArt"
+  },
+  {
+    "timestamp": 1559000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1564000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Jhin",
+      "Lillia",
+      "Bard"
+    ],
+    "victim": "Senna",
+    "target": "huanfeng"
+  },
+  {
+    "timestamp": 1566000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bin",
+    "participants": [
+      "Jayce",
+      "TwistedFate",
+      "Senna"
+    ],
+    "victim": "Jhin",
+    "target": "Tactical"
+  },
+  {
+    "timestamp": 1570000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Malphite",
+      "Lillia",
+      "Jhin",
+      "Bard"
+    ],
+    "victim": "TwistedFate",
+    "target": "Angel"
+  },
+  {
+    "timestamp": 1591000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Sett",
+      "Malphite",
+      "Bard"
+    ],
+    "victim": "Graves",
+    "target": "SofM"
+  },
+  {
+    "timestamp": 1600000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Sett",
+      "Malphite",
+      "Lillia",
+      "Bard"
+    ],
+    "victim": "TahmKench",
+    "target": "SwordArt"
+  },
+  {
+    "timestamp": 1602000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bin",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": "Lillia",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 1605000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Malphite",
+      "Lillia",
+      "Sett",
+      "Bard"
+    ],
+    "victim": "Jayce",
+    "target": "Bin"
+  },
+  {
+    "timestamp": 1695000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1700000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1701000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Angel",
+    "participants": [
+      "TwistedFate",
+      "Graves",
+      "Senna"
+    ],
+    "victim": "Jhin",
+    "target": "Tactical"
+  },
+  {
+    "timestamp": 1708000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Lillia",
+      "Sett",
+      "Bard"
+    ],
+    "victim": "TwistedFate",
+    "target": "Angel"
+  },
+  {
+    "timestamp": 1718000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Sett"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1784000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1816000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1859000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Malphite",
+      "Lillia",
+      "Sett",
+      "Jhin",
+      "Bard"
+    ],
+    "victim": "Senna",
+    "target": "huanfeng"
+  },
+  {
+    "timestamp": 1862000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Jhin",
+      "Lillia",
+      "Sett",
+      "Bard"
+    ],
+    "victim": "Graves",
+    "target": "SofM"
+  },
+  {
+    "timestamp": 1866000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "CoreJJ",
+    "participants": [
+      "Bard"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1880000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1894000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1908000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Jhin",
+      "Malphite",
+      "Bard"
+    ],
+    "victim": "Jayce",
+    "target": "Bin"
+  },
+  {
+    "timestamp": 1914000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Malphite",
+      "Sett",
+      "Jhin",
+      "Bard"
+    ],
+    "victim": "TwistedFate",
+    "target": "Angel"
+  },
+  {
+    "timestamp": 1917000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Broxah",
+    "participants": [
+      "Lillia",
+      "Malphite",
+      "Sett",
+      "Jhin",
+      "Bard"
+    ],
+    "victim": "TahmKench",
+    "target": "SwordArt"
+  },
+  {
+    "timestamp": 1932000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Jhin",
+      "Malphite",
+      "Sett"
+    ],
+    "victim": "Graves",
+    "target": "SofM"
+  },
+  {
+    "timestamp": 1937000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Jhin",
+      "Malphite",
+      "Lillia",
+      "Sett",
+      "Bard"
+    ],
+    "victim": "Senna",
+    "target": "huanfeng"
+  },
+  {
+    "timestamp": 1942000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Impact",
+    "participants": [
+      "Malphite"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1952000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

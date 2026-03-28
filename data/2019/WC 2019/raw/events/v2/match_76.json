@@ -1,0 +1,1054 @@
+[
+  {
+    "timestamp": 206000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Damonte",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Damonte",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      }
+    ]
+  },
+  {
+    "timestamp": 350000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Huni",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Huni",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 363000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Damonte",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Damonte",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 587000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 611000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      },
+      {
+        "player": "Uzi",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 624000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Huni",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Huni",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 671000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 775000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 777000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 891000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Uzi",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Huni",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Huni",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 899000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Damonte",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 902000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 913000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1112000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1252000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1265000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1447000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Damonte",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Damonte",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Huni",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Cody Sun",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1460000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cody Sun",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cody Sun",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1575000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1603000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Cody Sun",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cody Sun",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Huni",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Damonte",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1617000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Uzi",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Uzi",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Huni",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Huni",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1625000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Uzi",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1656000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1720000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Uzi",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Uzi",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cody Sun",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cody Sun",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1720000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Uzi",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Uzi",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1733000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1737000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1741000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1752000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1760000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1833000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1855000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1857000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Uzi",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Damonte",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Damonte",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1857000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Uzi",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cody Sun",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cody Sun",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1865000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Uzi",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Uzi",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Langx",
+        "champion": "Renekton"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Ming",
+        "champion": "Blitzcrank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lira",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1865000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1874000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1883000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

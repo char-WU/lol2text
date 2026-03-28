@@ -1,0 +1,1642 @@
+[
+  {
+    "timestamp": 105000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 278000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "LokeN",
+        "champion": "Ashe"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 288000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 292000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "LokeN",
+        "champion": "Ashe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "LokeN",
+        "champion": "Ashe"
+      },
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 294000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 422000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 589000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 608000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 690000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 749000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 799000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 848000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 979000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 987000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "LokeN",
+        "champion": "Ashe"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 990000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 992000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1024000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1067000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1136000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1138000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1142000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1156000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1224000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1226000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1228000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      },
+      {
+        "player": "LokeN",
+        "champion": "Ashe"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1231000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LokeN",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "LokeN",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1232000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1234000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 1235000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1262000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1320000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LokeN",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "LokeN",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1322000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1323000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      },
+      {
+        "player": "LokeN",
+        "champion": "Ashe"
+      },
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1324000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1328000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1354000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1358000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1365000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1375000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1394000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1419000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1441000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LokeN",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "LokeN",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1442000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1447000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "LvMao",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1448000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1450000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Yagao",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1454000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Zoom",
+        "champion": "Volibear"
+      },
+      {
+        "player": "LokeN",
+        "champion": "Ashe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 1456000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Camille"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kanavi",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1459000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1462000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1474000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

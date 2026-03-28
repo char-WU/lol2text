@@ -1,0 +1,625 @@
+[
+  {
+    "timestamp": 203000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Innaxe",
+    "participants": [
+      "Caitlyn",
+      "Morgana"
+    ],
+    "victim": "Karma",
+    "target": "Tore"
+  },
+  {
+    "timestamp": 203000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Tore",
+    "participants": [
+      "Karma",
+      "Olaf",
+      "Xayah"
+    ],
+    "victim": "Morgana",
+    "target": "Edward"
+  },
+  {
+    "timestamp": 207000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Olaf",
+      "Xayah"
+    ],
+    "victim": "Caitlyn",
+    "target": "Innaxe"
+  },
+  {
+    "timestamp": 224000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Vizicsacsi",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 390000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Akali",
+      "Gnar"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 404000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 481000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Vizicsacsi",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 485000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "AHaHaCiK",
+    "participants": [
+      "Elise",
+      "Camille",
+      "Ryze"
+    ],
+    "victim": "Gnar",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 696000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Akali"
+    ],
+    "victim": "Elise",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 696000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Vizicsacsi",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 710000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Camille",
+      "Ryze"
+    ],
+    "victim": "Karma",
+    "target": "Tore"
+  },
+  {
+    "timestamp": 760000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 789000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Camille",
+      "Elise",
+      "Ryze",
+      "Morgana"
+    ],
+    "victim": "Gnar",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 804000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Xayah",
+      "Karma"
+    ],
+    "victim": "Caitlyn",
+    "target": "Innaxe"
+  },
+  {
+    "timestamp": 820000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 850000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 868000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Ryze",
+      "Camille",
+      "Elise",
+      "Morgana"
+    ],
+    "victim": "Gnar",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 876000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 884000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 994000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Olaf",
+      "Karma"
+    ],
+    "victim": "Elise",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1015000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Xayah",
+      "Olaf",
+      "Karma"
+    ],
+    "victim": "Morgana",
+    "target": "Edward"
+  },
+  {
+    "timestamp": 1017000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Xayah",
+      "Olaf",
+      "Karma"
+    ],
+    "victim": "Ryze",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1023000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1027000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Xayah",
+      "Olaf",
+      "Karma"
+    ],
+    "victim": "Caitlyn",
+    "target": "Innaxe"
+  },
+  {
+    "timestamp": 1035000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1059000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Camille",
+      "Elise"
+    ],
+    "victim": "Karma",
+    "target": "Tore"
+  },
+  {
+    "timestamp": 1147000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1189000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1271000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Olaf",
+      "Gnar",
+      "Karma"
+    ],
+    "victim": "Elise",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1297000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Innaxe",
+    "participants": [
+      "Caitlyn",
+      "Ryze",
+      "Morgana"
+    ],
+    "victim": "Olaf",
+    "target": "Xerxe"
+  },
+  {
+    "timestamp": 1302000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Innaxe",
+    "participants": [
+      "Caitlyn",
+      "Camille",
+      "Ryze",
+      "Morgana"
+    ],
+    "victim": "Gnar",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 1304000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1307000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BOSS",
+    "participants": [
+      "Camille",
+      "Caitlyn"
+    ],
+    "victim": "Karma",
+    "target": "Tore"
+  },
+  {
+    "timestamp": 1310000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Xayah",
+      "Gnar",
+      "Karma"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1375000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1382000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Innaxe",
+    "participants": [
+      "Caitlyn",
+      "Camille",
+      "Morgana"
+    ],
+    "victim": "Akali",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1421000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Ryze",
+      "Morgana"
+    ],
+    "victim": "Xayah",
+    "target": "Kobbe"
+  },
+  {
+    "timestamp": 1450000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nomanz",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1567000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1576000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1643000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1787000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Xayah",
+      "Gnar",
+      "Karma"
+    ],
+    "victim": "Caitlyn",
+    "target": "Innaxe"
+  },
+  {
+    "timestamp": 1791000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Akali",
+      "Gnar",
+      "Xayah",
+      "Karma"
+    ],
+    "victim": "Ryze",
+    "target": "Nomanz"
+  },
+  {
+    "timestamp": 1795000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Xayah",
+      "Gnar",
+      "Olaf",
+      "Karma"
+    ],
+    "victim": "Camille",
+    "target": "BOSS"
+  },
+  {
+    "timestamp": 1796000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Akali",
+      "Olaf"
+    ],
+    "victim": "Elise",
+    "target": "AHaHaCiK"
+  },
+  {
+    "timestamp": 1805000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Akali",
+      "Xayah",
+      "Karma"
+    ],
+    "victim": "Morgana",
+    "target": "Edward"
+  },
+  {
+    "timestamp": 1814000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Olaf"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1820000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Akali"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1830000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

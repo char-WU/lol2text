@@ -1,0 +1,254 @@
+[
+  {
+    "timestamp": 260000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lira",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lira",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Damonte",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nomanz",
+        "champion": "Kayle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nomanz",
+        "champion": "Kayle"
+      }
+    ]
+  },
+  {
+    "timestamp": 483000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lira",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lira",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 518000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Kayle"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Damonte",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Damonte",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 623000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Kayle"
+      },
+      {
+        "player": "Edward",
+        "champion": "Fiddlesticks"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lira",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lira",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 625000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kayle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kayle"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Edward",
+        "champion": "Fiddlesticks"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 632000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 759000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Aatrox"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lira",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lira",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 802000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2333000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

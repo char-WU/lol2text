@@ -1,0 +1,1278 @@
+[
+  {
+    "timestamp": 520000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 701000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      },
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      },
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      }
+    ],
+    "target": [
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      }
+    ]
+  },
+  {
+    "timestamp": 740000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 840000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 845000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      },
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      },
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 886000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 986000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Envy",
+        "champion": "KogMaw"
+      }
+    ],
+    "target": [
+      {
+        "player": "Envy",
+        "champion": "KogMaw"
+      }
+    ]
+  },
+  {
+    "timestamp": 1004000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1013000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1018000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1087000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1092000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1108000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1119000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1152000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1446000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1450000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1452000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      },
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      },
+      {
+        "player": "Envy",
+        "champion": "KogMaw"
+      },
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1459000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Envy",
+        "champion": "KogMaw"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Envy",
+        "champion": "KogMaw"
+      },
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      },
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1464000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      },
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1466000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      },
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      },
+      {
+        "player": "Envy",
+        "champion": "KogMaw"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      }
+    ],
+    "target": [
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      }
+    ]
+  },
+  {
+    "timestamp": 1467000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      },
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1467000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      },
+      {
+        "player": "Envy",
+        "champion": "KogMaw"
+      },
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1497000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1562000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1584000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1617000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1624000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 1711000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1716000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1799000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1842000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2060000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 2151000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2190000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "RedBert",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 2199000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "micaO",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 2201000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 2215000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Envy",
+        "champion": "KogMaw"
+      }
+    ],
+    "target": [
+      {
+        "player": "Envy",
+        "champion": "KogMaw"
+      }
+    ]
+  },
+  {
+    "timestamp": 2219000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shini",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 2234000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 2244000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2247000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shad0w",
+        "champion": "Graves"
+      },
+      {
+        "player": "Orome",
+        "champion": "Wukong"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tay",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 2250000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2254000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2265000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

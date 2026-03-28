@@ -1,0 +1,1532 @@
+[
+  {
+    "timestamp": 295000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 349000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 355000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 359000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 404000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 525000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 670000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 677000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 738000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 767000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 820000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 990000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1011000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1039000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1053000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1104000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1266000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1348000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1365000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1371000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1373000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1430000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1464000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1469000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1499000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1582000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1585000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1588000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1596000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1798000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1838000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1863000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1868000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1872000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1933000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Closer",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1943000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1943000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ]
+  },
+  {
+    "timestamp": 1945000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1962000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1971000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1972000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1983000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1988000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1989000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1993000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 2018000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ]
+  },
+  {
+    "timestamp": 2045000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2065000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2071000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Canyon",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "cyeol",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 2078000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

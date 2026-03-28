@@ -1,0 +1,914 @@
+[
+  {
+    "timestamp": 201000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Canna",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 298000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Abbedagge",
+        "champion": "Orianna"
+      },
+      {
+        "player": "FBI",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Huhi",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 305000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Faker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 314000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Faker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Huhi",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Huhi",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 314000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "FBI",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FBI",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Abbedagge",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Huhi",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Zoe"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Zoe"
+      }
+    ]
+  },
+  {
+    "timestamp": 319000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "FBI",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "FBI",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Abbedagge",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Huhi",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 330000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 513000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 515000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 686000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 697000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 766000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 766000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 767000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canna",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canna",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ssumday",
+        "champion": "Malphite"
+      }
+    ],
+    "target": [
+      {
+        "player": "ssumday",
+        "champion": "Malphite"
+      }
+    ]
+  },
+  {
+    "timestamp": 777000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 777000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canna",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canna",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 802000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 807000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 913000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 936000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 956000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1005000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1025000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canna",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canna",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1031000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1033000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Abbedagge",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Abbedagge",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1325000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1695000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1729000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1796000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1872000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Canna",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Faker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ssumday",
+        "champion": "Malphite"
+      }
+    ],
+    "target": [
+      {
+        "player": "ssumday",
+        "champion": "Malphite"
+      }
+    ]
+  },
+  {
+    "timestamp": 1875000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Canna",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Abbedagge",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Abbedagge",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1876000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canna",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canna",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1881000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1886000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canna",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canna",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Keria",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "FBI",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "FBI",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1889000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1894000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gumayusi",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1897000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Oner",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1906000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

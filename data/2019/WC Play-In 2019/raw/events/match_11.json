@@ -1,0 +1,618 @@
+[
+  {
+    "timestamp": 463000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Armut",
+    "participants": [
+      "Renekton",
+      "Elise",
+      "Irelia"
+    ],
+    "victim": "Neeko",
+    "target": "Damonte"
+  },
+  {
+    "timestamp": 466000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Huni",
+    "participants": [
+      "Rumble",
+      "JarvanIV",
+      "Neeko"
+    ],
+    "victim": "Elise",
+    "target": "Closer"
+  },
+  {
+    "timestamp": 467000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa",
+      "Pyke"
+    ],
+    "victim": "Thresh",
+    "target": "Tolerant"
+  },
+  {
+    "timestamp": 473000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lira",
+    "participants": [
+      "JarvanIV",
+      "Rumble",
+      "Neeko"
+    ],
+    "victim": "Irelia",
+    "target": "cyeol"
+  },
+  {
+    "timestamp": 480000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Lira",
+    "participants": [
+      "JarvanIV",
+      "Rumble"
+    ],
+    "victim": "Renekton",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 573000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Lira",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 580000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Closer",
+    "participants": [
+      "Elise",
+      "Renekton"
+    ],
+    "victim": "Rumble",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 619000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Neeko",
+      "Rumble",
+      "JarvanIV",
+      "Pyke"
+    ],
+    "victim": "Irelia",
+    "target": "cyeol"
+  },
+  {
+    "timestamp": 636000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Neeko",
+      "Rumble",
+      "JarvanIV",
+      "Pyke"
+    ],
+    "victim": "Elise",
+    "target": "Closer"
+  },
+  {
+    "timestamp": 638000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Lira",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 818000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 898000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Lira",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 933000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "cyeol",
+    "participants": [
+      "Irelia",
+      "Renekton",
+      "Elise"
+    ],
+    "victim": "Rumble",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 977000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1028000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Closer",
+    "participants": [
+      "Elise",
+      "Renekton"
+    ],
+    "victim": "Rumble",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 1032000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Neeko",
+      "Rumble",
+      "Pyke"
+    ],
+    "victim": "Elise",
+    "target": "Closer"
+  },
+  {
+    "timestamp": 1038000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Armut",
+    "participants": [
+      "Renekton",
+      "Elise",
+      "Thresh"
+    ],
+    "victim": "Pyke",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1047000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Neeko",
+      "JarvanIV",
+      "Kaisa",
+      "Pyke"
+    ],
+    "victim": "Renekton",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1054000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "cyeol",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1162000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Closer",
+    "participants": [
+      "Elise"
+    ],
+    "victim": "Neeko",
+    "target": "Damonte"
+  },
+  {
+    "timestamp": 1213000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1218000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Lira",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1295000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1301000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Neeko",
+      "Rumble",
+      "JarvanIV",
+      "Kaisa"
+    ],
+    "victim": "Elise",
+    "target": "Closer"
+  },
+  {
+    "timestamp": 1366000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Vulcan",
+    "participants": [
+      "Pyke",
+      "Rumble",
+      "JarvanIV"
+    ],
+    "victim": "Renekton",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1445000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa",
+      "Rumble",
+      "Pyke"
+    ],
+    "victim": "Thresh",
+    "target": "Tolerant"
+  },
+  {
+    "timestamp": 1465000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa",
+      "Rumble",
+      "JarvanIV",
+      "Pyke"
+    ],
+    "victim": "Elise",
+    "target": "Closer"
+  },
+  {
+    "timestamp": 1492000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Lira",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1494000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "cyeol",
+    "participants": [
+      "Irelia",
+      "Ezreal"
+    ],
+    "victim": "Neeko",
+    "target": "Damonte"
+  },
+  {
+    "timestamp": 1494000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa",
+      "Rumble",
+      "JarvanIV"
+    ],
+    "victim": "Renekton",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1496000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "cyeol",
+    "participants": [
+      "Irelia",
+      "Ezreal"
+    ],
+    "victim": "Pyke",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1499000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa",
+      "Rumble",
+      "JarvanIV",
+      "Neeko"
+    ],
+    "victim": "Irelia",
+    "target": "cyeol"
+  },
+  {
+    "timestamp": 1505000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa",
+      "Rumble",
+      "JarvanIV",
+      "Neeko"
+    ],
+    "victim": "Ezreal",
+    "target": "Pilot"
+  },
+  {
+    "timestamp": 1512000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa",
+      "Rumble",
+      "JarvanIV"
+    ],
+    "victim": "Thresh",
+    "target": "Tolerant"
+  },
+  {
+    "timestamp": 1548000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1572000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Neeko",
+      "JarvanIV",
+      "Kaisa"
+    ],
+    "victim": "Thresh",
+    "target": "Tolerant"
+  },
+  {
+    "timestamp": 1583000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1590000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Closer",
+    "participants": [
+      "Elise",
+      "Renekton",
+      "Irelia"
+    ],
+    "victim": "Rumble",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 1595000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1604000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Vulcan",
+    "participants": [
+      "Pyke",
+      "JarvanIV",
+      "Neeko",
+      "Kaisa"
+    ],
+    "victim": "Ezreal",
+    "target": "Pilot"
+  },
+  {
+    "timestamp": 1608000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa",
+      "JarvanIV",
+      "Neeko",
+      "Pyke"
+    ],
+    "victim": "Irelia",
+    "target": "cyeol"
+  },
+  {
+    "timestamp": 1613000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1620000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Damonte",
+    "participants": [
+      "Neeko"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1626000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa",
+      "JarvanIV",
+      "Neeko",
+      "Pyke"
+    ],
+    "victim": "Renekton",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1647000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1651000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Cody Sun",
+    "participants": [
+      "Kaisa",
+      "Rumble",
+      "JarvanIV"
+    ],
+    "victim": "Thresh",
+    "target": "Tolerant"
+  },
+  {
+    "timestamp": 1658000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

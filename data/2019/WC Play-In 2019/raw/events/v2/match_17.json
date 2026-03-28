@@ -1,0 +1,1172 @@
+[
+  {
+    "timestamp": 429000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 434000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shrimp",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shrimp",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 459000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 582000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 588000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      },
+      {
+        "player": "Shrimp",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 598000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "cyeol",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 663000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 742000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 872000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 891000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1047000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "cyeol",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1053000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "cyeol",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Goku",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Goku",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1082000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1157000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shrimp",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shrimp",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1184000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1192000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shrimp",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shrimp",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1206000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "cyeol",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Goku",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Goku",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1209000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "cyeol",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1230000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1251000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1364000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "cyeol",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "cyeol",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Goku",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Goku",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1372000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "cyeol",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1393000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      },
+      {
+        "player": "Shrimp",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1394000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1394000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shrimp",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shrimp",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1418000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1495000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1517000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Shrimp",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shrimp",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "cyeol",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "cyeol",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1570000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1574000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1579000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "cyeol",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1587000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1592000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1640000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1645000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1649000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Closer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "brTT",
+        "champion": "Ashe"
+      }
+    ],
+    "target": [
+      {
+        "player": "brTT",
+        "champion": "Ashe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1655000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "cyeol",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "cyeol",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1659000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1662000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pilot",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Armut",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "cyeol",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Tolerant",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1674000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

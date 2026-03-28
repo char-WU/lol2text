@@ -1,0 +1,938 @@
+[
+  {
+    "timestamp": 174000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Spica",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Spica",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Brokenblade",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 482000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Spica",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Spica",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Senna"
+      },
+      {
+        "player": "Biofrost",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 507000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 545000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Brokenblade",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Brokenblade",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Spica",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Bjergsen",
+        "champion": "Zilean"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Senna"
+      },
+      {
+        "player": "Biofrost",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 553000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sett"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Life",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Brokenblade",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Brokenblade",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 677000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 776000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 878000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doublelift",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doublelift",
+        "champion": "Senna"
+      },
+      {
+        "player": "Brokenblade",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Bjergsen",
+        "champion": "Zilean"
+      },
+      {
+        "player": "Biofrost",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 902000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 903000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Brokenblade",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Brokenblade",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 911000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 926000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 996000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1009000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1136000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Brokenblade",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Brokenblade",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Spica",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Doublelift",
+        "champion": "Senna"
+      },
+      {
+        "player": "Biofrost",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      }
+    ]
+  },
+  {
+    "timestamp": 1352000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sett"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Life",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doublelift",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doublelift",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1371000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1425000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Sett"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Life",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bjergsen",
+        "champion": "Zilean"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bjergsen",
+        "champion": "Zilean"
+      }
+    ]
+  },
+  {
+    "timestamp": 1428000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Sett"
+      },
+      {
+        "player": "Life",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Biofrost",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Biofrost",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1432000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Life",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doublelift",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doublelift",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1444000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Life",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Spica",
+        "champion": "Nidalee"
+      }
+    ],
+    "target": [
+      {
+        "player": "Spica",
+        "champion": "Nidalee"
+      }
+    ]
+  },
+  {
+    "timestamp": 1459000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1541000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1590000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1594000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1599000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Life",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Brokenblade",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "Brokenblade",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 1609000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1618000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1622000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Life",
+        "champion": "Karma"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Life",
+        "champion": "Karma"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Volibear"
+      },
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doublelift",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doublelift",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1627000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1635000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1636000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Clid",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Sett"
+      },
+      {
+        "player": "Life",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Biofrost",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Biofrost",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1639000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Spica",
+        "champion": "Nidalee"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Spica",
+        "champion": "Nidalee"
+      },
+      {
+        "player": "Bjergsen",
+        "champion": "Zilean"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Life",
+        "champion": "Karma"
+      }
+    ],
+    "target": [
+      {
+        "player": "Life",
+        "champion": "Karma"
+      }
+    ]
+  },
+  {
+    "timestamp": 1649000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

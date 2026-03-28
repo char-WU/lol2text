@@ -1,0 +1,1678 @@
+[
+  {
+    "timestamp": 116000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 484000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 510000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jensen",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jensen",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 519000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Trundle"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 525000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 530000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 534000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 542000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 546000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Jensen",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 556000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 560000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 573000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Trundle"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 576000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 581000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 588000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 591000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 600000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 605000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 605000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 605000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 605000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 608000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Santorin",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Santorin",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 657000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 717000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 747000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 747000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 776000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 783000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 797000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 804000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 809000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 813000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 834000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 834000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 858000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Santorin",
+        "champion": "Trundle"
+      },
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 922000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 982000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1043000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Jensen",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1075000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1091000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1234000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1247000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jensen",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jensen",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1529000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      },
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1536000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1537000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1544000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1569000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1623000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1630000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 1673000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 1675000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1691000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1759000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1823000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1829000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1933000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1937000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Jensen",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1960000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 2055000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "CoreJJ",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 2056000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 2091000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2193000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alphari",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 2199000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Viego"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tactical",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 2212000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 2215000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 2221000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2223000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Armut",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kaiser",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Santorin",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "Santorin",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 2224000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2234000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

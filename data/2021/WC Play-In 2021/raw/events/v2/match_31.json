@@ -1,0 +1,1798 @@
+[
+  {
+    "timestamp": 325000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 519000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 539000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 540000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 540000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 540000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 544000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 544000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 546000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ]
+  },
+  {
+    "timestamp": 546000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      },
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 555000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 557000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 597000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 603000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 625000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 655000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 684000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 690000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "LeBlanc"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      }
+    ]
+  },
+  {
+    "timestamp": 693000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 700000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 700000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 714000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 731000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 731000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 746000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 773000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nomanz",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nomanz",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 776000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 780000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 782000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 796000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 803000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 824000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 831000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 854000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 899000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 927000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 968000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ],
+    "target": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ]
+  },
+  {
+    "timestamp": 978000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 979000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 980000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      },
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1015000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1022000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1124000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1334000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      },
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1339000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1340000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 1341000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      },
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1345000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1376000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [
+      {
+        "player": "Nomanz",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nomanz",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1388000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1505000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1511000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "LeBlanc"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1521000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      },
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1525000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1565000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nomanz",
+        "champion": "LeBlanc"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nomanz",
+        "champion": "LeBlanc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1592000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1601000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1660000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1677000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1681000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1686000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1704000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1705000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Crazy",
+        "champion": "Gwen"
+      },
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1709000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1711000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1722000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "MDB",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Trundle"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "LeBlanc"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1723000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1738000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Alive",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1748000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

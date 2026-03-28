@@ -1,0 +1,889 @@
+[
+  {
+    "timestamp": 230000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Tryndamere",
+      "Taliyah"
+    ],
+    "victim": "Sylas",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 375000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Ezreal",
+      "Taliyah",
+      "Leona"
+    ],
+    "victim": "Thresh",
+    "target": "Zergsting"
+  },
+  {
+    "timestamp": 379000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Taliyah",
+      "Ezreal"
+    ],
+    "victim": "MissFortune",
+    "target": "Alive"
+  },
+  {
+    "timestamp": 388000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Ezreal",
+      "Taliyah"
+    ],
+    "victim": "XinZhao",
+    "target": "Mojito"
+  },
+  {
+    "timestamp": 437000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 474000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Taliyah",
+      "JarvanIV"
+    ],
+    "victim": "Jayce",
+    "target": "Crazy"
+  },
+  {
+    "timestamp": 515000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Taliyah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 550000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Mojito",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 592000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 627000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 629000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Taliyah",
+      "JarvanIV"
+    ],
+    "victim": "XinZhao",
+    "target": "Mojito"
+  },
+  {
+    "timestamp": 635000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bolulu",
+    "participants": [
+      "Sylas",
+      "Jayce"
+    ],
+    "victim": "Taliyah",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 639000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Crazy",
+    "participants": [
+      "Jayce",
+      "Sylas"
+    ],
+    "victim": "JarvanIV",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 642000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 649000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 651000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 667000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 677000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 677000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "MissFortune",
+    "target": "Alive"
+  },
+  {
+    "timestamp": 687000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bolulu",
+    "participants": [
+      "Sylas",
+      "Thresh"
+    ],
+    "victim": "Leona",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 699000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 699000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Taliyah"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 699000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 706000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 713000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 715000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 723000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 770000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 776000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 776000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 776000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 784000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 803000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 803000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 860000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Mojito",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 877000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 887000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Alive",
+    "participants": [
+      "MissFortune",
+      "Jayce",
+      "Sylas",
+      "Thresh"
+    ],
+    "victim": "Leona",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 919000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mojito",
+    "participants": [
+      "XinZhao",
+      "MissFortune",
+      "Thresh"
+    ],
+    "victim": "Taliyah",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 928000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Bolulu",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 936000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "JarvanIV",
+      "Tryndamere",
+      "Ezreal"
+    ],
+    "victim": "XinZhao",
+    "target": "Mojito"
+  },
+  {
+    "timestamp": 938000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Crazy",
+    "participants": [
+      "Jayce",
+      "XinZhao",
+      "Sylas",
+      "MissFortune",
+      "Thresh"
+    ],
+    "victim": "JarvanIV",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 940000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Ezreal",
+      "JarvanIV",
+      "Tryndamere",
+      "Leona"
+    ],
+    "victim": "Sylas",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 940000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Alive",
+    "participants": [
+      "MissFortune",
+      "Sylas"
+    ],
+    "victim": "Ezreal",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 946000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Crazy",
+    "participants": [
+      "Jayce",
+      "Sylas",
+      "MissFortune",
+      "Thresh"
+    ],
+    "victim": "Leona",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1023000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Alive",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1034000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Mojito",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1040000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Tryndamere"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1162000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Tryndamere",
+      "JarvanIV",
+      "Taliyah",
+      "Ezreal"
+    ],
+    "victim": "Jayce",
+    "target": "Crazy"
+  },
+  {
+    "timestamp": 1171000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Taliyah",
+      "JarvanIV",
+      "Tryndamere",
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "XinZhao",
+    "target": "Mojito"
+  },
+  {
+    "timestamp": 1177000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Ezreal",
+      "JarvanIV",
+      "Taliyah",
+      "Tryndamere",
+      "Leona"
+    ],
+    "victim": "Thresh",
+    "target": "Zergsting"
+  },
+  {
+    "timestamp": 1198000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1245000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bolulu",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": "Tryndamere",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1361000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1416000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1508000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Tryndamere"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1518000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Crazy",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1553000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Tryndamere",
+      "Taliyah",
+      "Ezreal"
+    ],
+    "victim": "Thresh",
+    "target": "Zergsting"
+  },
+  {
+    "timestamp": 1570000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Taliyah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1571000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Taliyah",
+      "JarvanIV",
+      "Tryndamere",
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "XinZhao",
+    "target": "Mojito"
+  },
+  {
+    "timestamp": 1574000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "JarvanIV",
+      "Taliyah",
+      "Tryndamere",
+      "Leona"
+    ],
+    "victim": "Sylas",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 1577000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Tryndamere",
+      "JarvanIV",
+      "Taliyah",
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "Jayce",
+    "target": "Crazy"
+  },
+  {
+    "timestamp": 1578000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Ezreal",
+      "JarvanIV",
+      "Taliyah",
+      "Leona"
+    ],
+    "victim": "MissFortune",
+    "target": "Alive"
+  },
+  {
+    "timestamp": 1647000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Taliyah",
+      "JarvanIV",
+      "Tryndamere",
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "Thresh",
+    "target": "Zergsting"
+  },
+  {
+    "timestamp": 1648000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "JarvanIV",
+      "Ezreal"
+    ],
+    "victim": "MissFortune",
+    "target": "Alive"
+  },
+  {
+    "timestamp": 1650000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Taliyah",
+      "JarvanIV",
+      "Ezreal",
+      "Leona"
+    ],
+    "victim": "XinZhao",
+    "target": "Mojito"
+  },
+  {
+    "timestamp": 1654000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "JarvanIV",
+      "Taliyah",
+      "Tryndamere",
+      "Ezreal"
+    ],
+    "victim": "Sylas",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 1656000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1660000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1667000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1668000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Tryndamere",
+      "JarvanIV",
+      "Ezreal"
+    ],
+    "victim": "Jayce",
+    "target": "Crazy"
+  },
+  {
+    "timestamp": 1672000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Vulcan",
+    "participants": [
+      "Leona"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1680000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

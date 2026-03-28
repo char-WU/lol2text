@@ -1,0 +1,787 @@
+[
+  {
+    "timestamp": 142000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kirei",
+    "participants": [
+      "Nocturne",
+      "Sivir",
+      "Nautilus"
+    ],
+    "victim": "Varus",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 232000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ruin",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": "Jayce",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 303000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Nautilus",
+    "target": "Only35"
+  },
+  {
+    "timestamp": 341000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Naul",
+    "participants": [
+      "Lissandra",
+      "Jayce",
+      "Gragas"
+    ],
+    "victim": "Rumble",
+    "target": "Ruin"
+  },
+  {
+    "timestamp": 354000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bolulu",
+    "participants": [
+      "VelKoz",
+      "Rumble",
+      "Nocturne"
+    ],
+    "victim": "Jayce",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 407000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "Lissandra",
+      "Morgana"
+    ],
+    "victim": "Sivir",
+    "target": "Ellam"
+  },
+  {
+    "timestamp": 411000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Naul",
+    "participants": [
+      "Lissandra",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Nautilus",
+    "target": "Only35"
+  },
+  {
+    "timestamp": 413000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Only35",
+    "participants": [
+      "Nautilus",
+      "Sivir"
+    ],
+    "victim": "Morgana",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 502000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Meliodas",
+    "participants": [
+      "Gragas",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Sivir",
+    "target": "Ellam"
+  },
+  {
+    "timestamp": 508000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Meliodas",
+    "participants": [
+      "Gragas",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Nautilus",
+    "target": "Only35"
+  },
+  {
+    "timestamp": 511000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bolulu",
+    "participants": [
+      "VelKoz",
+      "Nocturne",
+      "Sivir",
+      "Nautilus"
+    ],
+    "victim": "Varus",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 514000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kirei",
+    "participants": [
+      "Nocturne",
+      "VelKoz",
+      "Sivir",
+      "Nautilus"
+    ],
+    "victim": "Morgana",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 514000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Meliodas",
+    "participants": [
+      "Gragas",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Nocturne",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 517000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bolulu",
+    "participants": [
+      "VelKoz",
+      "Nocturne",
+      "Nautilus"
+    ],
+    "victim": "Gragas",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 570000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Meliodas",
+    "participants": [
+      "Gragas",
+      "Jayce",
+      "Lissandra",
+      "Morgana"
+    ],
+    "victim": "Sivir",
+    "target": "Ellam"
+  },
+  {
+    "timestamp": 663000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Kirei",
+    "participants": [
+      "Nocturne"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 684000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kirei",
+    "participants": [
+      "Nocturne",
+      "Rumble"
+    ],
+    "victim": "Jayce",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 685000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Meliodas",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 739000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bolulu",
+    "participants": [
+      "VelKoz",
+      "Nocturne"
+    ],
+    "victim": "Morgana",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 742000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Meliodas",
+    "participants": [
+      "Gragas",
+      "Lissandra",
+      "Morgana"
+    ],
+    "victim": "Nocturne",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 745000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Naul",
+    "participants": [
+      "Lissandra",
+      "Gragas",
+      "Morgana"
+    ],
+    "victim": "VelKoz",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 788000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 846000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ellam",
+    "participants": [
+      "Sivir"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 872000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "Lissandra",
+      "Morgana"
+    ],
+    "victim": "VelKoz",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 1000000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kirei",
+    "participants": [
+      "Nocturne",
+      "Rumble",
+      "VelKoz",
+      "Sivir",
+      "Nautilus"
+    ],
+    "victim": "Lissandra",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1008000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "Jayce",
+      "Gragas",
+      "Lissandra",
+      "Morgana"
+    ],
+    "victim": "Nautilus",
+    "target": "Only35"
+  },
+  {
+    "timestamp": 1009000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "Jayce",
+      "Gragas",
+      "Lissandra",
+      "Morgana"
+    ],
+    "victim": "Nocturne",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 1102000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Kirei",
+    "participants": [
+      "Nocturne"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1116000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce",
+      "Lissandra",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Nautilus",
+    "target": "Only35"
+  },
+  {
+    "timestamp": 1131000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": "Sivir",
+    "target": "Ellam"
+  },
+  {
+    "timestamp": 1238000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1242000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce",
+      "Morgana"
+    ],
+    "victim": "Nautilus",
+    "target": "Only35"
+  },
+  {
+    "timestamp": 1262000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce",
+      "Gragas"
+    ],
+    "victim": "VelKoz",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 1266000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Naul",
+    "participants": [
+      "Lissandra",
+      "Jayce",
+      "Gragas",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Nocturne",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 1293000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": "Morgana",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1388000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ellam",
+    "participants": [
+      "Sivir",
+      "Nocturne",
+      "VelKoz",
+      "Nautilus"
+    ],
+    "victim": "Lissandra",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1429000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bolulu",
+    "participants": [
+      "VelKoz",
+      "Rumble",
+      "Sivir"
+    ],
+    "victim": "Gragas",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 1475000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ruin",
+    "participants": [
+      "Rumble",
+      "Nocturne",
+      "VelKoz",
+      "Sivir",
+      "Nautilus"
+    ],
+    "victim": "Lissandra",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1491000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Meliodas",
+    "participants": [
+      "Gragas",
+      "Jayce",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Nautilus",
+    "target": "Only35"
+  },
+  {
+    "timestamp": 1491000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bolulu",
+    "participants": [
+      "VelKoz",
+      "Rumble",
+      "Nocturne",
+      "Sivir",
+      "Nautilus"
+    ],
+    "victim": "Jayce",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1491000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Meliodas",
+    "participants": [
+      "Gragas",
+      "Jayce",
+      "Morgana"
+    ],
+    "victim": "Nocturne",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 1492000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ellam",
+    "participants": [
+      "Sivir",
+      "Rumble",
+      "Nocturne",
+      "VelKoz"
+    ],
+    "victim": "Gragas",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 1581000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Kirei",
+    "participants": [
+      "Nocturne"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1582000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "BigKoro",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1616000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ruin",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1881000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce",
+      "Gragas",
+      "Lissandra",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Nautilus",
+    "target": "Only35"
+  },
+  {
+    "timestamp": 1895000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Meliodas",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1989000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Meliodas",
+    "participants": [
+      "Gragas",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Nocturne",
+    "target": "Kirei"
+  },
+  {
+    "timestamp": 1990000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Naul",
+    "participants": [
+      "Lissandra",
+      "Gragas",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Sivir",
+    "target": "Ellam"
+  },
+  {
+    "timestamp": 1994000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce",
+      "Gragas",
+      "Lissandra",
+      "Morgana"
+    ],
+    "victim": "VelKoz",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 1994000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "ZerosS",
+    "participants": [
+      "Jayce",
+      "Gragas",
+      "Lissandra",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Nautilus",
+    "target": "Only35"
+  },
+  {
+    "timestamp": 1996000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Meliodas",
+    "participants": [
+      "Gragas",
+      "Jayce",
+      "Lissandra",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Rumble",
+    "target": "Ruin"
+  },
+  {
+    "timestamp": 2013000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Naul",
+    "participants": [
+      "Lissandra"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2018000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Meliodas",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2022000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2028000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2030000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Meliodas",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2039000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

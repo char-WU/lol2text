@@ -1,0 +1,636 @@
+[
+  {
+    "timestamp": 469000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Betty",
+    "participants": [
+      "Kalista",
+      "Thresh"
+    ],
+    "victim": "Morgana",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 495000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "JarvanIV",
+      "Sylas"
+    ],
+    "victim": "Talon",
+    "target": "Rather"
+  },
+  {
+    "timestamp": 508000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Betty",
+    "participants": [
+      "Kalista",
+      "Thresh"
+    ],
+    "victim": "Varus",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 697000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rather",
+    "participants": [
+      "Talon",
+      "Evelynn"
+    ],
+    "victim": "Sylas",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 743000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "JarvanIV",
+      "Morgana"
+    ],
+    "victim": "Kalista",
+    "target": "Betty"
+  },
+  {
+    "timestamp": 745000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Irelia",
+      "JarvanIV",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Thresh",
+    "target": "ShiauC"
+  },
+  {
+    "timestamp": 770000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ZerosS",
+    "participants": [
+      "Irelia",
+      "JarvanIV",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Talon",
+    "target": "Rather"
+  },
+  {
+    "timestamp": 772000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "Irelia",
+      "JarvanIV",
+      "Morgana"
+    ],
+    "victim": "Evelynn",
+    "target": "Bugi"
+  },
+  {
+    "timestamp": 774000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Yasuo",
+      "Evelynn",
+      "Talon"
+    ],
+    "victim": "Irelia",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 775000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Sylas",
+      "Irelia",
+      "JarvanIV",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Yasuo",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 808000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 914000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 927000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Betty",
+    "participants": [
+      "Kalista",
+      "Yasuo",
+      "Talon",
+      "Thresh"
+    ],
+    "victim": "JarvanIV",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 930000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Sylas",
+      "JarvanIV",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Yasuo",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 931000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bugi",
+    "participants": [
+      "Evelynn",
+      "Yasuo",
+      "Talon",
+      "Kalista",
+      "Thresh"
+    ],
+    "victim": "Sylas",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 937000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "JarvanIV",
+      "Morgana"
+    ],
+    "victim": "Evelynn",
+    "target": "Bugi"
+  },
+  {
+    "timestamp": 1011000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1063000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bugi",
+    "participants": [
+      "Evelynn",
+      "Talon"
+    ],
+    "victim": "Irelia",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1136000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Meliodas",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1153000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Yasuo"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1159000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1280000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bugi",
+    "participants": [
+      "Evelynn",
+      "Yasuo"
+    ],
+    "victim": "Irelia",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1284000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1300000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bugi",
+    "participants": [
+      "Evelynn"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1305000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1305000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1351000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bugi",
+    "participants": [
+      "Evelynn",
+      "Yasuo",
+      "Talon",
+      "Kalista",
+      "Thresh"
+    ],
+    "victim": "Morgana",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1352000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bugi",
+    "participants": [
+      "Evelynn",
+      "Yasuo",
+      "Talon",
+      "Kalista",
+      "Thresh"
+    ],
+    "victim": "JarvanIV",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 1369000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bugi",
+    "participants": [
+      "Evelynn"
+    ],
+    "victim": "Varus",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1375000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Rather",
+    "participants": [
+      "Talon"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1397000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Yasuo"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1451000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Betty",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1493000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1530000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Betty",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1539000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Betty",
+    "participants": [
+      "Kalista",
+      "Yasuo",
+      "Evelynn",
+      "Talon",
+      "Thresh"
+    ],
+    "victim": "Sylas",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1543000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Yasuo",
+      "Talon",
+      "Kalista",
+      "Thresh"
+    ],
+    "victim": "Morgana",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1556000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Betty",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1773000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Bugi",
+    "participants": [
+      "Evelynn"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1793000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BigKoro",
+    "participants": [
+      "Varus",
+      "JarvanIV",
+      "Morgana"
+    ],
+    "victim": "Talon",
+    "target": "Rather"
+  },
+  {
+    "timestamp": 1796000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Naul",
+    "participants": [
+      "Sylas",
+      "Irelia",
+      "JarvanIV",
+      "Varus",
+      "Morgana"
+    ],
+    "victim": "Thresh",
+    "target": "ShiauC"
+  },
+  {
+    "timestamp": 1803000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bugi",
+    "participants": [
+      "Evelynn",
+      "Talon",
+      "Kalista",
+      "Thresh"
+    ],
+    "victim": "Irelia",
+    "target": "ZerosS"
+  },
+  {
+    "timestamp": 1804000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bugi",
+    "participants": [
+      "Evelynn",
+      "Yasuo",
+      "Talon"
+    ],
+    "victim": "JarvanIV",
+    "target": "Meliodas"
+  },
+  {
+    "timestamp": 1804000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1805000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Yasuo",
+      "Evelynn",
+      "Talon"
+    ],
+    "victim": "Varus",
+    "target": "BigKoro"
+  },
+  {
+    "timestamp": 1810000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bugi",
+    "participants": [
+      "Evelynn",
+      "Kalista"
+    ],
+    "victim": "Morgana",
+    "target": "Palette"
+  },
+  {
+    "timestamp": 1829000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Betty",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1840000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bugi",
+    "participants": [
+      "Evelynn",
+      "Yasuo",
+      "Kalista"
+    ],
+    "victim": "Sylas",
+    "target": "Naul"
+  },
+  {
+    "timestamp": 1847000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

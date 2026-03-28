@@ -1,0 +1,2094 @@
+[
+  {
+    "timestamp": 130000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 130000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 134000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "target": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ]
+  },
+  {
+    "timestamp": 188000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 271000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 274000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      },
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 277000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 283000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 315000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 339000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 362000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 415000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 419000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 465000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 488000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 546000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 617000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 622000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      },
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 625000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 658000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 666000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 711000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 717000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      },
+      {
+        "player": "cody",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 735000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 766000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 774000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 811000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "cody",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "cody",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 891000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 947000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1000000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1035000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "target": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ]
+  },
+  {
+    "timestamp": 1050000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      },
+      {
+        "player": "cody",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1054000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1057000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      },
+      {
+        "player": "cody",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 1060000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "cody",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "cody",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1102000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1127000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      },
+      {
+        "player": "cody",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 1130000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1158000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1242000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1247000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1250000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1281000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1281000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "cody",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "cody",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1294000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1294000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1357000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1371000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1401000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1409000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1451000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1458000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1473000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1477000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1485000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "cody",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "cody",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1487000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      },
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1494000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1497000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1507000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1618000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "cody",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "cody",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1623000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ],
+    "target": [
+      {
+        "player": "Whitelotus",
+        "champion": "Kalista"
+      }
+    ]
+  },
+  {
+    "timestamp": 1626000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1629000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Blaber",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ],
+    "target": [
+      {
+        "player": "SolidSnake",
+        "champion": "Morgana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1633000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Sion"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "Buggax",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1638000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Varus"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ackerman",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1644000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1654000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

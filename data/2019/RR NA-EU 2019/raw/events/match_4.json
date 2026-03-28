@@ -1,0 +1,593 @@
+[
+  {
+    "timestamp": 235000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Elise",
+      "TwistedFate"
+    ],
+    "victim": "Irelia",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 283000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": "Jax",
+    "target": "Licorice"
+  },
+  {
+    "timestamp": 299000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Licorice",
+    "participants": [
+      "Jax"
+    ],
+    "victim": "Renekton",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 520000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Renekton",
+      "Elise",
+      "Soraka"
+    ],
+    "victim": "Jax",
+    "target": "Licorice"
+  },
+  {
+    "timestamp": 619000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Elise",
+      "TwistedFate"
+    ],
+    "victim": "Irelia",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 623000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nemesis",
+    "participants": [
+      "TwistedFate",
+      "Renekton",
+      "Elise"
+    ],
+    "victim": "Jax",
+    "target": "Licorice"
+  },
+  {
+    "timestamp": 658000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 676000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 736000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nisqy",
+    "participants": [
+      "Irelia",
+      "Nidalee"
+    ],
+    "victim": "TwistedFate",
+    "target": "Nemesis"
+  },
+  {
+    "timestamp": 737000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 738000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nisqy",
+    "participants": [
+      "Irelia",
+      "Nidalee"
+    ],
+    "victim": "Renekton",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 804000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zeyzal",
+    "participants": [
+      "Morgana",
+      "Jax",
+      "Gragas"
+    ],
+    "victim": "Soraka",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 808000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Licorice",
+    "participants": [
+      "Jax",
+      "Gragas",
+      "Morgana"
+    ],
+    "victim": "Karma",
+    "target": "Rekkles"
+  },
+  {
+    "timestamp": 839000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 841000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 871000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nemesis",
+    "participants": [
+      "TwistedFate",
+      "Karma",
+      "Soraka"
+    ],
+    "victim": "Jax",
+    "target": "Licorice"
+  },
+  {
+    "timestamp": 887000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Renekton",
+      "Soraka"
+    ],
+    "victim": "Irelia",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 893000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Svenskeren",
+    "participants": [
+      "Gragas",
+      "Nidalee",
+      "Morgana"
+    ],
+    "victim": "Elise",
+    "target": "Broxah"
+  },
+  {
+    "timestamp": 905000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rekkles",
+    "participants": [
+      "Karma",
+      "Soraka"
+    ],
+    "victim": "Morgana",
+    "target": "Zeyzal"
+  },
+  {
+    "timestamp": 914000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": "Gragas",
+    "target": "Svenskeren"
+  },
+  {
+    "timestamp": 916000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": "Nidalee",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1005000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1031000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1054000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nisqy",
+    "participants": [
+      "Irelia",
+      "Morgana"
+    ],
+    "victim": "Soraka",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 1058000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nisqy",
+    "participants": [
+      "Irelia",
+      "Nidalee",
+      "Morgana"
+    ],
+    "victim": "TwistedFate",
+    "target": "Nemesis"
+  },
+  {
+    "timestamp": 1060000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Licorice",
+    "participants": [
+      "Jax",
+      "Irelia",
+      "Nidalee",
+      "Morgana"
+    ],
+    "victim": "Karma",
+    "target": "Rekkles"
+  },
+  {
+    "timestamp": 1148000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bwipo",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": "Irelia",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 1160000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1187000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Rekkles",
+    "participants": [
+      "Karma"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1255000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nisqy",
+    "participants": [
+      "Irelia",
+      "Jax",
+      "Gragas",
+      "Nidalee",
+      "Morgana"
+    ],
+    "victim": "Renekton",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 1376000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1384000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Elise",
+      "TwistedFate",
+      "Karma",
+      "Soraka"
+    ],
+    "victim": "Nidalee",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1389000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Elise",
+      "TwistedFate",
+      "Karma",
+      "Soraka"
+    ],
+    "victim": "Gragas",
+    "target": "Svenskeren"
+  },
+  {
+    "timestamp": 1398000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nemesis",
+    "participants": [
+      "TwistedFate",
+      "Elise",
+      "Karma",
+      "Soraka"
+    ],
+    "victim": "Irelia",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 1427000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1498000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1524000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nisqy",
+    "participants": [
+      "Irelia",
+      "Jax",
+      "Gragas",
+      "Nidalee",
+      "Morgana"
+    ],
+    "victim": "Renekton",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 1530000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nemesis",
+    "participants": [
+      "TwistedFate",
+      "Renekton",
+      "Elise",
+      "Karma",
+      "Soraka"
+    ],
+    "victim": "Jax",
+    "target": "Licorice"
+  },
+  {
+    "timestamp": 1532000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nemesis",
+    "participants": [
+      "TwistedFate",
+      "Karma",
+      "Soraka"
+    ],
+    "victim": "Morgana",
+    "target": "Zeyzal"
+  },
+  {
+    "timestamp": 1536000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rekkles",
+    "participants": [
+      "Karma",
+      "Renekton",
+      "Elise",
+      "TwistedFate",
+      "Soraka"
+    ],
+    "victim": "Irelia",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 1545000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Nemesis",
+    "participants": [
+      "TwistedFate",
+      "Elise",
+      "Karma",
+      "Soraka"
+    ],
+    "victim": "Nidalee",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1550000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Hylissang",
+    "participants": [
+      "Soraka"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1558000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Broxah",
+    "participants": [
+      "Elise",
+      "Karma"
+    ],
+    "victim": "Gragas",
+    "target": "Svenskeren"
+  },
+  {
+    "timestamp": 1560000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1566000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Nemesis",
+    "participants": [
+      "TwistedFate"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1582000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

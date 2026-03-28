@@ -1,0 +1,958 @@
+[
+  {
+    "timestamp": 39000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Khan",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Mata",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RooKie",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "RooKie",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 41000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      },
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Teddy",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Teddy",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 130000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 174000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Baolan",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Baolan",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Teddy",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Teddy",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 177000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Sona"
+      },
+      {
+        "player": "Mata",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 178000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      },
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 275000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 304000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      },
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mata",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mata",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 412000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 434000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Baolan",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Baolan",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 465000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 668000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 728000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 736000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 751000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 753000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Mata",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RooKie",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "RooKie",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 756000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 758000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      },
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 759000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mata",
+        "champion": "Taric"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mata",
+        "champion": "Taric"
+      },
+      {
+        "player": "Khan",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 781000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 810000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 888000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 897000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 910000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 911000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Khan",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Sona"
+      },
+      {
+        "player": "Mata",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RooKie",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "RooKie",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 924000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      },
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Faker",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 929000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      },
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 935000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Draven"
+      },
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Teddy",
+        "champion": "Sona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Teddy",
+        "champion": "Sona"
+      }
+    ]
+  },
+  {
+    "timestamp": 946000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 951000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ning",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 955000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [
+      {
+        "player": "RooKie",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "RooKie",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 961000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

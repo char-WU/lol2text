@@ -1,0 +1,964 @@
+[
+  {
+    "timestamp": 162000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aloned",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aloned",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 327000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Acce",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Acce",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Josedeodo",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 343000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 521000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Josedeodo",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Josedeodo",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 676000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 787000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shadow",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shadow",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 821000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ]
+  },
+  {
+    "timestamp": 843000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 911000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1009000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shadow",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shadow",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1021000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acce",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acce",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 1041000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1087000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Josedeodo",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Josedeodo",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1125000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acce",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acce",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 1148000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1222000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Josedeodo",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Josedeodo",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1394000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1419000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1618000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Josedeodo",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Josedeodo",
+        "champion": "Graves"
+      },
+      {
+        "player": "Acce",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Aloned",
+        "champion": "Azir"
+      },
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      },
+      {
+        "player": "Shadow",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1636000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      },
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Josedeodo",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Josedeodo",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1645000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1671000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      },
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shadow",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shadow",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1680000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aloned",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aloned",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1710000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1792000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      },
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      },
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Josedeodo",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Josedeodo",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1794000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1796000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acce",
+        "champion": "Aatrox"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acce",
+        "champion": "Aatrox"
+      }
+    ]
+  },
+  {
+    "timestamp": 1817000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1822000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1828000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Leza",
+        "champion": "Senna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1833000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1838000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiye",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Peanut",
+        "champion": "Kindred"
+      },
+      {
+        "player": "Kramer",
+        "champion": "Jhin"
+      },
+      {
+        "player": "Mark",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Aloned",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Aloned",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1839000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1850000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

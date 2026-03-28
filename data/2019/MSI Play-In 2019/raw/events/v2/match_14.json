@@ -1,0 +1,1062 @@
+[
+  {
+    "timestamp": 49000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Shini",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RedBert",
+        "champion": "Pyke"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 436000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Shini",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shini",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Mills",
+        "champion": "Karthus"
+      },
+      {
+        "player": "RedBert",
+        "champion": "Pyke"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gaeng",
+        "champion": "TahmKench"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gaeng",
+        "champion": "TahmKench"
+      }
+    ]
+  },
+  {
+    "timestamp": 614000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 668000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tay",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tay",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 676000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RedBert",
+        "champion": "Pyke"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RedBert",
+        "champion": "Pyke"
+      },
+      {
+        "player": "Tay",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Shini",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Mills",
+        "champion": "Karthus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ]
+  },
+  {
+    "timestamp": 692000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shini",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shini",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 713000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Envy",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "Envy",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 774000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 825000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 943000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 958000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Shini",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shini",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1114000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mills",
+        "champion": "Karthus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mills",
+        "champion": "Karthus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1234000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mills",
+        "champion": "Karthus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mills",
+        "champion": "Karthus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1247000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RedBert",
+        "champion": "Pyke"
+      }
+    ],
+    "target": [
+      {
+        "player": "RedBert",
+        "champion": "Pyke"
+      }
+    ]
+  },
+  {
+    "timestamp": 1250000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tay",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tay",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1252000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shini",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shini",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1293000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1352000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1382000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1390000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tay",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tay",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1394000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1413000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1514000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1519000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mills",
+        "champion": "Karthus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mills",
+        "champion": "Karthus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1542000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1554000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1557000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1563000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1569000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1686000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1735000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1752000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1758000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1774000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RedBert",
+        "champion": "Pyke"
+      }
+    ],
+    "target": [
+      {
+        "player": "RedBert",
+        "champion": "Pyke"
+      }
+    ]
+  },
+  {
+    "timestamp": 1779000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gaeng",
+        "champion": "TahmKench"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gaeng",
+        "champion": "TahmKench"
+      },
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shini",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shini",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1782000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mills",
+        "champion": "Karthus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mills",
+        "champion": "Karthus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1785000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1787000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1788000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Evi",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Steal",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Ceros",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Yutapon",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Gaeng",
+        "champion": "TahmKench"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tay",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tay",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1797000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

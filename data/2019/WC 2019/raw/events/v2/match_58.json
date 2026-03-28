@@ -1,0 +1,996 @@
+[
+  {
+    "timestamp": 301000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "Effort",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lira",
+        "champion": "Sejuani"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lira",
+        "champion": "Sejuani"
+      }
+    ]
+  },
+  {
+    "timestamp": 313000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "Effort",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Huni",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Huni",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 459000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 495000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Huni",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Huni",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 656000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Lira",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lira",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Damonte",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Cody Sun",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 657000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "Effort",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 659000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cody Sun",
+        "champion": "Xayah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cody Sun",
+        "champion": "Xayah"
+      }
+    ]
+  },
+  {
+    "timestamp": 664000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lira",
+        "champion": "Sejuani"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lira",
+        "champion": "Sejuani"
+      }
+    ]
+  },
+  {
+    "timestamp": 669000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Huni",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Huni",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 681000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 786000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 832000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Damonte",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Damonte",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 861000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 916000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Huni",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Huni",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 974000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1108000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1122000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "Effort",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Damonte",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Damonte",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1138000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Huni",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Huni",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1142000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1147000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1250000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1328000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1360000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1361000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1366000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Vulcan",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vulcan",
+        "champion": "Rakan"
+      },
+      {
+        "player": "Lira",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Cody Sun",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Effort",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Effort",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1488000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1494000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1496000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Faker",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cody Sun",
+        "champion": "Xayah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cody Sun",
+        "champion": "Xayah"
+      }
+    ]
+  },
+  {
+    "timestamp": 1512000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1520000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1538000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Damonte",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Damonte",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1542000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Effort",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1545000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Huni",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Huni",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1547000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "Aatrox"
+      },
+      {
+        "player": "Clid",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cody Sun",
+        "champion": "Xayah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cody Sun",
+        "champion": "Xayah"
+      }
+    ]
+  },
+  {
+    "timestamp": 1556000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1560000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Teddy",
+        "champion": "Yasuo"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1570000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

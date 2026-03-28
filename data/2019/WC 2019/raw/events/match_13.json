@@ -1,0 +1,857 @@
+[
+  {
+    "timestamp": 180000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Jayce",
+      "Elise"
+    ],
+    "victim": "Kennen",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 248000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": "LeeSin",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 259000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Alistar",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 265000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Orianna",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 268000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Elise",
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Kaisa",
+    "target": "Nuclear"
+  },
+  {
+    "timestamp": 287000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Jayce",
+      "Elise",
+      "Renekton"
+    ],
+    "victim": "Leona",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 543000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ryze",
+      "LeeSin",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Elise",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 571000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 641000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 853000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Jayce",
+      "Elise",
+      "Alistar"
+    ],
+    "victim": "Kennen",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 865000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 870000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 928000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 962000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ryze",
+      "LeeSin",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Alistar",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 965000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Kennen",
+      "LeeSin",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Elise",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 975000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ryze",
+      "Kennen",
+      "LeeSin",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Renekton",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 997000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1094000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1100000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1244000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1556000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1603000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ryze",
+      "Kennen",
+      "LeeSin",
+      "Leona"
+    ],
+    "victim": "Orianna",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1604000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin",
+      "Ryze",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Renekton",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1604000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Jayce",
+      "Renekton",
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Leona",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1613000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ryze",
+      "Kennen",
+      "LeeSin"
+    ],
+    "victim": "Alistar",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1615000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Kennen",
+      "LeeSin",
+      "Ryze"
+    ],
+    "victim": "Jayce",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 1638000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1720000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1731000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "Orianna",
+      "Jayce",
+      "Elise",
+      "Renekton"
+    ],
+    "victim": "Leona",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1734000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Jayce",
+      "Alistar"
+    ],
+    "victim": "LeeSin",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 1736000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Wunder",
+    "participants": [
+      "Jayce",
+      "Elise",
+      "Orianna"
+    ],
+    "victim": "Ryze",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 1738000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Ryze",
+      "Leona"
+    ],
+    "victim": "Elise",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1738000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Kennen",
+      "Ryze"
+    ],
+    "victim": "Orianna",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1739000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Renekton",
+      "Jayce",
+      "Orianna",
+      "Alistar"
+    ],
+    "victim": "Kaisa",
+    "target": "Nuclear"
+  },
+  {
+    "timestamp": 1743000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Kennen",
+      "LeeSin"
+    ],
+    "victim": "Alistar",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1870000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2021000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Elise",
+      "Jayce",
+      "Renekton",
+      "Orianna"
+    ],
+    "victim": "Kennen",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 2023000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Kennen",
+      "LeeSin",
+      "Leona"
+    ],
+    "victim": "Jayce",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 2027000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin",
+      "Kennen",
+      "Ryze",
+      "Leona"
+    ],
+    "victim": "Renekton",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 2027000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "LeeSin",
+      "Ryze",
+      "Leona"
+    ],
+    "victim": "Alistar",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 2032000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Kennen",
+      "LeeSin",
+      "Ryze",
+      "Leona"
+    ],
+    "victim": "Elise",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 2055000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2070000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 2089000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2145000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2203000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Kennen",
+      "LeeSin"
+    ],
+    "victim": "Renekton",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 2213000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2233000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 2244000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 2249000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2254000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2374000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Caps",
+    "participants": [
+      "Renekton",
+      "Jayce",
+      "Alistar"
+    ],
+    "victim": "Kennen",
+    "target": "Nuguri"
+  },
+  {
+    "timestamp": 2450000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2571000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 2579000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 2623000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": "Jankos",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2629000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin",
+      "Kennen",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Jayce",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 2631000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa",
+      "Kennen",
+      "LeeSin",
+      "Leona"
+    ],
+    "victim": "Renekton",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 2631000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Kennen",
+      "LeeSin",
+      "Ryze",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Orianna",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 2632000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Ryze",
+      "Kennen",
+      "LeeSin"
+    ],
+    "victim": "Alistar",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 2634000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Leona",
+      "Kennen",
+      "LeeSin",
+      "Kaisa"
+    ],
+    "victim": "Elise",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 2651000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nuclear",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2652000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2655000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nuguri",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2662000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

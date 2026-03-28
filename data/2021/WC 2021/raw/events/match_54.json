@@ -1,0 +1,929 @@
+[
+  {
+    "timestamp": 258000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin",
+      "Kassadin",
+      "Shen"
+    ],
+    "victim": "TwistedFate",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 266000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "Kennen",
+      "Graves",
+      "Leona"
+    ],
+    "victim": "Jax",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 405000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "BeryL",
+    "participants": [
+      "Shen",
+      "LeeSin"
+    ],
+    "victim": "Leona",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 458000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 528000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin",
+      "Shen"
+    ],
+    "victim": "Graves",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 570000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 597000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 615000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 634000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 674000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "TwistedFate",
+      "Kennen",
+      "Graves"
+    ],
+    "victim": "Jax",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 676000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 708000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin",
+      "Kassadin",
+      "Shen"
+    ],
+    "victim": "Kennen",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 714000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kassadin",
+      "LeeSin",
+      "Shen"
+    ],
+    "victim": "Leona",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 714000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Graves",
+      "Kaisa"
+    ],
+    "victim": "MissFortune",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 724000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 730000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 730000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 740000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 829000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 982000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Jax"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1061000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1086000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Jax"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1177000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1198000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Jax"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1252000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1272000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1396000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa",
+      "Kennen",
+      "TwistedFate",
+      "Leona"
+    ],
+    "victim": "MissFortune",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 1397000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "Kennen",
+      "Graves",
+      "TwistedFate",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "LeeSin",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 1402000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Jax",
+      "LeeSin",
+      "Kassadin",
+      "Shen"
+    ],
+    "victim": "Kaisa",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 1408000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Vulcan",
+    "participants": [
+      "Leona",
+      "Kennen",
+      "Graves",
+      "TwistedFate",
+      "Kaisa"
+    ],
+    "victim": "Jax",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1409000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kassadin",
+      "Jax",
+      "Shen"
+    ],
+    "victim": "Graves",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1412000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "Kennen",
+      "Graves",
+      "TwistedFate",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Kassadin",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 1492000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1500000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Jax",
+      "LeeSin",
+      "Kassadin"
+    ],
+    "victim": "TwistedFate",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1501000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "Kennen",
+      "TwistedFate",
+      "Kaisa"
+    ],
+    "victim": "Jax",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1727000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1732000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "TwistedFate",
+      "Kennen",
+      "Graves",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "LeeSin",
+    "target": "Canyon"
+  },
+  {
+    "timestamp": 1734000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1746000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "Kennen",
+      "Graves",
+      "TwistedFate",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Jax",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 1755000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Perkz",
+    "participants": [
+      "TwistedFate",
+      "Graves",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "MissFortune",
+    "target": "Ghost"
+  },
+  {
+    "timestamp": 1764000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1816000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1819000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kassadin",
+      "Shen"
+    ],
+    "victim": "TwistedFate",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1824000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "Kennen",
+      "Graves",
+      "TwistedFate",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Shen",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 1830000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "MissFortune",
+      "Jax",
+      "LeeSin",
+      "Kassadin",
+      "Shen"
+    ],
+    "victim": "Kennen",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 1831000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kassadin",
+      "LeeSin",
+      "MissFortune",
+      "Shen"
+    ],
+    "victim": "Kaisa",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 1834000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kassadin",
+      "Jax",
+      "LeeSin",
+      "MissFortune",
+      "Shen"
+    ],
+    "victim": "Graves",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1834000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "MissFortune",
+      "Jax",
+      "LeeSin",
+      "Shen"
+    ],
+    "victim": "Leona",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 2001000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Jax",
+      "Kassadin",
+      "Shen"
+    ],
+    "victim": "TwistedFate",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 2005000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa",
+      "Kennen",
+      "Graves",
+      "TwistedFate",
+      "Leona"
+    ],
+    "victim": "Jax",
+    "target": "Khan"
+  },
+  {
+    "timestamp": 2007000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Graves",
+      "Kennen",
+      "TwistedFate",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Shen",
+    "target": "BeryL"
+  },
+  {
+    "timestamp": 2014000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2022000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2045000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kassadin"
+    ],
+    "victim": "Kennen",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 2054000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kassadin"
+    ],
+    "victim": "Leona",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 2054000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zven",
+    "participants": [
+      "Kaisa",
+      "Kennen",
+      "Graves",
+      "Leona"
+    ],
+    "victim": "Kassadin",
+    "target": "ShowMaker"
+  },
+  {
+    "timestamp": 2120000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kassadin"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 2123000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Blaber",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2132000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Jax"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 2154000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Canyon",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2255000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2255000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 2291000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 2292000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "MissFortune",
+      "LeeSin",
+      "Kassadin",
+      "Shen"
+    ],
+    "victim": "Kaisa",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 2297000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "MissFortune",
+      "LeeSin",
+      "Kassadin",
+      "Shen"
+    ],
+    "victim": "TwistedFate",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 2310000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "MissFortune",
+      "Jax",
+      "LeeSin"
+    ],
+    "victim": "Graves",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 2314000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShowMaker",
+    "participants": [
+      "Kassadin",
+      "LeeSin"
+    ],
+    "victim": "Kennen",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 2317000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "MissFortune",
+      "Jax",
+      "LeeSin"
+    ],
+    "victim": "Leona",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 2326000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Khan",
+    "participants": [
+      "Jax"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2331000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2331000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ghost",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2338000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

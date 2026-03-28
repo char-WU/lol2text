@@ -1,0 +1,485 @@
+[
+  {
+    "timestamp": 114000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Xerxe",
+    "participants": [
+      "Gragas",
+      "Gnar"
+    ],
+    "victim": "Kled",
+    "target": "Rest"
+  },
+  {
+    "timestamp": 288000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Cassiopeia",
+      "Kaisa",
+      "Thresh"
+    ],
+    "victim": "Alistar",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 601000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Xerxe",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 687000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Cassiopeia",
+      "Gnar",
+      "Gragas"
+    ],
+    "victim": "Kled",
+    "target": "Rest"
+  },
+  {
+    "timestamp": 704000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Koala",
+    "participants": [
+      "Alistar",
+      "JarvanIV"
+    ],
+    "victim": "Cassiopeia",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 839000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Xerxe",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 857000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Vizicsacsi",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 974000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1057000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FoFo",
+    "participants": [
+      "Kayle",
+      "Kled",
+      "JarvanIV",
+      "Xayah"
+    ],
+    "victim": "Thresh",
+    "target": "Tore"
+  },
+  {
+    "timestamp": 1065000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Vizicsacsi",
+    "participants": [
+      "Gnar",
+      "Gragas",
+      "Cassiopeia",
+      "Kaisa"
+    ],
+    "victim": "Alistar",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 1067000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Cassiopeia",
+      "Gnar",
+      "Gragas",
+      "Kaisa",
+      "Thresh"
+    ],
+    "victim": "Kayle",
+    "target": "FoFo"
+  },
+  {
+    "timestamp": 1072000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rest",
+    "participants": [
+      "Kled",
+      "JarvanIV",
+      "Xayah",
+      "Alistar"
+    ],
+    "victim": "Cassiopeia",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1091000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Vizicsacsi",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1203000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Vizicsacsi",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1221000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Vizicsacsi",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1229000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "FoFo",
+    "participants": [
+      "Kayle"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1352000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Kobbe",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1435000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rest",
+    "participants": [
+      "Kled",
+      "JarvanIV",
+      "Kayle",
+      "Xayah"
+    ],
+    "victim": "Gnar",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 1447000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Cassiopeia",
+      "Gnar",
+      "Gragas"
+    ],
+    "victim": "Kled",
+    "target": "Rest"
+  },
+  {
+    "timestamp": 1451000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kobbe",
+    "participants": [
+      "Kaisa",
+      "Gragas",
+      "Thresh"
+    ],
+    "victim": "JarvanIV",
+    "target": "Hana"
+  },
+  {
+    "timestamp": 1470000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Xerxe",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1554000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Cassiopeia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1597000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Xerxe",
+    "participants": [
+      "Gragas",
+      "Gnar",
+      "Cassiopeia"
+    ],
+    "victim": "Kayle",
+    "target": "FoFo"
+  },
+  {
+    "timestamp": 1622000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1626000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Kobbe",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1647000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Kobbe",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1662000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Cassiopeia"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1669000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Cassiopeia",
+      "Gnar",
+      "Gragas",
+      "Kaisa",
+      "Thresh"
+    ],
+    "victim": "Alistar",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 1672000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kobbe",
+    "participants": [
+      "Kaisa",
+      "Gnar",
+      "Gragas",
+      "Thresh"
+    ],
+    "victim": "Kayle",
+    "target": "FoFo"
+  },
+  {
+    "timestamp": 1674000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hana",
+    "participants": [
+      "JarvanIV",
+      "Kayle",
+      "Xayah",
+      "Alistar"
+    ],
+    "victim": "Thresh",
+    "target": "Tore"
+  },
+  {
+    "timestamp": 1676000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Cassiopeia",
+      "Gnar",
+      "Gragas",
+      "Thresh"
+    ],
+    "victim": "JarvanIV",
+    "target": "Hana"
+  },
+  {
+    "timestamp": 1679000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kobbe",
+    "participants": [
+      "Kaisa",
+      "Gnar",
+      "Cassiopeia",
+      "Thresh"
+    ],
+    "victim": "Kled",
+    "target": "Rest"
+  },
+  {
+    "timestamp": 1681000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Humanoid",
+    "participants": [
+      "Cassiopeia",
+      "Gnar",
+      "Kaisa",
+      "Thresh"
+    ],
+    "victim": "Xayah",
+    "target": "LilV"
+  },
+  {
+    "timestamp": 1687000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1696000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Kobbe",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1699000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Xerxe",
+    "participants": [
+      "Gragas"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1709000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

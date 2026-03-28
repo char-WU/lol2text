@@ -1,0 +1,924 @@
+[
+  {
+    "timestamp": 158000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Humanoid",
+        "champion": "Viktor"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Humanoid",
+        "champion": "Viktor"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ]
+  },
+  {
+    "timestamp": 294000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Carzzy",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Carzzy",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 308000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Elyoya",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 311000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      },
+      {
+        "player": "Khan",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 510000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 542000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 680000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 722000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Udyr"
+      },
+      {
+        "player": "Armut",
+        "champion": "Shen"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Viktor"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Khan",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Khan",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 864000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Armut",
+        "champion": "Shen"
+      },
+      {
+        "player": "Humanoid",
+        "champion": "Viktor"
+      },
+      {
+        "player": "Carzzy",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 875000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Khan",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Elyoya",
+        "champion": "Udyr"
+      }
+    ],
+    "target": [
+      {
+        "player": "Elyoya",
+        "champion": "Udyr"
+      }
+    ]
+  },
+  {
+    "timestamp": 877000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 908000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 972000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1044000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Elyoya",
+        "champion": "Udyr"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Elyoya",
+        "champion": "Udyr"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1061000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1073000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1225000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1537000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1540000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Carzzy",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Carzzy",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1620000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Khan",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Khan",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Carzzy",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Carzzy",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1640000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1714000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1798000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1807000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1831000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Khan",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kaiser",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1833000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Khan",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      },
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Carzzy",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Carzzy",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1837000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Khan",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Humanoid",
+        "champion": "Viktor"
+      }
+    ],
+    "target": [
+      {
+        "player": "Humanoid",
+        "champion": "Viktor"
+      }
+    ]
+  },
+  {
+    "timestamp": 1840000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Khan",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Zoe"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Armut",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Armut",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1848000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1864000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1869000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ghost",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1877000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Morgana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1883000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

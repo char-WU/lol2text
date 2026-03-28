@@ -1,0 +1,1474 @@
+[
+  {
+    "timestamp": 498000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 639000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 643000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 650000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 652000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      }
+    ]
+  },
+  {
+    "timestamp": 653000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 656000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 658000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 660000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 684000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 826000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 831000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 837000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 861000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 922000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 935000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1046000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1108000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1158000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1158000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1159000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1177000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1269000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1279000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1281000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1314000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1381000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1390000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1392000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1396000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1397000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1401000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1419000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1428000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1492000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1497000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1497000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1498000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1504000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1523000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1525000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "target": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ]
+  },
+  {
+    "timestamp": 1528000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RooKie",
+        "champion": "Jayce"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lwx",
+        "champion": "Xayah"
+      }
+    ]
+  },
+  {
+    "timestamp": 1530000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1536000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doinb",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1539000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tian",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Crisp",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1540000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1541000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "TheShy",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Ning",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Baolan",
+        "champion": "Alistar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ],
+    "target": [
+      {
+        "player": "GimGoon",
+        "champion": "Gangplank"
+      }
+    ]
+  },
+  {
+    "timestamp": 1549000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

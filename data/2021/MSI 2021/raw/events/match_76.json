@@ -1,0 +1,687 @@
+[
+  {
+    "timestamp": 201000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana",
+      "Udyr",
+      "Nautilus"
+    ],
+    "victim": "Kaisa",
+    "target": "Doggo"
+  },
+  {
+    "timestamp": 211000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Udyr",
+      "Tristana",
+      "Nautilus"
+    ],
+    "victim": "Leona",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 362000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Udyr",
+      "Tristana",
+      "Nautilus"
+    ],
+    "victim": "Leona",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 423000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "River",
+    "participants": [
+      "Nidalee",
+      "Sett",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Tristana",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 426000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiser",
+    "participants": [
+      "Nautilus"
+    ],
+    "victim": "Sett",
+    "target": "Maple"
+  },
+  {
+    "timestamp": 429000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze",
+      "Udyr",
+      "Tristana",
+      "Nautilus"
+    ],
+    "victim": "Leona",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 432000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "LeeSin",
+      "Udyr",
+      "Ryze",
+      "Nautilus"
+    ],
+    "victim": "Nidalee",
+    "target": "River"
+  },
+  {
+    "timestamp": 518000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 536000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "River",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 555000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana",
+      "Udyr",
+      "Nautilus"
+    ],
+    "victim": "Gnar",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 579000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 641000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "River",
+    "participants": [
+      "Nidalee",
+      "Sett",
+      "Leona"
+    ],
+    "victim": "Ryze",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 680000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "River",
+    "participants": [
+      "Nidalee",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Nautilus",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 864000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 933000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 948000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "River",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1048000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze",
+      "LeeSin",
+      "Udyr"
+    ],
+    "victim": "Sett",
+    "target": "Maple"
+  },
+  {
+    "timestamp": 1065000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1080000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Hanabi",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1092000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1151000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "River",
+    "participants": [
+      "Nidalee",
+      "Gnar",
+      "Sett",
+      "Leona"
+    ],
+    "victim": "Nautilus",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1151000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana",
+      "Udyr",
+      "Ryze",
+      "Nautilus"
+    ],
+    "victim": "Leona",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1156000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": "Kaisa",
+    "target": "Doggo"
+  },
+  {
+    "timestamp": 1163000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "LeeSin",
+      "Ryze",
+      "Tristana",
+      "Nautilus"
+    ],
+    "victim": "Nidalee",
+    "target": "River"
+  },
+  {
+    "timestamp": 1165000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Udyr",
+      "Ryze",
+      "Tristana"
+    ],
+    "victim": "Gnar",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 1182000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze",
+      "LeeSin",
+      "Udyr"
+    ],
+    "victim": "Sett",
+    "target": "Maple"
+  },
+  {
+    "timestamp": 1197000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1344000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana",
+      "Udyr",
+      "Ryze",
+      "Nautilus"
+    ],
+    "victim": "Gnar",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 1353000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Udyr",
+      "Ryze"
+    ],
+    "victim": "Leona",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1377000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": "Nidalee",
+    "target": "River"
+  },
+  {
+    "timestamp": 1385000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1387000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "Sett",
+    "target": "Maple"
+  },
+  {
+    "timestamp": 1448000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1451000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1507000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Udyr",
+      "Nautilus"
+    ],
+    "victim": "Leona",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1511000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Udyr",
+      "Nautilus"
+    ],
+    "victim": "Sett",
+    "target": "Maple"
+  },
+  {
+    "timestamp": 1521000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1528000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1531000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1534000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1584000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1615000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1622000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1628000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "River",
+    "participants": [
+      "Nidalee",
+      "Gnar",
+      "Sett",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Nautilus",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1629000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "LeeSin",
+      "Udyr",
+      "Ryze",
+      "Tristana",
+      "Nautilus"
+    ],
+    "victim": "Sett",
+    "target": "Maple"
+  },
+  {
+    "timestamp": 1631000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana",
+      "LeeSin",
+      "Nautilus"
+    ],
+    "victim": "Gnar",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 1632000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze",
+      "LeeSin",
+      "Udyr",
+      "Tristana",
+      "Nautilus"
+    ],
+    "victim": "Leona",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1636000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Ryze",
+      "LeeSin",
+      "Udyr",
+      "Tristana",
+      "Nautilus"
+    ],
+    "victim": "Nidalee",
+    "target": "River"
+  },
+  {
+    "timestamp": 1648000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "LeeSin",
+      "Udyr",
+      "Ryze",
+      "Tristana"
+    ],
+    "victim": "Kaisa",
+    "target": "Doggo"
+  },
+  {
+    "timestamp": 1652000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1652000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1661000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

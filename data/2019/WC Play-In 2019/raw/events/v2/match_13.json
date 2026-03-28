@@ -1,0 +1,2246 @@
+[
+  {
+    "timestamp": 185000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      },
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 410000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 478000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 564000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 565000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 628000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 671000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 673000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      },
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 679000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 680000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 708000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 711000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      },
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      }
+    ]
+  },
+  {
+    "timestamp": 714000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      },
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 717000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      },
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ]
+  },
+  {
+    "timestamp": 738000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 840000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 857000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 881000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 888000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      },
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 890000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 894000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      },
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 897000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 898000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 900000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      },
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      }
+    ]
+  },
+  {
+    "timestamp": 903000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      },
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "target": [
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ]
+  },
+  {
+    "timestamp": 930000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1030000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1042000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1056000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1062000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1074000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1074000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1201000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1265000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1514000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1521000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1532000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      },
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1534000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 1538000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      },
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1544000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1552000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1554000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1661000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1767000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1775000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1833000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1956000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1979000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2048000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 2247000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2278000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2301000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2302000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 2304000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 2312000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 2323000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 2374000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "target": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ]
+  },
+  {
+    "timestamp": 2376000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ]
+  },
+  {
+    "timestamp": 2379000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 2390000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 2394000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2424000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      }
+    ],
+    "target": [
+      {
+        "player": "Artifact",
+        "champion": "TwistedFate"
+      }
+    ]
+  },
+  {
+    "timestamp": 2429000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "participants": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      },
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      },
+      {
+        "player": "Nuclear",
+        "champion": "Garen"
+      },
+      {
+        "player": "BeryL",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      }
+    ]
+  },
+  {
+    "timestamp": 2435000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      },
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      },
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ],
+    "target": [
+      {
+        "player": "ShowMaker",
+        "champion": "Akali"
+      }
+    ]
+  },
+  {
+    "timestamp": 2442000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Hani",
+        "champion": "Ornn"
+      },
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nuguri",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 2449000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "DNK",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      },
+      {
+        "player": "Venus",
+        "champion": "Shen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ],
+    "target": [
+      {
+        "player": "Canyon",
+        "champion": "Qiyana"
+      }
+    ]
+  },
+  {
+    "timestamp": 2469000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 2477000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2482000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 2485000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Celebrity",
+        "champion": "Tristana"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2500000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

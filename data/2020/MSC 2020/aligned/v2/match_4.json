@@ -1,0 +1,2416 @@
+[
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 331.0,
+    "event": {
+      "timestamp": 331000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        },
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ],
+      "victim": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ],
+      "target": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ]
+    },
+    "commentary": "There's really not that much fighting actually happening up here. There's not much trading. You can see that Kondo has used all of his stacks of the corrupting potion. There has been a lot of focus up here from the junglers at least. Here comes DoiB. Yep, Khan ran out of mana. One more auto attack, but DoiB flashes forward, culls the meek. And Lucian top continues to be terrible. Yep, get dunked on. Yep. Basically, as Karse. There's no plaster doing B, but he is renecing, so...",
+    "commentary_word_count": 88,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 531.0,
+    "event": {
+      "timestamp": 531000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Infernal Drake",
+      "team": "red",
+      "player": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "victim": [],
+      "target": []
+    },
+    "commentary": "But it's not a bad trade for FPX because they get this Rift Herald extremely early. Probably gonna push in the top lane, I'd imagine. Especially because the Lucian already is not doing so well. So it should be some pretty free plates up there. Yep, speaking of free plates, Knight gonna grab one as well as the Trouble Bubble doesn't land onto the Crocodiles. Big target, but not going to hit just yet. Hundred gold, approximately the lead here for FPX as it stands. Karca's looking to try and change that. You aren't just straight underneath, gets the double play.",
+    "commentary_word_count": 101,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 534.0,
+    "event": {
+      "timestamp": 534000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Rift Herald",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ],
+      "victim": [],
+      "target": []
+    },
+    "commentary": "But it's not a bad trade for FPX because they get this Rift Herald extremely early. Probably gonna push in the top lane, I'd imagine. Especially because the Lucian already is not doing so well. So it should be some pretty free plates up there. Yep, speaking of free plates, Knight gonna grab one as well as the Trouble Bubble doesn't land onto the Crocodiles. Big target, but not going to hit just yet. Hundred gold, approximately the lead here for FPX as it stands. Karca's looking to try and change that. You aren't just straight underneath, gets the double play. LWX just dead before he can really do anything in Fates call.",
+    "commentary_word_count": 113,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 546.0,
+    "event": {
+      "timestamp": 546000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "participants": [
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        },
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        }
+      ],
+      "target": [
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        }
+      ]
+    },
+    "commentary": "Yep, speaking of free plates, Knight gonna grab one as well as the Trouble Bubble doesn't land onto the Crocodiles. Big target, but not going to hit just yet. Hundred gold, approximately the lead here for FPX as it stands. Karca's looking to try and change that. You aren't just straight underneath, gets the double play. LWX just dead before he can really do anything in Fates call. He's going to reset the turret aggro. Karca takes the lantern. A stunning dive from Top E-Sports. And they'll take first turret out of this one as well. Your Herald be damned. Yeah, the thing about Blitzcrank is that especially in situations like this,",
+    "commentary_word_count": 112,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 551.0,
+    "event": {
+      "timestamp": 551000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Crisp",
+          "champion": "Blitzcrank"
+        }
+      ],
+      "target": [
+        {
+          "player": "Crisp",
+          "champion": "Blitzcrank"
+        }
+      ]
+    },
+    "commentary": "Big target, but not going to hit just yet. Hundred gold, approximately the lead here for FPX as it stands. Karca's looking to try and change that. You aren't just straight underneath, gets the double play. LWX just dead before he can really do anything in Fates call. He's going to reset the turret aggro. Karca takes the lantern. A stunning dive from Top E-Sports. And they'll take first turret out of this one as well. Your Herald be damned. Yeah, the thing about Blitzcrank is that especially in situations like this, Aragah grab is gonna do zero.",
+    "commentary_word_count": 98,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 582.0,
+    "event": {
+      "timestamp": 582000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T1 BOT"
+      ]
+    },
+    "commentary": "Right, you're not... When they're all on top of you, it doesn't do anything. It sees the other guy for 0.5 seconds, right? So a really nicely executed dive. They're forced underneath the turret by the positioning of Karca. So we got a little trade here in the mid lane. Bubble, Knight turning this one around nicely. Grounded health. Spear is gonna go wide, Bottle Jump. Not going to be able to secure. The culling. That's just gonna clear out a minion wave.",
+    "commentary_word_count": 83,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 629.0,
+    "event": {
+      "timestamp": 629000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ],
+      "participants": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        },
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Crisp",
+          "champion": "Blitzcrank"
+        }
+      ],
+      "target": [
+        {
+          "player": "Crisp",
+          "champion": "Blitzcrank"
+        }
+      ]
+    },
+    "commentary": "Lantern really nicely. Yandja's just super good at Thresh, man. He's really, really good at this champion. All these LPL supporters are just awesome at Thresh. Like the Thresh priority in this tournament has been through the roof. Oh, the hook out of the lantern, but the playback crisp is dead. And they land the hook as well. TN in trouble, but Doimbie gets through. Yandja goes golden. He is 100% getting the player of the game. Can I just write him down now? Just write it down now, dude. He is so damn good.",
+    "commentary_word_count": 95,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 637.0,
+    "event": {
+      "timestamp": 637000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "369",
+          "champion": "Lucian"
+        },
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ],
+      "target": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ]
+    },
+    "commentary": "Like the Thresh priority in this tournament has been through the roof. Oh, the hook out of the lantern, but the playback crisp is dead. And they land the hook as well. TN in trouble, but Doimbie gets through. Yandja goes golden. He is 100% getting the player of the game. Can I just write him down now? Just write it down now, dude. He is so damn good. 4-1 now for Top Esports, and it's looking like this series might be ending a little bit sooner than you guys otherwise want. Yeah, I mean, just all of a sudden, it was only two plays, right?",
+    "commentary_word_count": 106,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 697.0,
+    "event": {
+      "timestamp": 697000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ],
+      "participants": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        },
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ],
+      "target": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ]
+    },
+    "commentary": "Yandja, just the mechanics, like literally perfect. I mean, yeah. What else can you say about that Thresh play, right? This guy is simply carrying his team here in the early game. Karthus, a very early subjugation. And that means that he's going to be very tanky. 369 gets himself a kill. That's why you picked Top Lucian because you know that you can catch out in Italy and bait them with your trundle. That might be the plan there. But all memes aside, 369 has actually been the benefactor of a fair bit and now",
+    "commentary_word_count": 96,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 725.0,
+    "event": {
+      "timestamp": 725000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        }
+      ],
+      "target": [
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        }
+      ]
+    },
+    "commentary": "But all memes aside, 369 has actually been the benefactor of a fair bit and now has himself a little bit of a gold bounty as well. Buildswater Cutlass there from Doinb on to 369, but that's not going to lock down Lucian by any means. Now, you, Yandja, look at him. What? Goodbye. Not the first time he's done this. Exactly. That is like the LWX classic play. LWX, they're just, I don't know what's going on. All of a sudden, they lose two team fights and now people are just running, you know, running down. Running it down in the river, just getting caught.",
+    "commentary_word_count": 106,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 733.0,
+    "event": {
+      "timestamp": 733000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ],
+      "participants": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        },
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Crisp",
+          "champion": "Blitzcrank"
+        }
+      ],
+      "target": [
+        {
+          "player": "Crisp",
+          "champion": "Blitzcrank"
+        }
+      ]
+    },
+    "commentary": "Buildswater Cutlass there from Doinb on to 369, but that's not going to lock down Lucian by any means. Now, you, Yandja, look at him. What? Goodbye. Not the first time he's done this. Exactly. That is like the LWX classic play. LWX, they're just, I don't know what's going on. All of a sudden, they lose two team fights and now people are just running, you know, running down. Running it down in the river, just getting caught. Running it down mid? Just watch this again. I mean, we don't even have to see anything. At first, you're like, oh, Chris, wow. But then you end up flash, play, hook, perfect, gets the first one, follows it up,",
+    "commentary_word_count": 119,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 765.0,
+    "event": {
+      "timestamp": 765000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ],
+      "target": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ]
+    },
+    "commentary": "But then you end up flash, play, hook, perfect, gets the first one, follows it up, stopwatch, perfect timing, and then he's going to play and get the play back. I think he hatches another one. No, well, he still did so much stuff. Karse, great in-perate. By the way, eight out of eight for sure for this one. I'll give it to him. Like, you take away, you subjugate Doinb. He's dead, by the way. Yep, truly subjugated. Might be dead too, though, is Tien. Oh, that was incredible.",
+    "commentary_word_count": 90,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 802.0,
+    "event": {
+      "timestamp": 802000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [],
+      "participants": [],
+      "victim": [],
+      "target": [
+        "T1 TOP"
+      ]
+    },
+    "commentary": "Might have cleansed a red buff. Maybe, not sure. No red buff on Tien, so. Does he sometimes use one-press cleanse? Oh, he has Nimbus Cloak, so of course he's using the movement. Yeah, that's a good idea. Tactical play, get some out there. And you know what's great about this for copy sports is that now that they're ahead, their composition is so good. It's what FBX has. Oh, yeah. Right, they're gonna be once again great at slowing down the enemy team, stopping engages, kiting them down. It looks very similar to game three, except, you know, different champions,",
+    "commentary_word_count": 101,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 833.0,
+    "event": {
+      "timestamp": 833000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ],
+      "target": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ]
+    },
+    "commentary": "It looks very similar to game three, except, you know, different champions, but a very similar idea in terms of what the composition does against what FBX is bringing. Oh, yeah. Okay. Doinb's like, what? Well, he does flash on top of Jackie Love, but Jackie Love's still probably gonna be able to do this, gets the Ren, now Khan able to lock down that kill you, Yunger. Not gonna go for that one, V1, but he has backup incoming. Blade of the Rune, KING there, gets him a bunch of extra movement speed. There's the flash, move my vigil though from LWX. Oh my God, the damage, but not quite enough as Yunger gets rocket grabbed",
+    "commentary_word_count": 117,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 834.0,
+    "event": {
+      "timestamp": 834000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ],
+      "victim": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "target": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ]
+    },
+    "commentary": "but a very similar idea in terms of what the composition does against what FBX is bringing. Oh, yeah. Okay. Doinb's like, what? Well, he does flash on top of Jackie Love, but Jackie Love's still probably gonna be able to do this, gets the Ren, now Khan able to lock down that kill you, Yunger. Not gonna go for that one, V1, but he has backup incoming. Blade of the Rune, KING there, gets him a bunch of extra movement speed. There's the flash, move my vigil though from LWX. Oh my God, the damage, but not quite enough as Yunger gets rocket grabbed",
+    "commentary_word_count": 105,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 845.0,
+    "event": {
+      "timestamp": 845000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        }
+      ],
+      "victim": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ],
+      "target": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ]
+    },
+    "commentary": "Well, he does flash on top of Jackie Love, but Jackie Love's still probably gonna be able to do this, gets the Ren, now Khan able to lock down that kill you, Yunger. Not gonna go for that one, V1, but he has backup incoming. Blade of the Rune, KING there, gets him a bunch of extra movement speed. There's the flash, move my vigil though from LWX. Oh my God, the damage, but not quite enough as Yunger gets rocket grabbed and a double kill comes through for Khan. Ah, it's a bit of an in-tof here for both of these teams. As we're gonna check this one out once again, this was possibly just the bait.",
+    "commentary_word_count": 118,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 848.0,
+    "event": {
+      "timestamp": 848000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        },
+        {
+          "player": "Crisp",
+          "champion": "Blitzcrank"
+        }
+      ],
+      "victim": [
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "target": [
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ]
+    },
+    "commentary": "Well, he does flash on top of Jackie Love, but Jackie Love's still probably gonna be able to do this, gets the Ren, now Khan able to lock down that kill you, Yunger. Not gonna go for that one, V1, but he has backup incoming. Blade of the Rune, KING there, gets him a bunch of extra movement speed. There's the flash, move my vigil though from LWX. Oh my God, the damage, but not quite enough as Yunger gets rocket grabbed and a double kill comes through for Khan. Ah, it's a bit of an in-tof here for both of these teams. As we're gonna check this one out once again, this was possibly just the bait. Is this a solo kill from Nile?",
+    "commentary_word_count": 125,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 862.0,
+    "event": {
+      "timestamp": 862000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Mountain Drake",
+      "team": "red",
+      "player": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "victim": [],
+      "target": []
+    },
+    "commentary": "Oh my God, the damage, but not quite enough as Yunger gets rocket grabbed and a double kill comes through for Khan. Ah, it's a bit of an in-tof here for both of these teams. As we're gonna check this one out once again, this was possibly just the bait. Is this a solo kill from Nile? Masterman, I... Oh, that sleep. That angle, perfect. Oh my God, Nile's pretty good at this game, isn't he? I guess he must have picked up some items because he really just destroyed that Renekton in one shot.",
+    "commentary_word_count": 95,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 891.0,
+    "event": {
+      "timestamp": 891000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T1 TOP"
+      ]
+    },
+    "commentary": "I guess he must have picked up some items because he really just destroyed that Renekton in one shot. I like what Doinb did here. It's actually enough to get Jackie Love down low enough so that Khan can just flash kill him, and there's nothing that Yunger was going to do there in order to top Lucian. What's Yunger gonna do also? Top Lucian is showing off his stuff. I think like, if it was Atrox instead, is that ever worse in any way? I mean, yeah, I think that's fine.",
+    "commentary_word_count": 92,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 930.0,
+    "event": {
+      "timestamp": 930000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ],
+      "target": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ]
+    },
+    "commentary": "He might have had a slightly harder time in the lane, but I guess still the Lucian's fine, so it doesn't really cheap in that case. Top Esports still in the lead after that little... Yeah, they had a soiree to... It's a gifting things over as Yunger gets the flash hook. Oh, okay. All too easy. That's the big potential of this stage of the game for Top Esports. No one is safe if you are outside of your turret range, guys. And Knight, well and truly online as well, 1-0 and 5. This guy just like, just always has a good early game.",
+    "commentary_word_count": 105,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 935.0,
+    "event": {
+      "timestamp": 935000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Rift Herald",
+      "team": "red",
+      "player": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "victim": [],
+      "target": []
+    },
+    "commentary": "Top Esports still in the lead after that little... Yeah, they had a soiree to... It's a gifting things over as Yunger gets the flash hook. Oh, okay. All too easy. That's the big potential of this stage of the game for Top Esports. No one is safe if you are outside of your turret range, guys. And Knight, well and truly online as well, 1-0 and 5. This guy just like, just always has a good early game. His mechanics too are, they just always seemingly on points regardless of what champion he's playing.",
+    "commentary_word_count": 95,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 962.0,
+    "event": {
+      "timestamp": 962000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T1 MID"
+      ]
+    },
+    "commentary": "His mechanics too are, they just always seemingly on points regardless of what champion he's playing. He's played four different champions now, right? He played Syndra, Orianna. What was the second game? Cork? Yes. And he's 100% lost, right? I think on Cork. He's so far this tournament. It's like the only thing that he loses on. This is Corky. He's well known for it. Surely has a very sore head at the moment after getting a couple of charges. A lot of extra money though, as you can see, 369 now towards the top side.",
+    "commentary_word_count": 96,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 970.0,
+    "event": {
+      "timestamp": 970000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [],
+      "participants": [],
+      "victim": [],
+      "target": [
+        "T2 MID"
+      ]
+    },
+    "commentary": "He played Syndra, Orianna. What was the second game? Cork? Yes. And he's 100% lost, right? I think on Cork. He's so far this tournament. It's like the only thing that he loses on. This is Corky. He's well known for it. Surely has a very sore head at the moment after getting a couple of charges. A lot of extra money though, as you can see, 369 now towards the top side. He's going to be taken down this inner turret, going to be by himself bottom lane, no teleport. And therefore Top Esports are going to have complete run of the jungle over here.",
+    "commentary_word_count": 106,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 988.0,
+    "event": {
+      "timestamp": 988000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "blue",
+      "player": [],
+      "participants": [],
+      "victim": [],
+      "target": [
+        "T1 BOT"
+      ]
+    },
+    "commentary": "Surely has a very sore head at the moment after getting a couple of charges. A lot of extra money though, as you can see, 369 now towards the top side. He's going to be taken down this inner turret, going to be by himself bottom lane, no teleport. And therefore Top Esports are going to have complete run of the jungle over here. Even Karsa farming in the face of the mid-lead. It's a level ahead of him. Agatha runs back to her little perch there. We're going to have a bit of a reset at the top. And Ocean Sol is upon us this game. A couple more of those Top Esports to lock that one down two and a half minutes time for that one to be up.",
+    "commentary_word_count": 131,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1085.0,
+    "event": {
+      "timestamp": 1085000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T2 BOT"
+      ]
+    },
+    "commentary": "Acceleration gate and a hook under the turret for Fates call exists. And that means that Yu Yanzhi is going to be absolutely fine. Is Crisp going to get hit by the bubble and the double body block comes through. But 369 there with the calling and just zoning away three people on this Lucian. Lucian is looking okay now. I don't think this game has anything to do with Lucian, to be honest. I'm just like, yeah, this is a good pick now. I'm actually scared. I don't want people to think that Lucian is good because of this game. Because he's going to win, you know? Because it's still bad. It's still not a good idea to pick that one.",
+    "commentary_word_count": 122,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1173.0,
+    "event": {
+      "timestamp": 1173000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Ocean Drake",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "victim": [],
+      "target": []
+    },
+    "commentary": "And that kind of feels like the way we are seeing this game play out once again. S369 really good. Just saying, okay, I don't know exactly where they are. They could be in my jungle. I have to respect all vision because I have none. And he's just able to avoid any kind of gank. And that's all that team can really do now. He's like, if I can just lock down one person, I'm going to shut down. For my Renekton or for myself, you know, maybe I could come back and begin to do some burst damage in this game. But it's just not meant to be. S369 is playing too smart in this top side. Yep, walking over control ward decides he doesn't want to take that one down as Khan.",
+    "commentary_word_count": 135,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1213.0,
+    "event": {
+      "timestamp": 1213000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        },
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ],
+      "victim": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ],
+      "target": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ]
+    },
+    "commentary": "And he's going to be absolutely fine here as well. Soul point now for Top Esports. Four and a half minutes as they go to free dragon. Now Khan's going to dive onto S369. Now maybe he's overextended, but Khan's taking a lot of damage here. The culling interrupted pretty immediately as Kasa comes in, puts down the pillar, but would have liked that actually against Khan. Gonna possibly subjugate him to death. Remember that buff lasts for a long time. It does get some speedy ground. And the back end. That's a very dead Tian. He goes to forward death.",
+    "commentary_word_count": 101,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1221.0,
+    "event": {
+      "timestamp": 1221000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "369",
+          "champion": "Lucian"
+        },
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ],
+      "target": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ]
+    },
+    "commentary": "Four and a half minutes as they go to free dragon. Now Khan's going to dive onto S369. Now maybe he's overextended, but Khan's taking a lot of damage here. The culling interrupted pretty immediately as Kasa comes in, puts down the pillar, but would have liked that actually against Khan. Gonna possibly subjugate him to death. Remember that buff lasts for a long time. It does get some speedy ground. And the back end. That's a very dead Tian. He goes to forward death. Now Baron has been alive for 30 seconds. And Top Esports wants to say that that's enough time for Baron to be alive.",
+    "commentary_word_count": 108,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1221.0,
+    "event": {
+      "timestamp": 1221000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ],
+      "target": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ]
+    },
+    "commentary": "Four and a half minutes as they go to free dragon. Now Khan's going to dive onto S369. Now maybe he's overextended, but Khan's taking a lot of damage here. The culling interrupted pretty immediately as Kasa comes in, puts down the pillar, but would have liked that actually against Khan. Gonna possibly subjugate him to death. Remember that buff lasts for a long time. It does get some speedy ground. And the back end. That's a very dead Tian. He goes to forward death. Now Baron has been alive for 30 seconds. And Top Esports wants to say that that's enough time for Baron to be alive.",
+    "commentary_word_count": 108,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1245.0,
+    "event": {
+      "timestamp": 1245000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T1 MID"
+      ]
+    },
+    "commentary": "Now Baron has been alive for 30 seconds. And Top Esports wants to say that that's enough time for Baron to be alive. And we'll just take that. They easily have the damage. They will be able to pick up this Baron. FPX knows that they're just going to split push, but it's just really intelligent play once again by S369. He knows that if they're there, that they're going to clean up too, because his teammates were there to back him up there. And then when he was playing very passively, he didn't have support. Strategic xing. They waited for S369. For the Lucian, that's very smart as well.",
+    "commentary_word_count": 110,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1255.0,
+    "event": {
+      "timestamp": 1255000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Baron Nashor",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "victim": [],
+      "target": []
+    },
+    "commentary": "They will be able to pick up this Baron. FPX knows that they're just going to split push, but it's just really intelligent play once again by S369. He knows that if they're there, that they're going to clean up too, because his teammates were there to back him up there. And then when he was playing very passively, he didn't have support. Strategic xing. They waited for S369. For the Lucian, that's very smart as well. So it's, you know, it is kind of strategic xing. It's meeting. He gets in their base. He doesn't know exactly if they're still there, but if they are, he's like, okay, they're going to die anyway, even if I die.",
+    "commentary_word_count": 118,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1259.0,
+    "event": {
+      "timestamp": 1259000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T2 BOT"
+      ]
+    },
+    "commentary": "but it's just really intelligent play once again by S369. He knows that if they're there, that they're going to clean up too, because his teammates were there to back him up there. And then when he was playing very passively, he didn't have support. Strategic xing. They waited for S369. For the Lucian, that's very smart as well. So it's, you know, it is kind of strategic xing. It's meeting. He gets in their base. He doesn't know exactly if they're still there, but if they are, he's like, okay, they're going to die anyway, even if I die. I'm so sorry, Papa Smithy, but it's tactical xing.",
+    "commentary_word_count": 109,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1282.0,
+    "event": {
+      "timestamp": 1282000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ],
+      "target": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ]
+    },
+    "commentary": "He doesn't know exactly if they're still there, but if they are, he's like, okay, they're going to die anyway, even if I die. I'm so sorry, Papa Smithy, but it's tactical xing. Yes, he's already come up with the term. This exists. Tactical xing. He's now Puffer as well. We should know that. Oka's going to get exalted. Playback destroyed. The rent set's coming on in. Space call comes down. Karsa does get the tribute. So he's going to be absolutely fine. Zoe picks up the kill in the aphelios to double for Jacky Love. And they're going to just barrel down this top lane exactly. I don't know whether Tien's going to be able to help out.",
+    "commentary_word_count": 119,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1285.0,
+    "event": {
+      "timestamp": 1285000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T2 TOP"
+      ]
+    },
+    "commentary": "he's like, okay, they're going to die anyway, even if I die. I'm so sorry, Papa Smithy, but it's tactical xing. Yes, he's already come up with the term. This exists. Tactical xing. He's now Puffer as well. We should know that. Oka's going to get exalted. Playback destroyed. The rent set's coming on in. Space call comes down. Karsa does get the tribute. So he's going to be absolutely fine. Zoe picks up the kill in the aphelios to double for Jacky Love. And they're going to just barrel down this top lane exactly. I don't know whether Tien's going to be able to help out. It's going to be nowhere to be seen.",
+    "commentary_word_count": 115,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1288.0,
+    "event": {
+      "timestamp": 1288000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        }
+      ],
+      "target": [
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        }
+      ]
+    },
+    "commentary": "I'm so sorry, Papa Smithy, but it's tactical xing. Yes, he's already come up with the term. This exists. Tactical xing. He's now Puffer as well. We should know that. Oka's going to get exalted. Playback destroyed. The rent set's coming on in. Space call comes down. Karsa does get the tribute. So he's going to be absolutely fine. Zoe picks up the kill in the aphelios to double for Jacky Love. And they're going to just barrel down this top lane exactly. I don't know whether Tien's going to be able to help out. It's going to be nowhere to be seen. Finally, teleports back.",
+    "commentary_word_count": 106,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1291.0,
+    "event": {
+      "timestamp": 1291000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "369",
+          "champion": "Lucian"
+        },
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Crisp",
+          "champion": "Blitzcrank"
+        }
+      ],
+      "target": [
+        {
+          "player": "Crisp",
+          "champion": "Blitzcrank"
+        }
+      ]
+    },
+    "commentary": "Yes, he's already come up with the term. This exists. Tactical xing. He's now Puffer as well. We should know that. Oka's going to get exalted. Playback destroyed. The rent set's coming on in. Space call comes down. Karsa does get the tribute. So he's going to be absolutely fine. Zoe picks up the kill in the aphelios to double for Jacky Love. And they're going to just barrel down this top lane exactly. I don't know whether Tien's going to be able to help out. It's going to be nowhere to be seen. Finally, teleports back. This mini wave is just going to be carried forward.",
+    "commentary_word_count": 107,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1296.0,
+    "event": {
+      "timestamp": 1296000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T3 TOP"
+      ]
+    },
+    "commentary": "He's now Puffer as well. We should know that. Oka's going to get exalted. Playback destroyed. The rent set's coming on in. Space call comes down. Karsa does get the tribute. So he's going to be absolutely fine. Zoe picks up the kill in the aphelios to double for Jacky Love. And they're going to just barrel down this top lane exactly. I don't know whether Tien's going to be able to help out. It's going to be nowhere to be seen. Finally, teleports back. This mini wave is just going to be carried forward. S369 just going to kill Tien, but he does go golden. He buys a few extra seconds and it looks like the minion wave is where Doimby's going",
+    "commentary_word_count": 123,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1301.0,
+    "event": {
+      "timestamp": 1301000,
+      "type": "BUILDING_KILL",
+      "subtype": "Inhibitor",
+      "team": "red",
+      "player": [],
+      "participants": [],
+      "victim": [],
+      "target": [
+        "INHIB TOP"
+      ]
+    },
+    "commentary": "Space call comes down. Karsa does get the tribute. So he's going to be absolutely fine. Zoe picks up the kill in the aphelios to double for Jacky Love. And they're going to just barrel down this top lane exactly. I don't know whether Tien's going to be able to help out. It's going to be nowhere to be seen. Finally, teleports back. This mini wave is just going to be carried forward. S369 just going to kill Tien, but he does go golden. He buys a few extra seconds and it looks like the minion wave is where Doimby's going just to try and get some backdoor bonus for these Nexus turrets.",
+    "commentary_word_count": 113,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1311.0,
+    "event": {
+      "timestamp": 1311000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ],
+      "participants": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        },
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ],
+      "target": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ]
+    },
+    "commentary": "And they're going to just barrel down this top lane exactly. I don't know whether Tien's going to be able to help out. It's going to be nowhere to be seen. Finally, teleports back. This mini wave is just going to be carried forward. S369 just going to kill Tien, but he does go golden. He buys a few extra seconds and it looks like the minion wave is where Doimby's going just to try and get some backdoor bonus for these Nexus turrets. Good play. He's going to try and buy some time there. LWX available in another five seconds. Thankfully, it's 22 minutes into the game. So the death timers are actually very short. Doimby continues his merry jaunt towards the top side of the map.",
+    "commentary_word_count": 128,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1314.0,
+    "event": {
+      "timestamp": 1314000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T1 TOP NEXUS"
+      ]
+    },
+    "commentary": "I don't know whether Tien's going to be able to help out. It's going to be nowhere to be seen. Finally, teleports back. This mini wave is just going to be carried forward. S369 just going to kill Tien, but he does go golden. He buys a few extra seconds and it looks like the minion wave is where Doimby's going just to try and get some backdoor bonus for these Nexus turrets. Good play. He's going to try and buy some time there. LWX available in another five seconds. Thankfully, it's 22 minutes into the game. So the death timers are actually very short. Doimby continues his merry jaunt towards the top side of the map.",
+    "commentary_word_count": 117,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1351.0,
+    "event": {
+      "timestamp": 1351000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "369",
+          "champion": "Lucian"
+        },
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ],
+      "target": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ]
+    },
+    "commentary": "If he just dies in the front and they have a minion wave with Baron buff, top esports can probably just focus down the turrets in the Nexus, but it's not going to happen that way. Even if Doimby dies here, it's like, okay, I mean, the fact that they're chasing him this whole way is actually genius. He's going to have sliced. He's going to have died. Summon. He's dead now, but it took a long time. Orin, you did it for your team. Well done. Yep. Let's have a look at how this all unfolded. Well, it's pretty heavy. Con says, I'm, I'm pillored. It's like being in range to get pillored there.",
+    "commentary_word_count": 115,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1451.0,
+    "event": {
+      "timestamp": 1451000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        },
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        },
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        },
+        {
+          "player": "Crisp",
+          "champion": "Blitzcrank"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "target": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ]
+    },
+    "commentary": "starting in a few weeks' time. I mean, clearly in this tournament, they are playing the best by far. I mean, JDT didn't really show up. You know, they kind of got crushed by FDX in the semifinals. Other hook. Yeah, passing it to W. He's got the sub to gain though. Not going to flash because he doesn't have it available, going to be getting taken down low as Jackie Love trying to bounce around. A voice that pounce stays alive for so damn long. And in the meantime, gets a couple of kills. He has taken down Yu Yanzhi, still alive as Khan's underneath this turret, knight blocking so that Yu Yanzhi could get back.",
+    "commentary_word_count": 117,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1454.0,
+    "event": {
+      "timestamp": 1454000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        }
+      ],
+      "target": [
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        }
+      ]
+    },
+    "commentary": "I mean, clearly in this tournament, they are playing the best by far. I mean, JDT didn't really show up. You know, they kind of got crushed by FDX in the semifinals. Other hook. Yeah, passing it to W. He's got the sub to gain though. Not going to flash because he doesn't have it available, going to be getting taken down low as Jackie Love trying to bounce around. A voice that pounce stays alive for so damn long. And in the meantime, gets a couple of kills. He has taken down Yu Yanzhi, still alive as Khan's underneath this turret, knight blocking so that Yu Yanzhi could get back. And 369's going to taxi this minion wave forward.",
+    "commentary_word_count": 120,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1455.0,
+    "event": {
+      "timestamp": 1455000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Crisp",
+          "champion": "Blitzcrank"
+        }
+      ],
+      "target": [
+        {
+          "player": "Crisp",
+          "champion": "Blitzcrank"
+        }
+      ]
+    },
+    "commentary": "I mean, clearly in this tournament, they are playing the best by far. I mean, JDT didn't really show up. You know, they kind of got crushed by FDX in the semifinals. Other hook. Yeah, passing it to W. He's got the sub to gain though. Not going to flash because he doesn't have it available, going to be getting taken down low as Jackie Love trying to bounce around. A voice that pounce stays alive for so damn long. And in the meantime, gets a couple of kills. He has taken down Yu Yanzhi, still alive as Khan's underneath this turret, knight blocking so that Yu Yanzhi could get back. And 369's going to taxi this minion wave forward.",
+    "commentary_word_count": 120,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1456.0,
+    "event": {
+      "timestamp": 1456000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "participants": [
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        },
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ],
+      "target": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ]
+    },
+    "commentary": "I mean, clearly in this tournament, they are playing the best by far. I mean, JDT didn't really show up. You know, they kind of got crushed by FDX in the semifinals. Other hook. Yeah, passing it to W. He's got the sub to gain though. Not going to flash because he doesn't have it available, going to be getting taken down low as Jackie Love trying to bounce around. A voice that pounce stays alive for so damn long. And in the meantime, gets a couple of kills. He has taken down Yu Yanzhi, still alive as Khan's underneath this turret, knight blocking so that Yu Yanzhi could get back. And 369's going to taxi this minion wave forward.",
+    "commentary_word_count": 120,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1456.0,
+    "event": {
+      "timestamp": 1456000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        },
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        },
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        },
+        {
+          "player": "Crisp",
+          "champion": "Blitzcrank"
+        }
+      ],
+      "victim": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "target": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ]
+    },
+    "commentary": "I mean, clearly in this tournament, they are playing the best by far. I mean, JDT didn't really show up. You know, they kind of got crushed by FDX in the semifinals. Other hook. Yeah, passing it to W. He's got the sub to gain though. Not going to flash because he doesn't have it available, going to be getting taken down low as Jackie Love trying to bounce around. A voice that pounce stays alive for so damn long. And in the meantime, gets a couple of kills. He has taken down Yu Yanzhi, still alive as Khan's underneath this turret, knight blocking so that Yu Yanzhi could get back. And 369's going to taxi this minion wave forward.",
+    "commentary_word_count": 120,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1477.0,
+    "event": {
+      "timestamp": 1477000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        },
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ],
+      "victim": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ],
+      "target": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ]
+    },
+    "commentary": "He has taken down Yu Yanzhi, still alive as Khan's underneath this turret, knight blocking so that Yu Yanzhi could get back. And 369's going to taxi this minion wave forward. Yu Yanzhi was taking that turret, probably didn't want to there, as 369 is booped around. Khan is going to escape. Doimbie able to lock that one down as knight does have himself the skirmishes and he's going to utilize it there onto Doimbie, who's burning down to that red buff as the minions doing some work. Kuldameek comes in. There's the ace that knight delivers to FPX.",
+    "commentary_word_count": 99,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1478.0,
+    "event": {
+      "timestamp": 1478000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "369",
+          "champion": "Lucian"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ],
+      "target": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ]
+    },
+    "commentary": "He has taken down Yu Yanzhi, still alive as Khan's underneath this turret, knight blocking so that Yu Yanzhi could get back. And 369's going to taxi this minion wave forward. Yu Yanzhi was taking that turret, probably didn't want to there, as 369 is booped around. Khan is going to escape. Doimbie able to lock that one down as knight does have himself the skirmishes and he's going to utilize it there onto Doimbie, who's burning down to that red buff as the minions doing some work. Kuldameek comes in. There's the ace that knight delivers to FPX. He hasn't died yet.",
+    "commentary_word_count": 103,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1488.0,
+    "event": {
+      "timestamp": 1488000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "369",
+          "champion": "Lucian"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ],
+      "target": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ]
+    },
+    "commentary": "Yu Yanzhi was taking that turret, probably didn't want to there, as 369 is booped around. Khan is going to escape. Doimbie able to lock that one down as knight does have himself the skirmishes and he's going to utilize it there onto Doimbie, who's burning down to that red buff as the minions doing some work. Kuldameek comes in. There's the ace that knight delivers to FPX. He hasn't died yet. Ismajizes well and truly stacking up at this point. He's born one every game. That's the kind of play we want. And this is why you pick Blitzcrank. Even when you're really far behind, you can almost win team fights.",
+    "commentary_word_count": 112,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1515.0,
+    "event": {
+      "timestamp": 1515000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Ocean Drake",
+      "team": "red",
+      "player": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "victim": [],
+      "target": []
+    },
+    "commentary": "That's the kind of play we want. And this is why you pick Blitzcrank. Even when you're really far behind, you can almost win team fights. If you just eliminate one person right away. Unfortunately, even with Aphelios getting insane AoE damage with everybody bunched up, it didn't matter. And it was 4v5. Yeah, Lucian wasn't even there. He was split pushing the bottom side and then kind of looked silly. The Heryth behind him dies to Doimbie, who was desperately trying to carry his team. Unfortunately, FPX aren't quite letting him do that here.",
+    "commentary_word_count": 95,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1566.0,
+    "event": {
+      "timestamp": 1566000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T3 MID"
+      ]
+    },
+    "commentary": "Even against the world champions of 2018. He's like, you know, they're okay. I'll just bite my eyes every single game. No big deal. Except the core game, I think he did. By the way, all the other three games that he has won. Just showing me how much value that item can have. Especially from the bottom. Remember, only one Nexus turret as well. Baron's gonna be up in 40 seconds time. Ocean Soul is of course here. I don't know whether we even mentioned that too much craziness was happening. But it's going to be in the top east for it's gonna be basically impossible to kill in a team fight.",
+    "commentary_word_count": 113,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1570.0,
+    "event": {
+      "timestamp": 1570000,
+      "type": "BUILDING_KILL",
+      "subtype": "Inhibitor",
+      "team": "red",
+      "player": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ],
+      "participants": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "INHIB MID"
+      ]
+    },
+    "commentary": "He's like, you know, they're okay. I'll just bite my eyes every single game. No big deal. Except the core game, I think he did. By the way, all the other three games that he has won. Just showing me how much value that item can have. Especially from the bottom. Remember, only one Nexus turret as well. Baron's gonna be up in 40 seconds time. Ocean Soul is of course here. I don't know whether we even mentioned that too much craziness was happening. But it's going to be in the top east for it's gonna be basically impossible to kill in a team fight. And here is said team fight. Crisp gets taken down extremely low.",
+    "commentary_word_count": 118,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1602.0,
+    "event": {
+      "timestamp": 1602000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T2 BOT NEXUS"
+      ]
+    },
+    "commentary": "Graviton does some work, as Moonlight Vigil did land. But top esports move back. They use their, you know, global warmogs that all of them have. With this Ocean Soul. Knight with the Shurelias is very scary. Tian gets moved. As Khan down to about half health. The last Nexus turret going to go down. And this could just be the MSC Championship. Right here. Right now for top esports. We're witnessing the birth of some new contenders for the world championship here. As top esports will win the mid season cup.",
+    "commentary_word_count": 92,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1604.0,
+    "event": {
+      "timestamp": 1604000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "participants": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "369",
+          "champion": "Lucian"
+        },
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ],
+      "target": [
+        {
+          "player": "Doinb",
+          "champion": "Renekton"
+        }
+      ]
+    },
+    "commentary": "Graviton does some work, as Moonlight Vigil did land. But top esports move back. They use their, you know, global warmogs that all of them have. With this Ocean Soul. Knight with the Shurelias is very scary. Tian gets moved. As Khan down to about half health. The last Nexus turret going to go down. And this could just be the MSC Championship. Right here. Right now for top esports. We're witnessing the birth of some new contenders for the world championship here. As top esports will win the mid season cup. But not before.",
+    "commentary_word_count": 95,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1613.0,
+    "event": {
+      "timestamp": 1613000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ],
+      "target": [
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        }
+      ]
+    },
+    "commentary": "Knight with the Shurelias is very scary. Tian gets moved. As Khan down to about half health. The last Nexus turret going to go down. And this could just be the MSC Championship. Right here. Right now for top esports. We're witnessing the birth of some new contenders for the world championship here. As top esports will win the mid season cup. But not before. They've taken a few glory kills. And there it is. Still the FBX flares will fly.",
+    "commentary_word_count": 81,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1613.0,
+    "event": {
+      "timestamp": 1613000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Tian",
+          "champion": "Nidalee"
+        },
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        }
+      ],
+      "victim": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ],
+      "target": [
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        }
+      ]
+    },
+    "commentary": "Knight with the Shurelias is very scary. Tian gets moved. As Khan down to about half health. The last Nexus turret going to go down. And this could just be the MSC Championship. Right here. Right now for top esports. We're witnessing the birth of some new contenders for the world championship here. As top esports will win the mid season cup. But not before. They've taken a few glory kills. And there it is. Still the FBX flares will fly.",
+    "commentary_word_count": 81,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1615.0,
+    "event": {
+      "timestamp": 1615000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        }
+      ],
+      "participants": [
+        {
+          "player": "369",
+          "champion": "Lucian"
+        },
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ],
+      "target": [
+        {
+          "player": "Khan",
+          "champion": "Jayce"
+        }
+      ]
+    },
+    "commentary": "Tian gets moved. As Khan down to about half health. The last Nexus turret going to go down. And this could just be the MSC Championship. Right here. Right now for top esports. We're witnessing the birth of some new contenders for the world championship here. As top esports will win the mid season cup. But not before. They've taken a few glory kills. And there it is. Still the FBX flares will fly.",
+    "commentary_word_count": 74,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1617.0,
+    "event": {
+      "timestamp": 1617000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Knight",
+          "champion": "Zoe"
+        },
+        {
+          "player": "369",
+          "champion": "Lucian"
+        },
+        {
+          "player": "Karsa",
+          "champion": "Trundle"
+        },
+        {
+          "player": "JackeyLove",
+          "champion": "Kalista"
+        },
+        {
+          "player": "yuyanjia",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        }
+      ],
+      "target": [
+        {
+          "player": "Lwx",
+          "champion": "Aphelios"
+        }
+      ]
+    },
+    "commentary": "As Khan down to about half health. The last Nexus turret going to go down. And this could just be the MSC Championship. Right here. Right now for top esports. We're witnessing the birth of some new contenders for the world championship here. As top esports will win the mid season cup. But not before. They've taken a few glory kills. And there it is. Still the FBX flares will fly.",
+    "commentary_word_count": 71,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 4,
+    "offset_seconds": 70.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1625.0,
+    "event": {
+      "timestamp": 1625000,
+      "type": "BUILDING_KILL",
+      "subtype": "Nexus",
+      "team": "red",
+      "player": [],
+      "participants": [],
+      "victim": [],
+      "target": []
+    },
+    "commentary": "We're witnessing the birth of some new contenders for the world championship here. As top esports will win the mid season cup. But not before. They've taken a few glory kills. And there it is. Still the FBX flares will fly. You",
+    "commentary_word_count": 42,
+    "time_coverage": true,
+    "keyword_coverage": false
+  }
+]

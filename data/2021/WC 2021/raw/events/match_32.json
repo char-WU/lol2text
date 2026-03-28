@@ -1,0 +1,653 @@
+[
+  {
+    "timestamp": 281000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "JarvanIV",
+      "Zoe"
+    ],
+    "victim": "Rell",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 428000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Syndra",
+      "XinZhao",
+      "Tristana",
+      "Rell"
+    ],
+    "victim": "JarvanIV",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 511000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Alphari",
+    "participants": [
+      "Jayce",
+      "XinZhao"
+    ],
+    "victim": "Graves",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 529000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 536000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 539000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 551000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 551000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Santorin",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 569000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 572000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 572000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 572000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Santorin",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 744000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 798000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 970000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 995000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1013000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1015000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Life",
+    "participants": [
+      "Yuumi"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1061000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Santorin",
+    "participants": [
+      "XinZhao"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1088000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Life",
+    "participants": [
+      "Yuumi",
+      "JarvanIV",
+      "Zoe",
+      "MissFortune"
+    ],
+    "victim": "Syndra",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1111000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Zoe",
+      "Yuumi"
+    ],
+    "victim": "XinZhao",
+    "target": "Santorin"
+  },
+  {
+    "timestamp": 1129000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Zoe",
+      "MissFortune"
+    ],
+    "victim": "Tristana",
+    "target": "Tactical"
+  },
+  {
+    "timestamp": 1135000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1145000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1316000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1337000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1384000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1430000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune",
+      "Yuumi"
+    ],
+    "victim": "Rell",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1431000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Alphari",
+    "participants": [
+      "Jayce",
+      "XinZhao",
+      "Syndra",
+      "Rell"
+    ],
+    "victim": "JarvanIV",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1549000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Tristana",
+      "XinZhao",
+      "Syndra",
+      "Rell"
+    ],
+    "victim": "Zoe",
+    "target": "Bdd"
+  },
+  {
+    "timestamp": 1635000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Graves"
+    ],
+    "victim": "Jayce",
+    "target": "Alphari"
+  },
+  {
+    "timestamp": 1661000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune",
+      "JarvanIV",
+      "Zoe",
+      "Yuumi"
+    ],
+    "victim": "XinZhao",
+    "target": "Santorin"
+  },
+  {
+    "timestamp": 1689000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Jensen",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1693000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "JarvanIV",
+      "Graves",
+      "Zoe",
+      "MissFortune",
+      "Yuumi"
+    ],
+    "victim": "Rell",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 1723000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1779000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Alphari",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1846000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune",
+      "JarvanIV",
+      "Yuumi"
+    ],
+    "victim": "Tristana",
+    "target": "Tactical"
+  },
+  {
+    "timestamp": 1893000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 2042000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2068000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2145000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 2156000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2172000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Graves",
+      "JarvanIV",
+      "Zoe",
+      "Yuumi"
+    ],
+    "victim": "XinZhao",
+    "target": "Santorin"
+  },
+  {
+    "timestamp": 2173000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune",
+      "Graves",
+      "JarvanIV",
+      "Yuumi"
+    ],
+    "victim": "Rell",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 2174000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2175000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Tactical",
+    "participants": [
+      "Tristana",
+      "Jayce",
+      "XinZhao",
+      "Syndra",
+      "Rell"
+    ],
+    "victim": "JarvanIV",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 2181000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2186000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2191000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ruler",
+    "participants": [
+      "MissFortune",
+      "Yuumi"
+    ],
+    "victim": "Tristana",
+    "target": "Tactical"
+  },
+  {
+    "timestamp": 2193000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Graves",
+      "Yuumi"
+    ],
+    "victim": "Syndra",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 2194000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2194000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Zoe",
+      "Graves"
+    ],
+    "victim": "Jayce",
+    "target": "Alphari"
+  },
+  {
+    "timestamp": 2201000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

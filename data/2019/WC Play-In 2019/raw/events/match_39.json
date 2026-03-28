@@ -1,0 +1,450 @@
+[
+  {
+    "timestamp": 246000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "Karma"
+    ],
+    "victim": "Tristana",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 248000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise",
+      "Tristana"
+    ],
+    "victim": "Karma",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 548000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 635000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise",
+      "Orianna",
+      "Sivir",
+      "Rakan"
+    ],
+    "victim": "Karma",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 660000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 760000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Cody Sun",
+    "participants": [
+      "Sivir"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 866000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 919000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1099000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1193000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1265000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1408000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1427000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Damonte",
+    "participants": [
+      "Orianna",
+      "Rakan"
+    ],
+    "victim": "Nocturne",
+    "target": "Babip"
+  },
+  {
+    "timestamp": 1432000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise",
+      "Orianna",
+      "Sivir",
+      "Rakan"
+    ],
+    "victim": "Azir",
+    "target": "Triple"
+  },
+  {
+    "timestamp": 1457000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Cody Sun",
+    "participants": [
+      "Sivir"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1512000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Babip",
+    "participants": [
+      "Nocturne"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1597000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Damonte",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1630000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1696000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Cody Sun",
+    "participants": [
+      "Sivir",
+      "Rakan"
+    ],
+    "victim": "Nocturne",
+    "target": "Babip"
+  },
+  {
+    "timestamp": 1723000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1840000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1930000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "k1ng",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1932000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana",
+      "Elise",
+      "Orianna",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "Destiny"
+  },
+  {
+    "timestamp": 1952000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Fudge",
+    "participants": [
+      "Karma"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 2160000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise",
+      "Tristana",
+      "Orianna",
+      "Sivir",
+      "Rakan"
+    ],
+    "victim": "Nocturne",
+    "target": "Babip"
+  },
+  {
+    "timestamp": 2178000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2211000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2219000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 2226000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Damonte",
+    "participants": [
+      "Orianna"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 2310000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana",
+      "Orianna",
+      "Rakan"
+    ],
+    "victim": "Kaisa",
+    "target": "k1ng"
+  },
+  {
+    "timestamp": 2312000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana",
+      "Orianna",
+      "Sivir",
+      "Rakan"
+    ],
+    "victim": "Nocturne",
+    "target": "Babip"
+  },
+  {
+    "timestamp": 2327000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Triple",
+    "participants": [
+      "Azir",
+      "Karma",
+      "Nautilus"
+    ],
+    "victim": "Orianna",
+    "target": "Damonte"
+  },
+  {
+    "timestamp": 2330000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2331000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Tristana"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2333000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Elise",
+      "Orianna"
+    ],
+    "victim": "Karma",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 2341000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

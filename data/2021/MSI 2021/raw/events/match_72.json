@@ -1,0 +1,535 @@
+[
+  {
+    "timestamp": 212000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": "Nidalee",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 342000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Varus",
+      "Leona"
+    ],
+    "victim": "Alistar",
+    "target": "Kazu"
+  },
+  {
+    "timestamp": 490000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 511000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 598000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Udyr",
+      "Gnar"
+    ],
+    "victim": "Jayce",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 632000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 808000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 815000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Aria",
+    "participants": [
+      "Zoe",
+      "Udyr"
+    ],
+    "victim": "Nidalee",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 894000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Varus"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 940000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1076000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1084000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1100000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1137000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1240000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Jayce",
+      "Nidalee",
+      "Leona"
+    ],
+    "victim": "Gnar",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 1326000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Kaisa",
+      "Udyr",
+      "Alistar"
+    ],
+    "victim": "Orianna",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1353000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Varus",
+      "Jayce",
+      "Nidalee",
+      "Leona"
+    ],
+    "victim": "Alistar",
+    "target": "Kazu"
+  },
+  {
+    "timestamp": 1457000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Kaisa",
+      "Udyr"
+    ],
+    "victim": "Orianna",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1459000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Jayce",
+      "Nidalee",
+      "Varus"
+    ],
+    "victim": "Gnar",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 1460000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Kaisa",
+      "Udyr",
+      "Alistar"
+    ],
+    "victim": "Leona",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1487000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Kaisa",
+      "Udyr",
+      "Zoe"
+    ],
+    "victim": "Varus",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 1496000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Jayce"
+    ],
+    "victim": "Udyr",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 1497000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Jayce",
+      "Nidalee"
+    ],
+    "victim": "Alistar",
+    "target": "Kazu"
+  },
+  {
+    "timestamp": 1500000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Nidalee",
+      "Jayce",
+      "Varus"
+    ],
+    "victim": "Kaisa",
+    "target": "Yutapon"
+  },
+  {
+    "timestamp": 1500000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Aria",
+    "participants": [
+      "Zoe",
+      "Udyr",
+      "Kaisa",
+      "Alistar"
+    ],
+    "victim": "Jayce",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 1532000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1720000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Kaisa",
+      "Gnar",
+      "Udyr",
+      "Zoe"
+    ],
+    "victim": "Varus",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 1724000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Kaisa",
+      "Gnar",
+      "Udyr",
+      "Zoe"
+    ],
+    "victim": "Leona",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1728000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1762000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1834000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Jayce",
+      "Nidalee",
+      "Orianna",
+      "Varus",
+      "Leona"
+    ],
+    "victim": "Alistar",
+    "target": "Kazu"
+  },
+  {
+    "timestamp": 1839000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Kaisa",
+      "Udyr",
+      "Zoe",
+      "Alistar"
+    ],
+    "victim": "Orianna",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1842000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Aria",
+    "participants": [
+      "Zoe",
+      "Gnar",
+      "Udyr",
+      "Kaisa",
+      "Alistar"
+    ],
+    "victim": "Leona",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1845000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Gnar",
+      "Udyr",
+      "Zoe",
+      "Kaisa"
+    ],
+    "victim": "Nidalee",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1848000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Aria",
+    "participants": [
+      "Zoe",
+      "Gnar",
+      "Udyr",
+      "Kaisa"
+    ],
+    "victim": "Jayce",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 1849000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Aria",
+    "participants": [
+      "Zoe",
+      "Gnar",
+      "Udyr",
+      "Kaisa"
+    ],
+    "victim": "Varus",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 1871000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1876000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Evi",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1883000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Yutapon",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1886000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Steal",
+    "participants": [
+      "Udyr"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1896000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

@@ -1,0 +1,615 @@
+[
+  {
+    "timestamp": 444000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gaeng",
+    "participants": [
+      "Thresh",
+      "Nocturne",
+      "Ashe"
+    ],
+    "victim": "Nautilus",
+    "target": "Tore"
+  },
+  {
+    "timestamp": 482000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Steal",
+    "participants": [
+      "Nocturne"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 664000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Hecarim",
+      "LeBlanc"
+    ],
+    "victim": "Galio",
+    "target": "Ceros"
+  },
+  {
+    "timestamp": 855000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Evi",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": "Kennen",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 876000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Hecarim",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Nocturne",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 876000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ceros",
+    "participants": [
+      "Galio",
+      "Ashe",
+      "Thresh"
+    ],
+    "victim": "Hecarim",
+    "target": "Xerxe"
+  },
+  {
+    "timestamp": 883000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ceros",
+    "participants": [
+      "Galio",
+      "Ashe",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Tore"
+  },
+  {
+    "timestamp": 960000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 985000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Evi",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1167000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Steal",
+    "participants": [
+      "Nocturne"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1310000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Evi",
+    "participants": [
+      "Gnar",
+      "Nocturne",
+      "Galio",
+      "Thresh"
+    ],
+    "victim": "Kaisa",
+    "target": "Kobbe"
+  },
+  {
+    "timestamp": 1311000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Hecarim",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Nocturne",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 1319000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Vizicsacsi",
+    "participants": [
+      "Kennen",
+      "LeBlanc"
+    ],
+    "victim": "Ashe",
+    "target": "Yutapon"
+  },
+  {
+    "timestamp": 1322000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ceros",
+    "participants": [
+      "Galio",
+      "Ashe",
+      "Thresh"
+    ],
+    "victim": "LeBlanc",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1348000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Ceros",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1402000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Vizicsacsi",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1416000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Steal",
+    "participants": [
+      "Nocturne"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1515000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1560000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Steal",
+    "participants": [
+      "Nocturne",
+      "Ashe",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Tore"
+  },
+  {
+    "timestamp": 1565000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Vizicsacsi",
+    "participants": [
+      "Kennen",
+      "Hecarim",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Ashe",
+    "target": "Yutapon"
+  },
+  {
+    "timestamp": 1569000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Steal",
+    "participants": [
+      "Nocturne",
+      "Gnar",
+      "Galio",
+      "Ashe",
+      "Thresh"
+    ],
+    "victim": "Kennen",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 1579000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Ceros",
+    "participants": [
+      "Galio",
+      "Gnar",
+      "Nocturne",
+      "Ashe",
+      "Thresh"
+    ],
+    "victim": "LeBlanc",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1579000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Hecarim",
+      "Kennen",
+      "LeBlanc",
+      "Kaisa"
+    ],
+    "victim": "Gnar",
+    "target": "Evi"
+  },
+  {
+    "timestamp": 1580000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Kaisa",
+      "Kennen",
+      "Hecarim",
+      "LeBlanc"
+    ],
+    "victim": "Nocturne",
+    "target": "Steal"
+  },
+  {
+    "timestamp": 1598000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1663000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Xerxe",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1664000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gaeng",
+    "participants": [
+      "Thresh",
+      "Gnar",
+      "Nocturne",
+      "Ashe"
+    ],
+    "victim": "Kennen",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 1715000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Yutapon",
+    "participants": [
+      "Ashe",
+      "Gnar",
+      "Nocturne",
+      "Galio",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Tore"
+  },
+  {
+    "timestamp": 1719000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Evi",
+    "participants": [
+      "Gnar",
+      "Nocturne",
+      "Galio",
+      "Ashe",
+      "Thresh"
+    ],
+    "victim": "Hecarim",
+    "target": "Xerxe"
+  },
+  {
+    "timestamp": 1725000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Steal",
+    "participants": [
+      "Nocturne",
+      "Ashe",
+      "Thresh"
+    ],
+    "victim": "LeBlanc",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1743000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Steal",
+    "participants": [
+      "Nocturne"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1842000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ceros",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1880000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1899000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Ceros",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1937000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Yutapon",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1965000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kobbe",
+    "participants": [
+      "Kaisa",
+      "Kennen",
+      "Hecarim",
+      "LeBlanc",
+      "Nautilus"
+    ],
+    "victim": "Galio",
+    "target": "Ceros"
+  },
+  {
+    "timestamp": 1970000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Evi",
+    "participants": [
+      "Gnar",
+      "Nocturne",
+      "Ashe",
+      "Thresh"
+    ],
+    "victim": "Kennen",
+    "target": "Vizicsacsi"
+  },
+  {
+    "timestamp": 1972000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Yutapon",
+    "participants": [
+      "Ashe",
+      "Gnar",
+      "Nocturne",
+      "Galio",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Tore"
+  },
+  {
+    "timestamp": 1978000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Steal",
+    "participants": [
+      "Nocturne",
+      "Gnar",
+      "Ashe",
+      "Thresh"
+    ],
+    "victim": "LeBlanc",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1980000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Gaeng",
+    "participants": [
+      "Thresh",
+      "Gnar",
+      "Nocturne",
+      "Ashe"
+    ],
+    "victim": "Kaisa",
+    "target": "Kobbe"
+  },
+  {
+    "timestamp": 1981000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Steal",
+    "participants": [
+      "Nocturne"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1985000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Gaeng",
+    "participants": [
+      "Thresh"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1996000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Yutapon",
+    "participants": [
+      "Ashe",
+      "Gnar",
+      "Nocturne",
+      "Thresh"
+    ],
+    "victim": "Hecarim",
+    "target": "Xerxe"
+  },
+  {
+    "timestamp": 2010000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2012000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Evi",
+    "participants": [
+      "Gnar"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2020000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

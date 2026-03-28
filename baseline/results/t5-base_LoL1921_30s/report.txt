@@ -1,0 +1,38 @@
+================================================================================
+EVALUATION REPORT
+METRICS:
+--------------------------------------------------------------------------------
+bleu_1: 0.3114
+bleu_2: 0.1427
+bleu_3: 0.0691
+bleu_4: 0.0320
+sacrebleu: 4.1427
+sacrebleu_bp: 1.0000
+rouge_l: 0.1701
+rouge_l_std: 0.0226
+bertscore_precision: 0.8437
+bertscore_recall: 0.8262
+bertscore_f1: 0.8349
+edit_distance_mean: 602.4389
+edit_distance_std: 107.5277
+normalized_edit_distance: 0.7138
+text_similarity: 0.2862
+text_similarity_pct: 28.6156
+bartscore_ref: -5.0009
+bartscore_ref_std: 0.6171
+bartscore_src: -4.7268
+bartscore_src_std: 1.0680
+bartscore_avg: -4.8638
+perplexity: 38.7744
+
+length_stats:
+  target_length:
+    mean: 153.9539
+    std: 39.1313
+    min: 30.0000
+    max: 283.0000
+  prediction_length:
+    mean: 154.0343
+    std: 14.2525
+    min: 121.0000
+    max: 187.0000

@@ -1,0 +1,790 @@
+[
+  {
+    "timestamp": 253000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Adam",
+    "participants": [
+      "Sett",
+      "Ryze"
+    ],
+    "victim": "Yasuo",
+    "target": "Chovy"
+  },
+  {
+    "timestamp": 398000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Aphelios",
+      "LeeSin",
+      "Yasuo",
+      "Thresh"
+    ],
+    "victim": "Graves",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 441000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Hylissang",
+    "participants": [
+      "Braum",
+      "MissFortune"
+    ],
+    "victim": "Aphelios",
+    "target": "Deft"
+  },
+  {
+    "timestamp": 444000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Vsta",
+    "participants": [
+      "Thresh",
+      "Aphelios"
+    ],
+    "victim": "Braum",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 448000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Graves",
+      "MissFortune",
+      "Braum"
+    ],
+    "victim": "Thresh",
+    "target": "Vsta"
+  },
+  {
+    "timestamp": 564000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 576000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 577000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Yasuo",
+      "Kennen",
+      "LeeSin",
+      "Thresh"
+    ],
+    "victim": "Graves",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 584000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Vsta",
+    "participants": [
+      "Thresh",
+      "Kennen",
+      "LeeSin",
+      "Yasuo"
+    ],
+    "victim": "Braum",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 590000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 603000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 724000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Yasuo",
+      "Kennen",
+      "LeeSin",
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "Ryze",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 728000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Morgan",
+    "participants": [
+      "Kennen",
+      "LeeSin",
+      "Yasuo",
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "Sett",
+    "target": "Adam"
+  },
+  {
+    "timestamp": 752000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Willer",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 794000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 806000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 812000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 817000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 817000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 817000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 833000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 908000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "Braum",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 995000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1009000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Willer",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1014000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Morgan",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1062000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1117000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Willer",
+    "participants": [
+      "LeeSin",
+      "Kennen",
+      "Yasuo",
+      "Thresh"
+    ],
+    "victim": "Ryze",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 1121000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1202000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Willer",
+    "participants": [
+      "LeeSin",
+      "Yasuo"
+    ],
+    "victim": "Sett",
+    "target": "Adam"
+  },
+  {
+    "timestamp": 1214000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Graves",
+      "Braum"
+    ],
+    "victim": "Kennen",
+    "target": "Morgan"
+  },
+  {
+    "timestamp": 1215000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Willer",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1240000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Willer",
+    "participants": [
+      "LeeSin",
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "MissFortune",
+    "target": "Bean"
+  },
+  {
+    "timestamp": 1241000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nisqy",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1275000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Yasuo",
+      "Kennen",
+      "LeeSin",
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "Braum",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 1281000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Morgan",
+    "participants": [
+      "Kennen",
+      "LeeSin",
+      "Yasuo",
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "Sett",
+    "target": "Adam"
+  },
+  {
+    "timestamp": 1315000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Willer",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1370000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Aphelios",
+      "LeeSin",
+      "Yasuo",
+      "Thresh"
+    ],
+    "victim": "Graves",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 1373000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Aphelios",
+      "Kennen",
+      "LeeSin",
+      "Yasuo",
+      "Thresh"
+    ],
+    "victim": "Sett",
+    "target": "Adam"
+  },
+  {
+    "timestamp": 1380000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Aphelios",
+      "Kennen",
+      "LeeSin",
+      "Thresh"
+    ],
+    "victim": "Braum",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 1397000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Morgan",
+    "participants": [
+      "Kennen",
+      "Yasuo",
+      "Thresh"
+    ],
+    "victim": "Ryze",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 1402000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Yasuo"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1412000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Morgan",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1421000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Aphelios"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1424000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Morgan",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1491000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Aphelios",
+      "LeeSin",
+      "Thresh"
+    ],
+    "victim": "Ryze",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 1497000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Adam",
+    "participants": [
+      "Sett",
+      "Graves",
+      "Ryze",
+      "MissFortune",
+      "Braum"
+    ],
+    "victim": "Aphelios",
+    "target": "Deft"
+  },
+  {
+    "timestamp": 1505000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Morgan",
+    "participants": [
+      "Kennen",
+      "LeeSin",
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "Braum",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 1509000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Willer",
+    "participants": [
+      "LeeSin",
+      "Yasuo",
+      "Thresh"
+    ],
+    "victim": "Graves",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 1738000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Yasuo"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1805000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Aphelios",
+      "LeeSin",
+      "Thresh"
+    ],
+    "victim": "Braum",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 1843000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Willer",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1844000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Aphelios",
+      "Kennen",
+      "LeeSin",
+      "Yasuo",
+      "Thresh"
+    ],
+    "victim": "Graves",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 1851000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Yasuo",
+      "Kennen",
+      "LeeSin",
+      "Thresh"
+    ],
+    "victim": "Ryze",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 1864000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Yasuo",
+      "LeeSin",
+      "Aphelios",
+      "Thresh"
+    ],
+    "victim": "MissFortune",
+    "target": "Bean"
+  },
+  {
+    "timestamp": 1865000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Yasuo",
+      "LeeSin",
+      "Aphelios"
+    ],
+    "victim": "Sett",
+    "target": "Adam"
+  },
+  {
+    "timestamp": 1869000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Deft",
+    "participants": [
+      "Aphelios",
+      "LeeSin",
+      "Yasuo",
+      "Thresh"
+    ],
+    "victim": "Braum",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 1873000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Morgan",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1881000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Yasuo"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1886000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Morgan",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1890000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Chovy",
+    "participants": [
+      "Yasuo"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1902000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

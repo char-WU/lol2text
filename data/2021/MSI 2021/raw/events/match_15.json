@@ -1,0 +1,944 @@
+[
+  {
+    "timestamp": 221000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble",
+      "Jayce"
+    ],
+    "victim": "Irelia",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 257000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Armut",
+    "participants": [
+      "Jayce",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Alistar",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 356000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Irelia"
+    ],
+    "victim": "Jayce",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 361000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble",
+      "Jayce"
+    ],
+    "victim": "Irelia",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 389000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": "Rumble",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 551000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Lucian",
+      "Rumble"
+    ],
+    "victim": "Kalista",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 563000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": "Jayce",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 568000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Lucian",
+      "Jayce"
+    ],
+    "victim": "Irelia",
+    "target": "Fudge"
+  },
+  {
+    "timestamp": 585000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 624000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 650000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 679000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Kaisa"
+    ],
+    "victim": "Xayah",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 709000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiser",
+    "participants": [
+      "Rakan"
+    ],
+    "victim": "Kaisa",
+    "target": "Zven"
+  },
+  {
+    "timestamp": 709000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Kalista",
+      "Alistar"
+    ],
+    "victim": "Jayce",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 738000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Kalista",
+      "Morgana",
+      "Alistar"
+    ],
+    "victim": "Xayah",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 748000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 754000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Irelia",
+      "Alistar"
+    ],
+    "victim": "Jayce",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 786000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Irelia",
+      "Morgana"
+    ],
+    "victim": "Lucian",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 854000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Xayah",
+      "Jayce",
+      "Rumble",
+      "Lucian",
+      "Rakan"
+    ],
+    "victim": "Alistar",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 865000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Irelia",
+      "Morgana"
+    ],
+    "victim": "Jayce",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 912000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Kalista",
+      "Morgana",
+      "Alistar"
+    ],
+    "victim": "Lucian",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 922000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiser",
+    "participants": [
+      "Rakan",
+      "Jayce",
+      "Rumble"
+    ],
+    "victim": "Kalista",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 952000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1001000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1010000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": "Jayce",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1013000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1023000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble",
+      "Lucian"
+    ],
+    "victim": "Kalista",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1027000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble",
+      "Lucian",
+      "Rakan"
+    ],
+    "victim": "Morgana",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1028000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Kaisa",
+      "Alistar"
+    ],
+    "victim": "Rakan",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1035000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Xayah",
+      "Rumble",
+      "Lucian",
+      "Rakan"
+    ],
+    "victim": "Alistar",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1039000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1106000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1119000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Lucian",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Alistar",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1136000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble",
+      "Lucian",
+      "Rakan"
+    ],
+    "victim": "Kalista",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1142000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1176000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Irelia",
+      "Morgana"
+    ],
+    "victim": "Xayah",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1278000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Kalista",
+      "Morgana"
+    ],
+    "victim": "Jayce",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1278000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1310000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Vulcan",
+    "participants": [
+      "Alistar",
+      "Morgana",
+      "Kaisa"
+    ],
+    "victim": "Rakan",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1315000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": "Lucian",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1524000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Irelia",
+      "Kalista",
+      "Kaisa",
+      "Alistar"
+    ],
+    "victim": "Rakan",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1534000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Irelia",
+      "Morgana",
+      "Kalista",
+      "Alistar"
+    ],
+    "victim": "Xayah",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 1534000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Kaisa",
+      "Irelia",
+      "Morgana",
+      "Kalista",
+      "Alistar"
+    ],
+    "victim": "Jayce",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1534000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Irelia",
+      "Kaisa",
+      "Alistar"
+    ],
+    "victim": "Lucian",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1560000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1567000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1627000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1634000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1638000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1640000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1656000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1729000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1737000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Kaisa",
+      "Morgana",
+      "Alistar"
+    ],
+    "victim": "Rakan",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1787000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Elyoya",
+    "participants": [
+      "Rumble",
+      "Jayce"
+    ],
+    "victim": "Morgana",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1920000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": "Lucian",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 1941000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Irelia",
+      "Morgana",
+      "Kalista",
+      "Alistar"
+    ],
+    "victim": "Jayce",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 1943000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Irelia",
+      "Kalista",
+      "Alistar"
+    ],
+    "victim": "Rakan",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 1948000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1949000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Kalista",
+      "Irelia",
+      "Morgana",
+      "Alistar"
+    ],
+    "victim": "Rumble",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 1962000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Vulcan",
+    "participants": [
+      "Alistar"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1969000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1980000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1985000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1987000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Humanoid",
+    "participants": [
+      "Lucian",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Alistar",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 2033000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Carzzy",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2052000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2169000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Fudge",
+    "participants": [
+      "Irelia",
+      "Morgana",
+      "Kalista"
+    ],
+    "victim": "Jayce",
+    "target": "Armut"
+  },
+  {
+    "timestamp": 2169000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Kaisa",
+      "Alistar"
+    ],
+    "victim": "Lucian",
+    "target": "Humanoid"
+  },
+  {
+    "timestamp": 2172000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Irelia",
+      "Kalista"
+    ],
+    "victim": "Xayah",
+    "target": "Carzzy"
+  },
+  {
+    "timestamp": 2173000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Kalista",
+      "Irelia",
+      "Morgana",
+      "Kaisa",
+      "Alistar"
+    ],
+    "victim": "Rakan",
+    "target": "Kaiser"
+  },
+  {
+    "timestamp": 2176000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Morgana",
+      "Irelia",
+      "Kalista",
+      "Kaisa",
+      "Alistar"
+    ],
+    "victim": "Rumble",
+    "target": "Elyoya"
+  },
+  {
+    "timestamp": 2177000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Zven",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2191000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

@@ -1,0 +1,601 @@
+[
+  {
+    "timestamp": 243000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Lillia",
+      "Volibear"
+    ],
+    "victim": "Nidalee",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 244000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille",
+      "Nidalee",
+      "TwistedFate"
+    ],
+    "victim": "Volibear",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 253000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Azir",
+      "Lillia"
+    ],
+    "victim": "TwistedFate",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 396000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 397000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "TwistedFate",
+      "Camille",
+      "Nidalee"
+    ],
+    "victim": "Volibear",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 542000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 622000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee",
+      "TwistedFate",
+      "Jhin",
+      "Pantheon"
+    ],
+    "victim": "Kalista",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 708000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 738000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 947000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1074000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1087000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1124000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1128000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Jhin",
+      "Pantheon"
+    ],
+    "victim": "Lillia",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1196000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Volibear"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1286000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Jhin",
+      "Nidalee",
+      "TwistedFate",
+      "Pantheon"
+    ],
+    "victim": "Lillia",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1287000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee",
+      "Camille",
+      "Jhin"
+    ],
+    "victim": "Taric",
+    "target": "Life"
+  },
+  {
+    "timestamp": 1292000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Jhin",
+      "TwistedFate",
+      "Pantheon"
+    ],
+    "victim": "Azir",
+    "target": "Bdd"
+  },
+  {
+    "timestamp": 1316000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1321000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Rascal",
+    "participants": [
+      "Volibear"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1340000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Jhin",
+      "Camille"
+    ],
+    "victim": "Kalista",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 1369000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "TwistedFate"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1385000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1439000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mikyx",
+    "participants": [
+      "Pantheon",
+      "TwistedFate",
+      "Jhin"
+    ],
+    "victim": "Volibear",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 1457000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Bdd",
+    "participants": [
+      "Azir"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1478000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1640000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Jhin",
+      "Nidalee",
+      "TwistedFate",
+      "Pantheon"
+    ],
+    "victim": "Taric",
+    "target": "Life"
+  },
+  {
+    "timestamp": 1655000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Jhin",
+      "Camille",
+      "Nidalee",
+      "TwistedFate",
+      "Pantheon"
+    ],
+    "victim": "Azir",
+    "target": "Bdd"
+  },
+  {
+    "timestamp": 1669000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille",
+      "Jhin"
+    ],
+    "victim": "Kalista",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 1670000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "TwistedFate",
+      "Nidalee"
+    ],
+    "victim": "Lillia",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1673000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "TwistedFate",
+      "Nidalee",
+      "Pantheon"
+    ],
+    "victim": "Volibear",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 1686000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1708000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1713000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1751000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Lillia",
+      "Azir",
+      "Taric"
+    ],
+    "victim": "Jhin",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 1754000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille",
+      "TwistedFate",
+      "Pantheon"
+    ],
+    "victim": "Azir",
+    "target": "Bdd"
+  },
+  {
+    "timestamp": 1755000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Lillia",
+      "Volibear",
+      "Azir",
+      "Kalista",
+      "Taric"
+    ],
+    "victim": "Nidalee",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1757000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "TwistedFate",
+      "Camille",
+      "Nidalee",
+      "Pantheon"
+    ],
+    "victim": "Kalista",
+    "target": "Ruler"
+  },
+  {
+    "timestamp": 1758000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mikyx",
+    "participants": [
+      "Pantheon",
+      "Camille",
+      "Nidalee",
+      "TwistedFate",
+      "Jhin"
+    ],
+    "victim": "Volibear",
+    "target": "Rascal"
+  },
+  {
+    "timestamp": 1758000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mikyx",
+    "participants": [
+      "Pantheon",
+      "Camille",
+      "Nidalee",
+      "TwistedFate"
+    ],
+    "victim": "Lillia",
+    "target": "Clid"
+  },
+  {
+    "timestamp": 1760000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille",
+      "Nidalee",
+      "TwistedFate",
+      "Jhin",
+      "Pantheon"
+    ],
+    "victim": "Taric",
+    "target": "Life"
+  },
+  {
+    "timestamp": 1780000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "TwistedFate"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1784000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Mikyx",
+    "participants": [
+      "Pantheon"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1791000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1794000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1804000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

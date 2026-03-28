@@ -1,0 +1,952 @@
+[
+  {
+    "timestamp": 170000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Lulu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Lulu"
+      }
+    ]
+  },
+  {
+    "timestamp": 318000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Lulu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Lulu"
+      }
+    ]
+  },
+  {
+    "timestamp": 320000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Ming",
+        "champion": "Lulu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      }
+    ]
+  },
+  {
+    "timestamp": 327000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Cassiopeia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Cassiopeia"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 332000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Cassiopeia"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 383000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Nemesis",
+        "champion": "Cassiopeia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nemesis",
+        "champion": "Cassiopeia"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 499000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 499000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Ming",
+        "champion": "Lulu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      }
+    ]
+  },
+  {
+    "timestamp": 742000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 753000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 779000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 795000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 965000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1063000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1116000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1139000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1157000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1315000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1367000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1391000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1481000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1485000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1672000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1780000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1809000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1812000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1840000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1845000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1918000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1920000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Bwipo",
+        "champion": "Gangplank"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Cassiopeia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Langx",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1922000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Cassiopeia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1929000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1929000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      },
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Nemesis",
+        "champion": "Cassiopeia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1932000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Uzi",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Ming",
+        "champion": "Lulu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      }
+    ]
+  },
+  {
+    "timestamp": 1935000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Broxah",
+        "champion": "Gragas"
+      },
+      {
+        "player": "Hylissang",
+        "champion": "Pyke"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Lulu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Lulu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1937000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rekkles",
+        "champion": "Xayah"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1945000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

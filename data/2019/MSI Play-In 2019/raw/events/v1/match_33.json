@@ -1,0 +1,752 @@
+[
+  {
+    "timestamp": 148000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Varus",
+      "Kindred",
+      "Braum"
+    ],
+    "victim": "Thresh",
+    "target": "Rogue"
+  },
+  {
+    "timestamp": 148000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista",
+      "Thresh"
+    ],
+    "victim": "Kindred",
+    "target": "Oddie"
+  },
+  {
+    "timestamp": 419000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV",
+      "Kalista",
+      "Thresh"
+    ],
+    "victim": "Kindred",
+    "target": "Oddie"
+  },
+  {
+    "timestamp": 420000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Karma",
+      "Kindred",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Kalista",
+    "target": "FBI"
+  },
+  {
+    "timestamp": 422000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Varus",
+      "Kindred",
+      "Karma",
+      "Braum"
+    ],
+    "victim": "JarvanIV",
+    "target": "BalKhan"
+  },
+  {
+    "timestamp": 510000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista",
+      "JarvanIV",
+      "Thresh"
+    ],
+    "victim": "Varus",
+    "target": "WARANGELUS"
+  },
+  {
+    "timestamp": 541000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista",
+      "JarvanIV",
+      "Thresh"
+    ],
+    "victim": "Braum",
+    "target": "Slow"
+  },
+  {
+    "timestamp": 605000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Oddie",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 711000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 784000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mimic",
+    "participants": [
+      "Hecarim",
+      "JarvanIV",
+      "Sylas"
+    ],
+    "victim": "Kindred",
+    "target": "Oddie"
+  },
+  {
+    "timestamp": 788000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Karma",
+      "Fiora",
+      "Kindred"
+    ],
+    "victim": "Hecarim",
+    "target": "Mimic"
+  },
+  {
+    "timestamp": 792000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Karma",
+      "Fiora",
+      "Kindred"
+    ],
+    "victim": "JarvanIV",
+    "target": "BalKhan"
+  },
+  {
+    "timestamp": 895000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 917000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista",
+      "Sylas"
+    ],
+    "victim": "Braum",
+    "target": "Slow"
+  },
+  {
+    "timestamp": 922000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Oddie",
+    "participants": [
+      "Kindred",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Sylas",
+    "target": "Ryoma"
+  },
+  {
+    "timestamp": 926000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista",
+      "Sylas"
+    ],
+    "victim": "Kindred",
+    "target": "Oddie"
+  },
+  {
+    "timestamp": 928000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Buggax",
+    "participants": [
+      "Fiora",
+      "Kindred",
+      "Karma",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "Kalista",
+    "target": "FBI"
+  },
+  {
+    "timestamp": 978000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Karma"
+    ],
+    "victim": "Hecarim",
+    "target": "Mimic"
+  },
+  {
+    "timestamp": 1024000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1027000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Karma"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1040000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista",
+      "Hecarim",
+      "JarvanIV",
+      "Sylas",
+      "Thresh"
+    ],
+    "victim": "Braum",
+    "target": "Slow"
+  },
+  {
+    "timestamp": 1064000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Buggax",
+    "participants": [
+      "Fiora"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1095000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Varus",
+      "Karma",
+      "Braum"
+    ],
+    "victim": "Kalista",
+    "target": "FBI"
+  },
+  {
+    "timestamp": 1102000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Varus",
+      "Kindred",
+      "Karma",
+      "Braum"
+    ],
+    "victim": "Thresh",
+    "target": "Rogue"
+  },
+  {
+    "timestamp": 1114000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Buggax",
+    "participants": [
+      "Fiora"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1124000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Karma"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1290000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "WARANGELUS",
+    "participants": [
+      "Varus",
+      "Karma",
+      "Braum"
+    ],
+    "victim": "JarvanIV",
+    "target": "BalKhan"
+  },
+  {
+    "timestamp": 1291000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "Sylas",
+      "Hecarim",
+      "JarvanIV",
+      "Kalista",
+      "Thresh"
+    ],
+    "victim": "Kindred",
+    "target": "Oddie"
+  },
+  {
+    "timestamp": 1362000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Buggax",
+    "participants": [
+      "Fiora"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1380000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "Sylas",
+      "JarvanIV",
+      "Kalista",
+      "Thresh"
+    ],
+    "victim": "Varus",
+    "target": "WARANGELUS"
+  },
+  {
+    "timestamp": 1384000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista",
+      "JarvanIV",
+      "Sylas",
+      "Thresh"
+    ],
+    "victim": "Karma",
+    "target": "seiya"
+  },
+  {
+    "timestamp": 1403000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Buggax",
+    "participants": [
+      "Fiora"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1413000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1415000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "Sylas",
+      "Hecarim",
+      "JarvanIV"
+    ],
+    "victim": "Kindred",
+    "target": "Oddie"
+  },
+  {
+    "timestamp": 1430000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1520000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1536000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1585000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1655000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mimic",
+    "participants": [
+      "Hecarim",
+      "JarvanIV",
+      "Kalista",
+      "Thresh"
+    ],
+    "victim": "Fiora",
+    "target": "Buggax"
+  },
+  {
+    "timestamp": 1656000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Rogue",
+    "participants": [
+      "Thresh",
+      "Hecarim",
+      "JarvanIV",
+      "Kalista"
+    ],
+    "victim": "Karma",
+    "target": "seiya"
+  },
+  {
+    "timestamp": 1686000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Rogue",
+    "participants": [
+      "Thresh"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1687000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "BalKhan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1694000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1695000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1784000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Buggax",
+    "participants": [
+      "Fiora"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1821000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista",
+      "JarvanIV",
+      "Thresh"
+    ],
+    "victim": "Varus",
+    "target": "WARANGELUS"
+  },
+  {
+    "timestamp": 1821000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "seiya",
+    "participants": [
+      "Karma",
+      "Kindred",
+      "Varus",
+      "Braum"
+    ],
+    "victim": "JarvanIV",
+    "target": "BalKhan"
+  },
+  {
+    "timestamp": 1822000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mimic",
+    "participants": [
+      "Hecarim",
+      "JarvanIV",
+      "Kalista",
+      "Thresh"
+    ],
+    "victim": "Kindred",
+    "target": "Oddie"
+  },
+  {
+    "timestamp": 1824000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista",
+      "Hecarim",
+      "JarvanIV",
+      "Thresh"
+    ],
+    "victim": "Braum",
+    "target": "Slow"
+  },
+  {
+    "timestamp": 1827000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista",
+      "Hecarim",
+      "JarvanIV",
+      "Thresh"
+    ],
+    "victim": "Karma",
+    "target": "seiya"
+  },
+  {
+    "timestamp": 1846000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Mimic",
+    "participants": [
+      "Hecarim"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1852000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Ryoma",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1858000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Buggax",
+    "participants": [
+      "Fiora"
+    ],
+    "victim": "Thresh",
+    "target": "Rogue"
+  },
+  {
+    "timestamp": 1861000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1863000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista",
+      "Hecarim",
+      "Sylas"
+    ],
+    "victim": "Fiora",
+    "target": "Buggax"
+  },
+  {
+    "timestamp": 1867000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "FBI",
+    "participants": [
+      "Kalista"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1877000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

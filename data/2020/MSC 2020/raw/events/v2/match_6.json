@@ -1,0 +1,1192 @@
+[
+  {
+    "timestamp": 178000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Kellin",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 195000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kellin",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kellin",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 376000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      },
+      {
+        "player": "369",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 380000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      },
+      {
+        "player": "369",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 486000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 601000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 630000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 800000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 830000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 842000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      },
+      {
+        "player": "369",
+        "champion": "Jayce"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 846000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "369",
+        "champion": "Jayce"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 850000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kellin",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kellin",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 868000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 960000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 996000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 998000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1070000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1119000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      },
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      },
+      {
+        "player": "Kellin",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 1147000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1235000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      },
+      {
+        "player": "Kellin",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      }
+    ],
+    "target": [
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      }
+    ]
+  },
+  {
+    "timestamp": 1236000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "369",
+        "champion": "Jayce"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1238000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1245000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Rascal",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Rascal",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      },
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      },
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Kellin",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "target": [
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ]
+  },
+  {
+    "timestamp": 1249000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      },
+      {
+        "player": "369",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1252000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Rascal",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      },
+      {
+        "player": "Kellin",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "target": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ]
+  },
+  {
+    "timestamp": 1253000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1253000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "369",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1258000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "369",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kellin",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kellin",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 1273000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1376000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Karsa",
+        "champion": "RekSai"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1464000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "369",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bdd",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1464000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "369",
+        "champion": "Jayce"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kellin",
+        "champion": "Taric"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kellin",
+        "champion": "Taric"
+      }
+    ]
+  },
+  {
+    "timestamp": 1469000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "369",
+        "champion": "Jayce"
+      },
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "Clid",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1484000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      }
+    ],
+    "participants": [
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1495000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1495000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Knight",
+        "champion": "Zoe"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ruler",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1496000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Jayce"
+      },
+      {
+        "player": "JackeyLove",
+        "champion": "Aphelios"
+      },
+      {
+        "player": "yuyanjia",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rascal",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rascal",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1499000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "369",
+        "champion": "Jayce"
+      }
+    ],
+    "participants": [
+      {
+        "player": "369",
+        "champion": "Jayce"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1509000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

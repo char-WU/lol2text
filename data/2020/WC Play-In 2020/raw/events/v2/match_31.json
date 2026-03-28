@@ -1,0 +1,1908 @@
+[
+  {
+    "timestamp": 100000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 250000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ]
+  },
+  {
+    "timestamp": 255000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      },
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 405000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 472000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 479000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      },
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 488000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ]
+  },
+  {
+    "timestamp": 495000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 536000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 556000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ]
+  },
+  {
+    "timestamp": 565000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 626000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 707000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 725000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 744000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 954000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ]
+  },
+  {
+    "timestamp": 959000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      },
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      },
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 959000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      },
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      },
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 967000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      },
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      },
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      },
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 972000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 975000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1016000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1023000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1030000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 1072000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1091000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1119000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 1161000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1175000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1191000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1346000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1360000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1364000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1367000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1369000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 1393000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1404000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1411000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1488000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1495000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1498000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1511000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 1518000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1520000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      },
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1531000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1532000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 1546000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1546000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      },
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1549000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1554000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1560000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 1563000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1582000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "participants": [
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1584000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      },
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      },
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ],
+    "victim": [
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1602000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1654000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1683000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1683000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ],
+    "target": [
+      {
+        "player": "Raina",
+        "champion": "Sett"
+      }
+    ]
+  },
+  {
+    "timestamp": 1688000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      }
+    ],
+    "target": [
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      }
+    ]
+  },
+  {
+    "timestamp": 1692000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ],
+    "target": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ]
+  },
+  {
+    "timestamp": 1692000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Camille"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      },
+      {
+        "player": "Gadget",
+        "champion": "Orianna"
+      },
+      {
+        "player": "SaNTaS",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "target": [
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ]
+  },
+  {
+    "timestamp": 1692000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Archer",
+        "champion": "Caitlyn"
+      },
+      {
+        "player": "Paz",
+        "champion": "Sion"
+      },
+      {
+        "player": "Bugi",
+        "champion": "Karthus"
+      },
+      {
+        "player": "Acee",
+        "champion": "Galio"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Nomanz",
+        "champion": "Kassadin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1702000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1711000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

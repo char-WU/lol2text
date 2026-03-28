@@ -1,0 +1,26 @@
+# Training dependencies for LoL commentary generation
+
+# Core deep learning
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+
+# Training utilities
+tensorboard>=2.14.0
+tqdm>=4.66.0
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Evaluation (optional, for later)
+nltk>=3.8.0
+rouge-score>=0.1.2
+bert-score>=0.3.13
+sacrebleu>=2.3.1
+
+# Utilities
+pyyaml>=6.0
+
+# pip install python-Levenshtein
+# curl -O https://raw.githubusercontent.com/neulab/BARTScore/main/bart_score.py

@@ -1,0 +1,1136 @@
+[
+  {
+    "timestamp": 332000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      },
+      {
+        "player": "G4",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "PoP",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 333000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      },
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "G4",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "G4",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 351000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      }
+    ]
+  },
+  {
+    "timestamp": 479000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 711000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      },
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rockky",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rockky",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 790000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 853000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "PoP",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PoP",
+        "champion": "Thresh"
+      },
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      },
+      {
+        "player": "G4",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      }
+    ]
+  },
+  {
+    "timestamp": 854000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 886000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "G4",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "G4",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 926000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1065000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1069000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      },
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rockky",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rockky",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1086000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lloyd",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lloyd",
+        "champion": "Kalista"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1102000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1109000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1201000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "PoP",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "PoP",
+        "champion": "Thresh"
+      },
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      },
+      {
+        "player": "G4",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1259000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1302000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      },
+      {
+        "player": "Mills",
+        "champion": "Sona"
+      },
+      {
+        "player": "RedBert",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "G4",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "G4",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1324000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1356000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1416000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Mills",
+        "champion": "Sona"
+      },
+      {
+        "player": "RedBert",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lloyd",
+        "champion": "Kalista"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lloyd",
+        "champion": "Kalista"
+      }
+    ]
+  },
+  {
+    "timestamp": 1418000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      },
+      {
+        "player": "Mills",
+        "champion": "Sona"
+      },
+      {
+        "player": "RedBert",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1491000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mills",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mills",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1526000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      },
+      {
+        "player": "Mills",
+        "champion": "Sona"
+      },
+      {
+        "player": "RedBert",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1529000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Mills",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lloyd",
+        "champion": "Kalista"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lloyd",
+        "champion": "Kalista"
+      }
+    ]
+  },
+  {
+    "timestamp": 1563000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1645000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1663000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RedBert",
+        "champion": "Taric"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RedBert",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1674000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1700000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1770000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      },
+      {
+        "player": "Mills",
+        "champion": "Sona"
+      },
+      {
+        "player": "RedBert",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Rockky",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Rockky",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1777000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Lloyd",
+        "champion": "Kalista"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Lloyd",
+        "champion": "Kalista"
+      },
+      {
+        "player": "Rockky",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      },
+      {
+        "player": "G4",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "PoP",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      }
+    ],
+    "target": [
+      {
+        "player": "Shini",
+        "champion": "Skarner"
+      }
+    ]
+  },
+  {
+    "timestamp": 1783000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Mills",
+        "champion": "Sona"
+      },
+      {
+        "player": "RedBert",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Lloyd",
+        "champion": "Kalista"
+      }
+    ],
+    "target": [
+      {
+        "player": "Lloyd",
+        "champion": "Kalista"
+      }
+    ]
+  },
+  {
+    "timestamp": 1788000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Mills",
+        "champion": "Sona"
+      },
+      {
+        "player": "RedBert",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "G4",
+        "champion": "Vladimir"
+      }
+    ],
+    "target": [
+      {
+        "player": "G4",
+        "champion": "Vladimir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1791000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mills",
+        "champion": "Sona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mills",
+        "champion": "Sona"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1794000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1798000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1808000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1810000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Envy",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Tay",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Mills",
+        "champion": "Sona"
+      },
+      {
+        "player": "RedBert",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jjun",
+        "champion": "Kindred"
+      }
+    ]
+  },
+  {
+    "timestamp": 1815000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "RedBert",
+        "champion": "Taric"
+      }
+    ],
+    "participants": [
+      {
+        "player": "RedBert",
+        "champion": "Taric"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1825000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

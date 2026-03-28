@@ -1,0 +1,2234 @@
+[
+  {
+    "timestamp": 251000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ],
+    "victim": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 256000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 355000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ],
+    "target": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ]
+  },
+  {
+    "timestamp": 359000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      },
+      {
+        "player": "1116",
+        "champion": "Yone"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 542000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 551000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 554000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      },
+      {
+        "player": "1116",
+        "champion": "Yone"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ]
+  },
+  {
+    "timestamp": 556000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      },
+      {
+        "player": "1116",
+        "champion": "Yone"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 725000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 766000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 766000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 801000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 804000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 811000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 841000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 895000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ],
+    "participants": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 965000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1063000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1084000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      },
+      {
+        "player": "1116",
+        "champion": "Yone"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1092000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 1097000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1190000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1192000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1197000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      },
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1228000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 1249000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1347000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1358000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 1363000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1363000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1367000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ],
+    "participants": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1379000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ],
+    "target": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ]
+  },
+  {
+    "timestamp": 1389000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1413000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1473000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1537000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1540000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 1540000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1546000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      },
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      }
+    ]
+  },
+  {
+    "timestamp": 1572000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1587000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 1651000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1663000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1664000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ],
+    "participants": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      },
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1667000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1741000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1814000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1816000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      },
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      },
+      {
+        "player": "1116",
+        "champion": "Yone"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1823000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ],
+    "target": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ]
+  },
+  {
+    "timestamp": 1827000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      },
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      },
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 1832000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      },
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1839000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1917000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1960000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2016000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 2048000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 2066000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 2068000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 2075000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 2099000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 2102000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      },
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 2104000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ],
+    "target": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ]
+  },
+  {
+    "timestamp": 2108000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      },
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      },
+      {
+        "player": "1116",
+        "champion": "Yone"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 2227000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 2236000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ],
+    "target": [
+      {
+        "player": "1116",
+        "champion": "Yone"
+      }
+    ]
+  },
+  {
+    "timestamp": 2238000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 TOP"
+    ]
+  },
+  {
+    "timestamp": 2244000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      }
+    ]
+  },
+  {
+    "timestamp": 2246000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB TOP"
+    ]
+  },
+  {
+    "timestamp": 2250000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ],
+    "target": [
+      {
+        "player": "HuSha",
+        "champion": "Graves"
+      }
+    ]
+  },
+  {
+    "timestamp": 2254000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Fudge",
+        "champion": "Malphite"
+      },
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 2254000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 2256000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Liang",
+        "champion": "Lillia"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ],
+    "target": [
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      }
+    ]
+  },
+  {
+    "timestamp": 2261000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zven",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Blaber",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Perkz",
+        "champion": "Sylas"
+      },
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 2262000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vulcan",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 2268000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

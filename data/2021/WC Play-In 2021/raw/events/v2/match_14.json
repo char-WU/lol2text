@@ -1,0 +1,1754 @@
+[
+  {
+    "timestamp": 200000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alive",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alive",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 223000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 318000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crazy",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crazy",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 321000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Crazy",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 415000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      },
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 417000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 425000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 440000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 442000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 508000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 515000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 524000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 529000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 532000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 540000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 541000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 550000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 550000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 563000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 582000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      },
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 681000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 717000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 727000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Bolulu",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 727000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ]
+  },
+  {
+    "timestamp": 739000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bolulu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bolulu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Crazy",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ],
+    "target": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ]
+  },
+  {
+    "timestamp": 765000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crazy",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crazy",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 800000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 813000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 813000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 890000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 891000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Crazy",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crazy",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 949000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      },
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Alive",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 949000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 951000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alive",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alive",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 959000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ]
+  },
+  {
+    "timestamp": 960000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "victim": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 964000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 966000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bolulu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bolulu",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Crazy",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      },
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 966000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bolulu",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bolulu",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1003000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1063000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1128000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1139000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1142000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      },
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1145000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      },
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1153000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1179000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Crazy",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Crazy",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1203000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1294000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1325000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1443000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Bolulu",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Bolulu",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1458000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      },
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alive",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alive",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1489000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1548000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1549000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      },
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1556000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      }
+    ],
+    "participants": [
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      },
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1557000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      },
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      },
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Alive",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Alive",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 1557000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      },
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Bolulu",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Bolulu",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1571000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Crazy",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Crazy",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 1585000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1589000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Kin0",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1592000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1598000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1600000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1604000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      },
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ],
+    "target": [
+      {
+        "player": "Zergsting",
+        "champion": "Rakan"
+      }
+    ]
+  },
+  {
+    "timestamp": 1607000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Liang",
+        "champion": "Irelia"
+      },
+      {
+        "player": "HuSha",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "1116",
+        "champion": "Syndra"
+      },
+      {
+        "player": "Doggo",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ],
+    "target": [
+      {
+        "player": "Mojito",
+        "champion": "Talon"
+      }
+    ]
+  },
+  {
+    "timestamp": 1613000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

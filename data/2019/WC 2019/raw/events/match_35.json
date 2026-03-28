@@ -1,0 +1,597 @@
+[
+  {
+    "timestamp": 279000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise",
+      "Camille"
+    ],
+    "victim": "Ryze",
+    "target": "Damonte"
+  },
+  {
+    "timestamp": 352000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise",
+      "Akali"
+    ],
+    "victim": "Ezreal",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 483000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Vulcan",
+    "participants": [
+      "Nautilus",
+      "Heimerdinger"
+    ],
+    "victim": "Rakan",
+    "target": "Effort"
+  },
+  {
+    "timestamp": 490000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 518000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 731000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Skarner"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 737000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 866000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Lira",
+    "participants": [
+      "Skarner"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 870000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "Xayah",
+      "Akali",
+      "Elise",
+      "Camille"
+    ],
+    "victim": "Nautilus",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 871000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Ezreal",
+      "Skarner",
+      "Ryze",
+      "Heimerdinger",
+      "Nautilus"
+    ],
+    "victim": "Rakan",
+    "target": "Effort"
+  },
+  {
+    "timestamp": 877000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise",
+      "Akali",
+      "Camille",
+      "Xayah"
+    ],
+    "victim": "Ryze",
+    "target": "Damonte"
+  },
+  {
+    "timestamp": 908000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": "Heimerdinger",
+    "target": "Cody Sun"
+  },
+  {
+    "timestamp": 1051000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Faker",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1058000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1180000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1392000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "Akali"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1395000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1446000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Damonte",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1449000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "Akali",
+      "Elise",
+      "Camille",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1450000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "Xayah",
+      "Akali",
+      "Elise",
+      "Camille",
+      "Rakan"
+    ],
+    "victim": "Skarner",
+    "target": "Lira"
+  },
+  {
+    "timestamp": 1450000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Faker",
+    "participants": [
+      "Camille",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Heimerdinger",
+    "target": "Cody Sun"
+  },
+  {
+    "timestamp": 1453000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Damonte",
+    "participants": [
+      "Ryze",
+      "Ezreal",
+      "Skarner",
+      "Heimerdinger"
+    ],
+    "victim": "Camille",
+    "target": "Faker"
+  },
+  {
+    "timestamp": 1454000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise",
+      "Camille",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Ryze",
+    "target": "Damonte"
+  },
+  {
+    "timestamp": 1479000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1516000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1569000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Ezreal"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1571000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Faker",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1823000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Ezreal",
+      "Skarner",
+      "Ryze",
+      "Heimerdinger",
+      "Nautilus"
+    ],
+    "victim": "Camille",
+    "target": "Faker"
+  },
+  {
+    "timestamp": 1824000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "Xayah",
+      "Camille",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1825000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1832000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "Akali",
+      "Camille",
+      "Xayah"
+    ],
+    "victim": "Heimerdinger",
+    "target": "Cody Sun"
+  },
+  {
+    "timestamp": 1850000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Ezreal",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 1882000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1931000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1951000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1954000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1956000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "Akali"
+    ],
+    "victim": "Ryze",
+    "target": "Damonte"
+  },
+  {
+    "timestamp": 1957000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Faker",
+    "participants": [
+      "Camille",
+      "Rakan"
+    ],
+    "victim": "Heimerdinger",
+    "target": "Cody Sun"
+  },
+  {
+    "timestamp": 1961000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "Xayah",
+      "Elise",
+      "Camille",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "Vulcan"
+  },
+  {
+    "timestamp": 1966000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Clid",
+    "participants": [
+      "Elise"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1971000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Huni",
+    "participants": [
+      "Ezreal",
+      "Skarner",
+      "Nautilus"
+    ],
+    "victim": "Rakan",
+    "target": "Effort"
+  },
+  {
+    "timestamp": 1972000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Faker",
+    "participants": [
+      "Camille",
+      "Elise",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Skarner",
+    "target": "Lira"
+  },
+  {
+    "timestamp": 1973000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Faker",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1977000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Teddy",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1979000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Khan",
+    "participants": [
+      "Akali",
+      "Camille",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Ezreal",
+    "target": "Huni"
+  },
+  {
+    "timestamp": 1986000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

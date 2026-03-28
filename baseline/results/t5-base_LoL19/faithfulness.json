@@ -1,0 +1,52 @@
+{
+  "prediction": {
+    "faithfulness_mean": 0.17282636812513788,
+    "faithfulness_pct": 17.28263681251379,
+    "faithfulness_std": 0.11192045335331219,
+    "events_fully_covered": 0.01054481546572935,
+    "events_missed": 0.47627416520210897,
+    "hallucination_counts": {
+      "BARON": 564,
+      "BUILDING_KILL_Nexus": 402,
+      "BUILDING_KILL_Inhibitor": 243,
+      "BUILDING_KILL_Tower": 245,
+      "CHAMPION_KILL": 165
+    },
+    "hallucination_rates": {
+      "BARON": 0.9912126537785588,
+      "BUILDING_KILL_Nexus": 0.7065026362038664,
+      "BUILDING_KILL_Tower": 0.4305799648506151,
+      "BUILDING_KILL_Inhibitor": 0.4270650263620387,
+      "CHAMPION_KILL": 0.28998242530755713
+    }
+  },
+  "target": {
+    "faithfulness_mean": 0.44464640758577495,
+    "faithfulness_pct": 44.464640758577495,
+    "faithfulness_std": 0.29171767251861686,
+    "events_fully_covered": 1.2847100175746924,
+    "events_missed": 0.6080843585237259,
+    "hallucination_counts": {
+      "DRAGON": 164,
+      "BARON": 143,
+      "BUILDING_KILL_Inhibitor": 68,
+      "BUILDING_KILL_Nexus": 112,
+      "CHAMPION_KILL": 110,
+      "BUILDING_KILL_Tower": 94,
+      "HERALD": 32
+    },
+    "hallucination_rates": {
+      "DRAGON": 0.28822495606326887,
+      "BARON": 0.2513181019332162,
+      "BUILDING_KILL_Nexus": 0.1968365553602812,
+      "CHAMPION_KILL": 0.19332161687170474,
+      "BUILDING_KILL_Tower": 0.16520210896309315,
+      "BUILDING_KILL_Inhibitor": 0.1195079086115993,
+      "HERALD": 0.056239015817223195
+    }
+  },
+  "delta": {
+    "faithfulness_mean": -0.27182003946063704,
+    "faithfulness_pct": -27.182003946063706
+  }
+}

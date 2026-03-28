@@ -1,0 +1,1800 @@
+[
+  {
+    "timestamp": 123000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 239000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      }
+    ]
+  },
+  {
+    "timestamp": 280000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 418000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 441000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 445000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 458000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      },
+      {
+        "player": "Liang",
+        "champion": "Kled"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 530000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 554000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      },
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 564000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 570000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 581000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 581000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 588000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 590000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 590000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 642000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 654000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 661000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      },
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Liang",
+        "champion": "Kled"
+      }
+    ],
+    "target": [
+      {
+        "player": "Liang",
+        "champion": "Kled"
+      }
+    ]
+  },
+  {
+    "timestamp": 677000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 687000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 692000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 752000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 754000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      }
+    ],
+    "target": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      }
+    ]
+  },
+  {
+    "timestamp": 756000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 756000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "target": [
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ]
+  },
+  {
+    "timestamp": 759000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      },
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      },
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 765000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Liang",
+        "champion": "Kled"
+      }
+    ],
+    "target": [
+      {
+        "player": "Liang",
+        "champion": "Kled"
+      }
+    ]
+  },
+  {
+    "timestamp": 776000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 782000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 787000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      }
+    ]
+  },
+  {
+    "timestamp": 930000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 931000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 937000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Liang",
+        "champion": "Kled"
+      }
+    ],
+    "target": [
+      {
+        "player": "Liang",
+        "champion": "Kled"
+      }
+    ]
+  },
+  {
+    "timestamp": 962000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      }
+    ],
+    "target": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      }
+    ]
+  },
+  {
+    "timestamp": 967000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 974000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 977000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1043000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1045000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 1081000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      },
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      },
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1089000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1115000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1120000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Liang",
+        "champion": "Kled"
+      }
+    ],
+    "target": [
+      {
+        "player": "Liang",
+        "champion": "Kled"
+      }
+    ]
+  },
+  {
+    "timestamp": 1148000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1156000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1160000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1166000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1177000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1185000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1219000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      }
+    ],
+    "target": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      }
+    ]
+  },
+  {
+    "timestamp": 1221000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Liang",
+        "champion": "Kled"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ],
+    "target": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ]
+  },
+  {
+    "timestamp": 1221000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      }
+    ],
+    "participants": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      },
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 1228000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      }
+    ],
+    "target": [
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      }
+    ]
+  },
+  {
+    "timestamp": 1232000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Liang",
+        "champion": "Kled"
+      }
+    ],
+    "target": [
+      {
+        "player": "Liang",
+        "champion": "Kled"
+      }
+    ]
+  },
+  {
+    "timestamp": 1235000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1250000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1323000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1340000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ],
+    "target": [
+      {
+        "player": "Pk",
+        "champion": "Kennen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1341000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Vsta",
+        "champion": "Amumu"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ],
+    "target": [
+      {
+        "player": "Kin0",
+        "champion": "Leona"
+      }
+    ]
+  },
+  {
+    "timestamp": 1360000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1363000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1363000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Vayne"
+      },
+      {
+        "player": "HuSha",
+        "champion": "Viego"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Willer",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1372000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Deft",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Morgan",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Chovy",
+        "champion": "Azir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Liang",
+        "champion": "Kled"
+      }
+    ],
+    "target": [
+      {
+        "player": "Liang",
+        "champion": "Kled"
+      }
+    ]
+  },
+  {
+    "timestamp": 1380000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

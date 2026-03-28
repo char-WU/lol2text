@@ -1,0 +1,734 @@
+[
+  {
+    "timestamp": 170000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Lux",
+      "RekSai"
+    ],
+    "victim": "JarvanIV",
+    "target": "dan"
+  },
+  {
+    "timestamp": 305000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Lux",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 388000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Xayah",
+      "Shen",
+      "JarvanIV"
+    ],
+    "victim": "Lux",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 469000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Shen",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Sivir",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 473000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Aatrox",
+      "Sivir",
+      "Lux"
+    ],
+    "victim": "Rakan",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 479000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "RekSai",
+      "Aatrox",
+      "Lux"
+    ],
+    "victim": "Shen",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 576000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "dan",
+    "participants": [
+      "JarvanIV",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Sivir",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 623000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "dan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 669000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Azir",
+      "Aatrox",
+      "RekSai"
+    ],
+    "victim": "Shen",
+    "target": "Bwipo"
+  },
+  {
+    "timestamp": 670000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Impact",
+    "participants": [
+      "Aatrox",
+      "Azir"
+    ],
+    "victim": "Rakan",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 682000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Lux"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 711000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 750000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Xayah",
+      "JarvanIV",
+      "Rakan"
+    ],
+    "victim": "RekSai",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 820000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "CoreJJ",
+    "participants": [
+      "Lux",
+      "RekSai",
+      "Sivir"
+    ],
+    "victim": "Rakan",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 857000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Azir"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 911000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Shen",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Aatrox",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 934000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Sivir"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 939000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 941000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 969000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Azir"
+    ],
+    "victim": "Xayah",
+    "target": "Rekkles"
+  },
+  {
+    "timestamp": 970000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Jensen",
+    "participants": [
+      "Azir"
+    ],
+    "victim": "Rakan",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 970000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "dan",
+    "participants": [
+      "JarvanIV",
+      "Corki"
+    ],
+    "victim": "RekSai",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 982000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1239000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1250000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Shen",
+      "JarvanIV",
+      "Xayah"
+    ],
+    "victim": "Azir",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1269000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Xmithie",
+    "participants": [
+      "RekSai"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1275000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1277000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Corki",
+      "JarvanIV",
+      "Rakan"
+    ],
+    "victim": "Aatrox",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1305000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "dan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1307000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Corki",
+      "Shen",
+      "JarvanIV",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "RekSai",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1326000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Corki",
+      "JarvanIV",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Azir",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1393000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1448000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Xayah",
+      "Shen",
+      "Rakan"
+    ],
+    "victim": "Azir",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1456000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Hylissang",
+    "participants": [
+      "Rakan"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1472000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Xayah",
+      "Shen",
+      "JarvanIV",
+      "Corki",
+      "Rakan"
+    ],
+    "victim": "Aatrox",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 1475000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1476000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Sivir",
+      "Aatrox",
+      "RekSai",
+      "Lux"
+    ],
+    "victim": "JarvanIV",
+    "target": "dan"
+  },
+  {
+    "timestamp": 1481000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Doublelift",
+    "participants": [
+      "Sivir",
+      "Aatrox",
+      "RekSai",
+      "Lux"
+    ],
+    "victim": "Rakan",
+    "target": "Hylissang"
+  },
+  {
+    "timestamp": 1489000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Xayah",
+      "JarvanIV",
+      "Rakan"
+    ],
+    "victim": "RekSai",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 1498000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Xayah",
+      "Shen"
+    ],
+    "victim": "Sivir",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1575000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "dan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1638000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1724000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "dan",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1887000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1898000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB TOP"
+  },
+  {
+    "timestamp": 1902000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1909000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Corki"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1919000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1947000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1984000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Corki",
+      "Shen",
+      "JarvanIV",
+      "Rakan"
+    ],
+    "victim": "Azir",
+    "target": "Jensen"
+  },
+  {
+    "timestamp": 1991000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bwipo",
+    "participants": [
+      "Shen",
+      "JarvanIV",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Sivir",
+    "target": "Doublelift"
+  },
+  {
+    "timestamp": 1997000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rekkles",
+    "participants": [
+      "Xayah",
+      "Shen",
+      "JarvanIV",
+      "Corki",
+      "Rakan"
+    ],
+    "victim": "RekSai",
+    "target": "Xmithie"
+  },
+  {
+    "timestamp": 2000000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Corki",
+      "Shen",
+      "JarvanIV",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Aatrox",
+    "target": "Impact"
+  },
+  {
+    "timestamp": 2003000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Corki"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2005000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Hylissang",
+    "participants": [
+      "Rakan"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2008000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nemesis",
+    "participants": [
+      "Corki",
+      "JarvanIV",
+      "Rakan"
+    ],
+    "victim": "Lux",
+    "target": "CoreJJ"
+  },
+  {
+    "timestamp": 2014000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

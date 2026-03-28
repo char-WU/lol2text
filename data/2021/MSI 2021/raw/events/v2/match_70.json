@@ -1,0 +1,1184 @@
+[
+  {
+    "timestamp": 216000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Cariok",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cariok",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Robo",
+        "champion": "Karma"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Hanabi",
+        "champion": "Gnar"
+      }
+    ],
+    "target": [
+      {
+        "player": "Hanabi",
+        "champion": "Gnar"
+      }
+    ]
+  },
+  {
+    "timestamp": 328000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Karma"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Karma"
+      }
+    ]
+  },
+  {
+    "timestamp": 414000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 475000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 504000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cariok",
+        "champion": "Hecarim"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cariok",
+        "champion": "Hecarim"
+      }
+    ]
+  },
+  {
+    "timestamp": 507000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "brTT",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "brTT",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 608000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 735000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 894000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 940000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 992000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 993000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "brTT",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "brTT",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1010000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1035000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1058000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1070000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1107000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 1107000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Cariok",
+        "champion": "Hecarim"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Cariok",
+        "champion": "Hecarim"
+      },
+      {
+        "player": "Robo",
+        "champion": "Karma"
+      },
+      {
+        "player": "Tinowns",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Luci",
+        "champion": "Rell"
+      }
+    ],
+    "victim": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "target": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ]
+  },
+  {
+    "timestamp": 1113000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cariok",
+        "champion": "Hecarim"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cariok",
+        "champion": "Hecarim"
+      }
+    ]
+  },
+  {
+    "timestamp": 1125000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "brTT",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "brTT",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1125000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1126000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Karma"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Karma"
+      }
+    ]
+  },
+  {
+    "timestamp": 1140000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1191000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Gnar"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tinowns",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tinowns",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1377000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tinowns",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tinowns",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1394000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1417000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1423000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cariok",
+        "champion": "Hecarim"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cariok",
+        "champion": "Hecarim"
+      }
+    ]
+  },
+  {
+    "timestamp": 1424000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 1443000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gnar"
+      },
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [
+      {
+        "player": "brTT",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "brTT",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1450000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Robo",
+        "champion": "Karma"
+      }
+    ],
+    "target": [
+      {
+        "player": "Robo",
+        "champion": "Karma"
+      }
+    ]
+  },
+  {
+    "timestamp": 1456000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1464000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1469000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1471000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1481000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1484000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Hanabi",
+        "champion": "Gnar"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Hanabi",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Tinowns",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Tinowns",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1485000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Hanabi",
+        "champion": "Gnar"
+      },
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Luci",
+        "champion": "Rell"
+      }
+    ],
+    "target": [
+      {
+        "player": "Luci",
+        "champion": "Rell"
+      }
+    ]
+  },
+  {
+    "timestamp": 1490000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      },
+      {
+        "player": "Doggo",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "brTT",
+        "champion": "Tristana"
+      }
+    ],
+    "target": [
+      {
+        "player": "brTT",
+        "champion": "Tristana"
+      }
+    ]
+  },
+  {
+    "timestamp": 1492000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      }
+    ],
+    "participants": [
+      {
+        "player": "River",
+        "champion": "Rumble"
+      },
+      {
+        "player": "Kaiwing",
+        "champion": "Leona"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cariok",
+        "champion": "Hecarim"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cariok",
+        "champion": "Hecarim"
+      }
+    ]
+  },
+  {
+    "timestamp": 1494000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Maple",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1506000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

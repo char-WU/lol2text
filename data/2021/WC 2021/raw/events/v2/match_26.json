@@ -1,0 +1,1402 @@
+[
+  {
+    "timestamp": 170000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "participants": [
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      },
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 171000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ],
+    "target": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ]
+  },
+  {
+    "timestamp": 178000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "target": [
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ]
+  },
+  {
+    "timestamp": 359000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 368000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 417000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "participants": [
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 473000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Orianna"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "target": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ]
+  },
+  {
+    "timestamp": 481000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 517000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 572000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 577000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 619000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "MID"
+    ]
+  },
+  {
+    "timestamp": 657000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 682000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 692000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 693000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 693000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "TOP"
+    ]
+  },
+  {
+    "timestamp": 693000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 726000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 771000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 796000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 828000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "BOT"
+    ]
+  },
+  {
+    "timestamp": 890000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 891000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 902000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 904000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Gwen"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Gwen"
+      }
+    ]
+  },
+  {
+    "timestamp": 915000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cryin",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cryin",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 936000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 992000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "participants": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 994000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1004000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1012000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1021000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1034000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1361000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 MID"
+    ]
+  },
+  {
+    "timestamp": 1385000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1496000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T2 TOP"
+    ]
+  },
+  {
+    "timestamp": 1506000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Gwen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Gwen"
+      },
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      },
+      {
+        "player": "Cryin",
+        "champion": "Orianna"
+      },
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      }
+    ],
+    "target": [
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      }
+    ]
+  },
+  {
+    "timestamp": 1543000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1562000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1616000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "xiaohu",
+        "champion": "Gwen"
+      }
+    ],
+    "participants": [
+      {
+        "player": "xiaohu",
+        "champion": "Gwen"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 1637000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 1681000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ],
+    "target": [
+      {
+        "player": "Wei",
+        "champion": "LeeSin"
+      }
+    ]
+  },
+  {
+    "timestamp": 1688000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Ming",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1690000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 MID"
+    ]
+  },
+  {
+    "timestamp": 1699000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "xiaohu",
+        "champion": "Gwen"
+      }
+    ],
+    "target": [
+      {
+        "player": "xiaohu",
+        "champion": "Gwen"
+      }
+    ]
+  },
+  {
+    "timestamp": 1700000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Scout",
+        "champion": "Ryze"
+      },
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      },
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ],
+    "target": [
+      {
+        "player": "GALA",
+        "champion": "MissFortune"
+      }
+    ]
+  },
+  {
+    "timestamp": 1701000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Jiejie",
+        "champion": "JarvanIV"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB MID"
+    ]
+  },
+  {
+    "timestamp": 1711000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1711000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Viper",
+        "champion": "Ezreal"
+      },
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      },
+      {
+        "player": "meiko",
+        "champion": "Yuumi"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Cryin",
+        "champion": "Orianna"
+      }
+    ],
+    "target": [
+      {
+        "player": "Cryin",
+        "champion": "Orianna"
+      }
+    ]
+  },
+  {
+    "timestamp": 1715000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Flandre",
+        "champion": "Graves"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1723000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]

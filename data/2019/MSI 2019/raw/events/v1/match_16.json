@@ -1,0 +1,647 @@
+[
+  {
+    "timestamp": 110000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Betty",
+    "participants": [
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Rakan",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 170000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "JarvanIV",
+      "Cassiopeia",
+      "Nautilus"
+    ],
+    "victim": "Sylas",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 235000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Betty",
+    "participants": [
+      "Kaisa",
+      "JarvanIV",
+      "Nautilus"
+    ],
+    "victim": "Xayah",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 413000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "JarvanIV",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Xayah",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 421000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Sylas",
+      "Ivern",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "ShiauC"
+  },
+  {
+    "timestamp": 422000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Neeko",
+      "Ivern",
+      "Rakan"
+    ],
+    "victim": "JarvanIV",
+    "target": "Bugi"
+  },
+  {
+    "timestamp": 713000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 732000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Ning",
+    "participants": [
+      "Ivern"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 739000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 744000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Sylas",
+      "Neeko",
+      "Rakan"
+    ],
+    "victim": "Kennen",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 744000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "JarvanIV",
+      "Kennen"
+    ],
+    "victim": "Rakan",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 766000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Betty",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 944000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "JarvanIV"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 955000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "JarvanIV",
+      "Kennen",
+      "Cassiopeia",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Xayah",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 957000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Neeko",
+      "Ivern",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "JarvanIV",
+    "target": "Bugi"
+  },
+  {
+    "timestamp": 957000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Hanabi",
+    "participants": [
+      "Kennen",
+      "JarvanIV",
+      "Cassiopeia",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Sylas",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 960000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Hanabi",
+    "participants": [
+      "Kennen",
+      "JarvanIV",
+      "Cassiopeia",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Neeko",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 1066000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1287000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Betty",
+    "participants": [
+      "Kaisa",
+      "Kennen",
+      "JarvanIV",
+      "Nautilus"
+    ],
+    "victim": "Sylas",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 1292000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "ShiauC",
+    "participants": [
+      "Nautilus"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1314000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1355000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Xayah"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1517000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ning",
+    "participants": [
+      "Ivern",
+      "Sylas",
+      "Xayah"
+    ],
+    "victim": "Nautilus",
+    "target": "ShiauC"
+  },
+  {
+    "timestamp": 1525000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Hanabi",
+    "participants": [
+      "Kennen",
+      "JarvanIV",
+      "Cassiopeia",
+      "Kaisa"
+    ],
+    "victim": "Neeko",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 1531000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "JarvanIV",
+      "Kennen",
+      "Cassiopeia",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Sylas",
+    "target": "RooKie"
+  },
+  {
+    "timestamp": 1536000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rather",
+    "participants": [
+      "Cassiopeia",
+      "Kennen",
+      "JarvanIV",
+      "Kaisa"
+    ],
+    "victim": "Xayah",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1536000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Xayah",
+      "Ivern",
+      "Sylas",
+      "Rakan"
+    ],
+    "victim": "Kaisa",
+    "target": "Betty"
+  },
+  {
+    "timestamp": 1539000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bugi",
+    "participants": [
+      "JarvanIV",
+      "Cassiopeia",
+      "Kaisa"
+    ],
+    "victim": "Rakan",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 1576000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Neeko",
+      "Ivern"
+    ],
+    "victim": "JarvanIV",
+    "target": "Bugi"
+  },
+  {
+    "timestamp": 1578000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ning",
+    "participants": [
+      "Ivern"
+    ],
+    "victim": "Kennen",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 1578000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Ning",
+    "participants": [
+      "Ivern"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1580000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rather",
+    "participants": [
+      "Cassiopeia",
+      "Kennen",
+      "JarvanIV",
+      "Nautilus"
+    ],
+    "victim": "Neeko",
+    "target": "TheShy"
+  },
+  {
+    "timestamp": 1582000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ning",
+    "participants": [
+      "Ivern",
+      "Neeko"
+    ],
+    "victim": "Cassiopeia",
+    "target": "Rather"
+  },
+  {
+    "timestamp": 1623000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1627000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Ning",
+    "participants": [
+      "Ivern"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1700000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "RooKie",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1757000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Neeko",
+      "Ivern",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "JarvanIV",
+    "target": "Bugi"
+  },
+  {
+    "timestamp": 1760000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "ShiauC",
+    "participants": [
+      "Nautilus",
+      "JarvanIV",
+      "Cassiopeia",
+      "Kaisa"
+    ],
+    "victim": "Rakan",
+    "target": "Baolan"
+  },
+  {
+    "timestamp": 1760000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Neeko",
+      "Ivern",
+      "Sylas",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Kaisa",
+    "target": "Betty"
+  },
+  {
+    "timestamp": 1762000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Xayah",
+      "Neeko",
+      "Ivern",
+      "Sylas",
+      "Rakan"
+    ],
+    "victim": "Nautilus",
+    "target": "ShiauC"
+  },
+  {
+    "timestamp": 1766000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "JackeyLove",
+    "participants": [
+      "Xayah",
+      "Ivern",
+      "Sylas",
+      "Rakan"
+    ],
+    "victim": "Kennen",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 1768000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Rather",
+    "participants": [
+      "Cassiopeia",
+      "Kennen",
+      "JarvanIV",
+      "Nautilus"
+    ],
+    "victim": "Xayah",
+    "target": "JackeyLove"
+  },
+  {
+    "timestamp": 1768000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Ning",
+    "participants": [
+      "Ivern",
+      "Neeko",
+      "Sylas",
+      "Xayah",
+      "Rakan"
+    ],
+    "victim": "Cassiopeia",
+    "target": "Rather"
+  },
+  {
+    "timestamp": 1776000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Neeko"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1781000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1793000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "TheShy",
+    "participants": [
+      "Neeko"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1793000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1803000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

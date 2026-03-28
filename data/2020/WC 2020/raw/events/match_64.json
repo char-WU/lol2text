@@ -1,0 +1,854 @@
+[
+  {
+    "timestamp": 51000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille",
+      "Nidalee",
+      "Galio",
+      "TahmKench"
+    ],
+    "victim": "Mordekaiser",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 213000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Gemini",
+    "participants": [
+      "Graves"
+    ],
+    "victim": "Nidalee",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 223000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille",
+      "Nidalee",
+      "Galio"
+    ],
+    "victim": "Graves",
+    "target": "Gemini"
+  },
+  {
+    "timestamp": 400000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Galio",
+      "Camille"
+    ],
+    "victim": "Syndra",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 415000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 473000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Senna",
+    "target": "Bruce"
+  },
+  {
+    "timestamp": 494000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Gemini",
+    "participants": [
+      "Graves",
+      "Mordekaiser"
+    ],
+    "victim": "Camille",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 525000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Koala",
+    "participants": [
+      "Pantheon",
+      "Syndra"
+    ],
+    "victim": "Galio",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 545000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pk",
+    "participants": [
+      "Mordekaiser",
+      "Graves",
+      "Syndra",
+      "Senna",
+      "Pantheon"
+    ],
+    "victim": "TahmKench",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 555000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Gemini",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 555000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Ashe",
+      "Nidalee"
+    ],
+    "victim": "Syndra",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 559000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Gemini",
+    "participants": [
+      "Graves"
+    ],
+    "victim": "Ashe",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 562000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille",
+      "Nidalee",
+      "Galio",
+      "Ashe"
+    ],
+    "victim": "Graves",
+    "target": "Gemini"
+  },
+  {
+    "timestamp": 568000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": "Pantheon",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 604000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Mikyx",
+    "participants": [
+      "TahmKench"
+    ],
+    "victim": "Senna",
+    "target": "Bruce"
+  },
+  {
+    "timestamp": 659000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mission",
+    "participants": [
+      "Syndra",
+      "Senna",
+      "Pantheon"
+    ],
+    "victim": "Ashe",
+    "target": "Perkz"
+  },
+  {
+    "timestamp": 733000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": "Gemini",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 760000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee",
+      "Galio",
+      "TahmKench"
+    ],
+    "victim": "Pantheon",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 768000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pk",
+    "participants": [
+      "Mordekaiser",
+      "Syndra",
+      "Senna",
+      "Pantheon"
+    ],
+    "victim": "Galio",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 847000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Galio",
+      "Camille",
+      "Nidalee"
+    ],
+    "victim": "Mordekaiser",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 861000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 911000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pk",
+    "participants": [
+      "Mordekaiser"
+    ],
+    "victim": "Camille",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 989000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Gemini",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1008000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1010000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Gemini",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1061000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1082000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1369000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1378000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille",
+      "Nidalee",
+      "Galio",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Graves",
+    "target": "Gemini"
+  },
+  {
+    "timestamp": 1393000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee",
+      "Camille",
+      "Galio",
+      "Ashe"
+    ],
+    "victim": "Mordekaiser",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 1403000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Galio",
+      "Nidalee",
+      "Ashe"
+    ],
+    "victim": "Syndra",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 1403000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee",
+      "Camille"
+    ],
+    "victim": "Pantheon",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 1404000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee",
+      "Galio",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Senna",
+    "target": "Bruce"
+  },
+  {
+    "timestamp": 1439000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1457000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Gemini",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1532000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1546000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Ashe",
+      "Nidalee",
+      "Galio",
+      "TahmKench"
+    ],
+    "victim": "Senna",
+    "target": "Bruce"
+  },
+  {
+    "timestamp": 1551000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Galio"
+    ],
+    "victim": "Graves",
+    "target": "Gemini"
+  },
+  {
+    "timestamp": 1552000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mission",
+    "participants": [
+      "Syndra",
+      "Mordekaiser",
+      "Graves",
+      "Senna",
+      "Pantheon"
+    ],
+    "victim": "Galio",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1558000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mission",
+    "participants": [
+      "Syndra",
+      "Mordekaiser",
+      "Senna",
+      "Pantheon"
+    ],
+    "victim": "TahmKench",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1561000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pk",
+    "participants": [
+      "Mordekaiser",
+      "Syndra"
+    ],
+    "victim": "Nidalee",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1729000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1766000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille",
+      "Nidalee",
+      "Galio",
+      "Ashe"
+    ],
+    "victim": "Syndra",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 1777000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille",
+      "Nidalee",
+      "Galio",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Mordekaiser",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 1794000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1802000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1816000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1829000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1834000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Perkz",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1857000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pk",
+    "participants": [
+      "Mordekaiser",
+      "Graves",
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Galio",
+    "target": "Caps"
+  },
+  {
+    "timestamp": 1861000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Pk",
+    "participants": [
+      "Mordekaiser",
+      "Syndra",
+      "Senna"
+    ],
+    "victim": "Nidalee",
+    "target": "Jankos"
+  },
+  {
+    "timestamp": 1870000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bruce",
+    "participants": [
+      "Senna",
+      "Mordekaiser",
+      "Graves",
+      "Syndra",
+      "Pantheon"
+    ],
+    "victim": "TahmKench",
+    "target": "Mikyx"
+  },
+  {
+    "timestamp": 1909000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "Mission",
+    "participants": [
+      "Syndra"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1956000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 2103000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Jankos",
+    "participants": [
+      "Nidalee"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2168000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Gemini",
+    "participants": [
+      "Graves",
+      "Mordekaiser",
+      "Syndra",
+      "Senna",
+      "Pantheon"
+    ],
+    "victim": "Camille",
+    "target": "Wunder"
+  },
+  {
+    "timestamp": 2266000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille",
+      "Nidalee",
+      "Galio",
+      "Ashe"
+    ],
+    "victim": "Mordekaiser",
+    "target": "Pk"
+  },
+  {
+    "timestamp": 2270000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Galio",
+      "Camille",
+      "Nidalee",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Syndra",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 2271000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Galio",
+      "Camille",
+      "Nidalee",
+      "TahmKench"
+    ],
+    "victim": "Senna",
+    "target": "Bruce"
+  },
+  {
+    "timestamp": 2278000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille",
+      "Nidalee",
+      "Ashe",
+      "TahmKench"
+    ],
+    "victim": "Graves",
+    "target": "Gemini"
+  },
+  {
+    "timestamp": 2285000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Galio",
+      "TahmKench"
+    ],
+    "victim": "Pantheon",
+    "target": "Koala"
+  },
+  {
+    "timestamp": 2300000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Caps",
+    "participants": [
+      "Galio"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2309000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2309000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Wunder",
+    "participants": [
+      "Camille"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2318000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

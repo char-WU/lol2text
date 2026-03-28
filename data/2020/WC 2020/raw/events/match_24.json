@@ -1,0 +1,537 @@
+[
+  {
+    "timestamp": 360000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kanavi",
+    "participants": [
+      "Graves",
+      "Renekton",
+      "TwistedFate"
+    ],
+    "victim": "Volibear",
+    "target": "Bin"
+  },
+  {
+    "timestamp": 391000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "LvMao",
+    "participants": [
+      "Blitzcrank",
+      "Ashe"
+    ],
+    "victim": "Thresh",
+    "target": "SwordArt"
+  },
+  {
+    "timestamp": 392000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Jhin",
+      "Zoe",
+      "Thresh"
+    ],
+    "victim": "Ashe",
+    "target": "LokeN"
+  },
+  {
+    "timestamp": 404000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 506000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Kindred",
+      "Zoe",
+      "Jhin",
+      "Thresh"
+    ],
+    "victim": "Graves",
+    "target": "Kanavi"
+  },
+  {
+    "timestamp": 508000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "LvMao",
+    "participants": [
+      "Blitzcrank",
+      "Graves",
+      "TwistedFate",
+      "Ashe"
+    ],
+    "victim": "Kindred",
+    "target": "SofM"
+  },
+  {
+    "timestamp": 511000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Yagao",
+    "participants": [
+      "TwistedFate",
+      "Graves",
+      "Ashe",
+      "Blitzcrank"
+    ],
+    "victim": "Thresh",
+    "target": "SwordArt"
+  },
+  {
+    "timestamp": 520000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Renekton",
+      "TwistedFate",
+      "Ashe"
+    ],
+    "victim": "Jhin",
+    "target": "huanfeng"
+  },
+  {
+    "timestamp": 524000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Angel",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": "Renekton",
+    "target": "Zoom"
+  },
+  {
+    "timestamp": 598000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "Kanavi",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 624000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 635000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bin",
+    "participants": [
+      "Volibear",
+      "Kindred",
+      "Zoe",
+      "Jhin",
+      "Thresh"
+    ],
+    "victim": "TwistedFate",
+    "target": "Yagao"
+  },
+  {
+    "timestamp": 753000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 759000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kanavi",
+    "participants": [
+      "Graves",
+      "TwistedFate",
+      "Ashe",
+      "Blitzcrank"
+    ],
+    "victim": "Kindred",
+    "target": "SofM"
+  },
+  {
+    "timestamp": 955000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1050000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Renekton"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1092000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Jhin",
+      "Volibear",
+      "Kindred",
+      "Zoe",
+      "Thresh"
+    ],
+    "victim": "Graves",
+    "target": "Kanavi"
+  },
+  {
+    "timestamp": 1101000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Jhin",
+      "Kindred",
+      "Zoe",
+      "Thresh"
+    ],
+    "victim": "Renekton",
+    "target": "Zoom"
+  },
+  {
+    "timestamp": 1107000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Jhin",
+      "Kindred",
+      "Zoe",
+      "Thresh"
+    ],
+    "victim": "TwistedFate",
+    "target": "Yagao"
+  },
+  {
+    "timestamp": 1110000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1134000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Angel",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1169000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1185000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": "LokeN",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1205000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Bin",
+    "participants": [
+      "Volibear",
+      "Jhin",
+      "Thresh"
+    ],
+    "victim": "TwistedFate",
+    "target": "Yagao"
+  },
+  {
+    "timestamp": 1208000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zoom",
+    "participants": [
+      "Renekton",
+      "Graves",
+      "Ashe",
+      "Blitzcrank"
+    ],
+    "victim": "Volibear",
+    "target": "Bin"
+  },
+  {
+    "timestamp": 1211000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Kindred",
+      "Volibear",
+      "Zoe",
+      "Jhin",
+      "Thresh"
+    ],
+    "victim": "Blitzcrank",
+    "target": "LvMao"
+  },
+  {
+    "timestamp": 1305000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1330000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Yagao",
+    "participants": [
+      "TwistedFate"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1343000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Kanavi",
+    "participants": [
+      "Graves"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1446000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1453000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Jhin",
+      "Zoe",
+      "Thresh"
+    ],
+    "victim": "Ashe",
+    "target": "LokeN"
+  },
+  {
+    "timestamp": 1459000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Jhin",
+      "Zoe",
+      "Thresh"
+    ],
+    "victim": "Blitzcrank",
+    "target": "LvMao"
+  },
+  {
+    "timestamp": 1494000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1550000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1571000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Kindred",
+      "Volibear",
+      "Jhin",
+      "Thresh"
+    ],
+    "victim": "Graves",
+    "target": "Kanavi"
+  },
+  {
+    "timestamp": 1576000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1582000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1589000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "SofM",
+    "participants": [
+      "Kindred"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1599000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Jhin",
+      "Volibear",
+      "Kindred",
+      "Zoe",
+      "Thresh"
+    ],
+    "victim": "Renekton",
+    "target": "Zoom"
+  },
+  {
+    "timestamp": 1604000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "huanfeng",
+    "participants": [
+      "Jhin"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1618000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

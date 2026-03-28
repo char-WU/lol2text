@@ -1,0 +1,27 @@
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+pandas>=2.0.0
+yt-dlp[default]>=2024.03.10
+openai-whisper>=20230314
+opencv-python>=4.9.0
+pytesseract>=0.3.10
+
+# ========================================
+# System Requirements (MUST INSTALL):
+# ========================================
+# 
+# 1. FFmpeg (for video processing)
+#    Ubuntu/Debian:  sudo apt-get install ffmpeg
+#    macOS:          brew install ffmpeg
+#    Windows:        Download from https://ffmpeg.org
+# 
+# 2. Tesseract OCR (for offset extraction)
+#    Ubuntu/Debian:  sudo apt-get install tesseract-ocr
+#    macOS:          brew install tesseract
+#    Windows:        https://github.com/UB-Mannheim/tesseract/wiki
+# 
+# Verify installation:
+#    ffmpeg -version
+#    tesseract --version
+# 
+# ========================================

@@ -1,0 +1,578 @@
+[
+  {
+    "timestamp": 337000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crash",
+    "participants": [
+      "LeeSin",
+      "Jinx",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Zeyzal"
+  },
+  {
+    "timestamp": 352000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Ekko",
+      "Yasuo"
+    ],
+    "victim": "Ryze",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 612000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 614000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Ekko",
+      "Yasuo",
+      "Nautilus"
+    ],
+    "victim": "LeeSin",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 735000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nisqy",
+    "participants": [
+      "Yasuo",
+      "Ekko",
+      "Nautilus"
+    ],
+    "victim": "Ryze",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 738000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Deftly",
+    "participants": [
+      "Kaisa",
+      "Ekko",
+      "Yasuo",
+      "Nautilus"
+    ],
+    "victim": "Chogath",
+    "target": "3z"
+  },
+  {
+    "timestamp": 747000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Deftly",
+    "participants": [
+      "Kaisa",
+      "Ekko"
+    ],
+    "victim": "LeeSin",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 778000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mission",
+    "participants": [
+      "Ryze",
+      "Jinx",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Zeyzal"
+  },
+  {
+    "timestamp": 782000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Licorice",
+    "participants": [
+      "Jax"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 791000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Jinx",
+      "Ryze",
+      "Thresh"
+    ],
+    "victim": "Yasuo",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 879000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 971000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 990000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1008000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1035000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Deftly",
+    "participants": [
+      "Kaisa",
+      "Ekko",
+      "Nautilus"
+    ],
+    "victim": "Thresh",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1038000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Crash",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1046000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nisqy",
+    "participants": [
+      "Yasuo"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1138000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1149000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "3z",
+    "participants": [
+      "Chogath"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1162000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1184000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Jinx"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1184000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Nisqy",
+    "participants": [
+      "Yasuo"
+    ],
+    "victim": null,
+    "target": "T3 TOP"
+  },
+  {
+    "timestamp": 1204000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Jinx",
+      "Chogath",
+      "LeeSin"
+    ],
+    "victim": "Ekko",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1246000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "blue",
+    "player": "3z",
+    "participants": [
+      "Chogath"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1294000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1330000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crash",
+    "participants": [
+      "LeeSin",
+      "Chogath",
+      "Thresh"
+    ],
+    "victim": "Ekko",
+    "target": "Blaber"
+  },
+  {
+    "timestamp": 1334000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mission",
+    "participants": [
+      "Ryze",
+      "Chogath",
+      "LeeSin",
+      "Jinx",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Zeyzal"
+  },
+  {
+    "timestamp": 1352000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Crash",
+    "participants": [
+      "LeeSin"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 1360000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "3z",
+    "participants": [
+      "Chogath"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1480000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Jinx",
+      "Chogath",
+      "LeeSin",
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Zeyzal"
+  },
+  {
+    "timestamp": 1489000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Mission",
+    "participants": [
+      "Ryze"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1494000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Unified",
+    "participants": [
+      "Jinx"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1627000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Licorice",
+    "participants": [
+      "Jax",
+      "Yasuo"
+    ],
+    "victim": "Thresh",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1630000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Ekko",
+      "Yasuo",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "LeeSin",
+    "target": "Crash"
+  },
+  {
+    "timestamp": 1631000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Deftly",
+    "participants": [
+      "Kaisa",
+      "Ekko",
+      "Yasuo",
+      "Nautilus"
+    ],
+    "victim": "Chogath",
+    "target": "3z"
+  },
+  {
+    "timestamp": 1634000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Deftly",
+    "participants": [
+      "Kaisa",
+      "Jax",
+      "Ekko",
+      "Yasuo",
+      "Nautilus"
+    ],
+    "victim": "Jinx",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 1636000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Nisqy",
+    "participants": [
+      "Yasuo",
+      "Ekko",
+      "Kaisa",
+      "Nautilus"
+    ],
+    "victim": "Ryze",
+    "target": "Mission"
+  },
+  {
+    "timestamp": 1645000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Deftly",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1651000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Licorice",
+    "participants": [
+      "Jax"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 1654000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "Blaber",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 1661000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Licorice",
+    "participants": [
+      "Jax"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1665000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Deftly",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1669000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiwing",
+    "participants": [
+      "Thresh"
+    ],
+    "victim": "Nautilus",
+    "target": "Zeyzal"
+  },
+  {
+    "timestamp": 1671000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiwing",
+    "participants": [
+      "Thresh"
+    ],
+    "victim": "Yasuo",
+    "target": "Nisqy"
+  },
+  {
+    "timestamp": 1676000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

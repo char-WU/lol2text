@@ -1,0 +1,2278 @@
+[
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 215.0,
+    "event": {
+      "timestamp": 215000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ],
+      "target": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ]
+    },
+    "commentary": "it makes a world of difference. Here in the mid lane, humanoids got control, but Pentanet is walking towards bottom, looking to maybe make a play. Decoy goes in, Kaisa gets caught, but they're looking to turn things right back around with decoy taking some damage. Now Kaisa looking to keep on going forward, Pabu's at about 100 HP, humanoid with the flash for the first blood. Nicely done, you land the hook, but you just gotta back it up anyway. The TP comes down here from humanoid. Biopanther was trying to match, you can see the flash got taken off Armit, so safe to assume that Armit flashed in there to try to interrupt the teleport",
+    "commentary_word_count": 117,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 244.0,
+    "event": {
+      "timestamp": 244000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Praedyth",
+          "champion": "Aphelios"
+        }
+      ],
+      "target": [
+        {
+          "player": "Praedyth",
+          "champion": "Aphelios"
+        }
+      ]
+    },
+    "commentary": "so safe to assume that Armit flashed in there to try to interrupt the teleport coming through from Biopanther, and Mad striking on that bottom side. I think Pabu was feeling the pressure to make something happen, because he knew he was so far behind, and now Praden's just gonna die likely. Oh, he tries to use the cleanse, but it just does not get it done. That's what I'm talking about, cleanse versus heal. Yes, the cleanse will get you out of some of the CC, but your health bar is still oh so squishy as hell. Yeah, this is looking really bad already here for Pentanet, so the level one,",
+    "commentary_word_count": 112,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 296.0,
+    "event": {
+      "timestamp": 296000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ],
+      "target": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ]
+    },
+    "commentary": "and Mad get that follow up kill in the 2v2. And yes, Praden will collect some of the CCS, but the biggest problem is you go back to base, and you got a longsword in boots, whereas Karzy's going back to base, and he gets a new Inquiver, right? So the power's so much higher, and Pabu's gonna die again. Yeah, I don't think the items are the biggest problem now, I think the biggest problem now is we've got Rumble spending most of his time in the dirt. Pabu now 0-2 and 0 in the first five minutes of the game, the Mad Lions are doing a great job being able to keep this Rumble from ever coming online.",
+    "commentary_word_count": 120,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 448.0,
+    "event": {
+      "timestamp": 448000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Praedyth",
+          "champion": "Aphelios"
+        }
+      ],
+      "target": [
+        {
+          "player": "Praedyth",
+          "champion": "Aphelios"
+        }
+      ]
+    },
+    "commentary": "and it's important to remember, with a champion like Aphelios, this isn't Azhaya who has a get out of jail free card on the Altie, right? This is a champion. They want to dive. If they fall too far behind, Predis only going to be in more and more trouble, and the trouble keeps on keeping on. Goodbye, Predis, goodbye, decoy, at least they don't got to die alone, it's two more over to the Mad Lions. Oh, Mad Lions snowballing this one out of control. Pabu trying to get something done on the top side, but he's already been spotted by that pink ward.",
+    "commentary_word_count": 105,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 449.0,
+    "event": {
+      "timestamp": 449000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Decoy",
+          "champion": "Thresh"
+        }
+      ],
+      "target": [
+        {
+          "player": "Decoy",
+          "champion": "Thresh"
+        }
+      ]
+    },
+    "commentary": "with a champion like Aphelios, this isn't Azhaya who has a get out of jail free card on the Altie, right? This is a champion. They want to dive. If they fall too far behind, Predis only going to be in more and more trouble, and the trouble keeps on keeping on. Goodbye, Predis, goodbye, decoy, at least they don't got to die alone, it's two more over to the Mad Lions. Oh, Mad Lions snowballing this one out of control. Pabu trying to get something done on the top side, but he's already been spotted by that pink ward. He is level five.",
+    "commentary_word_count": 104,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 539.0,
+    "event": {
+      "timestamp": 539000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "BioPanther",
+          "champion": "Sion"
+        }
+      ],
+      "target": [
+        {
+          "player": "BioPanther",
+          "champion": "Sion"
+        }
+      ]
+    },
+    "commentary": "and almost no mana left, this is not a good situation. No. Pentanet finds themselves in. Mad Lyons making sure they are going to dive. They are able to back. Biopanther is making his way up here now, interrupts the hex flash, but now he's in a 1v3. Pabu and Chas are going to rotate down here and help him out a little bit. Biopanther likely to die first. We'll see if he gets any value out of the passive. Chas tries to follow up, but instead there's the lockdown. There's exactly what you were talking about, Azale. How easily Lissandra can make Kiana just stop. El Yoa gets away too. The game is 7-0. Kaiser continues the charge.",
+    "commentary_word_count": 119,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 541.0,
+    "event": {
+      "timestamp": 541000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ],
+      "target": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ]
+    },
+    "commentary": "No. Pentanet finds themselves in. Mad Lyons making sure they are going to dive. They are able to back. Biopanther is making his way up here now, interrupts the hex flash, but now he's in a 1v3. Pabu and Chas are going to rotate down here and help him out a little bit. Biopanther likely to die first. We'll see if he gets any value out of the passive. Chas tries to follow up, but instead there's the lockdown. There's exactly what you were talking about, Azale. How easily Lissandra can make Kiana just stop. El Yoa gets away too. The game is 7-0. Kaiser continues the charge. They will find another kill on Pabu.",
+    "commentary_word_count": 115,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 557.0,
+    "event": {
+      "timestamp": 557000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ],
+      "target": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ]
+    },
+    "commentary": "Chas tries to follow up, but instead there's the lockdown. There's exactly what you were talking about, Azale. How easily Lissandra can make Kiana just stop. El Yoa gets away too. The game is 7-0. Kaiser continues the charge. They will find another kill on Pabu. And the Mad Lyons have absolutely decimated this early game. I think it's time to clock in a time of death. 9.24 on the clock. They're resting. Peace. Pentanet. Mad leaving. No doubt whatsoever in this one.",
+    "commentary_word_count": 83,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 579.0,
+    "event": {
+      "timestamp": 579000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Rift Herald",
+      "team": "red",
+      "player": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "victim": [],
+      "target": []
+    },
+    "commentary": "I think it's time to clock in a time of death. 9.24 on the clock. They're resting. Peace. Pentanet. Mad leaving. No doubt whatsoever in this one. They are so far ahead. The level one was intelligent. They have snowballed this game to perfection. Pabu was left with no choice, but to go for these desperation ganks, which were anticipated and responded to perfectly here by Mad. And this one is just an absolute steamroll. You look at the goal differences shown there.",
+    "commentary_word_count": 83,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 628.0,
+    "event": {
+      "timestamp": 628000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T1 BOT"
+      ]
+    },
+    "commentary": "El Yoya survives. They kill them all off. And now you're losing plates on the bottom side as well. And they have the Herald. So that tower is actually just going to go down. This is going to be nearing a 7,000 gold lead. Holy cow, man. Look at that. When the worst score, oh, no. I don't even have time to make a joke. Never mind. Shaz is about to pop here in mid. There it is. Kaiser gets it with the proc on the Leona W. We've seen that result in a Leona death to chickens. But this time it is a Leona kill on Kiana.",
+    "commentary_word_count": 108,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 635.0,
+    "event": {
+      "timestamp": 635000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        },
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ],
+      "target": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ]
+    },
+    "commentary": "And they have the Herald. So that tower is actually just going to go down. This is going to be nearing a 7,000 gold lead. Holy cow, man. Look at that. When the worst score, oh, no. I don't even have time to make a joke. Never mind. Shaz is about to pop here in mid. There it is. Kaiser gets it with the proc on the Leona W. We've seen that result in a Leona death to chickens. But this time it is a Leona kill on Kiana. Mad Lions, nine kills in 10 minutes.",
+    "commentary_word_count": 96,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 723.0,
+    "event": {
+      "timestamp": 723000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Cloud Drake",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ],
+      "victim": [],
+      "target": []
+    },
+    "commentary": "Meanwhile, Pratitz now in trouble. Humanoid going after him, forcing out the cleanse. That summoner spell will get Pratitz away here this time. Biopanther trying to use the ulti to get back to the tier 1 turret. Instead, he's going to be intercepted. Kaiser is almost completely out of mana here, exhaust used onto Karzy. So they won't have enough damage to get the kill here. At least Pentanet will find themselves, honestly, their first big thing of this game, in grabbing the first dragon. But it's too little. It's too late. Dekoi having a flash to keep himself alive, gets a death sentence onto El Yoya, but only pulls him in range for one single turret shot.",
+    "commentary_word_count": 118,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 745.0,
+    "event": {
+      "timestamp": 745000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        },
+        {
+          "player": "BioPanther",
+          "champion": "Sion"
+        },
+        {
+          "player": "Praedyth",
+          "champion": "Aphelios"
+        },
+        {
+          "player": "Decoy",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "target": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ]
+    },
+    "commentary": "in grabbing the first dragon. But it's too little. It's too late. Dekoi having a flash to keep himself alive, gets a death sentence onto El Yoya, but only pulls him in range for one single turret shot. Biopanther trying to follow up. If he can, Equalizer's going to get a whole lot of nothing, as now Humanoid finds himself in that death chamber. And there you go, Pentanet's on the board. Big shut down there for Pabu, but they're going to need a lot more than that to try to scrape their way back in the game. Karzy taking the solo gold on the tower, up on that top side. Pentanet do get a kill.",
+    "commentary_word_count": 116,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 753.0,
+    "event": {
+      "timestamp": 753000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T1 TOP"
+      ]
+    },
+    "commentary": "but only pulls him in range for one single turret shot. Biopanther trying to follow up. If he can, Equalizer's going to get a whole lot of nothing, as now Humanoid finds himself in that death chamber. And there you go, Pentanet's on the board. Big shut down there for Pabu, but they're going to need a lot more than that to try to scrape their way back in the game. Karzy taking the solo gold on the tower, up on that top side. Pentanet do get a kill. They do get that tower. And I also realized that I'm trolling. Because this is actually the same amount of HP I'm pretty sure on Rocket Belt and Everfrost. Rocket Belt, still more of the option,",
+    "commentary_word_count": 125,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 830.0,
+    "event": {
+      "timestamp": 830000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Decoy",
+          "champion": "Thresh"
+        }
+      ],
+      "target": [
+        {
+          "player": "Decoy",
+          "champion": "Thresh"
+        }
+      ]
+    },
+    "commentary": "because the Mad members are just individually so much stronger. Pabu's in some trouble yet again. Ulti comes down. Follow-up CC goes through. Pabu's able to flash away. The CC chain is not quite perfect enough. But now they're not done. Decoil be the target here next. El Yoya grabbing a killing spree on that one. But Kaiser's in serious danger of dying. Chas will pick that up. El Yoya continues his retreat. Biopanther will not have the speed to pursue him any further. Humanoid continuing to try to press forward again. Just taking any sort of resource. Fight, fight, fight.",
+    "commentary_word_count": 101,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 834.0,
+    "event": {
+      "timestamp": 834000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        },
+        {
+          "player": "BioPanther",
+          "champion": "Sion"
+        },
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        },
+        {
+          "player": "Praedyth",
+          "champion": "Aphelios"
+        },
+        {
+          "player": "Decoy",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "target": [
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ]
+    },
+    "commentary": "Pabu's in some trouble yet again. Ulti comes down. Follow-up CC goes through. Pabu's able to flash away. The CC chain is not quite perfect enough. But now they're not done. Decoil be the target here next. El Yoya grabbing a killing spree on that one. But Kaiser's in serious danger of dying. Chas will pick that up. El Yoya continues his retreat. Biopanther will not have the speed to pursue him any further. Humanoid continuing to try to press forward again. Just taking any sort of resource. Fight, fight, fight. Biopanther, you want to get out of there, buddy. I know you're the solo laner. And that's the AD carry.",
+    "commentary_word_count": 111,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 861.0,
+    "event": {
+      "timestamp": 861000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "target": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ]
+    },
+    "commentary": "Biopanther, you want to get out of there, buddy. I know you're the solo laner. And that's the AD carry. But you don't want nothing to do with this. El Yoya wants to steal away the blue if they can. That goes over to him. OK. Chas can pick up the kill. Chas is going in. But he is going right back. Oh! Nicely done. Pentanet's mid laner picking up a kill in the enemy jungle. Now Humanoids in a 1v3, he'll get killed off as well. Pentanet with a good punish. Nicely done from Pentanet. Chas with the outplay.",
+    "commentary_word_count": 100,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 869.0,
+    "event": {
+      "timestamp": 869000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        },
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        },
+        {
+          "player": "Praedyth",
+          "champion": "Aphelios"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "target": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ]
+    },
+    "commentary": "El Yoya wants to steal away the blue if they can. That goes over to him. OK. Chas can pick up the kill. Chas is going in. But he is going right back. Oh! Nicely done. Pentanet's mid laner picking up a kill in the enemy jungle. Now Humanoids in a 1v3, he'll get killed off as well. Pentanet with a good punish. Nicely done from Pentanet. Chas with the outplay. Getting a couple of kills there. Karzy fishing, not quite. As Chas does finish the recall. But again, you're still getting pushed in across the map.",
+    "commentary_word_count": 97,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 945.0,
+    "event": {
+      "timestamp": 945000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T1 MID"
+      ]
+    },
+    "commentary": "But it's got to be continual fights. It's got to be continual kills going the way of PGG for them to have much hope in this game. Ready to cleanse again. Keeping himself safe from that Leona ulti. But now the dive is coming out. Diko is going to be your target here at the very beginning. Kaiser finding himself stuck. Has to flash over the wall into the wraith pit. Pabu continues the chase. Chas coming around from the flank. Mad Lions support is down. Nice. Two-man stun coming out from Keanna ulti. But nobody else is in range to follow up. Mad Lions decide to disengage. There's nothing else to fight here. Biopanther, however, wants to make sure they can continue",
+    "commentary_word_count": 123,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 950.0,
+    "event": {
+      "timestamp": 950000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        },
+        {
+          "player": "BioPanther",
+          "champion": "Sion"
+        },
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        },
+        {
+          "player": "Decoy",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "target": [
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ]
+    },
+    "commentary": "to have much hope in this game. Ready to cleanse again. Keeping himself safe from that Leona ulti. But now the dive is coming out. Diko is going to be your target here at the very beginning. Kaiser finding himself stuck. Has to flash over the wall into the wraith pit. Pabu continues the chase. Chas coming around from the flank. Mad Lions support is down. Nice. Two-man stun coming out from Keanna ulti. But nobody else is in range to follow up. Mad Lions decide to disengage. There's nothing else to fight here. Biopanther, however, wants to make sure they can continue the chase. Now Yo-ya gets slowed, but a TP's coming in. We'll see if Humanoid can find much here.",
+    "commentary_word_count": 122,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 967.0,
+    "event": {
+      "timestamp": 967000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ],
+      "target": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ]
+    },
+    "commentary": "Two-man stun coming out from Keanna ulti. But nobody else is in range to follow up. Mad Lions decide to disengage. There's nothing else to fight here. Biopanther, however, wants to make sure they can continue the chase. Now Yo-ya gets slowed, but a TP's coming in. We'll see if Humanoid can find much here. Pabu's about to die to Armut. Or is he Humanoid picking up the kill against Pabu now? Armut getting himself away here with a blast cone. Biopanther dies in the top half of the river. And Mad Lions take yet another victory for themselves. 8,000 gold ahead at 16 minutes. They are rich.",
+    "commentary_word_count": 108,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 972.0,
+    "event": {
+      "timestamp": 972000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "victim": [
+        {
+          "player": "BioPanther",
+          "champion": "Sion"
+        }
+      ],
+      "target": [
+        {
+          "player": "BioPanther",
+          "champion": "Sion"
+        }
+      ]
+    },
+    "commentary": "Mad Lions decide to disengage. There's nothing else to fight here. Biopanther, however, wants to make sure they can continue the chase. Now Yo-ya gets slowed, but a TP's coming in. We'll see if Humanoid can find much here. Pabu's about to die to Armut. Or is he Humanoid picking up the kill against Pabu now? Armut getting himself away here with a blast cone. Biopanther dies in the top half of the river. And Mad Lions take yet another victory for themselves. 8,000 gold ahead at 16 minutes. They are rich. Going straight to the moon this one. Mad looking to take down that Rift Herald as well.",
+    "commentary_word_count": 109,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1003.0,
+    "event": {
+      "timestamp": 1003000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Rift Herald",
+      "team": "red",
+      "player": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "victim": [],
+      "target": []
+    },
+    "commentary": "Mad looking to take down that Rift Herald as well. Continue the push. They already got all the outer towers, haven't lost any of their own here just yet. And can utilize this to crack another turret. They can look to collect this Mountain Dragon, but I really doubt that this is going to be a game about Dragon Soul. The second dragon here would be the first going down for Mad. Would be taken around 17, 18 minutes. And I don't think the game is going to last long enough for Soul to really be something that matters. So while Mad may grab it, not going to be too important here. The cleanse forced out by a nicely placed ult there",
+    "commentary_word_count": 122,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1041.0,
+    "event": {
+      "timestamp": 1041000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Mountain Drake",
+      "team": "red",
+      "player": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "victim": [],
+      "target": []
+    },
+    "commentary": "The turret's low enough that they can always turn and finish it if it becomes an issue here. And Pabu chasing down. They do get one return kill there. And Chaz with a nicely placed key on an ult. But they just don't really have enough here to chase it down. As they continue going forward, they know they need to get more of an edge. But they don't quite have the damage. And the TP came in. And they were able to turn it around and finish off a couple kills here with our barely surviving. Yeah. And you could say, hey, it's an overchaser, whatever. But honestly, every single play has to be a Hail Mary, right? You can't just take one kill and say, all right, guys,",
+    "commentary_word_count": 130,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1095.0,
+    "event": {
+      "timestamp": 1095000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T2 MID"
+      ]
+    },
+    "commentary": "The way I look at League of Legends and the way I think ProTeen should really approach it is evaluate what you think your chances to win the game are and take any plays that are better than that, right? So if you say this is a 1% chance to win this game from, you know, an 8,000 gold deficit, all your towers actually going down, then anything that's better than 1% chance is better than your current odds, right? So something that's like a 5% or a 10% play, you normally wouldn't want to go for. But in this case, those are pretty good odds. If you can get a random pet to kill on a pre-eth or something, well, hey, maybe that's your way in.",
+    "commentary_word_count": 127,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1136.0,
+    "event": {
+      "timestamp": 1136000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "BioPanther",
+          "champion": "Sion"
+        }
+      ],
+      "target": [
+        {
+          "player": "BioPanther",
+          "champion": "Sion"
+        }
+      ]
+    },
+    "commentary": "OK, there's the hook on to El Yoia. But that's not a target you can initiate on. So Pentanet will have to back up once more, 18 and 1 1⁄2 minutes into the game, Azale. And they are stuck inside the walls of their own base. Biopanther decides to step outside. Nice equalizer. He'll be there with the entirety of Mad Lions. Humanoid pops them. And we'll see if that Keanu Alte gets anything. No, it will not. Travels along the wall, but everybody from Mad gets out of the way. Biopanther's zombie fades away, turns into a second zombie. But this one's made of ice. Zion just won't die, die. And Biopanther's finally out of the picture.",
+    "commentary_word_count": 118,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1163.0,
+    "event": {
+      "timestamp": 1163000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        }
+      ],
+      "target": [
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        }
+      ]
+    },
+    "commentary": "But this one's made of ice. Zion just won't die, die. And Biopanther's finally out of the picture. Seeing black and white for the next 15 seconds, Mad Lions will continue pushing forward, looking for the tier two turret. Our move's about to get 100 to zeroed. Shield keeps him alive. And the ignite is ticking down. He will die. Decoy falls, Chas falls, Pabu falls. Prayed it against the world. The world's pretty damn big, Isaac. Double kill back over to Karzy. Kaiser even gets the kill in support or combat. And Mad Lions are up 10,000, 11,000 gold.",
+    "commentary_word_count": 100,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1163.0,
+    "event": {
+      "timestamp": 1163000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ],
+      "target": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ]
+    },
+    "commentary": "But this one's made of ice. Zion just won't die, die. And Biopanther's finally out of the picture. Seeing black and white for the next 15 seconds, Mad Lions will continue pushing forward, looking for the tier two turret. Our move's about to get 100 to zeroed. Shield keeps him alive. And the ignite is ticking down. He will die. Decoy falls, Chas falls, Pabu falls. Prayed it against the world. The world's pretty damn big, Isaac. Double kill back over to Karzy. Kaiser even gets the kill in support or combat. And Mad Lions are up 10,000, 11,000 gold.",
+    "commentary_word_count": 100,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1164.0,
+    "event": {
+      "timestamp": 1164000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ],
+      "target": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ]
+    },
+    "commentary": "Zion just won't die, die. And Biopanther's finally out of the picture. Seeing black and white for the next 15 seconds, Mad Lions will continue pushing forward, looking for the tier two turret. Our move's about to get 100 to zeroed. Shield keeps him alive. And the ignite is ticking down. He will die. Decoy falls, Chas falls, Pabu falls. Prayed it against the world. The world's pretty damn big, Isaac. Double kill back over to Karzy. Kaiser even gets the kill in support or combat. And Mad Lions are up 10,000, 11,000 gold. They are crushing this one.",
+    "commentary_word_count": 99,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1165.0,
+    "event": {
+      "timestamp": 1165000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        },
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Decoy",
+          "champion": "Thresh"
+        }
+      ],
+      "target": [
+        {
+          "player": "Decoy",
+          "champion": "Thresh"
+        }
+      ]
+    },
+    "commentary": "Zion just won't die, die. And Biopanther's finally out of the picture. Seeing black and white for the next 15 seconds, Mad Lions will continue pushing forward, looking for the tier two turret. Our move's about to get 100 to zeroed. Shield keeps him alive. And the ignite is ticking down. He will die. Decoy falls, Chas falls, Pabu falls. Prayed it against the world. The world's pretty damn big, Isaac. Double kill back over to Karzy. Kaiser even gets the kill in support or combat. And Mad Lions are up 10,000, 11,000 gold. They are crushing this one.",
+    "commentary_word_count": 99,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1172.0,
+    "event": {
+      "timestamp": 1172000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T2 BOT"
+      ]
+    },
+    "commentary": "Mad Lions will continue pushing forward, looking for the tier two turret. Our move's about to get 100 to zeroed. Shield keeps him alive. And the ignite is ticking down. He will die. Decoy falls, Chas falls, Pabu falls. Prayed it against the world. The world's pretty damn big, Isaac. Double kill back over to Karzy. Kaiser even gets the kill in support or combat. And Mad Lions are up 10,000, 11,000 gold. They are crushing this one. Chas gets a nice little stylish kill there over onto our moot. But the rest doesn't matter as Mad piles in,",
+    "commentary_word_count": 99,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1251.0,
+    "event": {
+      "timestamp": 1251000,
+      "type": "ELITE_MONSTER_KILL",
+      "subtype": "Baron Nashor",
+      "team": "red",
+      "player": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "victim": [],
+      "target": []
+    },
+    "commentary": "PGG, you can test it. You pray something miracle happens. You pray you can get a kill. You pray you can get a steal, because you cannot afford to give up this Baron, or the game is just probably going to end during that Baron buff. Well, Baron is gone. Mad Lions have secured that. Kaisa will see Biopanther approaching. Flash is in, finds the two-man ulti. Pabu with a stasis stays alive. Nice turnaround coming out there with a shutdown over to Qiyana, killing off Karzy. But the fight, it's just too much. They are slapping him with the wallet, just beating him to death with the damn thing.",
+    "commentary_word_count": 110,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1258.0,
+    "event": {
+      "timestamp": 1258000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        },
+        {
+          "player": "BioPanther",
+          "champion": "Sion"
+        },
+        {
+          "player": "Praedyth",
+          "champion": "Aphelios"
+        },
+        {
+          "player": "Decoy",
+          "champion": "Thresh"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "target": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ]
+    },
+    "commentary": "because you cannot afford to give up this Baron, or the game is just probably going to end during that Baron buff. Well, Baron is gone. Mad Lions have secured that. Kaisa will see Biopanther approaching. Flash is in, finds the two-man ulti. Pabu with a stasis stays alive. Nice turnaround coming out there with a shutdown over to Qiyana, killing off Karzy. But the fight, it's just too much. They are slapping him with the wallet, just beating him to death with the damn thing. Decoys, the only man left standing, trying to get away from our mood here. He wants to close the gap of the blast cone.",
+    "commentary_word_count": 110,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1260.0,
+    "event": {
+      "timestamp": 1260000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ],
+      "target": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ]
+    },
+    "commentary": "or the game is just probably going to end during that Baron buff. Well, Baron is gone. Mad Lions have secured that. Kaisa will see Biopanther approaching. Flash is in, finds the two-man ulti. Pabu with a stasis stays alive. Nice turnaround coming out there with a shutdown over to Qiyana, killing off Karzy. But the fight, it's just too much. They are slapping him with the wallet, just beating him to death with the damn thing. Decoys, the only man left standing, trying to get away from our mood here. He wants to close the gap of the blast cone. He didn't quite get the angle,",
+    "commentary_word_count": 107,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1261.0,
+    "event": {
+      "timestamp": 1261000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ],
+      "target": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ]
+    },
+    "commentary": "or the game is just probably going to end during that Baron buff. Well, Baron is gone. Mad Lions have secured that. Kaisa will see Biopanther approaching. Flash is in, finds the two-man ulti. Pabu with a stasis stays alive. Nice turnaround coming out there with a shutdown over to Qiyana, killing off Karzy. But the fight, it's just too much. They are slapping him with the wallet, just beating him to death with the damn thing. Decoys, the only man left standing, trying to get away from our mood here. He wants to close the gap of the blast cone. He didn't quite get the angle, so he cannot follow Decoy all the way.",
+    "commentary_word_count": 115,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1262.0,
+    "event": {
+      "timestamp": 1262000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Praedyth",
+          "champion": "Aphelios"
+        }
+      ],
+      "target": [
+        {
+          "player": "Praedyth",
+          "champion": "Aphelios"
+        }
+      ]
+    },
+    "commentary": "during that Baron buff. Well, Baron is gone. Mad Lions have secured that. Kaisa will see Biopanther approaching. Flash is in, finds the two-man ulti. Pabu with a stasis stays alive. Nice turnaround coming out there with a shutdown over to Qiyana, killing off Karzy. But the fight, it's just too much. They are slapping him with the wallet, just beating him to death with the damn thing. Decoys, the only man left standing, trying to get away from our mood here. He wants to close the gap of the blast cone. He didn't quite get the angle, so he cannot follow Decoy all the way.",
+    "commentary_word_count": 106,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1265.0,
+    "event": {
+      "timestamp": 1265000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "BioPanther",
+          "champion": "Sion"
+        }
+      ],
+      "target": [
+        {
+          "player": "BioPanther",
+          "champion": "Sion"
+        }
+      ]
+    },
+    "commentary": "Mad Lions have secured that. Kaisa will see Biopanther approaching. Flash is in, finds the two-man ulti. Pabu with a stasis stays alive. Nice turnaround coming out there with a shutdown over to Qiyana, killing off Karzy. But the fight, it's just too much. They are slapping him with the wallet, just beating him to death with the damn thing. Decoys, the only man left standing, trying to get away from our mood here. He wants to close the gap of the blast cone. He didn't quite get the angle, so he cannot follow Decoy all the way. The Thresh will survive,",
+    "commentary_word_count": 102,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1313.0,
+    "event": {
+      "timestamp": 1313000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Decoy",
+          "champion": "Thresh"
+        }
+      ],
+      "target": [
+        {
+          "player": "Decoy",
+          "champion": "Thresh"
+        }
+      ]
+    },
+    "commentary": "I like how he stops the recall just to fight him. Just have a little fun with him. Why not? I'm thinking of Deitz. Come on, let's have a little brotherly love here. Or run around in circles or something. Oh, no, okay. He literally just dies in the lightning field. All right, let's watch this one one more time. Again, Mad crushing through, but not before Chaz blows someone up here, taking down the AD carry there.",
+    "commentary_word_count": 78,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1381.0,
+    "event": {
+      "timestamp": 1381000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T3 BOT"
+      ]
+    },
+    "commentary": "But I do want to give credit over to Chaz playing this Keanna and picking this Keanna because I think this type of champion, which you pointed out earlier, even Chaz said, hey, you lose lane, but then you can make plays, that's what I need to see from Pentan, right? I hated the fact they locked in Kasadin earlier because he's a sit-and-wait for me to hit 16 guys type of champ. That's not how Pentanet are gonna win games. They've gotta be scrappy, they've gotta be forcing things. Keanna's the kind of champion that can work in that environment. Yes, the game's already doomed. It's a 15,000 gold difference of 23 minutes, but I like the fact that they're playing",
+    "commentary_word_count": 122,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1391.0,
+    "event": {
+      "timestamp": 1391000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T3 MID"
+      ]
+    },
+    "commentary": "that's what I need to see from Pentan, right? I hated the fact they locked in Kasadin earlier because he's a sit-and-wait for me to hit 16 guys type of champ. That's not how Pentanet are gonna win games. They've gotta be scrappy, they've gotta be forcing things. Keanna's the kind of champion that can work in that environment. Yes, the game's already doomed. It's a 15,000 gold difference of 23 minutes, but I like the fact that they're playing these types of champions because I think that's the way that Pentanet can try to get themselves an upset win at some point here. Yeah, absolutely. And also the way they can make themselves some fits, right?",
+    "commentary_word_count": 117,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1392.0,
+    "event": {
+      "timestamp": 1392000,
+      "type": "BUILDING_KILL",
+      "subtype": "Inhibitor",
+      "team": "red",
+      "player": [],
+      "participants": [],
+      "victim": [],
+      "target": [
+        "INHIB BOT"
+      ]
+    },
+    "commentary": "that's what I need to see from Pentan, right? I hated the fact they locked in Kasadin earlier because he's a sit-and-wait for me to hit 16 guys type of champ. That's not how Pentanet are gonna win games. They've gotta be scrappy, they've gotta be forcing things. Keanna's the kind of champion that can work in that environment. Yes, the game's already doomed. It's a 15,000 gold difference of 23 minutes, but I like the fact that they're playing these types of champions because I think that's the way that Pentanet can try to get themselves an upset win at some point here. Yeah, absolutely. And also the way they can make themselves some fits, right? You know, I think they've been a lot of fun.",
+    "commentary_word_count": 127,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1399.0,
+    "event": {
+      "timestamp": 1399000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T2 TOP"
+      ]
+    },
+    "commentary": "That's not how Pentanet are gonna win games. They've gotta be scrappy, they've gotta be forcing things. Keanna's the kind of champion that can work in that environment. Yes, the game's already doomed. It's a 15,000 gold difference of 23 minutes, but I like the fact that they're playing these types of champions because I think that's the way that Pentanet can try to get themselves an upset win at some point here. Yeah, absolutely. And also the way they can make themselves some fits, right? You know, I think they've been a lot of fun. This is a team with some swagger to them. You know, the coach's getting out there. He's got some style. They're having fun.",
+    "commentary_word_count": 119,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1403.0,
+    "event": {
+      "timestamp": 1403000,
+      "type": "BUILDING_KILL",
+      "subtype": "Inhibitor",
+      "team": "red",
+      "player": [],
+      "participants": [],
+      "victim": [],
+      "target": [
+        "INHIB MID"
+      ]
+    },
+    "commentary": "They've gotta be scrappy, they've gotta be forcing things. Keanna's the kind of champion that can work in that environment. Yes, the game's already doomed. It's a 15,000 gold difference of 23 minutes, but I like the fact that they're playing these types of champions because I think that's the way that Pentanet can try to get themselves an upset win at some point here. Yeah, absolutely. And also the way they can make themselves some fits, right? You know, I think they've been a lot of fun. This is a team with some swagger to them. You know, the coach's getting out there. He's got some style. They're having fun. They're going with the spicy picks, the Zed, the Keanna, but it looks like this one is pretty much all but wrapped up.",
+    "commentary_word_count": 134,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1417.0,
+    "event": {
+      "timestamp": 1417000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "BioPanther",
+          "champion": "Sion"
+        }
+      ],
+      "target": [
+        {
+          "player": "BioPanther",
+          "champion": "Sion"
+        }
+      ]
+    },
+    "commentary": "can try to get themselves an upset win at some point here. Yeah, absolutely. And also the way they can make themselves some fits, right? You know, I think they've been a lot of fun. This is a team with some swagger to them. You know, the coach's getting out there. He's got some style. They're having fun. They're going with the spicy picks, the Zed, the Keanna, but it looks like this one is pretty much all but wrapped up. Okay, Bio Panther is down. He turns into the first zombie. He turns into the second zombie. He's finally off the map. Mad Lions pushing towards those Nexus turrets. It's a 5v4. DeCoy goes for the hook.",
+    "commentary_word_count": 118,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1420.0,
+    "event": {
+      "timestamp": 1420000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T3 TOP"
+      ]
+    },
+    "commentary": "And also the way they can make themselves some fits, right? You know, I think they've been a lot of fun. This is a team with some swagger to them. You know, the coach's getting out there. He's got some style. They're having fun. They're going with the spicy picks, the Zed, the Keanna, but it looks like this one is pretty much all but wrapped up. Okay, Bio Panther is down. He turns into the first zombie. He turns into the second zombie. He's finally off the map. Mad Lions pushing towards those Nexus turrets. It's a 5v4. DeCoy goes for the hook. He finds the Lissandra. A lot of damage coming out. Chas looking for a bit more.",
+    "commentary_word_count": 120,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1428.0,
+    "event": {
+      "timestamp": 1428000,
+      "type": "BUILDING_KILL",
+      "subtype": "Inhibitor",
+      "team": "red",
+      "player": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "INHIB TOP"
+      ]
+    },
+    "commentary": "He's got some style. They're having fun. They're going with the spicy picks, the Zed, the Keanna, but it looks like this one is pretty much all but wrapped up. Okay, Bio Panther is down. He turns into the first zombie. He turns into the second zombie. He's finally off the map. Mad Lions pushing towards those Nexus turrets. It's a 5v4. DeCoy goes for the hook. He finds the Lissandra. A lot of damage coming out. Chas looking for a bit more. Kaiser's nearly dead here. Humanoid healing up with his own ulti. Kaiser is still burning. Humanoid now with his second invulnerability.",
+    "commentary_word_count": 104,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1435.0,
+    "event": {
+      "timestamp": 1435000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Decoy",
+          "champion": "Thresh"
+        }
+      ],
+      "target": [
+        {
+          "player": "Decoy",
+          "champion": "Thresh"
+        }
+      ]
+    },
+    "commentary": "but it looks like this one is pretty much all but wrapped up. Okay, Bio Panther is down. He turns into the first zombie. He turns into the second zombie. He's finally off the map. Mad Lions pushing towards those Nexus turrets. It's a 5v4. DeCoy goes for the hook. He finds the Lissandra. A lot of damage coming out. Chas looking for a bit more. Kaiser's nearly dead here. Humanoid healing up with his own ulti. Kaiser is still burning. Humanoid now with his second invulnerability. That'll buy enough time. That'll get it done. Ladies and gentlemen, the Mad Lions showing Pentanet",
+    "commentary_word_count": 103,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1439.0,
+    "event": {
+      "timestamp": 1439000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [],
+      "participants": [],
+      "victim": [],
+      "target": [
+        "T1 TOP NEXUS"
+      ]
+    },
+    "commentary": "He turns into the first zombie. He turns into the second zombie. He's finally off the map. Mad Lions pushing towards those Nexus turrets. It's a 5v4. DeCoy goes for the hook. He finds the Lissandra. A lot of damage coming out. Chas looking for a bit more. Kaiser's nearly dead here. Humanoid healing up with his own ulti. Kaiser is still burning. Humanoid now with his second invulnerability. That'll buy enough time. That'll get it done. Ladies and gentlemen, the Mad Lions showing Pentanet exactly what they can do in a game of League of Legends.",
+    "commentary_word_count": 97,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1444.0,
+    "event": {
+      "timestamp": 1444000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Praedyth",
+          "champion": "Aphelios"
+        }
+      ],
+      "target": [
+        {
+          "player": "Praedyth",
+          "champion": "Aphelios"
+        }
+      ]
+    },
+    "commentary": "Mad Lions pushing towards those Nexus turrets. It's a 5v4. DeCoy goes for the hook. He finds the Lissandra. A lot of damage coming out. Chas looking for a bit more. Kaiser's nearly dead here. Humanoid healing up with his own ulti. Kaiser is still burning. Humanoid now with his second invulnerability. That'll buy enough time. That'll get it done. Ladies and gentlemen, the Mad Lions showing Pentanet exactly what they can do in a game of League of Legends. Kaiser does die to the ignite there. Hell, Yo-Yo chasing after Chas. Our moot goes for the accelerated shock blast.",
+    "commentary_word_count": 100,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1445.0,
+    "event": {
+      "timestamp": 1445000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "red",
+      "player": [
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Armut",
+          "champion": "Jayce"
+        },
+        {
+          "player": "Elyoya",
+          "champion": "Volibear"
+        },
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        },
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        },
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ],
+      "target": [
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ]
+    },
+    "commentary": "Mad Lions pushing towards those Nexus turrets. It's a 5v4. DeCoy goes for the hook. He finds the Lissandra. A lot of damage coming out. Chas looking for a bit more. Kaiser's nearly dead here. Humanoid healing up with his own ulti. Kaiser is still burning. Humanoid now with his second invulnerability. That'll buy enough time. That'll get it done. Ladies and gentlemen, the Mad Lions showing Pentanet exactly what they can do in a game of League of Legends. Kaiser does die to the ignite there. Hell, Yo-Yo chasing after Chas. Our moot goes for the accelerated shock blast.",
+    "commentary_word_count": 100,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1445.0,
+    "event": {
+      "timestamp": 1445000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        },
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        },
+        {
+          "player": "Praedyth",
+          "champion": "Aphelios"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ],
+      "target": [
+        {
+          "player": "Carzzy",
+          "champion": "Kaisa"
+        }
+      ]
+    },
+    "commentary": "Mad Lions pushing towards those Nexus turrets. It's a 5v4. DeCoy goes for the hook. He finds the Lissandra. A lot of damage coming out. Chas looking for a bit more. Kaiser's nearly dead here. Humanoid healing up with his own ulti. Kaiser is still burning. Humanoid now with his second invulnerability. That'll buy enough time. That'll get it done. Ladies and gentlemen, the Mad Lions showing Pentanet exactly what they can do in a game of League of Legends. Kaiser does die to the ignite there. Hell, Yo-Yo chasing after Chas. Our moot goes for the accelerated shock blast.",
+    "commentary_word_count": 100,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1449.0,
+    "event": {
+      "timestamp": 1449000,
+      "type": "BUILDING_KILL",
+      "subtype": "Tower",
+      "team": "red",
+      "player": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Humanoid",
+          "champion": "Lissandra"
+        }
+      ],
+      "victim": [],
+      "target": [
+        "T2 BOT NEXUS"
+      ]
+    },
+    "commentary": "A lot of damage coming out. Chas looking for a bit more. Kaiser's nearly dead here. Humanoid healing up with his own ulti. Kaiser is still burning. Humanoid now with his second invulnerability. That'll buy enough time. That'll get it done. Ladies and gentlemen, the Mad Lions showing Pentanet exactly what they can do in a game of League of Legends. Kaiser does die to the ignite there. Hell, Yo-Yo chasing after Chas. Our moot goes for the accelerated shock blast. It won't grab the kill. And there you go. Gee, Gee in 24 minutes.",
+    "commentary_word_count": 95,
+    "time_coverage": true,
+    "keyword_coverage": false
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1455.0,
+    "event": {
+      "timestamp": 1455000,
+      "type": "CHAMPION_KILL",
+      "subtype": "Kill",
+      "team": "blue",
+      "player": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        }
+      ],
+      "participants": [
+        {
+          "player": "Chazz",
+          "champion": "Qiyana"
+        },
+        {
+          "player": "Pabu",
+          "champion": "Rumble"
+        }
+      ],
+      "victim": [
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ],
+      "target": [
+        {
+          "player": "Kaiser",
+          "champion": "Leona"
+        }
+      ]
+    },
+    "commentary": "Humanoid healing up with his own ulti. Kaiser is still burning. Humanoid now with his second invulnerability. That'll buy enough time. That'll get it done. Ladies and gentlemen, the Mad Lions showing Pentanet exactly what they can do in a game of League of Legends. Kaiser does die to the ignite there. Hell, Yo-Yo chasing after Chas. Our moot goes for the accelerated shock blast. It won't grab the kill. And there you go. Gee, Gee in 24 minutes. Well played there by the Mad Lions, leaving no doubt whatsoever.",
+    "commentary_word_count": 90,
+    "time_coverage": true,
+    "keyword_coverage": true
+  },
+  {
+    "match_id": 23,
+    "offset_seconds": 348.0,
+    "window_seconds": 15.0,
+    "event_time_s": 1467.0,
+    "event": {
+      "timestamp": 1467000,
+      "type": "BUILDING_KILL",
+      "subtype": "Nexus",
+      "team": "red",
+      "player": [],
+      "participants": [],
+      "victim": [],
+      "target": []
+    },
+    "commentary": "exactly what they can do in a game of League of Legends. Kaiser does die to the ignite there. Hell, Yo-Yo chasing after Chas. Our moot goes for the accelerated shock blast. It won't grab the kill. And there you go. Gee, Gee in 24 minutes. Well played there by the Mad Lions, leaving no doubt whatsoever. Picking up their fourth win. They needed that to maintain control of their own destiny here. They really wanted to grab that extra win. They are able to do so and stay ahead.",
+    "commentary_word_count": 90,
+    "time_coverage": true,
+    "keyword_coverage": false
+  }
+]

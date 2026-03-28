@@ -1,0 +1,943 @@
+[
+  {
+    "timestamp": 389000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Talon",
+      "Kennen"
+    ],
+    "victim": "Irelia",
+    "target": "Liang"
+  },
+  {
+    "timestamp": 394000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "Lillia",
+      "Irelia",
+      "Yone"
+    ],
+    "victim": "Talon",
+    "target": "Mojito"
+  },
+  {
+    "timestamp": 508000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "BOT"
+  },
+  {
+    "timestamp": 543000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Talon",
+      "Kennen"
+    ],
+    "victim": "Irelia",
+    "target": "Liang"
+  },
+  {
+    "timestamp": 580000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 584000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "Lillia",
+      "Yone"
+    ],
+    "victim": "Talon",
+    "target": "Mojito"
+  },
+  {
+    "timestamp": 653000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Talon"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 693000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 701000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 701000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 717000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": "Irelia",
+    "target": "Liang"
+  },
+  {
+    "timestamp": 757000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "MID"
+  },
+  {
+    "timestamp": 771000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 794000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Alive",
+    "participants": [
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Leona",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 798000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "1116",
+    "participants": [
+      "Yone",
+      "Irelia"
+    ],
+    "victim": "Kennen",
+    "target": "Crazy"
+  },
+  {
+    "timestamp": 799000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doggo",
+    "participants": [
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Braum",
+    "target": "Zergsting"
+  },
+  {
+    "timestamp": 808000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "Lillia",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Lucian",
+    "target": "Alive"
+  },
+  {
+    "timestamp": 827000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 836000,
+    "type": "BUILDING_KILL",
+    "subtype": "Plate",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "TOP"
+  },
+  {
+    "timestamp": 930000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kin0",
+    "participants": [
+      "Leona",
+      "Kaisa"
+    ],
+    "victim": "Lucian",
+    "target": "Alive"
+  },
+  {
+    "timestamp": 937000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doggo",
+    "participants": [
+      "Kaisa",
+      "Yone",
+      "Leona"
+    ],
+    "victim": "Braum",
+    "target": "Zergsting"
+  },
+  {
+    "timestamp": 948000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "1116",
+    "participants": [
+      "Yone"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 982000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 999000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Talon"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1007000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1018000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1028000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": "T2 TOP"
+  },
+  {
+    "timestamp": 1146000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "1116",
+    "participants": [
+      "Yone"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 1269000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Zoe",
+      "Kennen",
+      "Talon",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Leona",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 1271000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen",
+      "Zoe",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Lillia",
+    "target": "HuSha"
+  },
+  {
+    "timestamp": 1276000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Talon",
+      "Kennen",
+      "Lucian"
+    ],
+    "victim": "Yone",
+    "target": "1116"
+  },
+  {
+    "timestamp": 1277000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Liang",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": "Lucian",
+    "target": "Alive"
+  },
+  {
+    "timestamp": 1277000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doggo",
+    "participants": [
+      "Kaisa",
+      "Lillia",
+      "Yone",
+      "Leona"
+    ],
+    "victim": "Kennen",
+    "target": "Crazy"
+  },
+  {
+    "timestamp": 1278000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Zergsting",
+    "participants": [
+      "Braum",
+      "Zoe",
+      "Lucian"
+    ],
+    "victim": "Irelia",
+    "target": "Liang"
+  },
+  {
+    "timestamp": 1315000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Talon"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1400000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Liang",
+    "participants": [
+      "Irelia"
+    ],
+    "victim": "Talon",
+    "target": "Mojito"
+  },
+  {
+    "timestamp": 1404000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Zoe",
+      "Talon"
+    ],
+    "victim": "Irelia",
+    "target": "Liang"
+  },
+  {
+    "timestamp": 1406000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 1418000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Doggo",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1642000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Talon"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1650000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doggo",
+    "participants": [
+      "Kaisa",
+      "Irelia",
+      "Lillia",
+      "Leona"
+    ],
+    "victim": "Talon",
+    "target": "Mojito"
+  },
+  {
+    "timestamp": 1651000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Liang",
+    "participants": [
+      "Irelia",
+      "Lillia",
+      "Leona"
+    ],
+    "victim": "Kennen",
+    "target": "Crazy"
+  },
+  {
+    "timestamp": 1654000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Zoe",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Yone",
+    "target": "1116"
+  },
+  {
+    "timestamp": 1671000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Zoe",
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Leona",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 1671000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "Lillia",
+      "Irelia",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Zoe",
+    "target": "Bolulu"
+  },
+  {
+    "timestamp": 1692000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Alive",
+    "participants": [
+      "Lucian",
+      "Braum"
+    ],
+    "victim": "Irelia",
+    "target": "Liang"
+  },
+  {
+    "timestamp": 1692000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doggo",
+    "participants": [
+      "Kaisa",
+      "Lillia"
+    ],
+    "victim": "Lucian",
+    "target": "Alive"
+  },
+  {
+    "timestamp": 1696000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doggo",
+    "participants": [
+      "Kaisa",
+      "Irelia",
+      "Lillia"
+    ],
+    "victim": "Braum",
+    "target": "Zergsting"
+  },
+  {
+    "timestamp": 1698000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "Doggo",
+    "participants": [
+      "Kaisa"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1852000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 2026000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2026000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "1116",
+    "participants": [
+      "Yone",
+      "Irelia",
+      "Lillia",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Talon",
+    "target": "Mojito"
+  },
+  {
+    "timestamp": 2075000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "Lillia"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2079000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Doggo",
+    "participants": [
+      "Kaisa",
+      "Yone",
+      "Leona"
+    ],
+    "victim": "Lucian",
+    "target": "Alive"
+  },
+  {
+    "timestamp": 2089000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "Lillia",
+      "Yone",
+      "Kaisa",
+      "Leona"
+    ],
+    "victim": "Braum",
+    "target": "Zergsting"
+  },
+  {
+    "timestamp": 2102000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen",
+      "Talon"
+    ],
+    "victim": "Kaisa",
+    "target": "Doggo"
+  },
+  {
+    "timestamp": 2105000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Zoe",
+      "Kennen",
+      "Talon"
+    ],
+    "victim": "Yone",
+    "target": "1116"
+  },
+  {
+    "timestamp": 2113000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "HuSha",
+    "participants": [
+      "Lillia",
+      "Irelia",
+      "Kaisa"
+    ],
+    "victim": "Talon",
+    "target": "Mojito"
+  },
+  {
+    "timestamp": 2116000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Zoe",
+      "Kennen",
+      "Talon"
+    ],
+    "victim": "Lillia",
+    "target": "HuSha"
+  },
+  {
+    "timestamp": 2117000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen",
+      "Zoe"
+    ],
+    "victim": "Leona",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 2132000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Zoe",
+      "Kennen"
+    ],
+    "victim": "Irelia",
+    "target": "Liang"
+  },
+  {
+    "timestamp": 2152000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 2166000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 2461000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Elder Dragon",
+    "team": "blue",
+    "player": "Alive",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 2466000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Alive",
+    "participants": [
+      "Lucian",
+      "Talon",
+      "Zoe",
+      "Braum"
+    ],
+    "victim": "Lillia",
+    "target": "HuSha"
+  },
+  {
+    "timestamp": 2481000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Alive",
+    "participants": [
+      "Lucian",
+      "Talon",
+      "Zoe",
+      "Braum"
+    ],
+    "victim": "Irelia",
+    "target": "Liang"
+  },
+  {
+    "timestamp": 2499000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen"
+    ],
+    "victim": null,
+    "target": "T3 MID"
+  },
+  {
+    "timestamp": 2502000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "blue",
+    "player": "Bolulu",
+    "participants": [
+      "Zoe"
+    ],
+    "victim": null,
+    "target": "INHIB MID"
+  },
+  {
+    "timestamp": 2511000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": "Alive",
+    "participants": [
+      "Lucian"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 2518000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen",
+      "Lucian"
+    ],
+    "victim": "Yone",
+    "target": "1116"
+  },
+  {
+    "timestamp": 2519000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 2523000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Crazy",
+    "participants": [
+      "Kennen",
+      "Talon",
+      "Zoe",
+      "Braum"
+    ],
+    "victim": "Kaisa",
+    "target": "Doggo"
+  },
+  {
+    "timestamp": 2523000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Mojito",
+    "participants": [
+      "Talon",
+      "Kennen",
+      "Zoe",
+      "Lucian"
+    ],
+    "victim": "Leona",
+    "target": "Kin0"
+  },
+  {
+    "timestamp": 2530000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "blue",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "timestamp": 279000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kanavi",
+    "participants": [
+      "Sylas",
+      "Ashe",
+      "Pantheon"
+    ],
+    "victim": "Bard",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 365000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "LvMao",
+    "participants": [
+      "Pantheon",
+      "Sett",
+      "Ekko"
+    ],
+    "victim": "Graves",
+    "target": "River"
+  },
+  {
+    "timestamp": 399000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Yagao",
+    "participants": [
+      "Ekko",
+      "Pantheon"
+    ],
+    "victim": "Syndra",
+    "target": "TANK"
+  },
+  {
+    "timestamp": 538000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Ornn",
+      "Graves",
+      "Jhin",
+      "Bard"
+    ],
+    "victim": "Ashe",
+    "target": "LokeN"
+  },
+  {
+    "timestamp": 570000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": "Yagao",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 729000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": "Kanavi",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 770000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Kanavi",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "T1 MID"
+  },
+  {
+    "timestamp": 848000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zoom",
+    "participants": [
+      "Sett"
+    ],
+    "victim": "Bard",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 859000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "LvMao",
+    "participants": [
+      "Pantheon",
+      "Sett"
+    ],
+    "victim": "Jhin",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 888000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Zoom",
+    "participants": [
+      "Sett"
+    ],
+    "victim": null,
+    "target": "T1 TOP"
+  },
+  {
+    "timestamp": 929000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Ocean Drake",
+    "team": "red",
+    "player": "Kanavi",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 968000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "LokeN",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T1 BOT"
+  },
+  {
+    "timestamp": 973000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "LvMao",
+    "participants": [
+      "Pantheon",
+      "Sylas",
+      "Ekko"
+    ],
+    "victim": "Bard",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 980000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Yagao",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": "Graves",
+    "target": "River"
+  },
+  {
+    "timestamp": 1003000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": "T2 MID"
+  },
+  {
+    "timestamp": 1101000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Kanavi",
+    "participants": [
+      "Sylas",
+      "Ekko"
+    ],
+    "victim": "Graves",
+    "target": "River"
+  },
+  {
+    "timestamp": 1118000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "LvMao",
+    "participants": [
+      "Pantheon",
+      "Sylas",
+      "Ashe"
+    ],
+    "victim": "Jhin",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 1129000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zoom",
+    "participants": [
+      "Sett",
+      "Sylas",
+      "Ekko",
+      "Ashe",
+      "Pantheon"
+    ],
+    "victim": "Syndra",
+    "target": "TANK"
+  },
+  {
+    "timestamp": 1131000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "LokeN",
+    "participants": [
+      "Ashe",
+      "Sett",
+      "Ekko",
+      "Pantheon"
+    ],
+    "victim": "Bard",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1132000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "LokeN",
+    "participants": [
+      "Ashe",
+      "Sett",
+      "Sylas",
+      "Ekko",
+      "Pantheon"
+    ],
+    "victim": "Ornn",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 1138000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Kanavi",
+    "participants": [
+      "Sylas"
+    ],
+    "victim": null,
+    "target": "T2 BOT"
+  },
+  {
+    "timestamp": 1150000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "LokeN",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": "T3 BOT"
+  },
+  {
+    "timestamp": 1158000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": "LvMao",
+    "participants": [
+      "Pantheon"
+    ],
+    "victim": null,
+    "target": "INHIB BOT"
+  },
+  {
+    "timestamp": 1185000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1252000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": "LokeN",
+    "participants": [
+      "Ashe"
+    ],
+    "victim": null,
+    "target": null
+  },
+  {
+    "timestamp": 1346000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Kaiwing",
+    "participants": [
+      "Bard",
+      "Ornn",
+      "Jhin"
+    ],
+    "victim": "Pantheon",
+    "target": "LvMao"
+  },
+  {
+    "timestamp": 1363000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Zoom",
+    "participants": [
+      "Sett",
+      "Ekko"
+    ],
+    "victim": "Graves",
+    "target": "River"
+  },
+  {
+    "timestamp": 1364000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "LokeN",
+    "participants": [
+      "Ashe",
+      "Sett",
+      "Sylas",
+      "Ekko"
+    ],
+    "victim": "Jhin",
+    "target": "Unified"
+  },
+  {
+    "timestamp": 1365000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": "Hanabi",
+    "participants": [
+      "Ornn",
+      "Graves",
+      "Syndra",
+      "Jhin",
+      "Bard"
+    ],
+    "victim": "Sett",
+    "target": "Zoom"
+  },
+  {
+    "timestamp": 1366000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "LokeN",
+    "participants": [
+      "Ashe",
+      "Sett",
+      "Sylas"
+    ],
+    "victim": "Bard",
+    "target": "Kaiwing"
+  },
+  {
+    "timestamp": 1369000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "LokeN",
+    "participants": [
+      "Ashe",
+      "Sett",
+      "Sylas",
+      "Ekko"
+    ],
+    "victim": "Ornn",
+    "target": "Hanabi"
+  },
+  {
+    "timestamp": 1374000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": "Yagao",
+    "participants": [
+      "Ekko",
+      "Sett",
+      "Sylas"
+    ],
+    "victim": "Syndra",
+    "target": "TANK"
+  },
+  {
+    "timestamp": 1388000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Yagao",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": "T1 TOP NEXUS"
+  },
+  {
+    "timestamp": 1393000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": "Yagao",
+    "participants": [
+      "Ekko"
+    ],
+    "victim": null,
+    "target": "T2 BOT NEXUS"
+  },
+  {
+    "timestamp": 1407000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": null,
+    "participants": [],
+    "victim": null,
+    "target": null
+  }
+]

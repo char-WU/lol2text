@@ -1,0 +1,986 @@
+[
+  {
+    "timestamp": 356000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Mountain Drake",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Babip",
+        "champion": "Sejuani"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Babip",
+        "champion": "Sejuani"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 426000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Babip",
+        "champion": "Sejuani"
+      }
+    ],
+    "target": [
+      {
+        "player": "Babip",
+        "champion": "Sejuani"
+      }
+    ]
+  },
+  {
+    "timestamp": 436000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "blue",
+    "player": [
+      {
+        "player": "Fudge",
+        "champion": "Camille"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Fudge",
+        "champion": "Camille"
+      },
+      {
+        "player": "Babip",
+        "champion": "Sejuani"
+      },
+      {
+        "player": "Triple",
+        "champion": "Syndra"
+      }
+    ],
+    "victim": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "target": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ]
+  },
+  {
+    "timestamp": 576000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Edward",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Destiny",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Destiny",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 578000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Edward",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Babip",
+        "champion": "Sejuani"
+      }
+    ],
+    "target": [
+      {
+        "player": "Babip",
+        "champion": "Sejuani"
+      }
+    ]
+  },
+  {
+    "timestamp": 579000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "k1ng",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "k1ng",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 586000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Edward",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Triple",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Triple",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 649000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Rift Herald",
+    "team": "blue",
+    "player": [
+      {
+        "player": "k1ng",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "k1ng",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 749000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 781000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 BOT"
+    ]
+  },
+  {
+    "timestamp": 825000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT"
+    ]
+  },
+  {
+    "timestamp": 922000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "k1ng",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "k1ng",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 931000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Edward",
+        "champion": "Thresh"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Edward",
+        "champion": "Thresh"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "k1ng",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "k1ng",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 954000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP"
+    ]
+  },
+  {
+    "timestamp": 977000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Triple",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Triple",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 998000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Destiny",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Destiny",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1015000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1085000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Cloud Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1212000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Edward",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Triple",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Triple",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1242000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Edward",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Destiny",
+        "champion": "Nautilus"
+      }
+    ],
+    "target": [
+      {
+        "player": "Destiny",
+        "champion": "Nautilus"
+      }
+    ]
+  },
+  {
+    "timestamp": 1366000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "blue",
+    "player": [
+      {
+        "player": "k1ng",
+        "champion": "Lucian"
+      }
+    ],
+    "participants": [
+      {
+        "player": "k1ng",
+        "champion": "Lucian"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 MID"
+    ]
+  },
+  {
+    "timestamp": 1398000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Infernal Drake",
+    "team": "red",
+    "player": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1515000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Edward",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Triple",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Triple",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1555000,
+    "type": "ELITE_MONSTER_KILL",
+    "subtype": "Baron Nashor",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      }
+    ],
+    "victim": [],
+    "target": []
+  },
+  {
+    "timestamp": 1657000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      }
+    ],
+    "participants": [
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [
+      {
+        "player": "k1ng",
+        "champion": "Lucian"
+      }
+    ],
+    "target": [
+      {
+        "player": "k1ng",
+        "champion": "Lucian"
+      }
+    ]
+  },
+  {
+    "timestamp": 1662000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      },
+      {
+        "player": "Nomanz",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "Edward",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Fudge",
+        "champion": "Camille"
+      }
+    ],
+    "target": [
+      {
+        "player": "Fudge",
+        "champion": "Camille"
+      }
+    ]
+  },
+  {
+    "timestamp": 1664000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Vladimir"
+      },
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Edward",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Babip",
+        "champion": "Sejuani"
+      }
+    ],
+    "target": [
+      {
+        "player": "Babip",
+        "champion": "Sejuani"
+      }
+    ]
+  },
+  {
+    "timestamp": 1669000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      }
+    ],
+    "participants": [
+      {
+        "player": "BOSS",
+        "champion": "Renekton"
+      },
+      {
+        "player": "AHaHaCiK",
+        "champion": "Nocturne"
+      },
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      },
+      {
+        "player": "Edward",
+        "champion": "Thresh"
+      }
+    ],
+    "victim": [
+      {
+        "player": "Triple",
+        "champion": "Syndra"
+      }
+    ],
+    "target": [
+      {
+        "player": "Triple",
+        "champion": "Syndra"
+      }
+    ]
+  },
+  {
+    "timestamp": 1677000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Nomanz",
+        "champion": "Vladimir"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Nomanz",
+        "champion": "Vladimir"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T3 BOT"
+    ]
+  },
+  {
+    "timestamp": 1680000,
+    "type": "BUILDING_KILL",
+    "subtype": "Inhibitor",
+    "team": "red",
+    "player": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "INHIB BOT"
+    ]
+  },
+  {
+    "timestamp": 1686000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T1 TOP NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1691000,
+    "type": "BUILDING_KILL",
+    "subtype": "Tower",
+    "team": "red",
+    "player": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "participants": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "victim": [],
+    "target": [
+      "T2 BOT NEXUS"
+    ]
+  },
+  {
+    "timestamp": 1698000,
+    "type": "CHAMPION_KILL",
+    "subtype": "Kill",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ],
+    "target": [
+      {
+        "player": "Innaxe",
+        "champion": "Kaisa"
+      }
+    ]
+  },
+  {
+    "timestamp": 1703000,
+    "type": "BUILDING_KILL",
+    "subtype": "Nexus",
+    "team": "red",
+    "player": [],
+    "participants": [],
+    "victim": [],
+    "target": []
+  }
+]
